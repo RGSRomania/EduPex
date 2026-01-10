@@ -1,0 +1,41 @@
+# Don't commit environment files
+.env
+.env.*
+!.env.example
+
+# Don't commit keystore files
+*.keystore
+keystore.properties
+
+# Don't commit API keys or secrets
+config/secrets.json
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build outputs
+dist/
+build/
+*.apk
+*.aab
+
+# Temporary files
+tmp/
+temp/
+
