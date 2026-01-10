@@ -1,9 +1,16 @@
 // Super simple Supabase connection check
 const { createClient } = require('@supabase/supabase-js');
+require('dotenv').config();
 
-// Hardcoded credentials to eliminate any .env file issues
-const supabaseUrl = 'https://szbjppcmhshegyewsveu.supabase.co';
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN6YmpwcGNtaHNoZWd5ZXdzdmV1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NjIwODg4NiwiZXhwIjoyMDcxNzg0ODg2fQ.9DFChq7KL_KhjyNxUkhlBWDXuMiRZkpuvAS-kS3SlH0';
+// Load credentials from environment variables
+const supabaseUrl = process.env.SUPABASE_URL;
+const supabaseKey = process.env.SUPABASE_SERVICE_KEY;
+
+if (!supabaseUrl || !supabaseKey) {
+  console.error('ERROR: SUPABASE_URL and SUPABASE_SERVICE_KEY must be set in .env file');
+  console.error('Please create a .env file in the backend directory with your Supabase credentials');
+  process.exit(1);
+}
 
 console.log('Script started');
 console.log('Will attempt to connect to Supabase at:', supabaseUrl);

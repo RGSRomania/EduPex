@@ -16,7 +16,7 @@ console.log('Dotenv result:', result.error ? `Error: ${result.error.message}` : 
 
 async function checkSupabase() {
   try {
-    // Get Supabase credentials directly
+    // Get Supabase credentials from environment
     let supabaseUrl = process.env.SUPABASE_URL;
     let supabaseKey = process.env.SUPABASE_SERVICE_KEY;
 
@@ -25,10 +25,9 @@ async function checkSupabase() {
     console.log('SUPABASE_SERVICE_KEY:', supabaseKey ? 'Configured' : 'Missing');
 
     if (!supabaseUrl || !supabaseKey) {
-      console.error('Supabase credentials are missing. Using hardcoded values for testing');
-      // Use the values from your .env file directly for testing
-      supabaseUrl = 'https://szbjppcmhshegyewsveu.supabase.co';
-      supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN6YmpwcGNtaHNoZWd5ZXdzdmV1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NjIwODg4NiwiZXhwIjoyMDcxNzg0ODg2fQ.9DFChq7KL_KhjyNxUkhlBWDXuMiRZkpuvAS-kS3SlH0';
+      console.error('ERROR: SUPABASE_URL and SUPABASE_SERVICE_KEY must be set in .env file');
+      console.error('Please create a .env file in the backend directory with your Supabase credentials');
+      process.exit(1);
     }
 
     // Initialize Supabase client

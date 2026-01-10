@@ -4,16 +4,17 @@ require('dotenv').config();
 
 console.log('Starting Supabase check...');
 
-// Use the Supabase URL and key directly from environment or hardcoded value
-const supabaseUrl = process.env.SUPABASE_URL || 'https://szbjppcmhshegyewsveu.supabase.co';
-const supabaseKey = process.env.SUPABASE_SERVICE_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN6YmpwcGNtaHNoZWd5ZXdzdmV1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NjIwODg4NiwiZXhwIjoyMDcxNzg0ODg2fQ.9DFChq7KL_KhjyNxUkhlBWDXuMiRZkpuvAS-kS3SlH0';
+// Use the Supabase URL and key from environment variables only
+const supabaseUrl = process.env.SUPABASE_URL;
+const supabaseKey = process.env.SUPABASE_SERVICE_KEY;
 
 // Log what we're using
 console.log('Using Supabase URL:', supabaseUrl ? 'Found' : 'Missing');
 console.log('Using Supabase Key:', supabaseKey ? 'Found' : 'Missing');
 
 if (!supabaseUrl || !supabaseKey) {
-  console.error('Supabase credentials missing. Cannot continue.');
+  console.error('ERROR: SUPABASE_URL and SUPABASE_SERVICE_KEY must be set in .env file');
+  console.error('Please create a .env file in the backend directory with your Supabase credentials');
   process.exit(1);
 }
 
