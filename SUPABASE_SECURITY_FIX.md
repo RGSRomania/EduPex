@@ -21,12 +21,12 @@ Three utility files had **hardcoded Supabase credentials**:
 
 **Exposed JWT:**
 ```
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN6YmpwcGNtaHNoZWd5ZXdzdmV1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NjIwODg4NiwiZXhwIjoyMDcxNzg0ODg2fQ.9DFChq7KL_KhjyNxUkhlBWDXuMiRZkpuvAS-kS3SlH0
+[REDACTED - Supabase Service Role JWT was exposed here]
 ```
 
 **Supabase Project URL:**
 ```
-https://szbjppcmhshegyewsveu.supabase.co
+[REDACTED - Project URL was exposed here]
 ```
 
 ---
