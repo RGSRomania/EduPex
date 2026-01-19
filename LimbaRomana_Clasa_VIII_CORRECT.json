@@ -1,0 +1,2325 @@
+{
+  "materie": "Limba și literatura română",
+  "clasa": "VIII",
+  "level": 8,
+  "unitati": [
+    {
+      "name": "UNITATEA 1 - Limba și comunicare",
+      "order": 1,
+      "descriere": "Limba și comunicare",
+      "capitole": [
+        {
+          "name": "Limba și comunicare",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Lecția 1",
+              "order": 1,
+              "summary": "Lecția 1",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 1?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Lecția 2",
+              "order": 2,
+              "summary": "Lecția 2",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 2?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Lecția 3",
+              "order": 3,
+              "summary": "Lecția 3",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 3?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Lecția 4",
+              "order": 4,
+              "summary": "Lecția 4",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 4?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Lecția 5",
+              "order": 5,
+              "summary": "Lecția 5",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 5?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Lecția 6",
+              "order": 6,
+              "summary": "Lecția 6",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 6?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Lecția 7",
+              "order": 7,
+              "summary": "Lecția 7",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 7?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Lecția 8",
+              "order": 8,
+              "summary": "Lecția 8",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 8?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Lecția 9",
+              "order": 9,
+              "summary": "Lecția 9",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 9?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L10 - Lecția 10",
+              "order": 10,
+              "summary": "Lecția 10",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 10?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L11 - Lecția 11",
+              "order": 11,
+              "summary": "Lecția 11",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "question": {
+                "text": "Întrebare despre Lecția 11?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 2 - Ortografie și punctuație avansate",
+      "order": 2,
+      "descriere": "Ortografie și punctuație avansate",
+      "capitole": [
+        {
+          "name": "Ortografie și punctuație avansate",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Lecția 1",
+              "order": 1,
+              "summary": "Lecția 1",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 1?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Lecția 2",
+              "order": 2,
+              "summary": "Lecția 2",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 2?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Lecția 3",
+              "order": 3,
+              "summary": "Lecția 3",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 3?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Lecția 4",
+              "order": 4,
+              "summary": "Lecția 4",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 4?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Lecția 5",
+              "order": 5,
+              "summary": "Lecția 5",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 5?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Lecția 6",
+              "order": 6,
+              "summary": "Lecția 6",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 6?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Lecția 7",
+              "order": 7,
+              "summary": "Lecția 7",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 7?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Lecția 8",
+              "order": 8,
+              "summary": "Lecția 8",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 8?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Lecția 9",
+              "order": 9,
+              "summary": "Lecția 9",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 9?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 3 - Morfologie și semantică",
+      "order": 3,
+      "descriere": "Morfologie și semantică",
+      "capitole": [
+        {
+          "name": "Morfologie și semantică",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Lecția 1",
+              "order": 1,
+              "summary": "Lecția 1",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 1?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Lecția 2",
+              "order": 2,
+              "summary": "Lecția 2",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 2?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Lecția 3",
+              "order": 3,
+              "summary": "Lecția 3",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 3?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Lecția 4",
+              "order": 4,
+              "summary": "Lecția 4",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 4?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Lecția 5",
+              "order": 5,
+              "summary": "Lecția 5",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 5?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Lecția 6",
+              "order": 6,
+              "summary": "Lecția 6",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 6?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Lecția 7",
+              "order": 7,
+              "summary": "Lecția 7",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 7?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Lecția 8",
+              "order": 8,
+              "summary": "Lecția 8",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 8?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Lecția 9",
+              "order": 9,
+              "summary": "Lecția 9",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 9?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L10 - Lecția 10",
+              "order": 10,
+              "summary": "Lecția 10",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 10?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 4 - Sintaxă avansată și analiza textului",
+      "order": 4,
+      "descriere": "Sintaxă avansată și analiza textului",
+      "capitole": [
+        {
+          "name": "Sintaxă avansată și analiza textului",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Lecția 1",
+              "order": 1,
+              "summary": "Lecția 1",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 1?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Lecția 2",
+              "order": 2,
+              "summary": "Lecția 2",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 2?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Lecția 3",
+              "order": 3,
+              "summary": "Lecția 3",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 3?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Lecția 4",
+              "order": 4,
+              "summary": "Lecția 4",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 4?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Lecția 5",
+              "order": 5,
+              "summary": "Lecția 5",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 5?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Lecția 6",
+              "order": 6,
+              "summary": "Lecția 6",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 6?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Lecția 7",
+              "order": 7,
+              "summary": "Lecția 7",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 7?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Lecția 8",
+              "order": 8,
+              "summary": "Lecția 8",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 8?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Lecția 9",
+              "order": 9,
+              "summary": "Lecția 9",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 9?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L10 - Lecția 10",
+              "order": 10,
+              "summary": "Lecția 10",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 10?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L11 - Lecția 11",
+              "order": 11,
+              "summary": "Lecția 11",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "question": {
+                "text": "Întrebare despre Lecția 11?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L12 - Lecția 12",
+              "order": 12,
+              "summary": "Lecția 12",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "question": {
+                "text": "Întrebare despre Lecția 12?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 5 - Genuri textuale și retorica",
+      "order": 5,
+      "descriere": "Genuri textuale și retorica",
+      "capitole": [
+        {
+          "name": "Genuri textuale și retorica",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Lecția 1",
+              "order": 1,
+              "summary": "Lecția 1",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 1?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Lecția 2",
+              "order": 2,
+              "summary": "Lecția 2",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 2?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Lecția 3",
+              "order": 3,
+              "summary": "Lecția 3",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 3?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Lecția 4",
+              "order": 4,
+              "summary": "Lecția 4",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 4?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Lecția 5",
+              "order": 5,
+              "summary": "Lecția 5",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 5?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Lecția 6",
+              "order": 6,
+              "summary": "Lecția 6",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 6?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Lecția 7",
+              "order": 7,
+              "summary": "Lecția 7",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 7?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Lecția 8",
+              "order": 8,
+              "summary": "Lecția 8",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 8?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Lecția 9",
+              "order": 9,
+              "summary": "Lecția 9",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 9?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L10 - Lecția 10",
+              "order": 10,
+              "summary": "Lecția 10",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 10?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 6 - Literatura universală și națională",
+      "order": 6,
+      "descriere": "Literatura universală și națională",
+      "capitole": [
+        {
+          "name": "Literatura universală și națională",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Lecția 1",
+              "order": 1,
+              "summary": "Lecția 1",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 1?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Lecția 2",
+              "order": 2,
+              "summary": "Lecția 2",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 2?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Lecția 3",
+              "order": 3,
+              "summary": "Lecția 3",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 3?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Lecția 4",
+              "order": 4,
+              "summary": "Lecția 4",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 4?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Lecția 5",
+              "order": 5,
+              "summary": "Lecția 5",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lecția 5?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Lecția 6",
+              "order": 6,
+              "summary": "Lecția 6",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 6?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Lecția 7",
+              "order": 7,
+              "summary": "Lecția 7",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 7?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Lecția 8",
+              "order": 8,
+              "summary": "Lecția 8",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 8?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Lecția 9",
+              "order": 9,
+              "summary": "Lecția 9",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 9?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L10 - Lecția 10",
+              "order": 10,
+              "summary": "Lecția 10",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Lecția 10?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L11 - Lecția 11",
+              "order": 11,
+              "summary": "Lecția 11",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "question": {
+                "text": "Întrebare despre Lecția 11?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L12 - Lecția 12",
+              "order": 12,
+              "summary": "Lecția 12",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "question": {
+                "text": "Întrebare despre Lecția 12?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

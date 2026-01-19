@@ -1,0 +1,165 @@
+{
+  "materie": "Limba și literatura română",
+  "clasa": "V",
+  "level": 5,
+  "unitati": [
+    {
+      "name": "Limba și literatura română - Clasa V",
+      "order": 1,
+      "description": "Curriculum complet pentru limba și literatura română",
+      "capitole": [
+        {
+          "name": "Limba și literatura română",
+          "order": 1,
+          "description": "13 lecții cu conținut complet",
+          "lectii": [
+            {
+              "title": "L1 - Recapitulare - Fonetică și sensul cuvintelor",
+              "order": 1,
+              "summary": "Recapitulare a cunoștințelor din clasa a IV-a privind sunetele și sensurile cuvintelor",
+              "theory": "Sunetele limbii române și valorile acestora. Sensurile principale și secundare ale cuvintelor. Relații semantice între cuvinte.",
+              "examples": ["Cuvântul 'bancă' are mai multe sensuri", "Sonorii și sonore în limba română"],
+              "tips": ["Ascultă cu atenție pronunția", "Reține principalul sens al unui cuvânt"],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L2 - Morfologie - Familie de cuvinte",
+              "order": 2,
+              "summary": "Procesul de derivare și formare a cuvintelor. Familie de cuvinte cu aceeași rădăcină.",
+              "theory": "Familia de cuvinte este formată din cuvinte cu aceeași rădăcină. Derivarea adaugă sufixe. Compunerea unește două rădăcini.",
+              "examples": ["cărți, carte, cărtuţă - sunt din familia lui 'carte'", "apa, apă, apă-apă"],
+              "tips": ["Caută rădăcina cuvântului", "Vezi cum se adaugă sufixe"],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L3 - Morfologie - Categorii de cuvinte",
+              "order": 3,
+              "summary": "Clasificarea cuvintelor în cuvinte variabile și invariabile. Părți de vorbire.",
+              "theory": "Cuvintele variabile: nume, adjectiv, pronume, verb, articol. Cuvinte invariabile: adverb, prepoziție, conjuncție, interjecție.",
+              "examples": ["Variabile: cărți, frumos, el, cântă", "Invariabile: azi, în, și, uite!"],
+              "tips": ["Pune întrebări pentru a identifica partea de vorbire", "Variabilele se schimbă, invariabilele nu"],
+              "estimatedTime": 12,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L4 - Sintaxă - Propoziția. Membri principali și secundari",
+              "order": 4,
+              "summary": "Structura propoziției. Subiectul și predicatul. Complemente și atribute.",
+              "theory": "Propoziția este formată din subiect și predicat. Subiectul spune cine face ceva. Predicatul spune ce face. Membrii secundari adaugă detalii.",
+              "examples": ["Maria citește cartea. Subiect: Maria, Predicat: citește", "Cărți frumoase"],
+              "tips": ["Caută predicatul pentru a identifica subiectul", "Membrii secundari răspund la întrebări 'cum?', 'care?', 'unde?'"],
+              "estimatedTime": 12,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L5 - Ortografie - Reguli de scriere a numerelor",
+              "order": 5,
+              "summary": "Modul corect de scriere a numerelor cu litere și cifre.",
+              "theory": "Numerele cardinale (unu, doi). Numerele ordinale (întâi, al doilea). Scriere cu litere sau cifre.",
+              "examples": ["5 sau cinci. 25 sau douăzeci și cinci.", "Al 3-lea sau al treilea"],
+              "tips": ["Numerele până la 19 se scriu într-o cuvântă", "Numerele 20, 30, 40... se scriu separat"],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L6 - Punctuație - Semnele de punctuație",
+              "order": 6,
+              "summary": "Utilizarea corectă a semnelor de punctuație în scrierea textelor.",
+              "theory": "Punctul (.) încheie o propoziție. Virgula (,) separă elementele. Punctul și virgula (;) desparte parti. Semnul întrebării (?). Semnul exclamării (!).",
+              "examples": ["Maria pleacă. Ion rămâne.", "Citesc cărți, ziare și reviste."],
+              "tips": ["Punctul încheie", "Virgula separă", "Semnele se pun fără spațiu înainte"],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L7 - Textul - Tipuri de texte",
+              "order": 7,
+              "summary": "Clasificarea textelor. Text narativ, descriptiv, dialogat, expozitiv, argumentativ.",
+              "theory": "Text narativ: relatează o poveste. Descriptiv: descrie. Dialogat: doi personaje vorbesc. Expozitiv: expune informații. Argumentativ: convinge.",
+              "examples": ["Poveste = text narativ", "Portretul unui personaj = text descriptiv"],
+              "tips": ["Identifică scopul autorului", "Vezi structura textului"],
+              "estimatedTime": 12,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L8 - Literatura - Genuri literare",
+              "order": 8,
+              "summary": "Clasificarea operelor literare. Proză, poezie, dramă.",
+              "theory": "Proză: roman, nuvelă, povestire. Poezie: versuri, strofe, rime. Dramă: teatru, acțiune și dialog.",
+              "examples": ["'O viață' de Cărtărescu = roman", "'Floare albastră' de Eminescu = poezie"],
+              "tips": ["Poezia are versuri", "Proza are paragrafe", "Dramelesunt destinate scenei"],
+              "estimatedTime": 12,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L9 - Literatura - Elemente de analiză literară",
+              "order": 9,
+              "summary": "Cum analizezi o operă literară. Personaje, acțiune, spațiu, timp.",
+              "theory": "Personajele sunt eroii unei opere. Acțiunea este ce se întâmplă. Spațiul este locul. Timpul este perioada.",
+              "examples": ["Don Quijote este personaj. Morile sunt spațiu."],
+              "tips": ["Caută persoane, place, fapte și perioadă", "Urmărește cum se schimbă personajele"],
+              "estimatedTime": 12,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L10 - Lectura - Strategii de citire și înțelegere",
+              "order": 10,
+              "summary": "Cum să citești cu atenție și să înțelegi mai bine ce citești.",
+              "theory": "Citeste titlul și previsualizează. Citește pe secțiuni. Pun întrebări. Rezumă ce ai citit.",
+              "examples": ["Înainte de a citi o carte, uită-te la coperta", "După fiecare capitol, rezumă în proprii cuvinte"],
+              "tips": ["Nu sări liniile", "Reia dacă nu înțelegi", "Fă note în margine"],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L11 - Exprimare orală - Comunicare verbală",
+              "order": 11,
+              "summary": "Cum să vorbești clar și efectiv în diferite situații.",
+              "theory": "Vorbire clara: pronunție bună, ritm potrivit. Asculta pe ceilalți. Exprimă idei logice și coerente.",
+              "examples": ["Prezentarea unei lecții", "Dialogul în viața cotidiană"],
+              "tips": ["Vorbește clar și nu repede", "Privește în ochii oamenilor", "Fieste respectuos"],
+              "estimatedTime": 12,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L12 - Exprimare scrisă - Redactare de texte",
+              "order": 12,
+              "summary": "Cum să scrii texte clare, corecte și expresive.",
+              "theory": "Plan: introduction, development, conclusion. Corectez greșeli. Rescriu pentru claritate.",
+              "examples": ["Scrisoare, compoziție, eseu", "Fiecare tip are o structură"],
+              "tips": ["Fă plan înainte", "Scrie o primă versiune", "Corectează și îmbunătățește"],
+              "estimatedTime": 12,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L13 - Comunicare - Ascultare activă și feedb",
+              "order": 13,
+              "summary": "Cum să asculți cu atenție și să oferi feedback constructiv.",
+              "theory": "Ascultare activă înseamnă concentrare și înțelegere. Feedback constructiv ajută pe ceilalți să se îmbunătățească.",
+              "examples": ["Ascultă fără a întrerupe", "Oferă feedback pozitiv și util"],
+              "tips": ["Concentrează-te pe vorbitor", "Pune întrebări de clarificare", "Fieste constructiv"],
+              "estimatedTime": 12,
+              "difficulty": "medium",
+              "questions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

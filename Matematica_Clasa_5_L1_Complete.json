@@ -1,0 +1,425 @@
+{
+  "materie": "Matematica",
+  "clasa": "V",
+  "level": 5,
+  "unitati": [
+    {
+      "name": "Operații cu numere naturale",
+      "order": 1,
+      "description": "Capitol 1: Operații cu numere naturale",
+      "capitole": [
+        {
+          "name": "Operații cu numere naturale",
+          "order": 1,
+          "description": "13 lecții cu exerciții și metode de calcul pentru operații cu numere naturale",
+          "lectii": [
+            {
+              "title": "L1 - Scrierea și citirea numerelor naturale",
+              "order": 1,
+              "summary": "Învață cum să scrii și să citești numerele naturale de orice mărime, inclusiv cu zeci de mii și milioane.",
+              "theory": "Numerele naturale sunt: 0, 1, 2, 3, 4, 5... Fiecare cifră are o poziție și o valoare. Cifrele sunt: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Cu aceste 10 cifre putem forma orice număr natural. Clasele numerelor: unități, mii, milioane, miliarde.",
+              "examples": [
+                "Numărul 1234 se citește: o mie două sute treizeci și patru",
+                "Numărul 5000 se citește: cinci mii",
+                "Numărul 843027 se citește: opt sute patruzeci și trei de mii, douăzeci și șapte"
+              ],
+              "tips": [
+                "Grupează cifrele în grupe de trei de la dreapta la stânga",
+                "Citește fiecare grup de la stânga la dreapta",
+                "Fii atent la poziția cifrelor: unități, zeci, sute, mii, zeci de mii, sute de mii, milioane"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Cum se scrie cu litere numerele naturale: 843 027?",
+                  "options": [
+                    {
+                      "text": "opt sute patruzeci și trei de mii, douăzeci și șapte",
+                      "isCorrect": true,
+                      "explanation": "Corect! Numărul 843 027 se scrie: 843 (opt sute patruzeci și trei) de mii și 027 (douăzeci și șapte) unități."
+                    },
+                    {
+                      "text": "opt sute patruzeci și trei, douăzeci și șapte",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai uitat să specifici 'de mii'. Trebuie: opt sute patruzeci și trei de mii, douăzeci și șapte."
+                    },
+                    {
+                      "text": "opt mii patru sute douăzeci și șapte",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai citit incorect cifrele. 843 027 nu este 8427, ci 843 027."
+                    },
+                    {
+                      "text": "opt sute patruzeci și trei sute mii, douăzeci și șapte",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai repetat 'sute' și 'mii'. Forma corectă este: opt sute patruzeci și trei de mii."
+                    }
+                  ],
+                  "difficulty": "easy",
+                  "order": 1
+                },
+                {
+                  "question": "Cum se scrie cu litere numerele naturale: 500 002?",
+                  "options": [
+                    {
+                      "text": "cinci sute de mii, doi",
+                      "isCorrect": true,
+                      "explanation": "Corect! 500 002 = 500 (cinci sute) de mii și 2 (doi) unități."
+                    },
+                    {
+                      "text": "cinci sute, doi",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai omis 'mii'. Trebuie: cinci sute de mii, doi."
+                    },
+                    {
+                      "text": "cinci mii, doi",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 500 002 este cinci sute de mii (500 mii), nu cinci mii."
+                    },
+                    {
+                      "text": "cinci milioane, doi",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 500 002 are doar 6 cifre, deci este în clasa miilor, nu milioanelor."
+                    }
+                  ],
+                  "difficulty": "easy",
+                  "order": 2
+                },
+                {
+                  "question": "Cum se scrie cu litere numerele naturale: 5 017?",
+                  "options": [
+                    {
+                      "text": "cinci mii, șaptesprezece",
+                      "isCorrect": true,
+                      "explanation": "Corect! 5 017 = 5 (cinci) mii și 17 (șaptesprezece) unități."
+                    },
+                    {
+                      "text": "cinci de mii, șaptesprezece",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Se spune 'cinci mii', nu 'cinci de mii'."
+                    },
+                    {
+                      "text": "cinci mii, șapte",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai citit doar 5 007, nu 5 017. Trebuie șaptesprezece (17), nu șapte (7)."
+                    },
+                    {
+                      "text": "cinci sute, șaptesprezece",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 5 017 nu este 517. Este cinci mii (5000), nu cinci sute (500)."
+                    }
+                  ],
+                  "difficulty": "easy",
+                  "order": 3
+                },
+                {
+                  "question": "Cum se scrie cu litere numerele naturale: 11 111?",
+                  "options": [
+                    {
+                      "text": "unsprezece mii, o sută unsprezece",
+                      "isCorrect": true,
+                      "explanation": "Corect! 11 111 = 11 (unsprezece) mii și 111 (o sută unsprezece) unități."
+                    },
+                    {
+                      "text": "unu unu unu unu unu",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Nu citești cifră cu cifră. Trebuie să grupezi: unsprezece mii, o sută unsprezece."
+                    },
+                    {
+                      "text": "unsprezece sute, unsprezece",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 11 111 este unsprezece mii, nu unsprezece sute."
+                    },
+                    {
+                      "text": "o sută unu mii, o sută unu",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Se spune 'unsprezece mii', nu 'o sută unu mii'."
+                    }
+                  ],
+                  "difficulty": "medium",
+                  "order": 4
+                },
+                {
+                  "question": "Cum se scrie cu litere numerele naturale: 21 005?",
+                  "options": [
+                    {
+                      "text": "douăzeci și unu de mii, cinci",
+                      "isCorrect": true,
+                      "explanation": "Corect! 21 005 = 21 (douăzeci și unu) de mii și 5 (cinci) unități."
+                    },
+                    {
+                      "text": "douăzeci și unu mii, cinci",
+                      "isCorrect": false,
+                      "explanation": "Aproape corect! Se spune 'douăzeci și unu de mii', nu 'douăzeci și unu mii'."
+                    },
+                    {
+                      "text": "douăzeci și unu sute, cinci",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 21 005 este douăzeci și unu de mii, nu douăzeci și unu sute."
+                    },
+                    {
+                      "text": "două unu mii, cinci",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Se spune 'douăzeci și unu', nu 'două unu'. Și 'de mii', nu doar 'mii'."
+                    }
+                  ],
+                  "difficulty": "medium",
+                  "order": 5
+                },
+                {
+                  "question": "Cum se scrie cu litere numerele naturale: 403 067?",
+                  "options": [
+                    {
+                      "text": "patru sute trei de mii, șaizeci și șapte",
+                      "isCorrect": true,
+                      "explanation": "Corect! 403 067 = 403 (patru sute trei) de mii și 67 (șaizeci și șapte) unități."
+                    },
+                    {
+                      "text": "patru sute trei, șaizeci și șapte",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai omis 'de mii'. Trebuie: patru sute trei de mii, șaizeci și șapte."
+                    },
+                    {
+                      "text": "patru trei mii, șaizeci și șapte",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Se spune 'patru sute trei', nu 'patru trei'. Și trebuie 'de mii'."
+                    },
+                    {
+                      "text": "patruzeci și trei de mii, șaizeci și șapte",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ești confuz între 'patru sute' (400) și 'patruzeci' (40). 403 = patru sute trei."
+                    }
+                  ],
+                  "difficulty": "medium",
+                  "order": 6
+                },
+                {
+                  "question": "Cum se scrie cu litere numerele naturale: 120 004?",
+                  "options": [
+                    {
+                      "text": "o sută douăzeci de mii, patru",
+                      "isCorrect": true,
+                      "explanation": "Corect! 120 004 = 120 (o sută douăzeci) de mii și 4 (patru) unități."
+                    },
+                    {
+                      "text": "o sută douăzeci mii, patru",
+                      "isCorrect": false,
+                      "explanation": "Aproape! Se spune 'o sută douăzeci de mii', nu 'o sută douăzeci mii'."
+                    },
+                    {
+                      "text": "unu doi mii, patru",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Nu citești cifră cu cifră. 120 = o sută douăzeci, nu unu doi."
+                    },
+                    {
+                      "text": "o mie douăzeci, patru",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 120 004 nu este 1020. Este 120 de mii (o sută douăzeci de mii)."
+                    }
+                  ],
+                  "difficulty": "medium",
+                  "order": 7
+                },
+                {
+                  "question": "Cum se scrie cu litere numerele naturale: 20 305 023?",
+                  "options": [
+                    {
+                      "text": "douăzeci de milioane, trei sute cinci mii, douăzeci și trei",
+                      "isCorrect": true,
+                      "explanation": "Corect! 20 305 023 = 20 (douăzeci) milioane, 305 (trei sute cinci) mii, și 23 (douăzeci și trei) unități."
+                    },
+                    {
+                      "text": "douăzeci milioane, trei sute cinci mii, douăzeci și trei",
+                      "isCorrect": false,
+                      "explanation": "Aproape! Se spune 'douăzeci de milioane', nu 'douăzeci milioane'."
+                    },
+                    {
+                      "text": "două milioane, trei sute cinci mii, douăzeci și trei",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 20 milioane nu sunt 2 milioane. 20 = douăzeci, nu două."
+                    },
+                    {
+                      "text": "douăzeci de milioane, trei sute cinci, douăzeci și trei",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai citit 305 ca 'trei sute cinci', corect, dar lipsește 'mii'. Trebuie: trei sute cinci mii."
+                    }
+                  ],
+                  "difficulty": "hard",
+                  "order": 8
+                },
+                {
+                  "question": "În tabelul cu Numărul natural (1 234 567), care este ordinul cifrei 3?",
+                  "options": [
+                    {
+                      "text": "zeci",
+                      "isCorrect": true,
+                      "explanation": "Corect! În 1 234 567, cifra 3 este pe poziția zecilor (ordinul 3 din dreapta)."
+                    },
+                    {
+                      "text": "sute",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Cifra sutelor este 5. Cifra 3 este pe poziția zecilor."
+                    },
+                    {
+                      "text": "mii",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Cifra miilor este 4. Cifra 3 este pe poziția zecilor."
+                    },
+                    {
+                      "text": "unități",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Cifra unităților este 7. Cifra 3 este pe poziția zecilor."
+                    }
+                  ],
+                  "difficulty": "easy",
+                  "order": 9
+                },
+                {
+                  "question": "În numărul 54 678, cifra 7 are ordinul ..., iar clasa ...",
+                  "options": [
+                    {
+                      "text": "zeci, mii",
+                      "isCorrect": true,
+                      "explanation": "Corect! În 54 678: cifra 7 este pe poziția zecilor (ordinul zeci) și aparține clasei miilor (54 mii și 678 unități)."
+                    },
+                    {
+                      "text": "sute, mii",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Cifra 6 are ordinul sute, nu 7. Cifra 7 are ordinul zeci."
+                    },
+                    {
+                      "text": "zeci, unități",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Clasa este mii, nu unități. Cifra 7 aparține clasei miilor."
+                    },
+                    {
+                      "text": "unități, mii",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Cifra 8 are ordinul unități, nu 7. Cifra 7 are ordinul zeci."
+                    }
+                  ],
+                  "difficulty": "medium",
+                  "order": 10
+                },
+                {
+                  "question": "Scrie cu cifre, într-un tabel după modelul dat, numerele naturale: douăzeci și șapte",
+                  "options": [
+                    {
+                      "text": "27",
+                      "isCorrect": true,
+                      "explanation": "Corect! Douăzeci și șapte = 20 + 7 = 27"
+                    },
+                    {
+                      "text": "72",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai inversat ordinea. 72 ar fi șaptezeci și doi, nu douăzeci și șapte."
+                    },
+                    {
+                      "text": "207",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Douăzeci și șapte nu are sute. Este doar 27, nu 207."
+                    },
+                    {
+                      "text": "217",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Nu ai mai adăuga cifre. Douăzeci și șapte este strict 27."
+                    }
+                  ],
+                  "difficulty": "easy",
+                  "order": 11
+                },
+                {
+                  "question": "Scrie cu cifre, trei sute cincizeci și opt",
+                  "options": [
+                    {
+                      "text": "358",
+                      "isCorrect": true,
+                      "explanation": "Corect! Trei sute cincizeci și opt = 300 + 50 + 8 = 358"
+                    },
+                    {
+                      "text": "385",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 385 ar fi trei sute optzeci și cinci, nu trei sute cincizeci și opt."
+                    },
+                    {
+                      "text": "538",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai pus 5 pe locul sutelor. Trei sute = 300, deci 358."
+                    },
+                    {
+                      "text": "3508",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Trei sute cincizeci și opt are doar 3 cifre, nu 4. Este 358, nu 3508."
+                    }
+                  ],
+                  "difficulty": "easy",
+                  "order": 12
+                },
+                {
+                  "question": "Scrie cu cifre, cinci mii opt sute doi",
+                  "options": [
+                    {
+                      "text": "5 802",
+                      "isCorrect": true,
+                      "explanation": "Corect! Cinci mii opt sute doi = 5000 + 800 + 2 = 5 802"
+                    },
+                    {
+                      "text": "5 802",
+                      "isCorrect": true,
+                      "explanation": "Corect! Cinci mii opt sute doi = 5000 + 800 + 2 = 5 802"
+                    },
+                    {
+                      "text": "5 282",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Ai confundat: 5 282 ar fi cinci mii două sute optzeci și doi, nu cinci mii opt sute doi."
+                    },
+                    {
+                      "text": "5 820",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 5 820 este cinci mii opt sute douăzeci. Trebuie 5 802 pentru cinci mii opt sute doi."
+                    },
+                    {
+                      "text": "58 002",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Nu ai adăuga 0. Cinci mii opt sute doi este 5 802, nu 58 002."
+                    }
+                  ],
+                  "difficulty": "medium",
+                  "order": 13
+                },
+                {
+                  "question": "Scrie cu cifre, opt mii treizeci și cinci",
+                  "options": [
+                    {
+                      "text": "8 035",
+                      "isCorrect": true,
+                      "explanation": "Corect! Opt mii treizeci și cinci = 8000 + 30 + 5 = 8 035"
+                    },
+                    {
+                      "text": "8 305",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 8 305 este opt mii trei sute cinci, nu opt mii treizeci și cinci."
+                    },
+                    {
+                      "text": "8 350",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 8 350 este opt mii trei sute cincizeci. Trebuie 8 035."
+                    },
+                    {
+                      "text": "8 353",
+                      "isCorrect": false,
+                      "explanation": "Greșit. 8 353 are 3 în locul sutelor. Corect este 8 035."
+                    }
+                  ],
+                  "difficulty": "medium",
+                  "order": 14
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

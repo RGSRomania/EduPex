@@ -1,0 +1,1870 @@
+{
+  "materie": "Matematica",
+  "clasa": "V",
+  "level": 5,
+  "unitati": [
+    {
+      "name": "UNITATEA 1 - Operații cu numere naturale",
+      "order": 1,
+      "descriere": "Operații cu numere naturale",
+      "capitole": [
+        {
+          "name": "Operații cu numere naturale",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Scrieria și citirea numerelor naturale",
+              "order": 1,
+              "summary": "Scrieria și citirea numerelor naturale",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Scrieria și citirea numerelor naturale?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Reprezentarea pe axa numerelor. Compararea și ordonarea numerelor naturale; aproximări, estimări",
+              "order": 2,
+              "summary": "Reprezentarea pe axa numerelor. Compararea și ordonarea numerelor naturale; apro",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Reprezentarea pe axa numerelor. Compararea și ordonarea numerelor naturale; aproximări, estimări?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Adunarea numerelor naturale, proprietăți",
+              "order": 3,
+              "summary": "Adunarea numerelor naturale, proprietăți",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Adunarea numerelor naturale, proprietăți?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Scăderea numerelor naturale",
+              "order": 4,
+              "summary": "Scăderea numerelor naturale",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Scăderea numerelor naturale?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Înmulțirea numerelor naturale, proprietăți",
+              "order": 5,
+              "summary": "Înmulțirea numerelor naturale, proprietăți",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Înmulțirea numerelor naturale, proprietăți?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Factor comun",
+              "order": 6,
+              "summary": "Factor comun",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Factor comun?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Împărțirea cu rest 0 a numerelor naturale",
+              "order": 7,
+              "summary": "Împărțirea cu rest 0 a numerelor naturale",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Împărțirea cu rest 0 a numerelor naturale?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Împărțirea cu rest a numerelor naturale",
+              "order": 8,
+              "summary": "Împărțirea cu rest a numerelor naturale",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Împărțirea cu rest a numerelor naturale?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Puterea cu exponent natural a unui număr natural. Pătratul unui număr natural",
+              "order": 9,
+              "summary": "Puterea cu exponent natural a unui număr natural. Pătratul unui număr natural",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Puterea cu exponent natural a unui număr natural. Pătratul unui număr natural?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L10 - Reguli de calcul cu puteri",
+              "order": 10,
+              "summary": "Reguli de calcul cu puteri",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Reguli de calcul cu puteri?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L11 - Compararea puterilor",
+              "order": 11,
+              "summary": "Compararea puterilor",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "question": {
+                "text": "Întrebare despre Compararea puterilor?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L12 - Scrierea în baza 10. Scrierea în baza 2",
+              "order": 12,
+              "summary": "Scrierea în baza 10. Scrierea în baza 2",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "question": {
+                "text": "Întrebare despre Scrierea în baza 10. Scrierea în baza 2?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L13 - Ordinea efectuării operațiilor; utilizarea parantezelor: rotunde, pătrate și acolade",
+              "order": 13,
+              "summary": "Ordinea efectuării operațiilor; utilizarea parantezelor: rotunde, pătrate și aco",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "question": {
+                "text": "Întrebare despre Ordinea efectuării operațiilor; utilizarea parantezelor: rotunde, pătrate și acolade?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 2 - Metode aritmetice de rezolvare a problemelor",
+      "order": 2,
+      "descriere": "Metode aritmetice de rezolvare a problemelor",
+      "capitole": [
+        {
+          "name": "Metode aritmetice de rezolvare a problemelor",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Metoda reducerii la unitate",
+              "order": 1,
+              "summary": "Metoda reducerii la unitate",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Metoda reducerii la unitate?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Metoda comparației",
+              "order": 2,
+              "summary": "Metoda comparației",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Metoda comparației?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Metoda figurativă",
+              "order": 3,
+              "summary": "Metoda figurativă",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Metoda figurativă?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Metoda mersului invers",
+              "order": 4,
+              "summary": "Metoda mersului invers",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Metoda mersului invers?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Metoda falsei ipoteze",
+              "order": 5,
+              "summary": "Metoda falsei ipoteze",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Metoda falsei ipoteze?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 3 - Divizibilitatea numerelor naturale",
+      "order": 3,
+      "descriere": "Divizibilitatea numerelor naturale",
+      "capitole": [
+        {
+          "name": "Divizibilitatea numerelor naturale",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Divizibilitatea numerelor naturale",
+              "order": 1,
+              "summary": "Divizibilitatea numerelor naturale",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Divizibilitatea numerelor naturale?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Criterii de divizibilitate",
+              "order": 2,
+              "summary": "Criterii de divizibilitate",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Criterii de divizibilitate?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Numere prime. Numere compuse",
+              "order": 3,
+              "summary": "Numere prime. Numere compuse",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Numere prime. Numere compuse?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 4 - Fracții ordinare",
+      "order": 4,
+      "descriere": "Fracții ordinare",
+      "capitole": [
+        {
+          "name": "Fracții ordinare",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Fracții ordinare. Fracții echivalente. Procente",
+              "order": 1,
+              "summary": "Fracții ordinare. Fracții echivalente. Procente",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Fracții ordinare. Fracții echivalente. Procente?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Compararea fracțiilor cu același numitor/numărător. Reprezentarea fracțiilor ordinare pe axa numerelor",
+              "order": 2,
+              "summary": "Compararea fracțiilor cu același numitor/numărător. Reprezentarea fracțiilor ord",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Compararea fracțiilor cu același numitor/numărător. Reprezentarea fracțiilor ordinare pe axa numerelor?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Introducerea și scoaterea întregilor dintr-o fracție",
+              "order": 3,
+              "summary": "Introducerea și scoaterea întregilor dintr-o fracție",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Introducerea și scoaterea întregilor dintr?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Cel mai mare divizor comun a două numere naturale. Amplificarea și simplificarea fracțiilor. Fracții ireductibile",
+              "order": 4,
+              "summary": "Cel mai mare divizor comun a două numere naturale. Amplificarea și simplificarea",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Cel mai mare divizor comun a două numere naturale. Amplificarea și simplificarea fracțiilor. Fracții ireductibile?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Cel mai mic multiplu comun a două numere naturale. Aducerea fracțiilor la un numitor comun",
+              "order": 5,
+              "summary": "Cel mai mic multiplu comun a două numere naturale. Aducerea fracțiilor la un num",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Cel mai mic multiplu comun a două numere naturale. Aducerea fracțiilor la un numitor comun?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Adunarea și scăderea fracțiilor",
+              "order": 6,
+              "summary": "Adunarea și scăderea fracțiilor",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Adunarea și scăderea fracțiilor?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Înmulțirea fracțiilor",
+              "order": 7,
+              "summary": "Înmulțirea fracțiilor",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Înmulțirea fracțiilor?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Împărțirea fracțiilor ordinare",
+              "order": 8,
+              "summary": "Împărțirea fracțiilor ordinare",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Împărțirea fracțiilor ordinare?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Puterea cu exponent natural a unei fracții ordinare",
+              "order": 9,
+              "summary": "Puterea cu exponent natural a unei fracții ordinare",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Puterea cu exponent natural a unei fracții ordinare?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L10 - Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară",
+              "order": 10,
+              "summary": "Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Fracții/procente dintr?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 5 - Fracții zecimale",
+      "order": 5,
+      "descriere": "Fracții zecimale",
+      "capitole": [
+        {
+          "name": "Fracții zecimale",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Fracții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub formă de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale nenule în fracție ordinară",
+              "order": 1,
+              "summary": "Fracții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Fracții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub formă de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale nenule în fracție ordinară?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Aproximări; compararea, ordonarea și reprezentarea pe axa numerelor a unor fracții zecimale cu un număr finit de zecimale",
+              "order": 2,
+              "summary": "Aproximări; compararea, ordonarea și reprezentarea pe axa numerelor a unor fracț",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Aproximări; compararea, ordonarea și reprezentarea pe axa numerelor a unor fracții zecimale cu un număr finit de zecimale?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Adunarea și scăderea fracțiilor zecimale cu un număr finit de zecimale nenule",
+              "order": 3,
+              "summary": "Adunarea și scăderea fracțiilor zecimale cu un număr finit de zecimale nenule",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Adunarea și scăderea fracțiilor zecimale cu un număr finit de zecimale nenule?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule",
+              "order": 4,
+              "summary": "Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Împărțirea a două numere naturale cu rezultat fracție zecimală; aplicație: media aritmetică a două sau mai multe numere naturale; transformarea unei fracții ordinare într-o fracție zecimală; periodicitate",
+              "order": 5,
+              "summary": "Împărțirea a două numere naturale cu rezultat fracție zecimală; aplicație: media",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Împărțirea a două numere naturale cu rezultat fracție zecimală; aplicație: media aritmetică a două sau mai multe numere naturale; transformarea unei fracții ordinare într?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul; împărțirea a două fracții zecimale cu un număr finit de zecimale nenule. Transformarea unei fracții zecimale periodice în fracție ordinară",
+              "order": 6,
+              "summary": "Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un numă",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul; împărțirea a două fracții zecimale cu un număr finit de zecimale nenule. Transformarea unei fracții zecimale periodice în fracție ordinară?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Număr rațional pozitiv; ordinea efectuării operațiilor cu numere raționale pozitive",
+              "order": 7,
+              "summary": "Număr rațional pozitiv; ordinea efectuării operațiilor cu numere raționale pozit",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Număr rațional pozitiv; ordinea efectuării operațiilor cu numere raționale pozitive?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Metode aritmetice pentru rezolvarea problemelor cu fracții în care intervin și unități de măsură pentru lungime, arie, volum, capacitate, masă, timp și unități monetare",
+              "order": 8,
+              "summary": "Metode aritmetice pentru rezolvarea problemelor cu fracții în care intervin și u",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Metode aritmetice pentru rezolvarea problemelor cu fracții în care intervin și unități de măsură pentru lungime, arie, volum, capacitate, masă, timp și unități monetare?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Probleme de organizare a datelor. Frecvență. Grafice cu bare. Grafice cu linii. Media unui set de date statistice",
+              "order": 9,
+              "summary": "Probleme de organizare a datelor. Frecvență. Grafice cu bare. Grafice cu linii. ",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Probleme de organizare a datelor. Frecvență. Grafice cu bare. Grafice cu linii. Media unui set de date statistice?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 6 - Elemente de geometrie și unități de măsură",
+      "order": 6,
+      "descriere": "Elemente de geometrie și unități de măsură",
+      "capitole": [
+        {
+          "name": "Elemente de geometrie și unități de măsură",
+          "order": 1,
+          "lectii": [
+            {
+              "title": "L1 - Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
+              "order": 1,
+              "summary": "Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L2 - Pozițiile relative ale unui punct față de o dreaptă. Puncte coliniare. Pozițiile relative a două drepte: drepte identice, drepte concurente, drepte paralele",
+              "order": 2,
+              "summary": "Pozițiile relative ale unui punct față de o dreaptă. Puncte coliniare. Pozițiile",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Pozițiile relative ale unui punct față de o dreaptă. Puncte coliniare. Pozițiile relative a două drepte: drepte identice, drepte concurente, drepte paralele?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L3 - Lungimea unui segment. Distanța dintre două puncte. Segmente congruente",
+              "order": 3,
+              "summary": "Lungimea unui segment. Distanța dintre două puncte. Segmente congruente",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Lungimea unui segment. Distanța dintre două puncte. Segmente congruente?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L4 - Mijlocul unui segment. Simetricul unui punct față de un punct",
+              "order": 4,
+              "summary": "Mijlocul unui segment. Simetricul unui punct față de un punct",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Mijlocul unui segment. Simetricul unui punct față de un punct?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L5 - Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi",
+              "order": 5,
+              "summary": "Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui ungh",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "question": {
+                "text": "Întrebare despre Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L6 - Măsura unui unghi. Unghiuri congruente",
+              "order": 6,
+              "summary": "Măsura unui unghi. Unghiuri congruente",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Măsura unui unghi. Unghiuri congruente?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L7 - Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+              "order": 7,
+              "summary": "Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Clasificarea unghiurilor. Calcule cu măsuri de unghiuri?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L8 - Figuri congruente. Axa de simetrie",
+              "order": 8,
+              "summary": "Figuri congruente. Axa de simetrie",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Figuri congruente. Axa de simetrie?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L9 - Unități de măsură pentru lungime. Perimetrul",
+              "order": 9,
+              "summary": "Unități de măsură pentru lungime. Perimetrul",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Unități de măsură pentru lungime. Perimetrul?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L10 - Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului",
+              "order": 10,
+              "summary": "Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "question": {
+                "text": "Întrebare despre Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            },
+            {
+              "title": "L11 - Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic",
+              "order": 11,
+              "summary": "Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptung",
+              "theory": "",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "question": {
+                "text": "Întrebare despre Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic?",
+                "options": [
+                  {
+                    "text": "Opțiunea A",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea B",
+                    "correct": false,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea C",
+                    "correct": true,
+                    "explanation": ""
+                  },
+                  {
+                    "text": "Opțiunea D",
+                    "correct": false,
+                    "explanation": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

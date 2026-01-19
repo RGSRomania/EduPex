@@ -1,0 +1,35 @@
+{
+  "materie": "Matematica",
+  "clasa": "VI",
+  "level": 6,
+  "unitati": [
+    {
+      "name": "Numere raționale",
+      "order": 1,
+      "description": "Fracții ordinare și zecimale, operații",
+      "capitole": [
+        {
+          "name": "Fracții și operații",
+          "order": 1,
+          "description": "13 lecții cu fracții ordinare și zecimale",
+          "lectii": [
+            {"title": "L1 - Fracții ordinare. Reprezentare", "order": 1, "summary": "Înțelege fracțiile ordinare și reprezentarea lor", "theory": "Fracția ordinară a/b unde a este numărător și b este numitor. Fracții proprii (a<b), improprii (a≥b), aparente (a=kb).", "examples": ["3/4 este fracție proprie", "7/4 este fracție improprie", "8/4 = 2 este fracție aparentă"], "tips": ["Numitorul nu poate fi 0", "Fracții egale prin amplificare/simplificare"], "estimatedTime": 12, "difficulty": "medium", "questions": []},
+            {"title": "L2 - Compararea și ordonarea fracțiilor", "order": 2, "summary": "Compară și ordonează fracții cu numitori diferiți", "theory": "Aducere la numitor comun. Comparare după numărător. Reprezentare pe axă.", "examples": ["2/3 < 3/4", "1/2 = 2/4 = 3/6"], "tips": ["Găsește cmmmc al numitorilor", "Pentru aceeași numitor, mai mare este cea cu numărător mai mare"], "estimatedTime": 12, "difficulty": "medium", "questions": []},
+            {"title": "L3 - Amplificarea și simplificarea fracțiilor", "order": 3, "summary": "Modifică fracțiile prin amplificare și simplificare", "theory": "Amplificare: înmulțim numărător și numitor cu același număr. Simplificare: împărțim cu un divizor comun. Fracție ireductibilă.", "examples": ["2/3 amplificat cu 5 = 10/15", "15/20 simplificat cu 5 = 3/4"], "tips": ["Amplificarea și simplificarea nu schimbă valoarea", "Fracție ireductibilă: cmmdc = 1"], "estimatedTime": 12, "difficulty": "medium", "questions": []},
+            {"title": "L4 - Adunarea și scăderea fracțiilor", "order": 4, "summary": "Adună și scade fracții cu numitori diferiți", "theory": "Aceleași numitori: adună/scade numărători. Numitori diferiți: aducere la numitor comun.", "examples": ["1/4 + 2/4 = 3/4", "2/3 + 1/4 = 8/12 + 3/12 = 11/12"], "tips": ["Găsește cmmmc", "Simplifica rezultatul dacă se poate"], "estimatedTime": 12, "difficulty": "medium", "questions": []},
+            {"title": "L5 - Înmulțirea fracțiilor", "order": 5, "summary": "Înmulțește fracții ordinare", "theory": "(a/b) × (c/d) = (a×c)/(b×d). Simplificare încrucișată. Înmulțire cu numere naturale.", "examples": ["2/3 × 3/5 = 6/15 = 2/5", "3 × 2/7 = 6/7"], "tips": ["Simplifică înainte de a înmulți", "Numărător cu numărător, numitor cu numitor"], "estimatedTime": 12, "difficulty": "medium", "questions": []},
+            {"title": "L6 - Împărțirea fracțiilor", "order": 6, "summary": "Împarte fracții ordinare", "theory": "(a/b) ÷ (c/d) = (a/b) × (d/c). Inversul unei fracții.", "examples": ["2/3 ÷ 4/5 = 2/3 × 5/4 = 10/12 = 5/6", "3/4 ÷ 2 = 3/4 × 1/2 = 3/8"], "tips": ["Înmulțește cu inversul", "Verifică prin înmulțire"], "estimatedTime": 12, "difficulty": "medium", "questions": []},
+            {"title": "L7 - Fracții zecimale. Reprezentare", "order": 7, "summary": "Înțelege fracțiile zecimale și reprezentarea lor", "theory": "Fracție zecimală cu finit de zecimale. Poziția zecimalelor. Conversie din ordinară.", "examples": ["0.5 = 5/10 = 1/2", "0.25 = 25/100 = 1/4", "3.14"], "tips": ["Citește corect (3.14 = trei virgulă unu patru)", "Zerourite la dreapta nu schimbă valoarea"], "estimatedTime": 12, "difficulty": "easy", "questions": []},
+            {"title": "L8 - Compararea și ordonarea zecimalelor", "order": 8, "summary": "Compară și ordonează fracții zecimale", "theory": "Compară parte întreagă. Apoi compară zecimile, sutimile etc. de la stânga la dreapta.", "examples": ["3.5 > 3.05", "0.7 = 0.70", "2.1 > 2.09"], "tips": ["Adaugă zerouri la dreapta pentru a ușura compararea", "Compara cifră cu cifră de la stânga"], "estimatedTime": 12, "difficulty": "easy", "questions": []},
+            {"title": "L9 - Adunarea și scăderea zecimalelor", "order": 9, "summary": "Adună și scade fracții zecimale", "theory": "Aliniază virgulele. Adună/scade coloane. Completeaza cu zerouri dacă e necesar.", "examples": ["2.5 + 1.3 = 3.8", "10 - 3.7 = 6.3", "5.25 + 2.5 = 7.75"], "tips": ["Aliniază virgulele", "Completează cu zerouri"], "estimatedTime": 12, "difficulty": "easy", "questions": []},
+            {"title": "L10 - Înmulțirea zecimalelor", "order": 10, "summary": "Înmulțește fracții zecimale", "theory": "Înmulțește ca numere naturale. Numără zecimalele și pune virgula în rezultat.", "examples": ["2.5 × 4 = 10", "1.5 × 2.5 = 3.75", "0.2 × 0.3 = 0.06"], "tips": ["Numărul de zecimale în rezultat = suma din factori", "Verifică prin estimare"], "estimatedTime": 12, "difficulty": "medium", "questions": []},
+            {"title": "L11 - Împărțirea zecimalelor", "order": 11, "summary": "Împarte fracții zecimale", "theory": "Mută virgulele pentru a face împărțitor întreg. Apoi împarte ca numere naturale.", "examples": ["12.5 ÷ 2.5 = 125 ÷ 25 = 5", "3.6 ÷ 2 = 1.8"], "tips": ["Mută virgule cu același număr de poziții", "Verifica prin înmulțire"], "estimatedTime": 12, "difficulty": "medium", "questions": []},
+            {"title": "L12 - Proporții și proporționalitate", "order": 12, "summary": "Înțelege proporțiile și proporționalitatea directă", "theory": "Proporție: a/b = c/d. Proprietatea fundamentală: a×d = b×c. Mărimi proporționale.", "examples": ["2/3 = 4/6", "Dacă 2 caiete costă 10 lei, 5 caiete costă 25 lei"], "tips": ["Regula de trei simplă", "Verifica proporția prin încrucișare"], "estimatedTime": 12, "difficulty": "medium", "questions": []},
+            {"title": "L13 - Procente", "order": 13, "summary": "Calculează procente din numere", "theory": "Procentul p% din n = (p/100) × n. Aflare procent. Aflare întreg din procent.", "examples": ["20% din 100 = 20", "50% din 80 = 40", "30% din 200 = 60"], "tips": ["10% din n = n/10", "Calculează în pași mici"], "estimatedTime": 12, "difficulty": "medium", "questions": []}
+          ]
+        }
+      ]
+    }
+  ]
+}
+

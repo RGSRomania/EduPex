@@ -1,0 +1,652 @@
+{
+  "materie": "Matematica",
+  "clasa": "V",
+  "level": 5,
+  "unitati": [
+    {
+      "name": "UNITATEA 1 - Operații cu numere naturale",
+      "order": 1,
+      "description": "Operații cu numere naturale",
+      "capitole": [
+        {
+          "name": "Operații cu numere naturale",
+          "order": 1,
+          "description": "13 lecții cu operații și proprietăți",
+          "lectii": [
+            {
+              "title": "L1 - Scrierea și citirea numerelor naturale",
+              "order": 1,
+              "summary": "Introducere în scrierea și citirea numerelor",
+              "theory": "Cifre arabe. Sistem zecimal. Ordine și clase. Descompunerea zecimală.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L2 - Reprezentarea pe axa numerelor. Compararea și ordonarea numerelor naturale; aproximări, estimări",
+              "order": 2,
+              "summary": "Axă numerică și comparații",
+              "theory": "Axa numerelor. Comparare și ordonare. Estimări și aproximări.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L3 - Adunarea numerelor naturale, proprietăți",
+              "order": 3,
+              "summary": "Operații de adunare și proprietăți",
+              "theory": "Adunare. Proprietatea comutativă, asociativă. Element neutru.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L4 - Scăderea numerelor naturale",
+              "order": 4,
+              "summary": "Operații de scădere",
+              "theory": "Scădere. Verificare. Relație cu adunarea.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L5 - Înmulțirea numerelor naturale, proprietăți",
+              "order": 5,
+              "summary": "Înmulțire și proprietăți",
+              "theory": "Înmulțire. Proprietatea comutativă, asociativă, distributivă.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L6 - Factor comun",
+              "order": 6,
+              "summary": "Factorizare și factor comun",
+              "theory": "Factor comun. Scoaterea în factor.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L7 - Împărțirea cu rest 0 a numerelor naturale",
+              "order": 7,
+              "summary": "Împărțire fără rest",
+              "theory": "Împărțire exactă. Teorema împărțirii.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L8 - Împărțirea cu rest a numerelor naturale",
+              "order": 8,
+              "summary": "Împărțire cu rest",
+              "theory": "Împărțire cu rest. Teorema împărțirii cu rest.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L9 - Puterea cu exponent natural a unui număr natural. Pătratul unui număr natural",
+              "order": 9,
+              "summary": "Puteri și pătrate",
+              "theory": "Putere. Pătratul unui număr. Notație exponențială.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L10 - Reguli de calcul cu puteri",
+              "order": 10,
+              "summary": "Operații cu puteri",
+              "theory": "Reguli pentru înmulțirea, împărțirea puterilor. Putere de putere.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L11 - Compararea puterilor",
+              "order": 11,
+              "summary": "Comparație între puteri",
+              "theory": "Metode de comparare a puterilor cu baze sau exponenți diferiți.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L12 - Scrierea în baza 10. Scrierea în baza 2",
+              "order": 12,
+              "summary": "Sisteme de numerație",
+              "theory": "Baza 10. Baza 2. Conversii. Sistem binar.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "questions": []
+            },
+            {
+              "title": "L13 - Ordinea efectuării operațiilor; utilizarea parantezelor: rotunde, pătrate și acolade",
+              "order": 13,
+              "summary": "Ordinea operațiilor și paranteze",
+              "theory": "Ordinea PEMDAS. Paranteze. Prioritate operații.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 2 - Metode aritmetice de rezolvare a problemelor",
+      "order": 2,
+      "description": "Metode de rezolvare a problemelor",
+      "capitole": [
+        {
+          "name": "Metode aritmetice",
+          "order": 1,
+          "description": "5 lecții cu metode de rezolvare",
+          "lectii": [
+            {
+              "title": "L1 - Metoda reducerii la unitate",
+              "order": 1,
+              "summary": "Rezolvare prin reducere la unitate",
+              "theory": "Metoda reducerii la unitate pentru probleme.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L2 - Metoda comparației",
+              "order": 2,
+              "summary": "Rezolvare prin comparație",
+              "theory": "Metoda comparației pentru sisteme simple.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L3 - Metoda figurativă",
+              "order": 3,
+              "summary": "Rezolvare prin desene și figuri",
+              "theory": "Reprezentarea grafică a problemelor.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L4 - Metoda mersului invers",
+              "order": 4,
+              "summary": "Rezolvare prin mers invers",
+              "theory": "Metoda mersului invers pentru probleme cu operații succesive.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L5 - Metoda falsei ipoteze",
+              "order": 5,
+              "summary": "Rezolvare prin falsă ipoteză",
+              "theory": "Metoda presupunerii false și verificării.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "questions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 3 - Divizibilitatea numerelor naturale",
+      "order": 3,
+      "description": "Divizibilitate și numere prime",
+      "capitole": [
+        {
+          "name": "Divizibilitate",
+          "order": 1,
+          "description": "3 lecții despre divizibilitate",
+          "lectii": [
+            {
+              "title": "L1 - Divizibilitatea numerelor naturale",
+              "order": 1,
+              "summary": "Concept de divizibilitate",
+              "theory": "Relație de divizibilitate. Notație. Proprietăți.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L2 - Criterii de divizibilitate",
+              "order": 2,
+              "summary": "Criterii de divizibilitate",
+              "theory": "Criterii pentru 2, 3, 4, 5, 9, 10, 25. Reguli.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L3 - Numere prime. Numere compuse",
+              "order": 3,
+              "summary": "Numere prime și compuse",
+              "theory": "Definiții. Numere prime. Numere compuse. Descompunere în factori primi.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 4 - Fracții ordinare",
+      "order": 4,
+      "description": "Fracții ordinare și operații",
+      "capitole": [
+        {
+          "name": "Fracții ordinare",
+          "order": 1,
+          "description": "10 lecții cu fracții ordinare",
+          "lectii": [
+            {
+              "title": "L1 - Fracții ordinare. Fracții echivalente. Procente",
+              "order": 1,
+              "summary": "Introducere în fracții",
+              "theory": "Noțiune de fracție. Echivalență. Procente.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L2 - Compararea fracțiilor cu același numitor/numărător. Reprezentarea fracțiilor ordinare pe axa numerelor",
+              "order": 2,
+              "summary": "Comparare și reprezentare",
+              "theory": "Comparare fracții. Reprezentare pe axă.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L3 - Introducerea și scoaterea întregilor dintr-o fracție",
+              "order": 3,
+              "summary": "Numere mixte",
+              "theory": "Numere mixte. Introducerea/scoaterea întregilor.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L4 - Cel mai mare divizor comun a două numere naturale. Amplificarea și simplificarea fracțiilor. Fracții ireductibile",
+              "order": 4,
+              "summary": "CMMDC și simplificare",
+              "theory": "CMMDC. Amplificare. Simplificare. Fracții ireductibile.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L5 - Cel mai mic multiplu comun a două numere naturale. Aducerea fracțiilor la un numitor comun",
+              "order": 5,
+              "summary": "CMMMC și aducere la numitor comun",
+              "theory": "CMMMC. Aducerea la numitor comun.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L6 - Adunarea și scăderea fracțiilor",
+              "order": 6,
+              "summary": "Operații de adunare și scădere",
+              "theory": "Adunare și scădere cu same/diferiți numitori.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L7 - Înmulțirea fracțiilor",
+              "order": 7,
+              "summary": "Înmulțire fracții",
+              "theory": "Înmulțire fracții ordinare. Simplificare încrucișată.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L8 - Împărțirea fracțiilor ordinare",
+              "order": 8,
+              "summary": "Împărțire fracții",
+              "theory": "Împărțire fracții. Inversa unei fracții.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L9 - Puterea cu exponent natural a unei fracții ordinare",
+              "order": 9,
+              "summary": "Puteri de fracții",
+              "theory": "Puterea unei fracții ordinare. Calcul.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L10 - Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară",
+              "order": 10,
+              "summary": "Procente și calcule",
+              "theory": "Procente din numere. Probleme cu procente.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 5 - Fracții zecimale",
+      "order": 5,
+      "description": "Fracții zecimale și operații",
+      "capitole": [
+        {
+          "name": "Fracții zecimale",
+          "order": 1,
+          "description": "9 lecții cu fracții zecimale",
+          "lectii": [
+            {
+              "title": "L1 - Fracții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub formă de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale nenule în fracție ordinară",
+              "order": 1,
+              "summary": "Introducere în fracții zecimale",
+              "theory": "Fracții zecimale. Conversii. Transformări.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L2 - Aproximări; compararea, ordonarea și reprezentarea pe axa numerelor a unor fracții zecimale cu un număr finit de zecimale",
+              "order": 2,
+              "summary": "Comparare și aproximare",
+              "theory": "Comparare zecimale. Ordonare. Aproximări.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L3 - Adunarea și scăderea fracțiilor zecimale cu un număr finit de zecimale nenule",
+              "order": 3,
+              "summary": "Adunare și scădere",
+              "theory": "Adunare și scădere zecimale.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L4 - Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule",
+              "order": 4,
+              "summary": "Înmulțire zecimale",
+              "theory": "Înmulțire zecimale. Poziția virgulei.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L5 - Împărțirea a două numere naturale cu rezultat fracție zecimală; aplicație: media aritmetică a două sau mai multe numere naturale; transformarea unei fracții ordinare într-o fracție zecimală; periodicitate",
+              "order": 5,
+              "summary": "Împărțire și conversii",
+              "theory": "Împărțire cu rezultat zecimal. Media aritmetică. Periodicitate.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L6 - Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul; împărțirea a două fracții zecimale cu un număr finit de zecimale nenule. Transformarea unei fracții zecimale periodice în fracție ordinară",
+              "order": 6,
+              "summary": "Împărțire avansată",
+              "theory": "Împărțire zecimale. Fracții periodice.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L7 - Număr rațional pozitiv; ordinea efectuării operațiilor cu numere raționale pozitive",
+              "order": 7,
+              "summary": "Numere raționale",
+              "theory": "Concept rațional. Ordinea operațiilor.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L8 - Metode aritmetice pentru rezolvarea problemelor cu fracții în care intervin și unități de măsură pentru lungime, arie, volum, capacitate, masă, timp și unități monetare",
+              "order": 8,
+              "summary": "Probleme cu unități",
+              "theory": "Probleme practice cu fracții și unități.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "hard",
+              "questions": []
+            },
+            {
+              "title": "L9 - Probleme de organizare a datelor. Frecvență. Grafice cu bare. Grafice cu linii. Media unui set de date statistice",
+              "order": 9,
+              "summary": "Statistica și grafice",
+              "theory": "Organizare date. Grafice. Media statistică.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UNITATEA 6 - Elemente de geometrie și unități de măsură",
+      "order": 6,
+      "description": "Geometrie și măsurări",
+      "capitole": [
+        {
+          "name": "Geometrie",
+          "order": 1,
+          "description": "11 lecții cu geometrie și măsuri",
+          "lectii": [
+            {
+              "title": "L1 - Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
+              "order": 1,
+              "summary": "Elemente fundamentale",
+              "theory": "Punct, dreaptă, plan, semiplan, semidreaptă, segment.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L2 - Pozițiile relative ale unui punct față de o dreaptă. Puncte coliniare. Pozițiile relative a două drepte: drepte identice, drepte concurente, drepte paralele",
+              "order": 2,
+              "summary": "Poziții relative",
+              "theory": "Relații între puncte și drepte. Drepte concurente, paralele.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L3 - Lungimea unui segment. Distanța dintre două puncte. Segmente congruente",
+              "order": 3,
+              "summary": "Segmente și distanțe",
+              "theory": "Lungime segment. Distanță. Congruență.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L4 - Mijlocul unui segment. Simetricul unui punct față de un punct",
+              "order": 4,
+              "summary": "Mijloc și simetrie",
+              "theory": "Mijlocul segmentului. Simetricul unui punct.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L5 - Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi",
+              "order": 5,
+              "summary": "Unghiuri",
+              "theory": "Unghi. Notație. Interior și exterior.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L6 - Măsura unui unghi. Unghiuri congruente",
+              "order": 6,
+              "summary": "Măsura unghiurilor",
+              "theory": "Măsură unghi. Grade. Congruență unghiuri.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L7 - Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+              "order": 7,
+              "summary": "Tipuri de unghiuri",
+              "theory": "Unghi drept, ascuțit, obtuz. Calcule.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L8 - Figuri congruente. Axa de simetrie",
+              "order": 8,
+              "summary": "Congruență și simetrie",
+              "theory": "Figuri congruente. Axă de simetrie.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L9 - Unități de măsură pentru lungime. Perimetrul",
+              "order": 9,
+              "summary": "Lungime și perimetru",
+              "theory": "Unități lungime. Perimetru figuri.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "easy",
+              "questions": []
+            },
+            {
+              "title": "L10 - Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului",
+              "order": 10,
+              "summary": "Arie și suprafață",
+              "theory": "Unități arie. Aria pătrat și dreptunghi.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            },
+            {
+              "title": "L11 - Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic",
+              "order": 11,
+              "summary": "Volum",
+              "theory": "Unități volum. Volum cub și paralelipiped.",
+              "examples": [],
+              "tips": [],
+              "estimatedTime": 45,
+              "difficulty": "medium",
+              "questions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

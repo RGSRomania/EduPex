@@ -1,0 +1,1330 @@
+{
+  "materie": "Matematica",
+  "clasa": "V",
+  "level": 5,
+  "unitati": [
+    {
+      "name": "Operații cu numere naturale",
+      "order": 1,
+      "description": "Capitol 1: Operații cu numere naturale",
+      "capitole": [
+        {
+          "name": "Operații cu numere naturale",
+          "order": 1,
+          "description": "13 lecții cu exerciții și metode de calcul pentru operații cu numere naturale",
+          "lectii": [
+            {
+              "title": "L2 - Reprezentarea pe axa numerelor. Compararea și ordonarea numerelor naturale; aproximări, estimări",
+              "order": 2,
+              "summary": "Înțelege cum se reprezintă numerele pe o dreaptă și cum să le compari și să le ordonezi.",
+              "theory": "Reprezentarea numerelor pe o dreaptă numerică:\n- Pe o axă numerică orizontală, numerele cresc de la stânga la dreapta\n- Fiecare punct corespunde unui număr natural\n- Distanțele între puncte sunt egale\n\nCompararea numerelor naturale:\n- Semnul < (mai mic): 3 < 7\n- Semnul > (mai mare): 9 > 4\n- Semnul = (egal): 5 = 5\n\nOrdonarea numerelor: Aranjarea lor în ordinea crescătoare sau descrescătoare\n\nAproximări și estimări:\n- Rotunjire la zeci: 24 ≈ 20\n- Rotunjire la sute: 456 ≈ 500\n- Estimare: evaluarea aproximativă a unui rezultat",
+              "examples": [
+                "Comparare: 15 < 20 (15 este mai mic decât 20)",
+                "Pe axa numerelor: 0---1---2---3---4---5",
+                "Rotunjire: 347 rotunjit la sute este 300",
+                "Ordine crescătoare: 5, 12, 23, 45, 67"
+              ],
+              "tips": [
+                "Pe axa, mai la dreapta = mai mare",
+                "La rotunjire, uită-te la cifra din dreapta",
+                "Dacă cifra este ≥ 5, rotunjești în sus",
+                "Dacă cifra este < 5, rotunjești în jos"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L2",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L2",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L3 - Adunarea numerelor naturale, proprietăți",
+              "order": 3,
+              "summary": "Descoperă regulile adunării și proprietățile speciale ale acestei operații.",
+              "theory": "Adunarea numerelor naturale:\n- Operația inversă scăderii\n- Termeni: numerele care se adună\n- Sumă: rezultatul adunării\n\nProprietatea comutativă: a + b = b + a\nExemplu: 3 + 5 = 5 + 3 = 8\n\nProprietatea asociativă: (a + b) + c = a + (b + c)\nExemplu: (2 + 3) + 4 = 2 + (3 + 4) = 9\n\nElement neutru: a + 0 = a\nExemplu: 7 + 0 = 7",
+              "examples": [
+                "3 + 5 = 8 (termenii: 3 și 5; suma: 8)",
+                "5 + 3 = 8 (comutativă)",
+                "(2 + 3) + 4 = 5 + 4 = 9",
+                "2 + (3 + 4) = 2 + 7 = 9"
+              ],
+              "tips": [
+                "Folosește proprietatea comutativă pentru ordine mai convenabilă",
+                "Grupează numerele care se adună ușor",
+                "Verifică prin efectuarea în cealaltă ordine"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L3",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L3",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L4 - Scăderea numerelor naturale",
+              "order": 4,
+              "summary": "Învață cum să scazi numerele naturale și înțelege relația cu adunarea.",
+              "theory": "Scăderea numerelor naturale:\n- Operația inversă adunării\n- Descăzut: numărul din care se scade\n- Scăzător: numărul care se scade\n- Diferență: rezultatul scăderii\n\nDacă a - b = c, atunci c + b = a\n\nVerificare: Diferența + Scăzătorul = Descăzutul\nExemplu: 10 - 3 = 7, verificare: 7 + 3 = 10\n\nObservație: Scăderea nu este comutativă! 5 - 2 ≠ 2 - 5",
+              "examples": [
+                "10 - 3 = 7 (descăzut: 10, scăzător: 3, diferență: 7)",
+                "Verificare: 7 + 3 = 10",
+                "25 - 8 = 17",
+                "100 - 45 = 55"
+              ],
+              "tips": [
+                "Descăzut trebuie să fie mai mare sau egal cu scăzătorul",
+                "Verifică scăderea prin adunare: rezultat + scăzător = descăzut",
+                "Scăderea nu este comutativă!"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L4",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L4",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L5 - Înmulțirea numerelor naturale, proprietăți",
+              "order": 5,
+              "summary": "Stăpânește înmulțirea și descoperă proprietățile interesante ale acestei operații.",
+              "theory": "Înmulțirea numerelor naturale:\n- Înmulțire = adunare repetată\n- Factori: numerele care se înmulțesc\n- Produs: rezultatul înmulțirii\n\nProprietatea comutativă: a × b = b × a\nExemplu: 3 × 5 = 5 × 3 = 15\n\nProprietatea asociativă: (a × b) × c = a × (b × c)\nExemplu: (2 × 3) × 4 = 2 × (3 × 4) = 24\n\nDistributivitate: a × (b + c) = a × b + a × c\n\nElemente speciale:\n- Element neutru: a × 1 = a\n- Element absorbant: a × 0 = 0",
+              "examples": [
+                "3 × 4 = 4 + 4 + 4 = 12",
+                "5 × 7 = 7 × 5 = 35",
+                "(2 × 3) × 4 = 6 × 4 = 24",
+                "2 × (3 + 4) = 2 × 7 = 14 = 2 × 3 + 2 × 4 = 6 + 8"
+              ],
+              "tips": [
+                "Comutativitatea ușurează calculele",
+                "Înmulțire cu 0 = 0",
+                "Înmulțire cu 1 = același număr",
+                "Grupează factori pentru calcule mai ușoare"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L5",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L5",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L6 - Împărțirea numerelor naturale",
+              "order": 6,
+              "summary": "Înțelege cum se împarte și când se poate efectua împărțirea.",
+              "theory": "Împărțirea numerelor naturale:\n- Operația inversă înmulțirii\n- Deîmpărțit: numărul care se împarte\n- Împărțitor: numărul la care se împarte\n- Cât: rezultatul împărțirii\n- Rest: ceea ce rămâne după împărțire\n\nRelație: Deîmpărțit = Împărțitor × Cât + Rest\n\nÎmpărțire exactă: Rest = 0\nÎmpărțire cu rest: Rest < Împărțitor\n\nObservație: Împărțirea la 0 NU este permisă!",
+              "examples": [
+                "20 : 4 = 5 (deîmpărțit: 20, împărțitor: 4, cât: 5)",
+                "23 : 4 = 5 rest 3 (23 = 4 × 5 + 3)",
+                "Verificare: 4 × 5 + 3 = 20 + 3 = 23",
+                "50 : 5 = 10 (împărțire exactă)"
+              ],
+              "tips": [
+                "Restul este întotdeauna mai mic decât împărțitorul",
+                "Verifică: cât × împărțitor + rest = deîmpărțit",
+                "Împărțire la 1 = același număr",
+                "Împărțire la 0 = IMPOSIBIL"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L6",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L6",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L7 - Ordinea efectuării operațiilor",
+              "order": 7,
+              "summary": "Aprinde să calculezi corect atunci când sunt mai multe operații.",
+              "theory": "Ordinea efectuării operațiilor (PEMDAS/BODMAS):\n\n1. Paranteze (rotunde, pătrate, acolade)\n2. Exponenți (puteri)\n3. Înmulțire și Împărțire (de la stânga la dreapta)\n4. Adunare și Scădere (de la stânga la dreapta)\n\nParantezele:\n- Rotunde: ( )\n- Pătrate: [ ]\n- Acolade: { }\n\nSe rezolvă din interior spre exterior și din stânga spre dreapta",
+              "examples": [
+                "2 + 3 × 4 = 2 + 12 = 14 (nu 20)",
+                "(2 + 3) × 4 = 5 × 4 = 20",
+                "24 : 6 × 2 = 4 × 2 = 8",
+                "2 + 3 × (4 - 1) = 2 + 3 × 3 = 2 + 9 = 11"
+              ],
+              "tips": [
+                "Parantezele schimbă ordinea!",
+                "Înmulțire și împărțire au aceeași prioritate - stânga la dreapta",
+                "Adunare și scădere au aceeași prioritate - stânga la dreapta",
+                "Memorează: PEMDAS (Parentheses, Exponents, Multiply/Divide, Add/Subtract)"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L7",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L7",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L8 - Puteri. Pătrate și cuburi perfecte",
+              "order": 8,
+              "summary": "Descoperă ce sunt puterile și cum să le calculezi.",
+              "theory": "Puterea unui număr natural:\n- Bază: numărul care se înmulțește\n- Exponent: de câte ori se înmulțește baza\n- Putere: rezultatul\n\nNotație: a^n (a la puterea n)\na^n = a × a × a × ... × a (n factori)\n\nPătrat: a^2 = a × a\nCub: a^3 = a × a × a\n\nCazuri speciale:\n- a^0 = 1 (pentru a ≠ 0)\n- a^1 = a\n- 1^n = 1\n- 0^n = 0 (pentru n > 0)\n\nPătratul perfect: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100...\nCubul perfect: 1, 8, 27, 64, 125, 216...",
+              "examples": [
+                "2^3 = 2 × 2 × 2 = 8",
+                "5^2 = 5 × 5 = 25",
+                "3^2 = 9 (pătrat perfect)",
+                "2^3 = 8 (cub perfect)",
+                "10^2 = 100"
+              ],
+              "tips": [
+                "Pătratul: baza × baza",
+                "Cubul: baza × baza × baza",
+                "Puterea 1: rămâne baza",
+                "Puterea 0: întotdeauna 1",
+                "Exponenții cresc rapid!"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L8",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L8",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L9 - Reguli de calcul cu puteri",
+              "order": 9,
+              "summary": "Învață regulile care simplifică calculele cu puteri.",
+              "theory": "Reguli de calcul cu puteri (cu aceeași bază):\n\nÎnmulțire: a^m × a^n = a^(m+n)\nExemplu: 2^3 × 2^2 = 2^5 = 32\n\nÎmpărțire: a^m : a^n = a^(m-n) (m > n)\nExemplu: 2^5 : 2^2 = 2^3 = 8\n\nPutere de putere: (a^m)^n = a^(m×n)\nExemplu: (2^2)^3 = 2^6 = 64\n\nPuterea unui produs: (a × b)^n = a^n × b^n\nExemplu: (2 × 3)^2 = 2^2 × 3^2 = 4 × 9 = 36\n\nPuterea unui cât: (a : b)^n = a^n : b^n\nExemplu: (6 : 2)^2 = 6^2 : 2^2 = 36 : 4 = 9",
+              "examples": [
+                "3^2 × 3^3 = 3^5 = 243",
+                "5^4 : 5^2 = 5^2 = 25",
+                "(2^2)^3 = 2^6 = 64",
+                "(2 × 5)^2 = 4 × 25 = 100",
+                "(10 : 5)^2 = 100 : 25 = 4"
+              ],
+              "tips": [
+                "La înmulțire: adună exponenții",
+                "La împărțire: scade exponenții",
+                "La putere de putere: înmulțește exponenții",
+                "Regulile se aplică doar dacă bazele sunt aceleași!"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L9",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L9",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L10 - Divizibilitate. Criterii de divizibilitate",
+              "order": 10,
+              "summary": "Înțelege ce este divizibilitatea și cum o poți folosi.",
+              "theory": "Divizibilitate a numerelor naturale:\n\nUn număr a este divizibil cu b (se notează a | b) dacă există un număr natural c\nastfel încât a = b × c.\n\nCriteriile de divizibilitate:\n\nDivizibilitate cu 2: Ultima cifră este pară (0, 2, 4, 6, 8)\nExemplu: 24, 136, 450\n\nDivizibilitate cu 5: Ultima cifră este 0 sau 5\nExemplu: 15, 230, 405\n\nDivizibilitate cu 10: Ultima cifră este 0\nExemplu: 20, 450, 1000\n\nDivizibilitate cu 3: Suma cifrelor este divizibilă cu 3\nExemplu: 123 (1+2+3=6, div cu 3)\n\nDivizibilitate cu 9: Suma cifrelor este divizibilă cu 9\nExemplu: 108 (1+0+8=9, div cu 9)\n\nDivizibilitate cu 4: Ultimele 2 cifre formează un număr div cu 4\nExemplu: 316 (16 div cu 4)\n\nDivizibilitate cu 25: Ultimele 2 cifre sunt 00, 25, 50 sau 75",
+              "examples": [
+                "120 este div cu 2, 5, 10 (ultima cifră 0)",
+                "123 este div cu 3 (suma 1+2+3=6)",
+                "225 este div cu 5 și 25",
+                "1008 este div cu 3 și 9 (suma 1+0+0+8=9)"
+              ],
+              "tips": [
+                "Memorează criteriile principale: 2, 3, 5, 10",
+                "Pentru 3 și 9, adună cifrele",
+                "Ultimele cifre ajută la 2, 4, 5, 10, 25",
+                "Criteriile te ajută să calculezi mai rapid"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L10",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L10",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L11 - Numere prime și numere compuse",
+              "order": 11,
+              "summary": "Descoperă care sunt numerele prime și care sunt compuse.",
+              "theory": "Numere prime și numere compuse:\n\nNumăr prim: Are exact DOI divizori: 1 și el însuși\nExemplu: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47\n\nNumăr compus: Are MAI MULT de doi divizori\nExemplu: 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20\n\nCazuri speciale:\n- 1: NU este nici prim, nici compus\n- 2: SINGURUL număr prim par\n- Toate celelalte numere pare sunt COMPUSE\n\nObservații:\n- Numerele prime până la 50: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47\n- Numerele compuse pot fi descompuse în factori primi",
+              "examples": [
+                "7 este prim (div doar cu 1 și 7)",
+                "12 este compus (div cu 1, 2, 3, 4, 6, 12)",
+                "2 este prim și PAR",
+                "9 este compus (3 × 3)"
+              ],
+              "tips": [
+                "Numerele pare (în afară de 2) sunt compuse",
+                "Dacă suma cifrelor e div cu 3, nu e prim",
+                "Dacă se termină în 0 sau 5, nu e prim (în afară de 5)",
+                "1 NU este prim!"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L11",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L11",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L12 - Descompunerea în factori primi",
+              "order": 12,
+              "summary": "Învață să descompui numerele în factori primi.",
+              "theory": "Descompunerea în factori primi:\n\nFiecare număr compus se descompune UNIC în factori primi.\n\nMetoda descompunerii:\n1. Împarte numărul la cel mai mic factor prim (2, 3, 5, 7...)\n2. Continuă cu catul obținut\n3. Repetă până obții 1\n\nNotație exponențială:\n12 = 2^2 × 3\n30 = 2 × 3 × 5\n36 = 2^2 × 3^2\n\nCMMDC (Cel Mai Mare Divizor Comun):\n- Se iau factorii comuni cu puterea cea mai mică\n\nCMMMC (Cel Mai Mic Multiplu Comun):\n- Se iau toți factorii cu puterea cea mai mare",
+              "examples": [
+                "12 = 2 × 2 × 3 = 2^2 × 3",
+                "30 = 2 × 3 × 5",
+                "100 = 2^2 × 5^2",
+                "CMMDC(12, 18) = 6 (2 × 3)",
+                "CMMMC(12, 18) = 36 (2^2 × 3^2)"
+              ],
+              "tips": [
+                "Începe cu cel mai mic factor prim",
+                "Pune exponenți pentru factori repetați",
+                "Reține formule pentru CMMDC și CMMMC",
+                "Toți numerele se descompun unic!"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L12",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L12",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "L13 - Ecuații în N",
+              "order": 13,
+              "summary": "Rezolvă ecuații și găsește necunoscuta.",
+              "theory": "Ecuații în N (multimea numerelor naturale):\n\nO ecuație este o egalitate cu una sau mai multe necunoscute.\n\nTip: a + x = b\nRezolvare: x = b - a (dacă b ≥ a)\n\nTip: x - a = b\nRezolvare: x = a + b\n\nTip: a × x = b\nRezolvare: x = b : a (dacă a | b)\n\nTip: x : a = b\nRezolvare: x = a × b\n\nTip: ax + b = c\nRezolvare: x = (c - b) : a\n\nObservație: În N, soluția trebuie să fie număr natural!\n\nVerificare: Înlocuiești valoarea găsită în ecuația inițială",
+              "examples": [
+                "x + 5 = 12 → x = 12 - 5 = 7",
+                "x - 3 = 10 → x = 10 + 3 = 13",
+                "3 × x = 15 → x = 15 : 3 = 5",
+                "x : 4 = 6 → x = 4 × 6 = 24",
+                "2x + 1 = 9 → 2x = 8 → x = 4"
+              ],
+              "tips": [
+                "Inversa adunării: scădere",
+                "Inversa scăderii: adunare",
+                "Inversa înmulțirii: împărțire",
+                "Inversa împărțirii: înmulțire",
+                "Verifică întotdeauna soluția!"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy",
+              "questions": [
+                {
+                  "question": "Întrebare de bază pentru L13",
+                  "options": [
+                    {
+                      "text": "Răspuns corect pentru L13",
+                      "isCorrect": true,
+                      "explanation": "Acesta este răspunsul corect"
+                    },
+                    {
+                      "text": "Răspuns incorect 1",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 2",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    },
+                    {
+                      "text": "Răspuns incorect 3",
+                      "isCorrect": false,
+                      "explanation": "Greșit. Explicație detaliată"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metode aritmetice de rezolvare a problemelor",
+      "order": 2,
+      "description": "Capitol 2: Metode aritmetice pentru rezolvare de probleme",
+      "capitole": [
+        {
+          "name": "Metode aritmetice de rezolvare a problemelor",
+          "order": 2,
+          "description": "5 lecții cu diverse metode aritmetice",
+          "lectii": [
+            {
+              "title": "L1 - Metoda reducerii la unitate",
+              "order": 1,
+              "summary": "Învață cum să folosești metoda reducerii la unitate pentru a rezolva probleme cu proporții.",
+              "theory": "Metoda reducerii la unitate constă în a afla valoarea pentru o unitate, apoi a o folosi pentru a afla valoarea pentru mai multe unități. Pași: 1) Afla valoarea pentru 1 unitate 2) Înmulțește cu numărul de unități dorit.",
+              "examples": [
+                "5 kg de orez costă 50 lei. Cât costă 3 kg? Răspuns: 1 kg costă 10 lei, deci 3 kg costă 30 lei."
+              ],
+              "tips": [
+                "Identifică ce trebuie redus la unitate",
+                "După ce afli valoarea pentru 1, înmulțește cu cantitatea dorită"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L2 - Metoda comparației",
+              "order": 2,
+              "summary": "Descoperă cum să compari situații pentru a rezolva sisteme simple de ecuații.",
+              "theory": "Metoda comparației constă în a exprima aceeași mărime în două moduri diferite și apoi a le egaliza. Pași: 1) Scrie două relații pentru aceeași mărime 2) Egalează-le 3) Rezolva pentru o variabilă 4) Găsește cealaltă variabilă.",
+              "examples": [
+                "3 kg de măr și 2 kg de pere costă 34 lei. 3 kg de măr și 4 kg de pere costă 46 lei. Diferența este 2 kg de pere = 12 lei, deci 1 kg de pere = 6 lei."
+              ],
+              "tips": [
+                "Încearcă să faci aceeași mărime în ambele expresii",
+                "Scade sau adună relațiile pentru a elimina o necunoscută"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "hard"
+            },
+            {
+              "title": "L3 - Metoda figurativă",
+              "order": 3,
+              "summary": "Folosește desene și figuri pentru a vizualiza și rezolva probleme.",
+              "theory": "Metoda figurativă constă în a reprezenta datele problemei prin segmente sau alte figuri geometrice. Pași: 1) Desenează segmente pentru fiecare mărime 2) Identifică relațiile 3) Calculează segmentul unitate 4) Afla celelalte mărimi.",
+              "examples": [
+                "Ana are de 3 ori mai mulți lei decât Bogdan, iar împreună au 400 lei. Desenezi 4 segmente egale (1 pentru Bogdan, 3 pentru Ana). 400 : 4 = 100 lei Bogdan, 300 lei Ana."
+              ],
+              "tips": [
+                "Desenul ajută foarte mult la înțelegere",
+                "Etichetează clar segmentele"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L4 - Metoda mersului invers",
+              "order": 4,
+              "summary": "Rezolvă probleme mergând de la final la început.",
+              "theory": "Metoda mersului invers se folosește când cunoști rezultatul final și trebuie să afli datele inițiale. Pași: 1) Pornim de la rezultatul final 2) Inversez operațiile (adunare devine scădere, etc.) 3) Merg în sens invers prin problemă.",
+              "examples": [
+                "M-am gândit la un număr. L-am înmulțit cu 2, apoi am adunat 5 și am obținut 17. La ce m-am gândit? Invers: (17 - 5) : 2 = 12 : 2 = 6."
+              ],
+              "tips": [
+                "Inverseaza corect operațiile",
+                "Lucreaza de la final la început"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "hard"
+            },
+            {
+              "title": "L5 - Metoda falsă ipoteză",
+              "order": 5,
+              "summary": "Învață cum să presupui o condiție falsă și să o corectezi.",
+              "theory": "Metoda falsă ipoteză constă în a presupune o condiție (de obicei cea mai simplă) și apoi a o corecta. Pași: 1) Presupune o situație simplă 2) Calculează rezultatul 3) Compară cu realitatea 4) Corectează.",
+              "examples": [
+                "Într-o curte sunt găini și iepuri, 10 capete și 28 picioare. Presupunem toate găini: 10 × 2 = 20 picioare. Diferența: 28 - 20 = 8 picioare. Fiecare iepure are 2 picioare în plus: 8 : 2 = 4 iepuri, deci 6 găini."
+              ],
+              "tips": [
+                "Alege o ipoteză care ușor de calculat",
+                "Gândește-te la diferență"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "hard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Divizibilitatea numerelor naturale",
+      "order": 3,
+      "description": "Capitol 3: Divizibilitatea numerelor naturale",
+      "capitole": [
+        {
+          "name": "Divizibilitatea numerelor naturale",
+          "order": 3,
+          "description": "3 lecții despre divizibilitate și numere prime",
+          "lectii": [
+            {
+              "title": "L1 - Criterii de divizibilitate",
+              "order": 1,
+              "summary": "Descoperă regulile rapide pentru a determina dacă un număr este divizibil cu altul.",
+              "theory": "Criteriile de divizibilitate sunt reguli care te ajută să determini rapid dacă un număr este divizibil cu altul fără a face împărțirea. Exemple: Div. cu 2 - ultima cifră este pară. Div. cu 5 - ultima cifră este 0 sau 5. Div. cu 10 - ultima cifră este 0. Div. cu 3 - suma cifrelor este div. cu 3. Div. cu 9 - suma cifrelor este div. cu 9.",
+              "examples": [
+                "120 este div. cu 2, 5, 10 (ultima cifră 0)",
+                "123 este div. cu 3 (1+2+3=6, div. cu 3)"
+              ],
+              "tips": [
+                "Memorează criteriile principale",
+                "Sunt reguli simplu și te ajută să calculezi mai rapid"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L2 - Numere prime. Numere compuse",
+              "order": 2,
+              "summary": "Înțelege diferența între numerele prime și cele compuse.",
+              "theory": "Număr prim: are exact doi divizori (1 și el însuși). Număr compus: are mai mult de doi divizori. Exemplu: 7 este prim (div. cu 1 și 7). 12 este compus (div. cu 1, 2, 3, 4, 6, 12).",
+              "examples": [
+                "Numere prime: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29",
+                "Numere compuse: 4, 6, 8, 9, 10, 12, 14, 15, 16"
+              ],
+              "tips": [
+                "1 nu este nici prim, nici compus",
+                "2 este singurul număr prim par"
+              ],
+              "estimatedTime": 11,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L3 - Cel mai mare divizor comun a două numere naturale. Amplificarea și simplificarea fracțiilor. Fracții ireductibile",
+              "order": 3,
+              "summary": "Aprinde cum să găsești CMMDC și cum se folosește la simplificarea fracțiilor.",
+              "theory": "CMMDC (Cel mai mare divizor comun) este cel mai mare număr care divide doi sau mai mulți numere. Se găsește prin factorizare. Simplificarea: împarte numărător și numitor la CMMDC. Fracție ireductibilă: nu mai poate fi simplificată.",
+              "examples": [
+                "CMMDC(12, 18) = 6",
+                "18/24 simplificat cu 6 = 3/4 (ireductibilă)",
+                "CMMDC(15, 25) = 5, deci 15/25 = 3/5"
+              ],
+              "tips": [
+                "Fracții ireductibile sunt mai ușor de lucrat",
+                "Simplifică mereu dacă se poate"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "hard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fracții ordinare",
+      "order": 4,
+      "description": "Capitol 4: Fracții ordinare",
+      "capitole": [
+        {
+          "name": "Fracții ordinare",
+          "order": 4,
+          "description": "10 lecții cu fracții ordinare și operații cu ele",
+          "lectii": [
+            {
+              "title": "L1 - Fracții ordinare. Fracții echivalente. Procente",
+              "order": 1,
+              "summary": "Înțelege ce sunt fracțiile ordinare și cum să recunoști fracții echivalente.",
+              "theory": "Fracție ordinară: a/b (a - numărător, b - numitor). Fracții echivalente: au aceeași valoare dar notații diferite. 1/2 = 2/4 = 3/6. Procent: fracție cu numitorul 100. 50% = 50/100 = 1/2.",
+              "examples": [
+                "2/4 și 1/2 sunt echivalente",
+                "25% = 25/100 = 1/4"
+              ],
+              "tips": [
+                "Fracții echivalente se obțin înmulțind numărător și numitor cu același număr",
+                "Procentele sunt fracții cu numitorul 100"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy"
+            },
+            {
+              "title": "L2 - Compararea fracțiilor cu același numitor/numărător",
+              "order": 2,
+              "summary": "Aprinde cum să compari fracții care au ceva în comun.",
+              "theory": "Comparare cu același numitor: mai mare este cea cu numărător mai mare. 3/8 > 2/8. Comparare cu același numărător: mai mare este cea cu numitor mai mic. 5/7 > 5/9.",
+              "examples": [
+                "5/9 > 3/9 (mai mare numărător)",
+                "3/5 > 3/8 (mai mic numitor)"
+              ],
+              "tips": [
+                "Cu același numitor, uită de numitor și compară numărători",
+                "Cu același numărător, mai mic numitor = fracție mai mare"
+              ],
+              "estimatedTime": 11,
+              "difficulty": "easy"
+            },
+            {
+              "title": "L3 - Introducerea și scoaterea întregilor dintr-o fracție",
+              "order": 3,
+              "summary": "Convertește între fracții improprii și numere mixte.",
+              "theory": "Fracție improprie: numărător ≥ numitor. Introduceți întregi: împarte numărător la numitor, catul sunt întregi, restul este numărătorul nou. Scoatere: a b/c = (a×c + b)/c.",
+              "examples": [
+                "17/5 = 3 2/5 (17 : 5 = 3 rest 2)",
+                "2 3/4 = 11/4 (2×4 + 3 = 11)"
+              ],
+              "tips": [
+                "Introducere: împarte și pune restul în fracție",
+                "Scoatere: înmulțește întregul cu numitor și adună numărător"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L4 - Cel mai mic multiplu comun a două numere naturale. Amplificarea și simplificarea fracțiilor. Fracții ireductibile",
+              "order": 4,
+              "summary": "Folosește CMMMC pentru a aduce fracții la același numitor.",
+              "theory": "CMMMC (Cel mai mic multiplu comun): cel mai mic număr care este multiplu al doi sau mai mulți numere. Se găsește prin factorizare. Amplificarea: înmulțește numărător și numitor cu același număr.",
+              "examples": [
+                "CMMMC(4, 6) = 12",
+                "2/4 și 3/6 la același numitor: 2/4 = 6/12, 3/6 = 6/12"
+              ],
+              "tips": [
+                "CMMMC este util pentru a aduna/scădea fracții",
+                "Amplificarea nu schimbă valoarea fracției"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "hard"
+            },
+            {
+              "title": "L5 - Adunarea și scăderea fracțiilor",
+              "order": 5,
+              "summary": "Învață să aduni și să scazi fracții ordinare.",
+              "theory": "Aceeași numitor: adună/scade numărători, numitorul rămâne. Numitori diferiți: găsește CMMMC, amplifică, apoi adună/scade.",
+              "examples": [
+                "3/8 + 2/8 = 5/8",
+                "1/4 + 1/6 = 3/12 + 2/12 = 5/12"
+              ],
+              "tips": [
+                "Nu aduna/scade numitorii, doar numărații",
+                "Găsește CMMMC pentru numitori diferiți"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L6 - Înmulțirea fracțiilor",
+              "order": 6,
+              "summary": "Descoperă cum să înmulțești fracții.",
+              "theory": "Înmulțire fracții: (a/b) × (c/d) = (a×c)/(b×d). Poți simplifica înainte de a înmulți.",
+              "examples": [
+                "2/3 × 3/4 = 6/12 = 1/2",
+                "2/3 × 3/4 = (2×3)/(3×4) = 6/12 = 1/2"
+              ],
+              "tips": [
+                "Simplifica înainte de a înmulți dacă se poate",
+                "Numărător cu numărător, numitor cu numitor"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L7 - Împărțirea a două numere naturale cu rezultat fracție zecimală; aplicație: media aritmetică a două sau mai multe numere naturale; transformarea unei fracții ordinare într-o fracție zecimală; periodicitate",
+              "order": 7,
+              "summary": "Aprinde cum să converți o fracție într-o zecimală și cum se calculează media.",
+              "theory": "Pentru a converti a/b în zecimală, împarte a la b. Media aritmetică = suma numerelor / câte numere sunt.",
+              "examples": [
+                "1/4 = 1 : 4 = 0,25",
+                "Media lui 2, 4, 6 = (2+4+6)/3 = 12/3 = 4"
+              ],
+              "tips": [
+                "Media aritmetică se mai numește și medie",
+                "La împărțire, continuă cu zerouri după virgulă"
+              ],
+              "estimatedTime": 13,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L8 - Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul; împărțirea a două fracții zecimale cu un număr finit de zecimale nenule. Transformarea unei fracții zecimale periodice în fracție ordinară",
+              "order": 8,
+              "summary": "Aprinde la opera cu fracții zecimale și conversia lor.",
+              "theory": "Zecimale periodice: 0,333... = 1/3. Pentru a converti: numărătorul = (numărul complet - partea neperiodică) : numitorul = 9 pentru fiecare cifră periodică și 0 pentru fiecare neperiodică.",
+              "examples": [
+                "0,3̄ = 1/3",
+                "0,16̄ = 15/90 = 1/6"
+              ],
+              "tips": [
+                "Identifică perioada (cifra/cifrele care se repetă)",
+                "Conversii sunt puțin complexe, practica multă"
+              ],
+              "estimatedTime": 13,
+              "difficulty": "hard"
+            },
+            {
+              "title": "L9 - Puterea cu exponent natural a unei fracții ordinare",
+              "order": 9,
+              "summary": "Ridică fracții la putere.",
+              "theory": "(a/b)^n = a^n / b^n. De exemplu: (2/3)^2 = 4/9.",
+              "examples": [
+                "(1/2)^3 = 1/8",
+                "(2/5)^2 = 4/25"
+              ],
+              "tips": [
+                "Ridică atât numărătorul cât și numitorul la putere",
+                "Simplifica rezultatul dacă se poate"
+              ],
+              "estimatedTime": 11,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L10 - Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară",
+              "order": 10,
+              "summary": "Calculează o parte dintr-un întreg.",
+              "theory": "a/b din c = (a/b) × c. De exemplu: 2/3 din 9 = (2/3) × 9 = 6. 20% din 50 = (20/100) × 50 = 10.",
+              "examples": [
+                "1/4 din 20 = 5",
+                "50% din 80 = 40"
+              ],
+              "tips": [
+                "'Din' înseamnă 'înmulțit cu'",
+                "Convertește procentele în fracții cu numitor 100"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fracții zecimale",
+      "order": 5,
+      "description": "Capitol 5: Fracții zecimale",
+      "capitole": [
+        {
+          "name": "Fracții zecimale",
+          "order": 5,
+          "description": "13 lecții cu fracții zecimale și operații",
+          "lectii": [
+            {
+              "title": "L1 - Fracții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub formă de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale nenule în fracție ordinară",
+              "order": 1,
+              "summary": "Convertește între fracții ordinare cu numitori 10, 100, 1000... și zecimale.",
+              "theory": "O fracție zecimală este o fracție ordinară cu numitor o putere a lui 10. 3/10 = 0,3 | 5/100 = 0,05 | 7/1000 = 0,007. Inversul: 0,25 = 25/100 = 1/4.",
+              "examples": [
+                "4/10 = 0,4",
+                "25/100 = 0,25",
+                "0,6 = 6/10 = 3/5"
+              ],
+              "tips": [
+                "Numărul de zecimale = puterea lui 10",
+                "0,25 are 2 zecimale, deci numitor 100"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy"
+            },
+            {
+              "title": "L2 - Aproximări; compararea, ordonarea și reprezentarea pe axa numerelor a unor fracții zecimale cu un număr finit de zecimale",
+              "order": 2,
+              "summary": "Compară și ordonează zecimalele.",
+              "theory": "Comparare: compară pe fiecare poziție de la stânga la dreapta. 0,5 > 0,45 (pentru că 5 > 4 la poziția zecimilor). Aproximare: rotunjire la zecimi, sutimi, etc.",
+              "examples": [
+                "0,75 > 0,7",
+                "0,333 ≈ 0,33 (rotunjire la sutimi)"
+              ],
+              "tips": [
+                "Adaugă zerouri la dreapta pentru a ușura compararea",
+                "La rotunjire, privește cifra din dreapta"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy"
+            },
+            {
+              "title": "L3 - Adunarea și scăderea fracțiilor zecimale cu un număr finit de zecimale nenule",
+              "order": 3,
+              "summary": "Adună și scade zecimalele.",
+              "theory": "Aliniază virgulele și adună/scade coloane. 2,5 + 1,3 = 3,8 | 5,7 - 2,4 = 3,3.",
+              "examples": [
+                "1,25 + 2,5 = 3,75",
+                "10 - 3,7 = 6,3"
+              ],
+              "tips": [
+                "Aliniează întotdeauna virgulele",
+                "Adaugă zerouri dacă este necesar (10,00 - 3,70)"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy"
+            },
+            {
+              "title": "L4 - Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule",
+              "order": 4,
+              "summary": "Înmulțește zecimalele.",
+              "theory": "Înmulțește ca și cum nu ar fi virgulă. Apoi, numără zecimalele totale în factorii și pune virgula acolo în rezultat. 1,5 × 2 = 3,0 | 0,5 × 0,2 = 0,10.",
+              "examples": [
+                "2,5 × 4 = 10",
+                "1,2 × 3,5 = 4,20 = 4,2"
+              ],
+              "tips": [
+                "Ignora virgula la înmulțire",
+                "Zecimalele în rezultat = suma zecimalelor factorilor"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L5 - Împărțirea a două numere naturale cu rezultat fracție zecimală; aplicație: media aritmetică a două sau mai multe numere naturale; transformarea unei fracții ordinare într-o fracție zecimală; periodicitate",
+              "order": 5,
+              "summary": "Împarte pentru a obține zecimale și calculează medii.",
+              "theory": "Împărțire: 5 : 4 = 1,25. Media aritmetică: suma / cantitate = (2 + 4 + 6) / 3 = 4. Zecimalele periodice se repetă: 1/3 = 0,333...",
+              "examples": [
+                "7 : 2 = 3,5",
+                "Media lui 10, 20 = 15"
+              ],
+              "tips": [
+                "Continua cu zerouri după virgulă la împărțire",
+                "Perioada se notează cu o bară deasupra"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L6 - Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul; împărțirea a două fracții zecimale cu un număr finit de zecimale nenule. Transformarea unei fracții zecimale periodice în fracție ordinară",
+              "order": 6,
+              "summary": "Împarte zecimalele și convertește periodice în ordinare.",
+              "theory": "Împărțire: 3,6 : 2 = 1,8 | 1,5 : 0,5 = 3. Periodice: 0,3̄ = 3/9 = 1/3.",
+              "examples": [
+                "10,5 : 3 = 3,5",
+                "0,5̄ = 5/9"
+              ],
+              "tips": [
+                "La împărțire cu zecimale, mută virgula",
+                "Periodicitate: numără cifrele care se repetă"
+              ],
+              "estimatedTime": 13,
+              "difficulty": "hard"
+            },
+            {
+              "title": "L7 - Puterea cu exponent natural a unei fracții zecimale cu un număr finit de zecimale nenule",
+              "order": 7,
+              "summary": "Ridică zecimalele la putere.",
+              "theory": "(0,5)^2 = 0,25 | (1,5)^2 = 2,25. Ridicare la putere: înmulțește zecimala cu ea însăși de n ori.",
+              "examples": [
+                "(0,1)^2 = 0,01",
+                "(2,5)^2 = 6,25"
+              ],
+              "tips": [
+                "Zecimalele se înmulțesc ca și cum nu ar fi virgulă",
+                "După care pune virgula în poziția corectă"
+              ],
+              "estimatedTime": 11,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L8 - Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară",
+              "order": 8,
+              "summary": "Calculează procentaje și părți dintr-un întreg.",
+              "theory": "20% din 50 = 0,2 × 50 = 10. 0,5 din 80 = 0,5 × 80 = 40.",
+              "examples": [
+                "30% din 100 = 30",
+                "0,25 din 40 = 10"
+              ],
+              "tips": [
+                "Convertește procentele în zecimale (20% = 0,2)",
+                "'Din' înseamnă 'înmulțit cu'"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L9 - Apropiri; compararea, ordonarea și reprezentarea pe axa numerelor a unor fracții zecimale cu un număr finit de zecimale",
+              "order": 9,
+              "summary": "Lucreaza cu aproximări și reprezentări.",
+              "theory": "Rotunjire: 2,47 ≈ 2,5 (la zecimi). 3,14159 ≈ 3,14 (la sutimi). Reprezentare pe axă: plasează zecimalele corect.",
+              "examples": [
+                "0,67 ≈ 0,7 (la zecimi)",
+                "5,243 ≈ 5,24 (la sutimi)"
+              ],
+              "tips": [
+                "Privește cifra din dreapta pentru rotunjire",
+                "Dacă >= 5, rotunjesc în sus, altfel în jos"
+              ],
+              "estimatedTime": 11,
+              "difficulty": "easy"
+            },
+            {
+              "title": "L10 - Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul",
+              "order": 10,
+              "summary": "Împarte zecimalele la numere naturale.",
+              "theory": "3,6 : 2 = 1,8. Plasează virgula în rezultat după cât de multe cifre are deîmpărțitul înainte de virgulă.",
+              "examples": [
+                "12,4 : 4 = 3,1",
+                "0,36 : 3 = 0,12"
+              ],
+              "tips": [
+                "Aliniază corect virgulele",
+                "Verifica prin înmulțire"
+              ],
+              "estimatedTime": 11,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L11 - Împărțirea a două fracții zecimale cu un număr finit de zecimale nenule",
+              "order": 11,
+              "summary": "Împarte o zecimală la alta.",
+              "theory": "1,5 : 0,5 = 3. Mută virgula la ambele numere pentru a face împărțitorul întreg: 1,5 : 0,5 = 15 : 5 = 3.",
+              "examples": [
+                "2,4 : 0,6 = 24 : 6 = 4",
+                "0,12 : 0,04 = 12 : 4 = 3"
+              ],
+              "tips": [
+                "Mută virgula cu același număr de poziții în ambele numere",
+                "Fă împărțitorul întreg"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L12 - Medii aritmetice a două sau mai multe numere naturale; transformarea unei fracții ordinare într-o fracție zecimală; periodicitate",
+              "order": 12,
+              "summary": "Calculează medii și transformă fracții.",
+              "theory": "Media aritmetică: (a + b + c + ...) / n. Conversie: 1/3 = 0,333... = 0,3̄.",
+              "examples": [
+                "Media lui 5, 10, 15 = 30 / 3 = 10",
+                "2/5 = 0,4"
+              ],
+              "tips": [
+                "Media este suma / cantitate",
+                "Periodicitatea apare când nu se poate divide exact"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L13 - Ordinea efectuării operațiilor; utilizarea parantezelor; media aritmetică",
+              "order": 13,
+              "summary": "Lucreaza cu ordinea operațiilor și calculează medii complexe.",
+              "theory": "Ordinea: paranteze, puteri, înmulțire/împărțire, adunare/scădere. Media ponderată: (a×p1 + b×p2) / (p1 + p2).",
+              "examples": [
+                "(1,5 + 2,5) × 2 = 4 × 2 = 8",
+                "Media ponderată a 8 (pondere 2) și 6 (pondere 3) = (8×2 + 6×3) / 5 = 34 / 5 = 6,8"
+              ],
+              "tips": [
+                "Mereu respecta ordinea operațiilor",
+                "Lucreaza din paranteă spre exterior"
+              ],
+              "estimatedTime": 13,
+              "difficulty": "hard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elemente de geometrie și unități de măsură",
+      "order": 6,
+      "description": "Capitol 6: Elemente de geometrie și unități de măsură",
+      "capitole": [
+        {
+          "name": "Elemente de geometrie și unități de măsură",
+          "order": 6,
+          "description": "11 lecții cu concepte geometrice și unități de măsură",
+          "lectii": [
+            {
+              "title": "L1 - Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
+              "order": 1,
+              "summary": "Înțelege elementele fundamentale ale geometriei.",
+              "theory": "Punct: nu are dimensiuni. Dreaptă: infinită în ambele direcții. Semidreaptă: are un punct de plecare dar nu are sfărșit. Segment: are două capete. Plan: o suprafață infinită. Semiplan: plan împărțit de o dreaptă.",
+              "examples": [
+                "Punctul A",
+                "Dreapta AB",
+                "Semidreapta [AB",
+                "Segmentul [AB]"
+              ],
+              "tips": [
+                "Notează punctele cu litere mari",
+                "Notează dreptele cu litere mici (d, e, f)"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy"
+            },
+            {
+              "title": "L2 - Poziții relative ale unui punct față de o dreaptă. Puncte colinare. Poziții relative a două drepte: drepte identice, drepte concurente, drepte paralele",
+              "order": 2,
+              "summary": "Explore relațiile dintre puncte și drepte.",
+              "theory": "Punct pe dreaptă: punctul aparține dreptei. Punct nu pe dreaptă: punctul nu aparține dreptei. Puncte colinare: se află pe aceeași dreaptă. Drepte paralele: nu se intersectează. Drepte concurente: se intersectează într-un punct.",
+              "examples": [
+                "Punctul A aparține dreptei d",
+                "A, B, C sunt colinare"
+              ],
+              "tips": [
+                "Drepte paralele se notează cu ||",
+                "Drepte concurente se notează cu ∩"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy"
+            },
+            {
+              "title": "L3 - Lungimea unui segment. Simetricul unui punct față de un punct",
+              "order": 3,
+              "summary": "Măsoară segmente și găsește puncte simetrice.",
+              "theory": "Lungimea unui segment AB se notează |AB|. Simetricul punctului A față de M: dacă M este la mijloc, atunci distanța AM = MB.",
+              "examples": [
+                "|AB| = 5 cm",
+                "Simetricul lui 2 față de 5 este 8 (5 - 2 = 3, 5 + 3 = 8)"
+              ],
+              "tips": [
+                "Lungimea nu poate fi negativă",
+                "Simetricul se calculează: simetricul = 2 × punct_ref - punct"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "easy"
+            },
+            {
+              "title": "L4 - Unghiu: definiție, notații, elemente, interiorul unui unghi, exteriorul unui unghi",
+              "order": 4,
+              "summary": "Înțelege unghiurile și componentele lor.",
+              "theory": "Unghi: format din două semidrepte cu aceeași origine. Vârf: punctul de plecare. Laturi: semidreptele. Notație: ∠ABC sau ∠B. Interior: punctele în interiorul unghiului. Exterior: punctele în afara unghiului.",
+              "examples": [
+                "Unghi drept = 90°",
+                "Unghi ascuțit < 90°",
+                "Unghi obtuz > 90°"
+              ],
+              "tips": [
+                "Vârful unghiului se notează în mijloc",
+                "Unghiurile se măsoară în grade (°)"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L5 - Unghiu: definiție, notații, elemente, interiorul unui unghi, exteriorul unui unghi. Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+              "order": 5,
+              "summary": "Clasifica unghiurile și fă calcule.",
+              "theory": "Unghi nul: 0°. Unghi ascuțit: 0° < a < 90°. Unghi drept: 90°. Unghi obtuz: 90° < a < 180°. Unghi alungit: 180°. Unghi complet: 360°.",
+              "examples": [
+                "45° este unghi ascuțit",
+                "120° este unghi obtuz"
+              ],
+              "tips": [
+                "Memorează unghiurile speciale",
+                "Unghiurile complementare sumează la 90°"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L6 - Figuri congruente. Axa de simetrie",
+              "order": 6,
+              "summary": "Identifică figuri identice și axe de simetrie.",
+              "theory": "Congruente: au aceeași formă și dimensiune. Axa de simetrie: o linie care împarte figura în două jumătăți identice.",
+              "examples": [
+                "Două pătrate de aceeași dimensiune sunt congruente",
+                "Un pătrat are 4 axe de simetrie"
+              ],
+              "tips": [
+                "Simetria se găsește prin pliere",
+                "O figură poate avea mai multe axe de simetrie"
+              ],
+              "estimatedTime": 11,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L7 - Mijlocul unui segment. Simetricul unui punct față de un punct",
+              "order": 7,
+              "summary": "Găsește mijlocul segmentelor și puncte simetrice.",
+              "theory": "Mijlocul lui AB: punctul M cu |AM| = |MB|. Coordonate: M = (A + B) / 2.",
+              "examples": [
+                "Mijlocul lui [0, 10] este 5",
+                "Mijlocul lui [2, 8] este 5"
+              ],
+              "tips": [
+                "Mijlocul se calculează ca medie aritmetică",
+                "Simetricul unui punct M față de P: M' = 2P - M"
+              ],
+              "estimatedTime": 11,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L8 - Unghiuri: definiție, notații, elemente, interiorul unui unghi, exteriorul unui unghi. Măsura unui unghi. Unghiuri congruente",
+              "order": 8,
+              "summary": "Măsoară și compară unghiuri.",
+              "theory": "Măsura unghiului se face cu raportor. Unghiuri congruente: au aceeași măsură.",
+              "examples": [
+                "∠ABC ≅ ∠DEF dacă m(∠ABC) = m(∠DEF)"
+              ],
+              "tips": [
+                "Raportor: plasează centrul pe vârf",
+                "Citește pe scala corectă"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L9 - Unități de măsură pentru lungime. Aplicații: aria pătratului/dreptunghiului",
+              "order": 9,
+              "summary": "Lucreaza cu unități de lungime și calculează arii.",
+              "theory": "Unități: mm, cm, dm, m, dam, hm, km. 1 m = 10 dm = 100 cm = 1000 mm. Aria pătrat: l². Aria dreptunghi: l × L.",
+              "examples": [
+                "5 m = 50 dm = 500 cm",
+                "Aria unui pătrat cu latura 3 cm = 9 cm²"
+              ],
+              "tips": [
+                "Conversii: ×10 pentru fiecare pas mic",
+                "Aria = lungime × lățime"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L10 - Unități de măsură pentru arie",
+              "order": 10,
+              "summary": "Măsoară suprafețe.",
+              "theory": "Unități: mm², cm², dm², m², dam², hm², km². 1 m² = 100 dm² = 10000 cm². Hectar (ha) = 10000 m².",
+              "examples": [
+                "5 m² = 500 dm²",
+                "1 ha = 10000 m²"
+              ],
+              "tips": [
+                "Arii: ×100 pentru fiecare pas",
+                "1 ha folosit pentru terenuri mari"
+              ],
+              "estimatedTime": 11,
+              "difficulty": "medium"
+            },
+            {
+              "title": "L11 - Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic",
+              "order": 11,
+              "summary": "Calculează volume de solide simple.",
+              "theory": "Unități: mm³, cm³, dm³, m³. 1 m³ = 1000 dm³ = 1000000 cm³. Volum cub: l³. Volum paralelipipedu: l × L × h.",
+              "examples": [
+                "Volum cub cu latura 2 cm = 8 cm³",
+                "Volum paralelipipedu cu dimensiuni 2, 3, 4 = 24 cm³"
+              ],
+              "tips": [
+                "Volume: ×1000 pentru fiecare pas",
+                "Litera: 1 dm³ = 1 l"
+              ],
+              "estimatedTime": 12,
+              "difficulty": "hard"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
