@@ -15,34 +15,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Comunicare și limba - procesul comunicării",
+              "theory": "Comunicarea este schimbul de mesaje între persoane pentru a transmite idei, sentimente și informații.\n\nELEMENTELE COMUNICĂRII:\n1. Emiţător (vorbitor) - persoana care trimite mesajul\n2. Receptor (ascultător) - persoana care primește mesajul\n3. Mesaj - informația transmisă\n4. Canal - calea prin care se transmite (vorbire, scris, gesturi)\n5. Cod - limbajul folosit (limba română, cifre, gesturi)\n6. Context - situația în care se comunică\n\nTIPURI DE COMUNICARE:\n- Verbală: folosesc cuvinte (vorbire, scris)\n- Nonverbală: fără cuvinte (gesturi, expresia feței, ton de voce)\n- Paraverbală: modul cum se spun lucrurile (intonație, ritm, volum)",
+              "examples": [
+                "Comunicare verbală: o conversație între doi prieteni",
+                "Comunicare nonverbală: zâmbetul unei mame",
+                "Comunicare paraverbală: vorbitul rar și clar vs. grăbit și ageresiv",
+                "Comunicare scrisă: o scrisoare, un mesaj pe telefon"
+              ],
+              "tips": [
+                "Ascultă cu atenție înainte de a răspunde",
+                "Observă expresiile faciale și limbajul corpului",
+                "Vorbește clar și cu voce puternică pentru a fi auzit",
+                "Pune întrebări pentru a clarifica mesajul"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cine este emiţătorul în procesul comunicării?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Persoana care primește mesajul",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Acela este receptorul"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Persoana care trimite mesajul",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Emiţătorul este cel care comunică"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Mesajul în sine",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Mesajul este informația"
+                  },
+                  {
+                    "text": "Canalul de transmisie",
+                    "correct": false,
+                    "explanation": "Canalul este calea"
                   }
                 ]
               }
@@ -50,34 +60,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Sunetele limbii - pronunția și ortografia",
+              "theory": "Limba română are 25 de sunete (foneme) care se reprezintă prin litere în scris.\n\nSUNETE ȘI LITERE:\n- Vocale: a, e, i, o, u - se pronunță liber, fără obstrucție\n- Consoane: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z - pronunția este blocată\n- Semivocale: w, y\n\nASPECTE ALE PRONUNȚIEI:\n- Diftongii: ae, ai, au, ea, ei, eu, ia, ie, io, iu, oa, oi, ou, ua, ue, ui, uo (două vocale într-o silabă)\n- Trifongii: trei vocale într-o silabă (iau, eau, uia)\n\nORTOGRAFIA:\n- Regulile de ortografie ne ajută să scriem corect\n- Literele se scriu mare la începutul propoziției și al numelor proprii\n- Accentul indică pe care silabă cade accentul tonal",
+              "examples": [
+                "Diftong: \"bai\" (ba-i), \"glas\" (gla-s)",
+                "Trifong: \"miau\" (mia-u), \"frumos\" (fru-mos)",
+                "Pronunție corectă vs. incorectă: \"psiholog\" (psi-ho-log) nu (psi-log)",
+                "Ortografia numelor: Maria, București, Dunărea (cu maiusculă)"
+              ],
+              "tips": [
+                "Ascultă cu atenție vorbitori nativi",
+                "Repetă cuvintele greu de pronunțat",
+                "Folosiți dictionare cu transcriere fonetică",
+                "Citește cu voce tare pentru a exersa pronunția"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Câte vocale are alfabetul românesc?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Vocalele sunt: a, e, i, o, u"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Incorect"
                   }
                 ]
               }
@@ -85,34 +105,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Cuvântul și clasificarea cuvintelor",
+              "theory": "Cuvântul este unitatea limbajului care are o formă și o semnificație.\n\nPĂRȚI DE VORBIRE (Clasificarea cuvintelor):\n1. SUBSTANTIV - denumește persoane, animale, obiecte, idei (copil, pisică, masă, bucurie)\n2. ADJECTIV - descrie proprietăți ale substantivelor (frumos, mic, roșu, inteligent)\n3. PRONUME - înlocuiește substantivul (eu, tu, el, ea, noi, voi, ei)\n4. VERB - exprimă acțiuni sau stări (a merge, a mânca, a fi, a dormi)\n5. ADVERBUL - descrie cum, când, unde se întâmplă acțiunea (repede, azi, acolo)\n6. PREPOZIȚIE - indică relații între cuvinte (în, pe, sub, lângă, pentru)\n7. CONJUNCȚIE - leagă propoziții sau cuvinte (și, sau, dacă, deoarece)\n8. INTERJECȚIE - exprimă sentimente (aia!, oh!, bravo!)\n\nSINGULARUL ȘI PLURALUL:\n- Singular: un obiect (copil, copilă)\n- Plural: mai mulți obiecți (copii, copile)",
+              "examples": [
+                "Substantive: cărți, copii, mese, flori",
+                "Adjective: frumos, vesel, negru, mare",
+                "Verbe: citi, merge, mânca, dormi",
+                "Adverburi: rapid, ieri, sus, agale"
+              ],
+              "tips": [
+                "Căutați substantivele în propoziție - acestea sunt de obicei cuvintele principale",
+                "Adjectivele descriu intotdeauna un substantiv",
+                "Verbele exprimă acțiune sau stare",
+                "Exercitații: Identifica parțile de vorbire într-o propoziție"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Ce parte de vorbire este cuvântul \"frumos\" în propoziția: \"Copilul este frumos\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Substantiv",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Substantivele sunt \"copil\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Verb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Verbul este \"este\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Adjectiv",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Frumos\" descrie o proprietate"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Adverb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Adverburile descriu cum se întâmplă ceva"
                   }
                 ]
               }
@@ -120,34 +150,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Substantivul - genul și numărul",
+              "theory": "Substantivul este cuvântul care denumește persoane, animale, obiecte și idei.\n\nGENUL SUBSTANTIVULUI (masculin/feminin):\n- Masculin: se referă la bărbați, animale mascule, obiecte neutre (băiat, moș, crab, pom)\n- Feminin: se referă la femei, animale femele (fată, nană, păsărică, masă)\n\nRECUNOAȘTEREA GENULUI:\n- Sufixele masculine: -u, -or, -ar (om, profesor, pescar)\n- Sufixele feminine: -ă, -e, -ie, -ție (fată, carte, perie, frumusețe)\n\nPLURALUL SUBSTANTIVELOR:\n- Masculin singular → masculin plural: băiat → băieți, om → oameni\n- Feminin singular → feminin plural: fată → fete, carte → cărți\n\nGENUL NEUTER:\n- În limba română, cuvintele care sunt neutre în alte limbi sunt masculine sau feminine (copil-masculin, mână-feminin)",
+              "examples": [
+                "Substantive masculine: copil, om, pom, glas",
+                "Substantive feminine: fată, mamă, masă, carte",
+                "Plural masculin: copii, oameni, pomi, glasuri",
+                "Plural feminin: fete, mame, mese, cărți"
+              ],
+              "tips": [
+                "Observă terminația cuvântului pentru a determina genul",
+                "Articolul îți ajută: \"un, o, unii, unele\"",
+                "Unele cuvinte au plural neregulat: om-oameni, copil-copii",
+                "Practica cu articole: \"un corabie\" vs. \"o corabie\""
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Care cuvânt este substantiv feminin?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "copil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Copil este masculin"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "pom",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Pom este masculin"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "carte",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Carte este substantiv feminin"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "om",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Om este masculin"
                   }
                 ]
               }
@@ -155,34 +195,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adjectivul - acordul cu substantivul",
+              "theory": "Adjectivul este cuvântul care descrie o proprietate a substantivului și TREBUIE SĂ SE ACORDE cu acesta.\n\nACORDUL ADJECTIVULUI:\n- Adjectivul se schimbă în gen și număr după substantivul pe care îl descrie\n- Exemplu: copil frumos → copii frumoși (feminin: fată frumoasă → fete frumoase)\n\nTRECEREA ADJECTIVELOR LA PLURAL:\n- Masculin: frumos → frumoși, glas → glasuri\n- Feminin: frumoasă → frumoase\n\nPOZIȚIA ADJECTIVULUI:\n- Înaintea substantivului: \"omul bun\"\n- După substantiv: \"omul bun\" sau \"bunul om\"\n\nGRADELE ADJECTIVULUI:\n- Grad pozitiv: frumos\n- Grad comparativ: mai frumos, mai puțin frumos\n- Grad superlativ: cel mai frumos (cel mai puțin frumos)",
+              "examples": [
+                "Acord: casa roșie, case roșii, copil frumos, copii frumoși",
+                "Comparativ: El este mai inteligent decât mine",
+                "Superlativ: Aceasta este cea mai frumoasă carte din bibliotecă",
+                "Pozitie: părul negru vs. negrul păr (ambele sunt corecte)"
+              ],
+              "tips": [
+                "Observă genul și numărul substantivului pentru a acorda adjectivul",
+                "Unele adjective nu se schimbă: culori simple (roșu, albastru), unele adjective derivate",
+                "Folosiți \"mai\" pentru comparativ și \"cel mai/cea mai\" pentru superlativ",
+                "Adjectivele derivate din alte limbi rămân neschimbate uneori"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Cum se transformă adjectivul \"frumos\" pentru a se acorda cu \"fete\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "frumoși",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoși este pentru masculin plural"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "frumoase",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Frumoase este feminin plural"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "frumoasă",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoasă este feminin singular"
+                  },
+                  {
+                    "text": "frumoastă",
+                    "correct": false,
+                    "explanation": "Nu este forma corectă"
                   }
                 ]
               }
@@ -190,34 +240,45 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Verbul - timpurile și modurile",
+              "theory": "Verbul exprimă o acțiune, o stare sau o întâmplare.\n\nTIMPURILE VERBALE:\n1. PREZENT: se întâmplă acum (eu merg, tu mergi, el merge)\n2. TRECUT: s-a întâmplat deja\n   - Perfectul simplu: am mers, ai mers (acțiune încheiată)\n   - Perfectul compus: am mercat, ai mercat\n   - Imperfectul: mergeam, mergeai (acțiune trecută care se repeta)\n3. VIITOR: se va întâmpla mai târziu\n   - Viitorul apropiat: o să merg, voi merge\n   - Viitorul depărtat: voi fi mers\n\nMODURILE VERBALE:\n1. Indicativ - afirmă o acțiune reală (eu merg)\n2. Condițional - exprimă o acțiune posibilă (aș merge dacă)\n3. Conjunctiv - exprimă dorință, teamă, îndoială (să merg)\n4. Imperativ - dă ordine (mergi! mergeți!)\n\nASPECTUL VERBAL:\n- Aspect perfective: acțiune încheiată (a scrie - am scris)\n- Aspect imperfective: acțiune în curs (a scrisa - scriam)",
+              "examples": [
+                "Prezent: Eu citesc cartea acum",
+                "Trecut: Ieri am citit cartea",
+                "Viitor: Mâine voi citi cartea",
+                "Condițional: Aș citi cartea dacă aș avea timp",
+                "Imperativ: Citește cartea!"
+              ],
+              "tips": [
+                "Coniugă verbele regulate pentru a înțelege modelul",
+                "Unele verbe sunt neregulate: a fi (sunt, ești, este), a avea (am, ai, are)",
+                "Folosiți timpurile corecte pentru a exprima corect ideile",
+                "Practica cu diferitele timpuri și moduri"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "În ce timp se află verbul în propoziția: \"Ieri am citit o carte\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Prezent",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Prezentul ar fi: citesc"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Trecut (Perfectul compus)",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Am citit\" este trecut"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Viitor",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Viitorul ar fi: voi citi"
+                  },
+                  {
+                    "text": "Condițional",
+                    "correct": false,
+                    "explanation": "Condiționalul ar fi: aș citi"
                   }
                 ]
               }
@@ -225,34 +286,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Propoziția simplă - structura și funcțiile cuvintelor",
+              "theory": "Propoziția este o unitate de limbă care exprimă o idee completă și are cel puțin o predicație.\n\nPROPOZIȚIA SIMPLĂ are o singură predicație și conține:\n\nFUNCȚIILE CUVINTELOR:\n1. SUBIECTUL - ce/cine se vorbește (Copilul citește)\n2. PREDICATUL - ce se spune despre subiect (Copilul CITEȘTE o carte)\n3. COMPLEMENT DIRECT - cine/ce primește acțiunea (Copilul citește CARTEA)\n4. COMPLEMENT INDIRECT - cui/cui se spune (Dau cadoul PRIETENEI)\n5. COMPLEMENT CIRCUMSTANȚIAL - unde, când, cum, de ce\n   - de timp: AZI am venit\n   - de loc: Am venit în CASĂ\n   - de mod: A venit REPEDE\n6. ATRIBUT - descrie un obiect (Un copil FRUMOS)\n\nORDINEA NATURAL: Subiect + Predicat + Complementele\n\nPUNCTUAȚIA:\n- . (punct) - sfârșit de propoziție\n- , (virgulă) - desparte parți\n- ! (exclamation) - expresii emoționate\n- ? (întrebare) - pentru întrebări",
+              "examples": [
+                "Propoziție: \"Copilul frumos citește cartea roșie în bibliotecă.\"",
+                "Subiect: copilul, Predicat: citește, Complement direct: cartea",
+                "Complement circumst. de loc: în bibliotecă",
+                "Atribut: frumos (pentru copil), roșie (pentru carte)"
+              ],
+              "tips": [
+                "Identifică mai întâi verbul pentru a găsi predicatul",
+                "Pune întrebări: Cine? (subiect), Ce? (complement direct)",
+                "Unde? Când? Cum? (complement circumstanțial)",
+                "Nu uita de semne de punctuație!"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce funcție are cuvântul \"cartea\" în propoziția: \"Copilul citește cartea\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Subiect",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Subiectul este \"copilul\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Predicat",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Predicatul este \"citește\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Complement direct",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Cartea primește acțiunea citirii"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Complement circumstanțial",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lipsește în această propoziție"
                   }
                 ]
               }
@@ -260,34 +331,45 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Textul și tipuri de texte - narațiune, descriere, dialog",
+              "theory": "Textul este o succesiune de propoziții organizate pentru a exprima idei complete.\n\nTIPURI DE TEXTE:\n\n1. NARAȚIUNE - Povestește o întâmplare\n   - Are o succesiune de evenimente\n   - Personaje care acționează\n   - Ordinea cronologică (ceea ce se întâmplă mai întâi)\n   - Exemple: povești, fapte cărți, aventuri\n\n2. DESCRIERE - Prezintă o persoană, obiect sau peisaj\n   - Detalii despre cum arată ceva\n   - Adjective și adverbe descriptive\n   - Poate fi descriptivă (cum arată) sau emoțională (cum simți)\n   - Exemple: portrete, peisaje, descrieri de locuri\n\n3. DIALOG - Conversație între persoane\n   - Fiecare vorbă este pe rând\n   - Ghilimele pentru vorbele directe\n   - Cuvinte care introduc dialogul\n   - Exemplu: \"Bună!\" zise Maria. \"Bună!\" răspunse Ion.\n\n4. TEXT INSTRUCTIV/EXPLICATIV\n   - Explică cum să faci ceva\n   - Are pași clari\n   - Ordine logică\n   - Exemple: rețete, instrucțiuni",
+              "examples": [
+                "Narațiune: \"Un copil a plecat pe o călătorie... și s-a întors acasă\"",
+                "Descriere: \"Casa avea ferestre mari cu perdele albe...\"",
+                "Dialog: \"—Vii cu mine?\\n—Nu, sunt ocupat.\"",
+                "Text instructiv: \"Pentru a face o prăjituri: 1. Amesteci... 2. Pui-o la cuptor...\""
+              ],
+              "tips": [
+                "Identifică tipul de text pentru a-l citi mai bine",
+                "Folosiți organizatori grafici (diagrame) pentru a planifica",
+                "Narațiunea trebuie să aibă o ordine logică",
+                "Descrierea folosește mulți detalii și adjective",
+                "Dialogul trebuie să sune natural"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Care din următoarele este o narațiune?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "O descriere a unei case frumoase",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este descriere"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "O conversație între doi prieteni",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este dialog"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "O poveste despre o aventură în pădure",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Povestea este narațiune"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Instrucțiuni pentru a face o prăjitura",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este text instructiv"
                   }
                 ]
               }
@@ -295,34 +377,44 @@
             {
               "title": "L9 - Lecția 9",
               "order": 9,
-              "summary": "Lecția 9",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Redactarea unui text. Redactarea unui răspuns la o întrebare",
+              "theory": "Redactarea este procesul de a pune în cuvinte idei și gânduri într-o formă scrisă, structurată și coerentă.\n\n    Redactarea unui text trebuie să respecte următoarele principii:\n    1. Claritate: Ideile trebuie să fie clare și ușor de înțeles\n    2. Coerență: Enunțurile trebuie să se conecteze logic\n    3. Corectitudine: Respectarea regulilor de ortografie și punctuație\n    4. Completitudine: Includerea tuturor informațiilor esențiale\n\n    Când redactezi un răspuns la o întrebare:\n    - Citeș cu atenție întrebarea\n    - Identifică ce se cere exact\n    - Structurează răspunsul logic\n    - Folosește cuvinte potrivite și exprimări corecte\n    - Revizuiește răspunsul înainte de a-l finaliza\n\n    Exemplu de structură: Introducere → Dezvoltare → Concluzie",
+              "examples": [
+                "La întrebarea \"Ce este comunicarea?\" - răspunsul trebuie să definească conceptul și să dea exemple",
+                "La o întrebare despre o poveste - trebuie să iei în considerare aspecte precum: personaje, acțiune, mesaj",
+                "La o întrebare de analiză - trebuie să explici cumulative, nu doar să enumeri fapte",
+                "La o întrebare de opinie - trebuie să-ți susții punctul de vedere cu argumente"
+              ],
+              "tips": [
+                "Planifică răspunsul înainte de a scrie: note rapide cu ideile principale",
+                "Folosește propoziții complete și variază lungimea și structura lor",
+                "Citește răspunsul din nou pentru a verifica dacă are sens și dacă e complet",
+                "Nu ignora punctuația - virgulele și punctele sunt importante pentru claritate"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 9?",
+                "text": "Ce este esențial în redactarea unui răspuns la o întrebare?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "A scrie cât mai mult posibil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lungimea nu este criteriu - este importantă claritatea"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "A înțelege bine întrebarea și a raspunde la ceea ce se cere",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! Trebuie să citești cu atenție și să răspunzi exact la ceea ce se întreabă ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "A folosi cuvinte cât mai complicate",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Claritatea este mai importantă decât complexitatea cuvintelor"
+                  },
+                  {
+                    "text": "A copia din cărți fără a modifica nimic",
+                    "correct": false,
+                    "explanation": "Trebuie să exprimi ideile cu cuvinte proprii"
                   }
                 ]
               }
@@ -330,34 +422,44 @@
             {
               "title": "L10 - Lecția 10",
               "order": 10,
-              "summary": "Lecția 10",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Comunicare orală și redactare",
+              "theory": "Comunicarea orală este transmiterea mesajelor prin cuvânt vorbit, cu voce, intonație și gestivă.\n    Redactarea (comunicarea scrisă) transmite mesaje prin text scris.\n\n    Diferențe importante:\n    - Comunicarea orală este spontană și directă; redactarea este mai planificată\n    - Comunicarea orală poate folosi tone și expresii faciale; redactarea se bazează pe cuvinte și punctuație\n    - Comunicarea orală permite reacții immediate; redactarea permite revizuire înainte de trimitere\n\n    Elemente ale comunicării orale:\n    - Tonul vocii (grav, ușor, strigat)\n    - Ritmul și viteza vorbirii\n    - Intonația și accentul\n    - Gesturile și expresiile faciale\n    - Contactul vizual\n\n    Elemente ale redactării:\n    - Alegerea cuvintelor potrivite\n    - Structura enunțurilor\n    - Punctuația\n    - Organizarea textului în paragrafe\n    - Ortografia corectă",
+              "examples": [
+                "Comunicare orală: Poți spune \"Hei, vino repede!\" cu urgență. Redactare: \"Te rog să vii cât mai curând posibil.\"",
+                "În oral poți folosi \"hmm...\" și pauze pentru gândire. În scris trebuie structurat clar",
+                "Comunicarea orală beneficiază de tonul favorabil. Redactarea trebuie să fie foarte clară pentru a compensa lipsa tonului",
+                "Poți corecta imediat în comunicarea orală. În redactare trebuie grijă mai mare la revizuire"
+              ],
+              "tips": [
+                "În comunicarea orală, vorbe cu încredere și articuleaza clar",
+                "În redactare, citește textul din nou pentru a verifica coerenț și claritate",
+                "Folosește punctuația pentru a marca pauze și intonații în texte scrise",
+                "Ambele forme de comunicare sunt importante - antrenează-te la amândouă"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 10?",
+                "text": "Care este o caracteristică a comunicării orale care lipsește în redactare?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Ortografia corectă",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Ortografia este importantă și în comunicarea scrisă"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Tonul vocii și gesturile",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "În comunicarea orală poți folosi ton și gesturi, în redactare nu ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Structura logică",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Structura logică este importantă în ambele forme"
+                  },
+                  {
+                    "text": "Utilizarea de cuvinte",
+                    "correct": false,
+                    "explanation": "Cuvintele se folosesc în ambele forme de comunicare"
                   }
                 ]
               }
@@ -365,34 +467,44 @@
             {
               "title": "L11 - Lecția 11",
               "order": 11,
-              "summary": "Lecția 11",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Textul narativ și descriptiv",
+              "theory": "Textul narativ (povestea) prezintă o succesiune de evenimente în timp, cu un început, o dezvoltare și un final.\n    Textul descriptiv prezintă caracteristicile unui obiect, persoană, loc sau fenomen.\n\n    Textul narativ conține:\n    - Personaje (cine)\n    - Acțiune (ce se întâmplă)\n    - Timp (când se întâmplă)\n    - Loc (unde se întâmplă)\n    - Mesaj moral (ce înveți din poveste)\n\n    Structura textului narativ:\n    1. Expozitio: Prezentarea situației inițiale\n    2. Nod (conflict): Complicația care apare\n    3. Deznodământ: Rezolvarea conflictului\n    4. Concluzie: Moralul sau lecția povestei\n\n    Textul descriptiv conține:\n    - Observații directe despre obiectul descris\n    - Detalii senzoriale (cum arată, cum sună, cum miroase)\n    - Adjectivele și adverbele care caracterizează\n    - Comparații pentru claritate\n\n    Diferența cheie: Naratiunea vorbește despre \"ce se întâmplă\", descrierea vorbește despre \"cum arată\"",
+              "examples": [
+                "Narație: \"Ion și-a pierdut mingea în piscină. S-a gândit cum să o recupereze. A cerut ajutor bunicului. Împreună au găsit-o.\" - Aceasta spune o poveste",
+                "Descriere: \"Mingea era roșie, cu benzi albe și avea o textură puțin moale. Era albastră la interior și semigonflată.\" - Aceasta descrie caracteristicile mingei",
+                "Narație: \"Maria s-a întors acasă. Era întuneric. A auzit un zgomot ciudat. S-a speriat.\" - Progresiune de timp",
+                "Descriere: \"Casa era copacul frâu, cu frunze verzi și grosime. Interior era luminos și plin de cuvinte.\" - Caracterizare statică"
+              ],
+              "tips": [
+                "În naratiune, folosește cuvinte care marchează succesiunea: apoi, mai apoi, în sfârșit",
+                "În descriere, folosește adjectivele și comparații pentru a picta o imagine clară",
+                "Naratiunea poate conține descrieri, dar descrierea nu este neapărat o naratiune",
+                "La citire, identifică dacă textul ți se pare mai mult dinamic (narație) sau static (descriere)"
+              ],
               "estimatedTime": 45,
               "difficulty": "hard",
               "question": {
-                "text": "Întrebare despre Lecția 11?",
+                "text": "Care este diferența principală între textul narativ și cel descriptiv?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Textul narativ este mai lung decât cel descriptiv",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lungimea nu este diferența esențială"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Textul narativ prezintă o succesiune de evenimente, iar cel descriptiv prezintă caracteristicile unui obiect",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! Naratiunea spune ce se întâmplă, descrierea spune cum arată ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Textul descriptiv nu folosește adjectivele",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Descrierea folosește mulți adjectivi"
+                  },
+                  {
+                    "text": "Textul narativ nu are personaje",
+                    "correct": false,
+                    "explanation": "Naratiunea are de obicei personaje"
                   }
                 ]
               }
@@ -400,34 +512,44 @@
             {
               "title": "L12 - Lecția 12",
               "order": 12,
-              "summary": "Lecția 12",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Textul dialogat și alte forme de expresie",
+              "theory": "Textul dialogat (dialogul) este o conversație între două sau mai multe persoane, prezentă în povești, piese de teatru și scripturi.\n\n    Caracteristicile dialogului:\n    - Există mai mulți vorbitori\n    - Fiecare replică (cuvântul spus) este pe o linie nouă\n    - Se folosesc ghilimele (\" \") pentru a marca replici directe\n    - Diacriticele teatrale precizează cum se spune (bubuit, șoptit, etc.)\n\n    Formatul corect al dialogului:\n    \"Salut!\", spuse Ion.\n    \"Cum mai ești?\", întrebă Maria.\n    \"Bine, mersi!\", răspunse Ion.\n\n    Alte forme de expresie:\n    1. Monologul: Un singur personaj vorbind\n    2. Descrierea: Prezentarea obiectelor și locurilor\n    3. Naratiunea: Povestirea evenimentelor\n    4. Reflecția: Gândurile și sentimentele personajelor\n    5. Poezia: Expresie ritmată și sonora",
+              "examples": [
+                "\"Unde mergi?\", întrebă mama. \"La prietenul meu\", răspunse copilul.",
+                "Monolog: \"Azi e o zi frumoasă. Voi ieși la plimbare. Poate voi întâlni pe cineva prietenos.\"",
+                "Dialog dintr-o piesă: PĂSTORUL: \"Cine ești?\" NECUNOSCUTUL: \"Sunt un călător.\"",
+                "Mișcare dramatică: \"Deschide ușa repede!\", strigă cu înfrigurare."
+              ],
+              "tips": [
+                "Fiecare replică dintr-un dialog trebuie pe linie nouă, cu ghilimele",
+                "După replica, pune virgulă, nu punct (dacă urmează verbe ca \"spuse\", \"întreba\")",
+                "Dialogul trebuie să fie natural - așa vorbesc oamenii în realitate",
+                "Variază verbele de rostire: spune, șoapte, strigă, mormăie, mârâie, etc."
+              ],
               "estimatedTime": 45,
               "difficulty": "hard",
               "question": {
-                "text": "Întrebare despre Lecția 12?",
+                "text": "Care este regula corectă pentru scrierea dialogului?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Toate replicile pot fi pe aceeași linie",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Fiecare replică trebuie pe o linie nouă"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Replicile se scriu cu ghilimele și fiecare pe o linie nouă",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! Aceasta este formatul standard al dialogului ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Ghilimele nu sunt necesare dacă e clar cine vorbește",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Ghilimele sunt întotdeauna necesare pentru replici directe"
+                  },
+                  {
+                    "text": "Se pot combina mai mulți vorbitori pe aceeași linie",
+                    "correct": false,
+                    "explanation": "Fiecare vorbitor are propria linie"
                   }
                 ]
               }
@@ -448,34 +570,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Comunicare și limba - procesul comunicării",
+              "theory": "Comunicarea este schimbul de mesaje între persoane pentru a transmite idei, sentimente și informații.\n\nELEMENTELE COMUNICĂRII:\n1. Emiţător (vorbitor) - persoana care trimite mesajul\n2. Receptor (ascultător) - persoana care primește mesajul\n3. Mesaj - informația transmisă\n4. Canal - calea prin care se transmite (vorbire, scris, gesturi)\n5. Cod - limbajul folosit (limba română, cifre, gesturi)\n6. Context - situația în care se comunică\n\nTIPURI DE COMUNICARE:\n- Verbală: folosesc cuvinte (vorbire, scris)\n- Nonverbală: fără cuvinte (gesturi, expresia feței, ton de voce)\n- Paraverbală: modul cum se spun lucrurile (intonație, ritm, volum)",
+              "examples": [
+                "Comunicare verbală: o conversație între doi prieteni",
+                "Comunicare nonverbală: zâmbetul unei mame",
+                "Comunicare paraverbală: vorbitul rar și clar vs. grăbit și ageresiv",
+                "Comunicare scrisă: o scrisoare, un mesaj pe telefon"
+              ],
+              "tips": [
+                "Ascultă cu atenție înainte de a răspunde",
+                "Observă expresiile faciale și limbajul corpului",
+                "Vorbește clar și cu voce puternică pentru a fi auzit",
+                "Pune întrebări pentru a clarifica mesajul"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cine este emiţătorul în procesul comunicării?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Persoana care primește mesajul",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Acela este receptorul"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Persoana care trimite mesajul",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Emiţătorul este cel care comunică"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Mesajul în sine",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Mesajul este informația"
+                  },
+                  {
+                    "text": "Canalul de transmisie",
+                    "correct": false,
+                    "explanation": "Canalul este calea"
                   }
                 ]
               }
@@ -483,34 +615,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Sunetele limbii - pronunția și ortografia",
+              "theory": "Limba română are 25 de sunete (foneme) care se reprezintă prin litere în scris.\n\nSUNETE ȘI LITERE:\n- Vocale: a, e, i, o, u - se pronunță liber, fără obstrucție\n- Consoane: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z - pronunția este blocată\n- Semivocale: w, y\n\nASPECTE ALE PRONUNȚIEI:\n- Diftongii: ae, ai, au, ea, ei, eu, ia, ie, io, iu, oa, oi, ou, ua, ue, ui, uo (două vocale într-o silabă)\n- Trifongii: trei vocale într-o silabă (iau, eau, uia)\n\nORTOGRAFIA:\n- Regulile de ortografie ne ajută să scriem corect\n- Literele se scriu mare la începutul propoziției și al numelor proprii\n- Accentul indică pe care silabă cade accentul tonal",
+              "examples": [
+                "Diftong: \"bai\" (ba-i), \"glas\" (gla-s)",
+                "Trifong: \"miau\" (mia-u), \"frumos\" (fru-mos)",
+                "Pronunție corectă vs. incorectă: \"psiholog\" (psi-ho-log) nu (psi-log)",
+                "Ortografia numelor: Maria, București, Dunărea (cu maiusculă)"
+              ],
+              "tips": [
+                "Ascultă cu atenție vorbitori nativi",
+                "Repetă cuvintele greu de pronunțat",
+                "Folosiți dictionare cu transcriere fonetică",
+                "Citește cu voce tare pentru a exersa pronunția"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Câte vocale are alfabetul românesc?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Vocalele sunt: a, e, i, o, u"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Incorect"
                   }
                 ]
               }
@@ -518,34 +660,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Cuvântul și clasificarea cuvintelor",
+              "theory": "Cuvântul este unitatea limbajului care are o formă și o semnificație.\n\nPĂRȚI DE VORBIRE (Clasificarea cuvintelor):\n1. SUBSTANTIV - denumește persoane, animale, obiecte, idei (copil, pisică, masă, bucurie)\n2. ADJECTIV - descrie proprietăți ale substantivelor (frumos, mic, roșu, inteligent)\n3. PRONUME - înlocuiește substantivul (eu, tu, el, ea, noi, voi, ei)\n4. VERB - exprimă acțiuni sau stări (a merge, a mânca, a fi, a dormi)\n5. ADVERBUL - descrie cum, când, unde se întâmplă acțiunea (repede, azi, acolo)\n6. PREPOZIȚIE - indică relații între cuvinte (în, pe, sub, lângă, pentru)\n7. CONJUNCȚIE - leagă propoziții sau cuvinte (și, sau, dacă, deoarece)\n8. INTERJECȚIE - exprimă sentimente (aia!, oh!, bravo!)\n\nSINGULARUL ȘI PLURALUL:\n- Singular: un obiect (copil, copilă)\n- Plural: mai mulți obiecți (copii, copile)",
+              "examples": [
+                "Substantive: cărți, copii, mese, flori",
+                "Adjective: frumos, vesel, negru, mare",
+                "Verbe: citi, merge, mânca, dormi",
+                "Adverburi: rapid, ieri, sus, agale"
+              ],
+              "tips": [
+                "Căutați substantivele în propoziție - acestea sunt de obicei cuvintele principale",
+                "Adjectivele descriu intotdeauna un substantiv",
+                "Verbele exprimă acțiune sau stare",
+                "Exercitații: Identifica parțile de vorbire într-o propoziție"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Ce parte de vorbire este cuvântul \"frumos\" în propoziția: \"Copilul este frumos\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Substantiv",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Substantivele sunt \"copil\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Verb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Verbul este \"este\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Adjectiv",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Frumos\" descrie o proprietate"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Adverb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Adverburile descriu cum se întâmplă ceva"
                   }
                 ]
               }
@@ -553,34 +705,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Substantivul - genul și numărul",
+              "theory": "Substantivul este cuvântul care denumește persoane, animale, obiecte și idei.\n\nGENUL SUBSTANTIVULUI (masculin/feminin):\n- Masculin: se referă la bărbați, animale mascule, obiecte neutre (băiat, moș, crab, pom)\n- Feminin: se referă la femei, animale femele (fată, nană, păsărică, masă)\n\nRECUNOAȘTEREA GENULUI:\n- Sufixele masculine: -u, -or, -ar (om, profesor, pescar)\n- Sufixele feminine: -ă, -e, -ie, -ție (fată, carte, perie, frumusețe)\n\nPLURALUL SUBSTANTIVELOR:\n- Masculin singular → masculin plural: băiat → băieți, om → oameni\n- Feminin singular → feminin plural: fată → fete, carte → cărți\n\nGENUL NEUTER:\n- În limba română, cuvintele care sunt neutre în alte limbi sunt masculine sau feminine (copil-masculin, mână-feminin)",
+              "examples": [
+                "Substantive masculine: copil, om, pom, glas",
+                "Substantive feminine: fată, mamă, masă, carte",
+                "Plural masculin: copii, oameni, pomi, glasuri",
+                "Plural feminin: fete, mame, mese, cărți"
+              ],
+              "tips": [
+                "Observă terminația cuvântului pentru a determina genul",
+                "Articolul îți ajută: \"un, o, unii, unele\"",
+                "Unele cuvinte au plural neregulat: om-oameni, copil-copii",
+                "Practica cu articole: \"un corabie\" vs. \"o corabie\""
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Care cuvânt este substantiv feminin?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "copil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Copil este masculin"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "pom",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Pom este masculin"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "carte",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Carte este substantiv feminin"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "om",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Om este masculin"
                   }
                 ]
               }
@@ -588,34 +750,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adjectivul - acordul cu substantivul",
+              "theory": "Adjectivul este cuvântul care descrie o proprietate a substantivului și TREBUIE SĂ SE ACORDE cu acesta.\n\nACORDUL ADJECTIVULUI:\n- Adjectivul se schimbă în gen și număr după substantivul pe care îl descrie\n- Exemplu: copil frumos → copii frumoși (feminin: fată frumoasă → fete frumoase)\n\nTRECEREA ADJECTIVELOR LA PLURAL:\n- Masculin: frumos → frumoși, glas → glasuri\n- Feminin: frumoasă → frumoase\n\nPOZIȚIA ADJECTIVULUI:\n- Înaintea substantivului: \"omul bun\"\n- După substantiv: \"omul bun\" sau \"bunul om\"\n\nGRADELE ADJECTIVULUI:\n- Grad pozitiv: frumos\n- Grad comparativ: mai frumos, mai puțin frumos\n- Grad superlativ: cel mai frumos (cel mai puțin frumos)",
+              "examples": [
+                "Acord: casa roșie, case roșii, copil frumos, copii frumoși",
+                "Comparativ: El este mai inteligent decât mine",
+                "Superlativ: Aceasta este cea mai frumoasă carte din bibliotecă",
+                "Pozitie: părul negru vs. negrul păr (ambele sunt corecte)"
+              ],
+              "tips": [
+                "Observă genul și numărul substantivului pentru a acorda adjectivul",
+                "Unele adjective nu se schimbă: culori simple (roșu, albastru), unele adjective derivate",
+                "Folosiți \"mai\" pentru comparativ și \"cel mai/cea mai\" pentru superlativ",
+                "Adjectivele derivate din alte limbi rămân neschimbate uneori"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Cum se transformă adjectivul \"frumos\" pentru a se acorda cu \"fete\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "frumoși",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoși este pentru masculin plural"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "frumoase",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Frumoase este feminin plural"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "frumoasă",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoasă este feminin singular"
+                  },
+                  {
+                    "text": "frumoastă",
+                    "correct": false,
+                    "explanation": "Nu este forma corectă"
                   }
                 ]
               }
@@ -623,34 +795,45 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Verbul - timpurile și modurile",
+              "theory": "Verbul exprimă o acțiune, o stare sau o întâmplare.\n\nTIMPURILE VERBALE:\n1. PREZENT: se întâmplă acum (eu merg, tu mergi, el merge)\n2. TRECUT: s-a întâmplat deja\n   - Perfectul simplu: am mers, ai mers (acțiune încheiată)\n   - Perfectul compus: am mercat, ai mercat\n   - Imperfectul: mergeam, mergeai (acțiune trecută care se repeta)\n3. VIITOR: se va întâmpla mai târziu\n   - Viitorul apropiat: o să merg, voi merge\n   - Viitorul depărtat: voi fi mers\n\nMODURILE VERBALE:\n1. Indicativ - afirmă o acțiune reală (eu merg)\n2. Condițional - exprimă o acțiune posibilă (aș merge dacă)\n3. Conjunctiv - exprimă dorință, teamă, îndoială (să merg)\n4. Imperativ - dă ordine (mergi! mergeți!)\n\nASPECTUL VERBAL:\n- Aspect perfective: acțiune încheiată (a scrie - am scris)\n- Aspect imperfective: acțiune în curs (a scrisa - scriam)",
+              "examples": [
+                "Prezent: Eu citesc cartea acum",
+                "Trecut: Ieri am citit cartea",
+                "Viitor: Mâine voi citi cartea",
+                "Condițional: Aș citi cartea dacă aș avea timp",
+                "Imperativ: Citește cartea!"
+              ],
+              "tips": [
+                "Coniugă verbele regulate pentru a înțelege modelul",
+                "Unele verbe sunt neregulate: a fi (sunt, ești, este), a avea (am, ai, are)",
+                "Folosiți timpurile corecte pentru a exprima corect ideile",
+                "Practica cu diferitele timpuri și moduri"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "În ce timp se află verbul în propoziția: \"Ieri am citit o carte\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Prezent",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Prezentul ar fi: citesc"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Trecut (Perfectul compus)",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Am citit\" este trecut"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Viitor",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Viitorul ar fi: voi citi"
+                  },
+                  {
+                    "text": "Condițional",
+                    "correct": false,
+                    "explanation": "Condiționalul ar fi: aș citi"
                   }
                 ]
               }
@@ -658,34 +841,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Propoziția simplă - structura și funcțiile cuvintelor",
+              "theory": "Propoziția este o unitate de limbă care exprimă o idee completă și are cel puțin o predicație.\n\nPROPOZIȚIA SIMPLĂ are o singură predicație și conține:\n\nFUNCȚIILE CUVINTELOR:\n1. SUBIECTUL - ce/cine se vorbește (Copilul citește)\n2. PREDICATUL - ce se spune despre subiect (Copilul CITEȘTE o carte)\n3. COMPLEMENT DIRECT - cine/ce primește acțiunea (Copilul citește CARTEA)\n4. COMPLEMENT INDIRECT - cui/cui se spune (Dau cadoul PRIETENEI)\n5. COMPLEMENT CIRCUMSTANȚIAL - unde, când, cum, de ce\n   - de timp: AZI am venit\n   - de loc: Am venit în CASĂ\n   - de mod: A venit REPEDE\n6. ATRIBUT - descrie un obiect (Un copil FRUMOS)\n\nORDINEA NATURAL: Subiect + Predicat + Complementele\n\nPUNCTUAȚIA:\n- . (punct) - sfârșit de propoziție\n- , (virgulă) - desparte parți\n- ! (exclamation) - expresii emoționate\n- ? (întrebare) - pentru întrebări",
+              "examples": [
+                "Propoziție: \"Copilul frumos citește cartea roșie în bibliotecă.\"",
+                "Subiect: copilul, Predicat: citește, Complement direct: cartea",
+                "Complement circumst. de loc: în bibliotecă",
+                "Atribut: frumos (pentru copil), roșie (pentru carte)"
+              ],
+              "tips": [
+                "Identifică mai întâi verbul pentru a găsi predicatul",
+                "Pune întrebări: Cine? (subiect), Ce? (complement direct)",
+                "Unde? Când? Cum? (complement circumstanțial)",
+                "Nu uita de semne de punctuație!"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce funcție are cuvântul \"cartea\" în propoziția: \"Copilul citește cartea\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Subiect",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Subiectul este \"copilul\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Predicat",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Predicatul este \"citește\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Complement direct",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Cartea primește acțiunea citirii"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Complement circumstanțial",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lipsește în această propoziție"
                   }
                 ]
               }
@@ -693,34 +886,45 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Textul și tipuri de texte - narațiune, descriere, dialog",
+              "theory": "Textul este o succesiune de propoziții organizate pentru a exprima idei complete.\n\nTIPURI DE TEXTE:\n\n1. NARAȚIUNE - Povestește o întâmplare\n   - Are o succesiune de evenimente\n   - Personaje care acționează\n   - Ordinea cronologică (ceea ce se întâmplă mai întâi)\n   - Exemple: povești, fapte cărți, aventuri\n\n2. DESCRIERE - Prezintă o persoană, obiect sau peisaj\n   - Detalii despre cum arată ceva\n   - Adjective și adverbe descriptive\n   - Poate fi descriptivă (cum arată) sau emoțională (cum simți)\n   - Exemple: portrete, peisaje, descrieri de locuri\n\n3. DIALOG - Conversație între persoane\n   - Fiecare vorbă este pe rând\n   - Ghilimele pentru vorbele directe\n   - Cuvinte care introduc dialogul\n   - Exemplu: \"Bună!\" zise Maria. \"Bună!\" răspunse Ion.\n\n4. TEXT INSTRUCTIV/EXPLICATIV\n   - Explică cum să faci ceva\n   - Are pași clari\n   - Ordine logică\n   - Exemple: rețete, instrucțiuni",
+              "examples": [
+                "Narațiune: \"Un copil a plecat pe o călătorie... și s-a întors acasă\"",
+                "Descriere: \"Casa avea ferestre mari cu perdele albe...\"",
+                "Dialog: \"—Vii cu mine?\\n—Nu, sunt ocupat.\"",
+                "Text instructiv: \"Pentru a face o prăjituri: 1. Amesteci... 2. Pui-o la cuptor...\""
+              ],
+              "tips": [
+                "Identifică tipul de text pentru a-l citi mai bine",
+                "Folosiți organizatori grafici (diagrame) pentru a planifica",
+                "Narațiunea trebuie să aibă o ordine logică",
+                "Descrierea folosește mulți detalii și adjective",
+                "Dialogul trebuie să sune natural"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Care din următoarele este o narațiune?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "O descriere a unei case frumoase",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este descriere"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "O conversație între doi prieteni",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este dialog"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "O poveste despre o aventură în pădure",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Povestea este narațiune"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Instrucțiuni pentru a face o prăjitura",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este text instructiv"
                   }
                 ]
               }
@@ -741,34 +945,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Comunicare și limba - procesul comunicării",
+              "theory": "Comunicarea este schimbul de mesaje între persoane pentru a transmite idei, sentimente și informații.\n\nELEMENTELE COMUNICĂRII:\n1. Emiţător (vorbitor) - persoana care trimite mesajul\n2. Receptor (ascultător) - persoana care primește mesajul\n3. Mesaj - informația transmisă\n4. Canal - calea prin care se transmite (vorbire, scris, gesturi)\n5. Cod - limbajul folosit (limba română, cifre, gesturi)\n6. Context - situația în care se comunică\n\nTIPURI DE COMUNICARE:\n- Verbală: folosesc cuvinte (vorbire, scris)\n- Nonverbală: fără cuvinte (gesturi, expresia feței, ton de voce)\n- Paraverbală: modul cum se spun lucrurile (intonație, ritm, volum)",
+              "examples": [
+                "Comunicare verbală: o conversație între doi prieteni",
+                "Comunicare nonverbală: zâmbetul unei mame",
+                "Comunicare paraverbală: vorbitul rar și clar vs. grăbit și ageresiv",
+                "Comunicare scrisă: o scrisoare, un mesaj pe telefon"
+              ],
+              "tips": [
+                "Ascultă cu atenție înainte de a răspunde",
+                "Observă expresiile faciale și limbajul corpului",
+                "Vorbește clar și cu voce puternică pentru a fi auzit",
+                "Pune întrebări pentru a clarifica mesajul"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cine este emiţătorul în procesul comunicării?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Persoana care primește mesajul",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Acela este receptorul"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Persoana care trimite mesajul",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Emiţătorul este cel care comunică"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Mesajul în sine",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Mesajul este informația"
+                  },
+                  {
+                    "text": "Canalul de transmisie",
+                    "correct": false,
+                    "explanation": "Canalul este calea"
                   }
                 ]
               }
@@ -776,34 +990,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Sunetele limbii - pronunția și ortografia",
+              "theory": "Limba română are 25 de sunete (foneme) care se reprezintă prin litere în scris.\n\nSUNETE ȘI LITERE:\n- Vocale: a, e, i, o, u - se pronunță liber, fără obstrucție\n- Consoane: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z - pronunția este blocată\n- Semivocale: w, y\n\nASPECTE ALE PRONUNȚIEI:\n- Diftongii: ae, ai, au, ea, ei, eu, ia, ie, io, iu, oa, oi, ou, ua, ue, ui, uo (două vocale într-o silabă)\n- Trifongii: trei vocale într-o silabă (iau, eau, uia)\n\nORTOGRAFIA:\n- Regulile de ortografie ne ajută să scriem corect\n- Literele se scriu mare la începutul propoziției și al numelor proprii\n- Accentul indică pe care silabă cade accentul tonal",
+              "examples": [
+                "Diftong: \"bai\" (ba-i), \"glas\" (gla-s)",
+                "Trifong: \"miau\" (mia-u), \"frumos\" (fru-mos)",
+                "Pronunție corectă vs. incorectă: \"psiholog\" (psi-ho-log) nu (psi-log)",
+                "Ortografia numelor: Maria, București, Dunărea (cu maiusculă)"
+              ],
+              "tips": [
+                "Ascultă cu atenție vorbitori nativi",
+                "Repetă cuvintele greu de pronunțat",
+                "Folosiți dictionare cu transcriere fonetică",
+                "Citește cu voce tare pentru a exersa pronunția"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Câte vocale are alfabetul românesc?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Vocalele sunt: a, e, i, o, u"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Incorect"
                   }
                 ]
               }
@@ -811,34 +1035,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Cuvântul și clasificarea cuvintelor",
+              "theory": "Cuvântul este unitatea limbajului care are o formă și o semnificație.\n\nPĂRȚI DE VORBIRE (Clasificarea cuvintelor):\n1. SUBSTANTIV - denumește persoane, animale, obiecte, idei (copil, pisică, masă, bucurie)\n2. ADJECTIV - descrie proprietăți ale substantivelor (frumos, mic, roșu, inteligent)\n3. PRONUME - înlocuiește substantivul (eu, tu, el, ea, noi, voi, ei)\n4. VERB - exprimă acțiuni sau stări (a merge, a mânca, a fi, a dormi)\n5. ADVERBUL - descrie cum, când, unde se întâmplă acțiunea (repede, azi, acolo)\n6. PREPOZIȚIE - indică relații între cuvinte (în, pe, sub, lângă, pentru)\n7. CONJUNCȚIE - leagă propoziții sau cuvinte (și, sau, dacă, deoarece)\n8. INTERJECȚIE - exprimă sentimente (aia!, oh!, bravo!)\n\nSINGULARUL ȘI PLURALUL:\n- Singular: un obiect (copil, copilă)\n- Plural: mai mulți obiecți (copii, copile)",
+              "examples": [
+                "Substantive: cărți, copii, mese, flori",
+                "Adjective: frumos, vesel, negru, mare",
+                "Verbe: citi, merge, mânca, dormi",
+                "Adverburi: rapid, ieri, sus, agale"
+              ],
+              "tips": [
+                "Căutați substantivele în propoziție - acestea sunt de obicei cuvintele principale",
+                "Adjectivele descriu intotdeauna un substantiv",
+                "Verbele exprimă acțiune sau stare",
+                "Exercitații: Identifica parțile de vorbire într-o propoziție"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Ce parte de vorbire este cuvântul \"frumos\" în propoziția: \"Copilul este frumos\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Substantiv",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Substantivele sunt \"copil\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Verb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Verbul este \"este\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Adjectiv",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Frumos\" descrie o proprietate"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Adverb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Adverburile descriu cum se întâmplă ceva"
                   }
                 ]
               }
@@ -846,34 +1080,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Substantivul - genul și numărul",
+              "theory": "Substantivul este cuvântul care denumește persoane, animale, obiecte și idei.\n\nGENUL SUBSTANTIVULUI (masculin/feminin):\n- Masculin: se referă la bărbați, animale mascule, obiecte neutre (băiat, moș, crab, pom)\n- Feminin: se referă la femei, animale femele (fată, nană, păsărică, masă)\n\nRECUNOAȘTEREA GENULUI:\n- Sufixele masculine: -u, -or, -ar (om, profesor, pescar)\n- Sufixele feminine: -ă, -e, -ie, -ție (fată, carte, perie, frumusețe)\n\nPLURALUL SUBSTANTIVELOR:\n- Masculin singular → masculin plural: băiat → băieți, om → oameni\n- Feminin singular → feminin plural: fată → fete, carte → cărți\n\nGENUL NEUTER:\n- În limba română, cuvintele care sunt neutre în alte limbi sunt masculine sau feminine (copil-masculin, mână-feminin)",
+              "examples": [
+                "Substantive masculine: copil, om, pom, glas",
+                "Substantive feminine: fată, mamă, masă, carte",
+                "Plural masculin: copii, oameni, pomi, glasuri",
+                "Plural feminin: fete, mame, mese, cărți"
+              ],
+              "tips": [
+                "Observă terminația cuvântului pentru a determina genul",
+                "Articolul îți ajută: \"un, o, unii, unele\"",
+                "Unele cuvinte au plural neregulat: om-oameni, copil-copii",
+                "Practica cu articole: \"un corabie\" vs. \"o corabie\""
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Care cuvânt este substantiv feminin?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "copil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Copil este masculin"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "pom",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Pom este masculin"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "carte",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Carte este substantiv feminin"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "om",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Om este masculin"
                   }
                 ]
               }
@@ -881,34 +1125,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adjectivul - acordul cu substantivul",
+              "theory": "Adjectivul este cuvântul care descrie o proprietate a substantivului și TREBUIE SĂ SE ACORDE cu acesta.\n\nACORDUL ADJECTIVULUI:\n- Adjectivul se schimbă în gen și număr după substantivul pe care îl descrie\n- Exemplu: copil frumos → copii frumoși (feminin: fată frumoasă → fete frumoase)\n\nTRECEREA ADJECTIVELOR LA PLURAL:\n- Masculin: frumos → frumoși, glas → glasuri\n- Feminin: frumoasă → frumoase\n\nPOZIȚIA ADJECTIVULUI:\n- Înaintea substantivului: \"omul bun\"\n- După substantiv: \"omul bun\" sau \"bunul om\"\n\nGRADELE ADJECTIVULUI:\n- Grad pozitiv: frumos\n- Grad comparativ: mai frumos, mai puțin frumos\n- Grad superlativ: cel mai frumos (cel mai puțin frumos)",
+              "examples": [
+                "Acord: casa roșie, case roșii, copil frumos, copii frumoși",
+                "Comparativ: El este mai inteligent decât mine",
+                "Superlativ: Aceasta este cea mai frumoasă carte din bibliotecă",
+                "Pozitie: părul negru vs. negrul păr (ambele sunt corecte)"
+              ],
+              "tips": [
+                "Observă genul și numărul substantivului pentru a acorda adjectivul",
+                "Unele adjective nu se schimbă: culori simple (roșu, albastru), unele adjective derivate",
+                "Folosiți \"mai\" pentru comparativ și \"cel mai/cea mai\" pentru superlativ",
+                "Adjectivele derivate din alte limbi rămân neschimbate uneori"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Cum se transformă adjectivul \"frumos\" pentru a se acorda cu \"fete\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "frumoși",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoși este pentru masculin plural"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "frumoase",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Frumoase este feminin plural"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "frumoasă",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoasă este feminin singular"
+                  },
+                  {
+                    "text": "frumoastă",
+                    "correct": false,
+                    "explanation": "Nu este forma corectă"
                   }
                 ]
               }
@@ -916,34 +1170,45 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Verbul - timpurile și modurile",
+              "theory": "Verbul exprimă o acțiune, o stare sau o întâmplare.\n\nTIMPURILE VERBALE:\n1. PREZENT: se întâmplă acum (eu merg, tu mergi, el merge)\n2. TRECUT: s-a întâmplat deja\n   - Perfectul simplu: am mers, ai mers (acțiune încheiată)\n   - Perfectul compus: am mercat, ai mercat\n   - Imperfectul: mergeam, mergeai (acțiune trecută care se repeta)\n3. VIITOR: se va întâmpla mai târziu\n   - Viitorul apropiat: o să merg, voi merge\n   - Viitorul depărtat: voi fi mers\n\nMODURILE VERBALE:\n1. Indicativ - afirmă o acțiune reală (eu merg)\n2. Condițional - exprimă o acțiune posibilă (aș merge dacă)\n3. Conjunctiv - exprimă dorință, teamă, îndoială (să merg)\n4. Imperativ - dă ordine (mergi! mergeți!)\n\nASPECTUL VERBAL:\n- Aspect perfective: acțiune încheiată (a scrie - am scris)\n- Aspect imperfective: acțiune în curs (a scrisa - scriam)",
+              "examples": [
+                "Prezent: Eu citesc cartea acum",
+                "Trecut: Ieri am citit cartea",
+                "Viitor: Mâine voi citi cartea",
+                "Condițional: Aș citi cartea dacă aș avea timp",
+                "Imperativ: Citește cartea!"
+              ],
+              "tips": [
+                "Coniugă verbele regulate pentru a înțelege modelul",
+                "Unele verbe sunt neregulate: a fi (sunt, ești, este), a avea (am, ai, are)",
+                "Folosiți timpurile corecte pentru a exprima corect ideile",
+                "Practica cu diferitele timpuri și moduri"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "În ce timp se află verbul în propoziția: \"Ieri am citit o carte\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Prezent",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Prezentul ar fi: citesc"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Trecut (Perfectul compus)",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Am citit\" este trecut"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Viitor",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Viitorul ar fi: voi citi"
+                  },
+                  {
+                    "text": "Condițional",
+                    "correct": false,
+                    "explanation": "Condiționalul ar fi: aș citi"
                   }
                 ]
               }
@@ -951,34 +1216,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Propoziția simplă - structura și funcțiile cuvintelor",
+              "theory": "Propoziția este o unitate de limbă care exprimă o idee completă și are cel puțin o predicație.\n\nPROPOZIȚIA SIMPLĂ are o singură predicație și conține:\n\nFUNCȚIILE CUVINTELOR:\n1. SUBIECTUL - ce/cine se vorbește (Copilul citește)\n2. PREDICATUL - ce se spune despre subiect (Copilul CITEȘTE o carte)\n3. COMPLEMENT DIRECT - cine/ce primește acțiunea (Copilul citește CARTEA)\n4. COMPLEMENT INDIRECT - cui/cui se spune (Dau cadoul PRIETENEI)\n5. COMPLEMENT CIRCUMSTANȚIAL - unde, când, cum, de ce\n   - de timp: AZI am venit\n   - de loc: Am venit în CASĂ\n   - de mod: A venit REPEDE\n6. ATRIBUT - descrie un obiect (Un copil FRUMOS)\n\nORDINEA NATURAL: Subiect + Predicat + Complementele\n\nPUNCTUAȚIA:\n- . (punct) - sfârșit de propoziție\n- , (virgulă) - desparte parți\n- ! (exclamation) - expresii emoționate\n- ? (întrebare) - pentru întrebări",
+              "examples": [
+                "Propoziție: \"Copilul frumos citește cartea roșie în bibliotecă.\"",
+                "Subiect: copilul, Predicat: citește, Complement direct: cartea",
+                "Complement circumst. de loc: în bibliotecă",
+                "Atribut: frumos (pentru copil), roșie (pentru carte)"
+              ],
+              "tips": [
+                "Identifică mai întâi verbul pentru a găsi predicatul",
+                "Pune întrebări: Cine? (subiect), Ce? (complement direct)",
+                "Unde? Când? Cum? (complement circumstanțial)",
+                "Nu uita de semne de punctuație!"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce funcție are cuvântul \"cartea\" în propoziția: \"Copilul citește cartea\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Subiect",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Subiectul este \"copilul\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Predicat",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Predicatul este \"citește\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Complement direct",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Cartea primește acțiunea citirii"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Complement circumstanțial",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lipsește în această propoziție"
                   }
                 ]
               }
@@ -986,34 +1261,45 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Textul și tipuri de texte - narațiune, descriere, dialog",
+              "theory": "Textul este o succesiune de propoziții organizate pentru a exprima idei complete.\n\nTIPURI DE TEXTE:\n\n1. NARAȚIUNE - Povestește o întâmplare\n   - Are o succesiune de evenimente\n   - Personaje care acționează\n   - Ordinea cronologică (ceea ce se întâmplă mai întâi)\n   - Exemple: povești, fapte cărți, aventuri\n\n2. DESCRIERE - Prezintă o persoană, obiect sau peisaj\n   - Detalii despre cum arată ceva\n   - Adjective și adverbe descriptive\n   - Poate fi descriptivă (cum arată) sau emoțională (cum simți)\n   - Exemple: portrete, peisaje, descrieri de locuri\n\n3. DIALOG - Conversație între persoane\n   - Fiecare vorbă este pe rând\n   - Ghilimele pentru vorbele directe\n   - Cuvinte care introduc dialogul\n   - Exemplu: \"Bună!\" zise Maria. \"Bună!\" răspunse Ion.\n\n4. TEXT INSTRUCTIV/EXPLICATIV\n   - Explică cum să faci ceva\n   - Are pași clari\n   - Ordine logică\n   - Exemple: rețete, instrucțiuni",
+              "examples": [
+                "Narațiune: \"Un copil a plecat pe o călătorie... și s-a întors acasă\"",
+                "Descriere: \"Casa avea ferestre mari cu perdele albe...\"",
+                "Dialog: \"—Vii cu mine?\\n—Nu, sunt ocupat.\"",
+                "Text instructiv: \"Pentru a face o prăjituri: 1. Amesteci... 2. Pui-o la cuptor...\""
+              ],
+              "tips": [
+                "Identifică tipul de text pentru a-l citi mai bine",
+                "Folosiți organizatori grafici (diagrame) pentru a planifica",
+                "Narațiunea trebuie să aibă o ordine logică",
+                "Descrierea folosește mulți detalii și adjective",
+                "Dialogul trebuie să sune natural"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Care din următoarele este o narațiune?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "O descriere a unei case frumoase",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este descriere"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "O conversație între doi prieteni",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este dialog"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "O poveste despre o aventură în pădure",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Povestea este narațiune"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Instrucțiuni pentru a face o prăjitura",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este text instructiv"
                   }
                 ]
               }
@@ -1021,34 +1307,44 @@
             {
               "title": "L9 - Lecția 9",
               "order": 9,
-              "summary": "Lecția 9",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Redactarea unui text. Redactarea unui răspuns la o întrebare",
+              "theory": "Redactarea este procesul de a pune în cuvinte idei și gânduri într-o formă scrisă, structurată și coerentă.\n\n    Redactarea unui text trebuie să respecte următoarele principii:\n    1. Claritate: Ideile trebuie să fie clare și ușor de înțeles\n    2. Coerență: Enunțurile trebuie să se conecteze logic\n    3. Corectitudine: Respectarea regulilor de ortografie și punctuație\n    4. Completitudine: Includerea tuturor informațiilor esențiale\n\n    Când redactezi un răspuns la o întrebare:\n    - Citeș cu atenție întrebarea\n    - Identifică ce se cere exact\n    - Structurează răspunsul logic\n    - Folosește cuvinte potrivite și exprimări corecte\n    - Revizuiește răspunsul înainte de a-l finaliza\n\n    Exemplu de structură: Introducere → Dezvoltare → Concluzie",
+              "examples": [
+                "La întrebarea \"Ce este comunicarea?\" - răspunsul trebuie să definească conceptul și să dea exemple",
+                "La o întrebare despre o poveste - trebuie să iei în considerare aspecte precum: personaje, acțiune, mesaj",
+                "La o întrebare de analiză - trebuie să explici cumulative, nu doar să enumeri fapte",
+                "La o întrebare de opinie - trebuie să-ți susții punctul de vedere cu argumente"
+              ],
+              "tips": [
+                "Planifică răspunsul înainte de a scrie: note rapide cu ideile principale",
+                "Folosește propoziții complete și variază lungimea și structura lor",
+                "Citește răspunsul din nou pentru a verifica dacă are sens și dacă e complet",
+                "Nu ignora punctuația - virgulele și punctele sunt importante pentru claritate"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 9?",
+                "text": "Ce este esențial în redactarea unui răspuns la o întrebare?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "A scrie cât mai mult posibil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lungimea nu este criteriu - este importantă claritatea"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "A înțelege bine întrebarea și a raspunde la ceea ce se cere",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! Trebuie să citești cu atenție și să răspunzi exact la ceea ce se întreabă ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "A folosi cuvinte cât mai complicate",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Claritatea este mai importantă decât complexitatea cuvintelor"
+                  },
+                  {
+                    "text": "A copia din cărți fără a modifica nimic",
+                    "correct": false,
+                    "explanation": "Trebuie să exprimi ideile cu cuvinte proprii"
                   }
                 ]
               }
@@ -1056,34 +1352,44 @@
             {
               "title": "L10 - Lecția 10",
               "order": 10,
-              "summary": "Lecția 10",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Comunicare orală și redactare",
+              "theory": "Comunicarea orală este transmiterea mesajelor prin cuvânt vorbit, cu voce, intonație și gestivă.\n    Redactarea (comunicarea scrisă) transmite mesaje prin text scris.\n\n    Diferențe importante:\n    - Comunicarea orală este spontană și directă; redactarea este mai planificată\n    - Comunicarea orală poate folosi tone și expresii faciale; redactarea se bazează pe cuvinte și punctuație\n    - Comunicarea orală permite reacții immediate; redactarea permite revizuire înainte de trimitere\n\n    Elemente ale comunicării orale:\n    - Tonul vocii (grav, ușor, strigat)\n    - Ritmul și viteza vorbirii\n    - Intonația și accentul\n    - Gesturile și expresiile faciale\n    - Contactul vizual\n\n    Elemente ale redactării:\n    - Alegerea cuvintelor potrivite\n    - Structura enunțurilor\n    - Punctuația\n    - Organizarea textului în paragrafe\n    - Ortografia corectă",
+              "examples": [
+                "Comunicare orală: Poți spune \"Hei, vino repede!\" cu urgență. Redactare: \"Te rog să vii cât mai curând posibil.\"",
+                "În oral poți folosi \"hmm...\" și pauze pentru gândire. În scris trebuie structurat clar",
+                "Comunicarea orală beneficiază de tonul favorabil. Redactarea trebuie să fie foarte clară pentru a compensa lipsa tonului",
+                "Poți corecta imediat în comunicarea orală. În redactare trebuie grijă mai mare la revizuire"
+              ],
+              "tips": [
+                "În comunicarea orală, vorbe cu încredere și articuleaza clar",
+                "În redactare, citește textul din nou pentru a verifica coerenț și claritate",
+                "Folosește punctuația pentru a marca pauze și intonații în texte scrise",
+                "Ambele forme de comunicare sunt importante - antrenează-te la amândouă"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 10?",
+                "text": "Care este o caracteristică a comunicării orale care lipsește în redactare?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Ortografia corectă",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Ortografia este importantă și în comunicarea scrisă"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Tonul vocii și gesturile",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "În comunicarea orală poți folosi ton și gesturi, în redactare nu ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Structura logică",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Structura logică este importantă în ambele forme"
+                  },
+                  {
+                    "text": "Utilizarea de cuvinte",
+                    "correct": false,
+                    "explanation": "Cuvintele se folosesc în ambele forme de comunicare"
                   }
                 ]
               }
@@ -1104,34 +1410,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Comunicare și limba - procesul comunicării",
+              "theory": "Comunicarea este schimbul de mesaje între persoane pentru a transmite idei, sentimente și informații.\n\nELEMENTELE COMUNICĂRII:\n1. Emiţător (vorbitor) - persoana care trimite mesajul\n2. Receptor (ascultător) - persoana care primește mesajul\n3. Mesaj - informația transmisă\n4. Canal - calea prin care se transmite (vorbire, scris, gesturi)\n5. Cod - limbajul folosit (limba română, cifre, gesturi)\n6. Context - situația în care se comunică\n\nTIPURI DE COMUNICARE:\n- Verbală: folosesc cuvinte (vorbire, scris)\n- Nonverbală: fără cuvinte (gesturi, expresia feței, ton de voce)\n- Paraverbală: modul cum se spun lucrurile (intonație, ritm, volum)",
+              "examples": [
+                "Comunicare verbală: o conversație între doi prieteni",
+                "Comunicare nonverbală: zâmbetul unei mame",
+                "Comunicare paraverbală: vorbitul rar și clar vs. grăbit și ageresiv",
+                "Comunicare scrisă: o scrisoare, un mesaj pe telefon"
+              ],
+              "tips": [
+                "Ascultă cu atenție înainte de a răspunde",
+                "Observă expresiile faciale și limbajul corpului",
+                "Vorbește clar și cu voce puternică pentru a fi auzit",
+                "Pune întrebări pentru a clarifica mesajul"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cine este emiţătorul în procesul comunicării?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Persoana care primește mesajul",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Acela este receptorul"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Persoana care trimite mesajul",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Emiţătorul este cel care comunică"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Mesajul în sine",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Mesajul este informația"
+                  },
+                  {
+                    "text": "Canalul de transmisie",
+                    "correct": false,
+                    "explanation": "Canalul este calea"
                   }
                 ]
               }
@@ -1139,34 +1455,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Sunetele limbii - pronunția și ortografia",
+              "theory": "Limba română are 25 de sunete (foneme) care se reprezintă prin litere în scris.\n\nSUNETE ȘI LITERE:\n- Vocale: a, e, i, o, u - se pronunță liber, fără obstrucție\n- Consoane: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z - pronunția este blocată\n- Semivocale: w, y\n\nASPECTE ALE PRONUNȚIEI:\n- Diftongii: ae, ai, au, ea, ei, eu, ia, ie, io, iu, oa, oi, ou, ua, ue, ui, uo (două vocale într-o silabă)\n- Trifongii: trei vocale într-o silabă (iau, eau, uia)\n\nORTOGRAFIA:\n- Regulile de ortografie ne ajută să scriem corect\n- Literele se scriu mare la începutul propoziției și al numelor proprii\n- Accentul indică pe care silabă cade accentul tonal",
+              "examples": [
+                "Diftong: \"bai\" (ba-i), \"glas\" (gla-s)",
+                "Trifong: \"miau\" (mia-u), \"frumos\" (fru-mos)",
+                "Pronunție corectă vs. incorectă: \"psiholog\" (psi-ho-log) nu (psi-log)",
+                "Ortografia numelor: Maria, București, Dunărea (cu maiusculă)"
+              ],
+              "tips": [
+                "Ascultă cu atenție vorbitori nativi",
+                "Repetă cuvintele greu de pronunțat",
+                "Folosiți dictionare cu transcriere fonetică",
+                "Citește cu voce tare pentru a exersa pronunția"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Câte vocale are alfabetul românesc?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Vocalele sunt: a, e, i, o, u"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Incorect"
                   }
                 ]
               }
@@ -1174,34 +1500,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Cuvântul și clasificarea cuvintelor",
+              "theory": "Cuvântul este unitatea limbajului care are o formă și o semnificație.\n\nPĂRȚI DE VORBIRE (Clasificarea cuvintelor):\n1. SUBSTANTIV - denumește persoane, animale, obiecte, idei (copil, pisică, masă, bucurie)\n2. ADJECTIV - descrie proprietăți ale substantivelor (frumos, mic, roșu, inteligent)\n3. PRONUME - înlocuiește substantivul (eu, tu, el, ea, noi, voi, ei)\n4. VERB - exprimă acțiuni sau stări (a merge, a mânca, a fi, a dormi)\n5. ADVERBUL - descrie cum, când, unde se întâmplă acțiunea (repede, azi, acolo)\n6. PREPOZIȚIE - indică relații între cuvinte (în, pe, sub, lângă, pentru)\n7. CONJUNCȚIE - leagă propoziții sau cuvinte (și, sau, dacă, deoarece)\n8. INTERJECȚIE - exprimă sentimente (aia!, oh!, bravo!)\n\nSINGULARUL ȘI PLURALUL:\n- Singular: un obiect (copil, copilă)\n- Plural: mai mulți obiecți (copii, copile)",
+              "examples": [
+                "Substantive: cărți, copii, mese, flori",
+                "Adjective: frumos, vesel, negru, mare",
+                "Verbe: citi, merge, mânca, dormi",
+                "Adverburi: rapid, ieri, sus, agale"
+              ],
+              "tips": [
+                "Căutați substantivele în propoziție - acestea sunt de obicei cuvintele principale",
+                "Adjectivele descriu intotdeauna un substantiv",
+                "Verbele exprimă acțiune sau stare",
+                "Exercitații: Identifica parțile de vorbire într-o propoziție"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Ce parte de vorbire este cuvântul \"frumos\" în propoziția: \"Copilul este frumos\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Substantiv",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Substantivele sunt \"copil\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Verb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Verbul este \"este\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Adjectiv",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Frumos\" descrie o proprietate"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Adverb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Adverburile descriu cum se întâmplă ceva"
                   }
                 ]
               }
@@ -1209,34 +1545,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Substantivul - genul și numărul",
+              "theory": "Substantivul este cuvântul care denumește persoane, animale, obiecte și idei.\n\nGENUL SUBSTANTIVULUI (masculin/feminin):\n- Masculin: se referă la bărbați, animale mascule, obiecte neutre (băiat, moș, crab, pom)\n- Feminin: se referă la femei, animale femele (fată, nană, păsărică, masă)\n\nRECUNOAȘTEREA GENULUI:\n- Sufixele masculine: -u, -or, -ar (om, profesor, pescar)\n- Sufixele feminine: -ă, -e, -ie, -ție (fată, carte, perie, frumusețe)\n\nPLURALUL SUBSTANTIVELOR:\n- Masculin singular → masculin plural: băiat → băieți, om → oameni\n- Feminin singular → feminin plural: fată → fete, carte → cărți\n\nGENUL NEUTER:\n- În limba română, cuvintele care sunt neutre în alte limbi sunt masculine sau feminine (copil-masculin, mână-feminin)",
+              "examples": [
+                "Substantive masculine: copil, om, pom, glas",
+                "Substantive feminine: fată, mamă, masă, carte",
+                "Plural masculin: copii, oameni, pomi, glasuri",
+                "Plural feminin: fete, mame, mese, cărți"
+              ],
+              "tips": [
+                "Observă terminația cuvântului pentru a determina genul",
+                "Articolul îți ajută: \"un, o, unii, unele\"",
+                "Unele cuvinte au plural neregulat: om-oameni, copil-copii",
+                "Practica cu articole: \"un corabie\" vs. \"o corabie\""
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Care cuvânt este substantiv feminin?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "copil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Copil este masculin"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "pom",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Pom este masculin"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "carte",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Carte este substantiv feminin"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "om",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Om este masculin"
                   }
                 ]
               }
@@ -1244,34 +1590,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adjectivul - acordul cu substantivul",
+              "theory": "Adjectivul este cuvântul care descrie o proprietate a substantivului și TREBUIE SĂ SE ACORDE cu acesta.\n\nACORDUL ADJECTIVULUI:\n- Adjectivul se schimbă în gen și număr după substantivul pe care îl descrie\n- Exemplu: copil frumos → copii frumoși (feminin: fată frumoasă → fete frumoase)\n\nTRECEREA ADJECTIVELOR LA PLURAL:\n- Masculin: frumos → frumoși, glas → glasuri\n- Feminin: frumoasă → frumoase\n\nPOZIȚIA ADJECTIVULUI:\n- Înaintea substantivului: \"omul bun\"\n- După substantiv: \"omul bun\" sau \"bunul om\"\n\nGRADELE ADJECTIVULUI:\n- Grad pozitiv: frumos\n- Grad comparativ: mai frumos, mai puțin frumos\n- Grad superlativ: cel mai frumos (cel mai puțin frumos)",
+              "examples": [
+                "Acord: casa roșie, case roșii, copil frumos, copii frumoși",
+                "Comparativ: El este mai inteligent decât mine",
+                "Superlativ: Aceasta este cea mai frumoasă carte din bibliotecă",
+                "Pozitie: părul negru vs. negrul păr (ambele sunt corecte)"
+              ],
+              "tips": [
+                "Observă genul și numărul substantivului pentru a acorda adjectivul",
+                "Unele adjective nu se schimbă: culori simple (roșu, albastru), unele adjective derivate",
+                "Folosiți \"mai\" pentru comparativ și \"cel mai/cea mai\" pentru superlativ",
+                "Adjectivele derivate din alte limbi rămân neschimbate uneori"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Cum se transformă adjectivul \"frumos\" pentru a se acorda cu \"fete\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "frumoși",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoși este pentru masculin plural"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "frumoase",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Frumoase este feminin plural"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "frumoasă",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoasă este feminin singular"
+                  },
+                  {
+                    "text": "frumoastă",
+                    "correct": false,
+                    "explanation": "Nu este forma corectă"
                   }
                 ]
               }
@@ -1279,34 +1635,45 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Verbul - timpurile și modurile",
+              "theory": "Verbul exprimă o acțiune, o stare sau o întâmplare.\n\nTIMPURILE VERBALE:\n1. PREZENT: se întâmplă acum (eu merg, tu mergi, el merge)\n2. TRECUT: s-a întâmplat deja\n   - Perfectul simplu: am mers, ai mers (acțiune încheiată)\n   - Perfectul compus: am mercat, ai mercat\n   - Imperfectul: mergeam, mergeai (acțiune trecută care se repeta)\n3. VIITOR: se va întâmpla mai târziu\n   - Viitorul apropiat: o să merg, voi merge\n   - Viitorul depărtat: voi fi mers\n\nMODURILE VERBALE:\n1. Indicativ - afirmă o acțiune reală (eu merg)\n2. Condițional - exprimă o acțiune posibilă (aș merge dacă)\n3. Conjunctiv - exprimă dorință, teamă, îndoială (să merg)\n4. Imperativ - dă ordine (mergi! mergeți!)\n\nASPECTUL VERBAL:\n- Aspect perfective: acțiune încheiată (a scrie - am scris)\n- Aspect imperfective: acțiune în curs (a scrisa - scriam)",
+              "examples": [
+                "Prezent: Eu citesc cartea acum",
+                "Trecut: Ieri am citit cartea",
+                "Viitor: Mâine voi citi cartea",
+                "Condițional: Aș citi cartea dacă aș avea timp",
+                "Imperativ: Citește cartea!"
+              ],
+              "tips": [
+                "Coniugă verbele regulate pentru a înțelege modelul",
+                "Unele verbe sunt neregulate: a fi (sunt, ești, este), a avea (am, ai, are)",
+                "Folosiți timpurile corecte pentru a exprima corect ideile",
+                "Practica cu diferitele timpuri și moduri"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "În ce timp se află verbul în propoziția: \"Ieri am citit o carte\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Prezent",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Prezentul ar fi: citesc"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Trecut (Perfectul compus)",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Am citit\" este trecut"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Viitor",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Viitorul ar fi: voi citi"
+                  },
+                  {
+                    "text": "Condițional",
+                    "correct": false,
+                    "explanation": "Condiționalul ar fi: aș citi"
                   }
                 ]
               }
@@ -1314,34 +1681,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Propoziția simplă - structura și funcțiile cuvintelor",
+              "theory": "Propoziția este o unitate de limbă care exprimă o idee completă și are cel puțin o predicație.\n\nPROPOZIȚIA SIMPLĂ are o singură predicație și conține:\n\nFUNCȚIILE CUVINTELOR:\n1. SUBIECTUL - ce/cine se vorbește (Copilul citește)\n2. PREDICATUL - ce se spune despre subiect (Copilul CITEȘTE o carte)\n3. COMPLEMENT DIRECT - cine/ce primește acțiunea (Copilul citește CARTEA)\n4. COMPLEMENT INDIRECT - cui/cui se spune (Dau cadoul PRIETENEI)\n5. COMPLEMENT CIRCUMSTANȚIAL - unde, când, cum, de ce\n   - de timp: AZI am venit\n   - de loc: Am venit în CASĂ\n   - de mod: A venit REPEDE\n6. ATRIBUT - descrie un obiect (Un copil FRUMOS)\n\nORDINEA NATURAL: Subiect + Predicat + Complementele\n\nPUNCTUAȚIA:\n- . (punct) - sfârșit de propoziție\n- , (virgulă) - desparte parți\n- ! (exclamation) - expresii emoționate\n- ? (întrebare) - pentru întrebări",
+              "examples": [
+                "Propoziție: \"Copilul frumos citește cartea roșie în bibliotecă.\"",
+                "Subiect: copilul, Predicat: citește, Complement direct: cartea",
+                "Complement circumst. de loc: în bibliotecă",
+                "Atribut: frumos (pentru copil), roșie (pentru carte)"
+              ],
+              "tips": [
+                "Identifică mai întâi verbul pentru a găsi predicatul",
+                "Pune întrebări: Cine? (subiect), Ce? (complement direct)",
+                "Unde? Când? Cum? (complement circumstanțial)",
+                "Nu uita de semne de punctuație!"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce funcție are cuvântul \"cartea\" în propoziția: \"Copilul citește cartea\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Subiect",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Subiectul este \"copilul\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Predicat",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Predicatul este \"citește\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Complement direct",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Cartea primește acțiunea citirii"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Complement circumstanțial",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lipsește în această propoziție"
                   }
                 ]
               }
@@ -1349,34 +1726,45 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Textul și tipuri de texte - narațiune, descriere, dialog",
+              "theory": "Textul este o succesiune de propoziții organizate pentru a exprima idei complete.\n\nTIPURI DE TEXTE:\n\n1. NARAȚIUNE - Povestește o întâmplare\n   - Are o succesiune de evenimente\n   - Personaje care acționează\n   - Ordinea cronologică (ceea ce se întâmplă mai întâi)\n   - Exemple: povești, fapte cărți, aventuri\n\n2. DESCRIERE - Prezintă o persoană, obiect sau peisaj\n   - Detalii despre cum arată ceva\n   - Adjective și adverbe descriptive\n   - Poate fi descriptivă (cum arată) sau emoțională (cum simți)\n   - Exemple: portrete, peisaje, descrieri de locuri\n\n3. DIALOG - Conversație între persoane\n   - Fiecare vorbă este pe rând\n   - Ghilimele pentru vorbele directe\n   - Cuvinte care introduc dialogul\n   - Exemplu: \"Bună!\" zise Maria. \"Bună!\" răspunse Ion.\n\n4. TEXT INSTRUCTIV/EXPLICATIV\n   - Explică cum să faci ceva\n   - Are pași clari\n   - Ordine logică\n   - Exemple: rețete, instrucțiuni",
+              "examples": [
+                "Narațiune: \"Un copil a plecat pe o călătorie... și s-a întors acasă\"",
+                "Descriere: \"Casa avea ferestre mari cu perdele albe...\"",
+                "Dialog: \"—Vii cu mine?\\n—Nu, sunt ocupat.\"",
+                "Text instructiv: \"Pentru a face o prăjituri: 1. Amesteci... 2. Pui-o la cuptor...\""
+              ],
+              "tips": [
+                "Identifică tipul de text pentru a-l citi mai bine",
+                "Folosiți organizatori grafici (diagrame) pentru a planifica",
+                "Narațiunea trebuie să aibă o ordine logică",
+                "Descrierea folosește mulți detalii și adjective",
+                "Dialogul trebuie să sune natural"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Care din următoarele este o narațiune?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "O descriere a unei case frumoase",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este descriere"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "O conversație între doi prieteni",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este dialog"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "O poveste despre o aventură în pădure",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Povestea este narațiune"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Instrucțiuni pentru a face o prăjitura",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este text instructiv"
                   }
                 ]
               }
@@ -1384,34 +1772,44 @@
             {
               "title": "L9 - Lecția 9",
               "order": 9,
-              "summary": "Lecția 9",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Redactarea unui text. Redactarea unui răspuns la o întrebare",
+              "theory": "Redactarea este procesul de a pune în cuvinte idei și gânduri într-o formă scrisă, structurată și coerentă.\n\n    Redactarea unui text trebuie să respecte următoarele principii:\n    1. Claritate: Ideile trebuie să fie clare și ușor de înțeles\n    2. Coerență: Enunțurile trebuie să se conecteze logic\n    3. Corectitudine: Respectarea regulilor de ortografie și punctuație\n    4. Completitudine: Includerea tuturor informațiilor esențiale\n\n    Când redactezi un răspuns la o întrebare:\n    - Citeș cu atenție întrebarea\n    - Identifică ce se cere exact\n    - Structurează răspunsul logic\n    - Folosește cuvinte potrivite și exprimări corecte\n    - Revizuiește răspunsul înainte de a-l finaliza\n\n    Exemplu de structură: Introducere → Dezvoltare → Concluzie",
+              "examples": [
+                "La întrebarea \"Ce este comunicarea?\" - răspunsul trebuie să definească conceptul și să dea exemple",
+                "La o întrebare despre o poveste - trebuie să iei în considerare aspecte precum: personaje, acțiune, mesaj",
+                "La o întrebare de analiză - trebuie să explici cumulative, nu doar să enumeri fapte",
+                "La o întrebare de opinie - trebuie să-ți susții punctul de vedere cu argumente"
+              ],
+              "tips": [
+                "Planifică răspunsul înainte de a scrie: note rapide cu ideile principale",
+                "Folosește propoziții complete și variază lungimea și structura lor",
+                "Citește răspunsul din nou pentru a verifica dacă are sens și dacă e complet",
+                "Nu ignora punctuația - virgulele și punctele sunt importante pentru claritate"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 9?",
+                "text": "Ce este esențial în redactarea unui răspuns la o întrebare?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "A scrie cât mai mult posibil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lungimea nu este criteriu - este importantă claritatea"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "A înțelege bine întrebarea și a raspunde la ceea ce se cere",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! Trebuie să citești cu atenție și să răspunzi exact la ceea ce se întreabă ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "A folosi cuvinte cât mai complicate",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Claritatea este mai importantă decât complexitatea cuvintelor"
+                  },
+                  {
+                    "text": "A copia din cărți fără a modifica nimic",
+                    "correct": false,
+                    "explanation": "Trebuie să exprimi ideile cu cuvinte proprii"
                   }
                 ]
               }
@@ -1419,34 +1817,44 @@
             {
               "title": "L10 - Lecția 10",
               "order": 10,
-              "summary": "Lecția 10",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Comunicare orală și redactare",
+              "theory": "Comunicarea orală este transmiterea mesajelor prin cuvânt vorbit, cu voce, intonație și gestivă.\n    Redactarea (comunicarea scrisă) transmite mesaje prin text scris.\n\n    Diferențe importante:\n    - Comunicarea orală este spontană și directă; redactarea este mai planificată\n    - Comunicarea orală poate folosi tone și expresii faciale; redactarea se bazează pe cuvinte și punctuație\n    - Comunicarea orală permite reacții immediate; redactarea permite revizuire înainte de trimitere\n\n    Elemente ale comunicării orale:\n    - Tonul vocii (grav, ușor, strigat)\n    - Ritmul și viteza vorbirii\n    - Intonația și accentul\n    - Gesturile și expresiile faciale\n    - Contactul vizual\n\n    Elemente ale redactării:\n    - Alegerea cuvintelor potrivite\n    - Structura enunțurilor\n    - Punctuația\n    - Organizarea textului în paragrafe\n    - Ortografia corectă",
+              "examples": [
+                "Comunicare orală: Poți spune \"Hei, vino repede!\" cu urgență. Redactare: \"Te rog să vii cât mai curând posibil.\"",
+                "În oral poți folosi \"hmm...\" și pauze pentru gândire. În scris trebuie structurat clar",
+                "Comunicarea orală beneficiază de tonul favorabil. Redactarea trebuie să fie foarte clară pentru a compensa lipsa tonului",
+                "Poți corecta imediat în comunicarea orală. În redactare trebuie grijă mai mare la revizuire"
+              ],
+              "tips": [
+                "În comunicarea orală, vorbe cu încredere și articuleaza clar",
+                "În redactare, citește textul din nou pentru a verifica coerenț și claritate",
+                "Folosește punctuația pentru a marca pauze și intonații în texte scrise",
+                "Ambele forme de comunicare sunt importante - antrenează-te la amândouă"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 10?",
+                "text": "Care este o caracteristică a comunicării orale care lipsește în redactare?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Ortografia corectă",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Ortografia este importantă și în comunicarea scrisă"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Tonul vocii și gesturile",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "În comunicarea orală poți folosi ton și gesturi, în redactare nu ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Structura logică",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Structura logică este importantă în ambele forme"
+                  },
+                  {
+                    "text": "Utilizarea de cuvinte",
+                    "correct": false,
+                    "explanation": "Cuvintele se folosesc în ambele forme de comunicare"
                   }
                 ]
               }
@@ -1467,34 +1875,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Comunicare și limba - procesul comunicării",
+              "theory": "Comunicarea este schimbul de mesaje între persoane pentru a transmite idei, sentimente și informații.\n\nELEMENTELE COMUNICĂRII:\n1. Emiţător (vorbitor) - persoana care trimite mesajul\n2. Receptor (ascultător) - persoana care primește mesajul\n3. Mesaj - informația transmisă\n4. Canal - calea prin care se transmite (vorbire, scris, gesturi)\n5. Cod - limbajul folosit (limba română, cifre, gesturi)\n6. Context - situația în care se comunică\n\nTIPURI DE COMUNICARE:\n- Verbală: folosesc cuvinte (vorbire, scris)\n- Nonverbală: fără cuvinte (gesturi, expresia feței, ton de voce)\n- Paraverbală: modul cum se spun lucrurile (intonație, ritm, volum)",
+              "examples": [
+                "Comunicare verbală: o conversație între doi prieteni",
+                "Comunicare nonverbală: zâmbetul unei mame",
+                "Comunicare paraverbală: vorbitul rar și clar vs. grăbit și ageresiv",
+                "Comunicare scrisă: o scrisoare, un mesaj pe telefon"
+              ],
+              "tips": [
+                "Ascultă cu atenție înainte de a răspunde",
+                "Observă expresiile faciale și limbajul corpului",
+                "Vorbește clar și cu voce puternică pentru a fi auzit",
+                "Pune întrebări pentru a clarifica mesajul"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cine este emiţătorul în procesul comunicării?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Persoana care primește mesajul",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Acela este receptorul"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Persoana care trimite mesajul",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Emiţătorul este cel care comunică"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Mesajul în sine",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Mesajul este informația"
+                  },
+                  {
+                    "text": "Canalul de transmisie",
+                    "correct": false,
+                    "explanation": "Canalul este calea"
                   }
                 ]
               }
@@ -1502,34 +1920,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Sunetele limbii - pronunția și ortografia",
+              "theory": "Limba română are 25 de sunete (foneme) care se reprezintă prin litere în scris.\n\nSUNETE ȘI LITERE:\n- Vocale: a, e, i, o, u - se pronunță liber, fără obstrucție\n- Consoane: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z - pronunția este blocată\n- Semivocale: w, y\n\nASPECTE ALE PRONUNȚIEI:\n- Diftongii: ae, ai, au, ea, ei, eu, ia, ie, io, iu, oa, oi, ou, ua, ue, ui, uo (două vocale într-o silabă)\n- Trifongii: trei vocale într-o silabă (iau, eau, uia)\n\nORTOGRAFIA:\n- Regulile de ortografie ne ajută să scriem corect\n- Literele se scriu mare la începutul propoziției și al numelor proprii\n- Accentul indică pe care silabă cade accentul tonal",
+              "examples": [
+                "Diftong: \"bai\" (ba-i), \"glas\" (gla-s)",
+                "Trifong: \"miau\" (mia-u), \"frumos\" (fru-mos)",
+                "Pronunție corectă vs. incorectă: \"psiholog\" (psi-ho-log) nu (psi-log)",
+                "Ortografia numelor: Maria, București, Dunărea (cu maiusculă)"
+              ],
+              "tips": [
+                "Ascultă cu atenție vorbitori nativi",
+                "Repetă cuvintele greu de pronunțat",
+                "Folosiți dictionare cu transcriere fonetică",
+                "Citește cu voce tare pentru a exersa pronunția"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Câte vocale are alfabetul românesc?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Vocalele sunt: a, e, i, o, u"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Incorect"
                   }
                 ]
               }
@@ -1537,34 +1965,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Cuvântul și clasificarea cuvintelor",
+              "theory": "Cuvântul este unitatea limbajului care are o formă și o semnificație.\n\nPĂRȚI DE VORBIRE (Clasificarea cuvintelor):\n1. SUBSTANTIV - denumește persoane, animale, obiecte, idei (copil, pisică, masă, bucurie)\n2. ADJECTIV - descrie proprietăți ale substantivelor (frumos, mic, roșu, inteligent)\n3. PRONUME - înlocuiește substantivul (eu, tu, el, ea, noi, voi, ei)\n4. VERB - exprimă acțiuni sau stări (a merge, a mânca, a fi, a dormi)\n5. ADVERBUL - descrie cum, când, unde se întâmplă acțiunea (repede, azi, acolo)\n6. PREPOZIȚIE - indică relații între cuvinte (în, pe, sub, lângă, pentru)\n7. CONJUNCȚIE - leagă propoziții sau cuvinte (și, sau, dacă, deoarece)\n8. INTERJECȚIE - exprimă sentimente (aia!, oh!, bravo!)\n\nSINGULARUL ȘI PLURALUL:\n- Singular: un obiect (copil, copilă)\n- Plural: mai mulți obiecți (copii, copile)",
+              "examples": [
+                "Substantive: cărți, copii, mese, flori",
+                "Adjective: frumos, vesel, negru, mare",
+                "Verbe: citi, merge, mânca, dormi",
+                "Adverburi: rapid, ieri, sus, agale"
+              ],
+              "tips": [
+                "Căutați substantivele în propoziție - acestea sunt de obicei cuvintele principale",
+                "Adjectivele descriu intotdeauna un substantiv",
+                "Verbele exprimă acțiune sau stare",
+                "Exercitații: Identifica parțile de vorbire într-o propoziție"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Ce parte de vorbire este cuvântul \"frumos\" în propoziția: \"Copilul este frumos\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Substantiv",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Substantivele sunt \"copil\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Verb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Verbul este \"este\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Adjectiv",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Frumos\" descrie o proprietate"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Adverb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Adverburile descriu cum se întâmplă ceva"
                   }
                 ]
               }
@@ -1572,34 +2010,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Substantivul - genul și numărul",
+              "theory": "Substantivul este cuvântul care denumește persoane, animale, obiecte și idei.\n\nGENUL SUBSTANTIVULUI (masculin/feminin):\n- Masculin: se referă la bărbați, animale mascule, obiecte neutre (băiat, moș, crab, pom)\n- Feminin: se referă la femei, animale femele (fată, nană, păsărică, masă)\n\nRECUNOAȘTEREA GENULUI:\n- Sufixele masculine: -u, -or, -ar (om, profesor, pescar)\n- Sufixele feminine: -ă, -e, -ie, -ție (fată, carte, perie, frumusețe)\n\nPLURALUL SUBSTANTIVELOR:\n- Masculin singular → masculin plural: băiat → băieți, om → oameni\n- Feminin singular → feminin plural: fată → fete, carte → cărți\n\nGENUL NEUTER:\n- În limba română, cuvintele care sunt neutre în alte limbi sunt masculine sau feminine (copil-masculin, mână-feminin)",
+              "examples": [
+                "Substantive masculine: copil, om, pom, glas",
+                "Substantive feminine: fată, mamă, masă, carte",
+                "Plural masculin: copii, oameni, pomi, glasuri",
+                "Plural feminin: fete, mame, mese, cărți"
+              ],
+              "tips": [
+                "Observă terminația cuvântului pentru a determina genul",
+                "Articolul îți ajută: \"un, o, unii, unele\"",
+                "Unele cuvinte au plural neregulat: om-oameni, copil-copii",
+                "Practica cu articole: \"un corabie\" vs. \"o corabie\""
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Care cuvânt este substantiv feminin?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "copil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Copil este masculin"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "pom",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Pom este masculin"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "carte",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Carte este substantiv feminin"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "om",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Om este masculin"
                   }
                 ]
               }
@@ -1607,34 +2055,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adjectivul - acordul cu substantivul",
+              "theory": "Adjectivul este cuvântul care descrie o proprietate a substantivului și TREBUIE SĂ SE ACORDE cu acesta.\n\nACORDUL ADJECTIVULUI:\n- Adjectivul se schimbă în gen și număr după substantivul pe care îl descrie\n- Exemplu: copil frumos → copii frumoși (feminin: fată frumoasă → fete frumoase)\n\nTRECEREA ADJECTIVELOR LA PLURAL:\n- Masculin: frumos → frumoși, glas → glasuri\n- Feminin: frumoasă → frumoase\n\nPOZIȚIA ADJECTIVULUI:\n- Înaintea substantivului: \"omul bun\"\n- După substantiv: \"omul bun\" sau \"bunul om\"\n\nGRADELE ADJECTIVULUI:\n- Grad pozitiv: frumos\n- Grad comparativ: mai frumos, mai puțin frumos\n- Grad superlativ: cel mai frumos (cel mai puțin frumos)",
+              "examples": [
+                "Acord: casa roșie, case roșii, copil frumos, copii frumoși",
+                "Comparativ: El este mai inteligent decât mine",
+                "Superlativ: Aceasta este cea mai frumoasă carte din bibliotecă",
+                "Pozitie: părul negru vs. negrul păr (ambele sunt corecte)"
+              ],
+              "tips": [
+                "Observă genul și numărul substantivului pentru a acorda adjectivul",
+                "Unele adjective nu se schimbă: culori simple (roșu, albastru), unele adjective derivate",
+                "Folosiți \"mai\" pentru comparativ și \"cel mai/cea mai\" pentru superlativ",
+                "Adjectivele derivate din alte limbi rămân neschimbate uneori"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Cum se transformă adjectivul \"frumos\" pentru a se acorda cu \"fete\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "frumoși",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoși este pentru masculin plural"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "frumoase",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Frumoase este feminin plural"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "frumoasă",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoasă este feminin singular"
+                  },
+                  {
+                    "text": "frumoastă",
+                    "correct": false,
+                    "explanation": "Nu este forma corectă"
                   }
                 ]
               }
@@ -1642,34 +2100,45 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Verbul - timpurile și modurile",
+              "theory": "Verbul exprimă o acțiune, o stare sau o întâmplare.\n\nTIMPURILE VERBALE:\n1. PREZENT: se întâmplă acum (eu merg, tu mergi, el merge)\n2. TRECUT: s-a întâmplat deja\n   - Perfectul simplu: am mers, ai mers (acțiune încheiată)\n   - Perfectul compus: am mercat, ai mercat\n   - Imperfectul: mergeam, mergeai (acțiune trecută care se repeta)\n3. VIITOR: se va întâmpla mai târziu\n   - Viitorul apropiat: o să merg, voi merge\n   - Viitorul depărtat: voi fi mers\n\nMODURILE VERBALE:\n1. Indicativ - afirmă o acțiune reală (eu merg)\n2. Condițional - exprimă o acțiune posibilă (aș merge dacă)\n3. Conjunctiv - exprimă dorință, teamă, îndoială (să merg)\n4. Imperativ - dă ordine (mergi! mergeți!)\n\nASPECTUL VERBAL:\n- Aspect perfective: acțiune încheiată (a scrie - am scris)\n- Aspect imperfective: acțiune în curs (a scrisa - scriam)",
+              "examples": [
+                "Prezent: Eu citesc cartea acum",
+                "Trecut: Ieri am citit cartea",
+                "Viitor: Mâine voi citi cartea",
+                "Condițional: Aș citi cartea dacă aș avea timp",
+                "Imperativ: Citește cartea!"
+              ],
+              "tips": [
+                "Coniugă verbele regulate pentru a înțelege modelul",
+                "Unele verbe sunt neregulate: a fi (sunt, ești, este), a avea (am, ai, are)",
+                "Folosiți timpurile corecte pentru a exprima corect ideile",
+                "Practica cu diferitele timpuri și moduri"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "În ce timp se află verbul în propoziția: \"Ieri am citit o carte\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Prezent",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Prezentul ar fi: citesc"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Trecut (Perfectul compus)",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Am citit\" este trecut"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Viitor",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Viitorul ar fi: voi citi"
+                  },
+                  {
+                    "text": "Condițional",
+                    "correct": false,
+                    "explanation": "Condiționalul ar fi: aș citi"
                   }
                 ]
               }
@@ -1677,34 +2146,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Propoziția simplă - structura și funcțiile cuvintelor",
+              "theory": "Propoziția este o unitate de limbă care exprimă o idee completă și are cel puțin o predicație.\n\nPROPOZIȚIA SIMPLĂ are o singură predicație și conține:\n\nFUNCȚIILE CUVINTELOR:\n1. SUBIECTUL - ce/cine se vorbește (Copilul citește)\n2. PREDICATUL - ce se spune despre subiect (Copilul CITEȘTE o carte)\n3. COMPLEMENT DIRECT - cine/ce primește acțiunea (Copilul citește CARTEA)\n4. COMPLEMENT INDIRECT - cui/cui se spune (Dau cadoul PRIETENEI)\n5. COMPLEMENT CIRCUMSTANȚIAL - unde, când, cum, de ce\n   - de timp: AZI am venit\n   - de loc: Am venit în CASĂ\n   - de mod: A venit REPEDE\n6. ATRIBUT - descrie un obiect (Un copil FRUMOS)\n\nORDINEA NATURAL: Subiect + Predicat + Complementele\n\nPUNCTUAȚIA:\n- . (punct) - sfârșit de propoziție\n- , (virgulă) - desparte parți\n- ! (exclamation) - expresii emoționate\n- ? (întrebare) - pentru întrebări",
+              "examples": [
+                "Propoziție: \"Copilul frumos citește cartea roșie în bibliotecă.\"",
+                "Subiect: copilul, Predicat: citește, Complement direct: cartea",
+                "Complement circumst. de loc: în bibliotecă",
+                "Atribut: frumos (pentru copil), roșie (pentru carte)"
+              ],
+              "tips": [
+                "Identifică mai întâi verbul pentru a găsi predicatul",
+                "Pune întrebări: Cine? (subiect), Ce? (complement direct)",
+                "Unde? Când? Cum? (complement circumstanțial)",
+                "Nu uita de semne de punctuație!"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce funcție are cuvântul \"cartea\" în propoziția: \"Copilul citește cartea\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Subiect",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Subiectul este \"copilul\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Predicat",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Predicatul este \"citește\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Complement direct",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Cartea primește acțiunea citirii"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Complement circumstanțial",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lipsește în această propoziție"
                   }
                 ]
               }
@@ -1712,34 +2191,45 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Textul și tipuri de texte - narațiune, descriere, dialog",
+              "theory": "Textul este o succesiune de propoziții organizate pentru a exprima idei complete.\n\nTIPURI DE TEXTE:\n\n1. NARAȚIUNE - Povestește o întâmplare\n   - Are o succesiune de evenimente\n   - Personaje care acționează\n   - Ordinea cronologică (ceea ce se întâmplă mai întâi)\n   - Exemple: povești, fapte cărți, aventuri\n\n2. DESCRIERE - Prezintă o persoană, obiect sau peisaj\n   - Detalii despre cum arată ceva\n   - Adjective și adverbe descriptive\n   - Poate fi descriptivă (cum arată) sau emoțională (cum simți)\n   - Exemple: portrete, peisaje, descrieri de locuri\n\n3. DIALOG - Conversație între persoane\n   - Fiecare vorbă este pe rând\n   - Ghilimele pentru vorbele directe\n   - Cuvinte care introduc dialogul\n   - Exemplu: \"Bună!\" zise Maria. \"Bună!\" răspunse Ion.\n\n4. TEXT INSTRUCTIV/EXPLICATIV\n   - Explică cum să faci ceva\n   - Are pași clari\n   - Ordine logică\n   - Exemple: rețete, instrucțiuni",
+              "examples": [
+                "Narațiune: \"Un copil a plecat pe o călătorie... și s-a întors acasă\"",
+                "Descriere: \"Casa avea ferestre mari cu perdele albe...\"",
+                "Dialog: \"—Vii cu mine?\\n—Nu, sunt ocupat.\"",
+                "Text instructiv: \"Pentru a face o prăjituri: 1. Amesteci... 2. Pui-o la cuptor...\""
+              ],
+              "tips": [
+                "Identifică tipul de text pentru a-l citi mai bine",
+                "Folosiți organizatori grafici (diagrame) pentru a planifica",
+                "Narațiunea trebuie să aibă o ordine logică",
+                "Descrierea folosește mulți detalii și adjective",
+                "Dialogul trebuie să sune natural"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Care din următoarele este o narațiune?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "O descriere a unei case frumoase",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este descriere"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "O conversație între doi prieteni",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este dialog"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "O poveste despre o aventură în pădure",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Povestea este narațiune"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Instrucțiuni pentru a face o prăjitura",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este text instructiv"
                   }
                 ]
               }
@@ -1747,34 +2237,44 @@
             {
               "title": "L9 - Lecția 9",
               "order": 9,
-              "summary": "Lecția 9",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Redactarea unui text. Redactarea unui răspuns la o întrebare",
+              "theory": "Redactarea este procesul de a pune în cuvinte idei și gânduri într-o formă scrisă, structurată și coerentă.\n\n    Redactarea unui text trebuie să respecte următoarele principii:\n    1. Claritate: Ideile trebuie să fie clare și ușor de înțeles\n    2. Coerență: Enunțurile trebuie să se conecteze logic\n    3. Corectitudine: Respectarea regulilor de ortografie și punctuație\n    4. Completitudine: Includerea tuturor informațiilor esențiale\n\n    Când redactezi un răspuns la o întrebare:\n    - Citeș cu atenție întrebarea\n    - Identifică ce se cere exact\n    - Structurează răspunsul logic\n    - Folosește cuvinte potrivite și exprimări corecte\n    - Revizuiește răspunsul înainte de a-l finaliza\n\n    Exemplu de structură: Introducere → Dezvoltare → Concluzie",
+              "examples": [
+                "La întrebarea \"Ce este comunicarea?\" - răspunsul trebuie să definească conceptul și să dea exemple",
+                "La o întrebare despre o poveste - trebuie să iei în considerare aspecte precum: personaje, acțiune, mesaj",
+                "La o întrebare de analiză - trebuie să explici cumulative, nu doar să enumeri fapte",
+                "La o întrebare de opinie - trebuie să-ți susții punctul de vedere cu argumente"
+              ],
+              "tips": [
+                "Planifică răspunsul înainte de a scrie: note rapide cu ideile principale",
+                "Folosește propoziții complete și variază lungimea și structura lor",
+                "Citește răspunsul din nou pentru a verifica dacă are sens și dacă e complet",
+                "Nu ignora punctuația - virgulele și punctele sunt importante pentru claritate"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 9?",
+                "text": "Ce este esențial în redactarea unui răspuns la o întrebare?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "A scrie cât mai mult posibil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lungimea nu este criteriu - este importantă claritatea"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "A înțelege bine întrebarea și a raspunde la ceea ce se cere",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! Trebuie să citești cu atenție și să răspunzi exact la ceea ce se întreabă ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "A folosi cuvinte cât mai complicate",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Claritatea este mai importantă decât complexitatea cuvintelor"
+                  },
+                  {
+                    "text": "A copia din cărți fără a modifica nimic",
+                    "correct": false,
+                    "explanation": "Trebuie să exprimi ideile cu cuvinte proprii"
                   }
                 ]
               }
@@ -1795,34 +2295,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Comunicare și limba - procesul comunicării",
+              "theory": "Comunicarea este schimbul de mesaje între persoane pentru a transmite idei, sentimente și informații.\n\nELEMENTELE COMUNICĂRII:\n1. Emiţător (vorbitor) - persoana care trimite mesajul\n2. Receptor (ascultător) - persoana care primește mesajul\n3. Mesaj - informația transmisă\n4. Canal - calea prin care se transmite (vorbire, scris, gesturi)\n5. Cod - limbajul folosit (limba română, cifre, gesturi)\n6. Context - situația în care se comunică\n\nTIPURI DE COMUNICARE:\n- Verbală: folosesc cuvinte (vorbire, scris)\n- Nonverbală: fără cuvinte (gesturi, expresia feței, ton de voce)\n- Paraverbală: modul cum se spun lucrurile (intonație, ritm, volum)",
+              "examples": [
+                "Comunicare verbală: o conversație între doi prieteni",
+                "Comunicare nonverbală: zâmbetul unei mame",
+                "Comunicare paraverbală: vorbitul rar și clar vs. grăbit și ageresiv",
+                "Comunicare scrisă: o scrisoare, un mesaj pe telefon"
+              ],
+              "tips": [
+                "Ascultă cu atenție înainte de a răspunde",
+                "Observă expresiile faciale și limbajul corpului",
+                "Vorbește clar și cu voce puternică pentru a fi auzit",
+                "Pune întrebări pentru a clarifica mesajul"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cine este emiţătorul în procesul comunicării?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Persoana care primește mesajul",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Acela este receptorul"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Persoana care trimite mesajul",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Emiţătorul este cel care comunică"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Mesajul în sine",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Mesajul este informația"
+                  },
+                  {
+                    "text": "Canalul de transmisie",
+                    "correct": false,
+                    "explanation": "Canalul este calea"
                   }
                 ]
               }
@@ -1830,34 +2340,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Sunetele limbii - pronunția și ortografia",
+              "theory": "Limba română are 25 de sunete (foneme) care se reprezintă prin litere în scris.\n\nSUNETE ȘI LITERE:\n- Vocale: a, e, i, o, u - se pronunță liber, fără obstrucție\n- Consoane: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z - pronunția este blocată\n- Semivocale: w, y\n\nASPECTE ALE PRONUNȚIEI:\n- Diftongii: ae, ai, au, ea, ei, eu, ia, ie, io, iu, oa, oi, ou, ua, ue, ui, uo (două vocale într-o silabă)\n- Trifongii: trei vocale într-o silabă (iau, eau, uia)\n\nORTOGRAFIA:\n- Regulile de ortografie ne ajută să scriem corect\n- Literele se scriu mare la începutul propoziției și al numelor proprii\n- Accentul indică pe care silabă cade accentul tonal",
+              "examples": [
+                "Diftong: \"bai\" (ba-i), \"glas\" (gla-s)",
+                "Trifong: \"miau\" (mia-u), \"frumos\" (fru-mos)",
+                "Pronunție corectă vs. incorectă: \"psiholog\" (psi-ho-log) nu (psi-log)",
+                "Ortografia numelor: Maria, București, Dunărea (cu maiusculă)"
+              ],
+              "tips": [
+                "Ascultă cu atenție vorbitori nativi",
+                "Repetă cuvintele greu de pronunțat",
+                "Folosiți dictionare cu transcriere fonetică",
+                "Citește cu voce tare pentru a exersa pronunția"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Câte vocale are alfabetul românesc?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Vocalele sunt: a, e, i, o, u"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Incorect"
                   }
                 ]
               }
@@ -1865,34 +2385,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Cuvântul și clasificarea cuvintelor",
+              "theory": "Cuvântul este unitatea limbajului care are o formă și o semnificație.\n\nPĂRȚI DE VORBIRE (Clasificarea cuvintelor):\n1. SUBSTANTIV - denumește persoane, animale, obiecte, idei (copil, pisică, masă, bucurie)\n2. ADJECTIV - descrie proprietăți ale substantivelor (frumos, mic, roșu, inteligent)\n3. PRONUME - înlocuiește substantivul (eu, tu, el, ea, noi, voi, ei)\n4. VERB - exprimă acțiuni sau stări (a merge, a mânca, a fi, a dormi)\n5. ADVERBUL - descrie cum, când, unde se întâmplă acțiunea (repede, azi, acolo)\n6. PREPOZIȚIE - indică relații între cuvinte (în, pe, sub, lângă, pentru)\n7. CONJUNCȚIE - leagă propoziții sau cuvinte (și, sau, dacă, deoarece)\n8. INTERJECȚIE - exprimă sentimente (aia!, oh!, bravo!)\n\nSINGULARUL ȘI PLURALUL:\n- Singular: un obiect (copil, copilă)\n- Plural: mai mulți obiecți (copii, copile)",
+              "examples": [
+                "Substantive: cărți, copii, mese, flori",
+                "Adjective: frumos, vesel, negru, mare",
+                "Verbe: citi, merge, mânca, dormi",
+                "Adverburi: rapid, ieri, sus, agale"
+              ],
+              "tips": [
+                "Căutați substantivele în propoziție - acestea sunt de obicei cuvintele principale",
+                "Adjectivele descriu intotdeauna un substantiv",
+                "Verbele exprimă acțiune sau stare",
+                "Exercitații: Identifica parțile de vorbire într-o propoziție"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Ce parte de vorbire este cuvântul \"frumos\" în propoziția: \"Copilul este frumos\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Substantiv",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Substantivele sunt \"copil\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Verb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Verbul este \"este\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Adjectiv",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Frumos\" descrie o proprietate"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Adverb",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Adverburile descriu cum se întâmplă ceva"
                   }
                 ]
               }
@@ -1900,34 +2430,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Substantivul - genul și numărul",
+              "theory": "Substantivul este cuvântul care denumește persoane, animale, obiecte și idei.\n\nGENUL SUBSTANTIVULUI (masculin/feminin):\n- Masculin: se referă la bărbați, animale mascule, obiecte neutre (băiat, moș, crab, pom)\n- Feminin: se referă la femei, animale femele (fată, nană, păsărică, masă)\n\nRECUNOAȘTEREA GENULUI:\n- Sufixele masculine: -u, -or, -ar (om, profesor, pescar)\n- Sufixele feminine: -ă, -e, -ie, -ție (fată, carte, perie, frumusețe)\n\nPLURALUL SUBSTANTIVELOR:\n- Masculin singular → masculin plural: băiat → băieți, om → oameni\n- Feminin singular → feminin plural: fată → fete, carte → cărți\n\nGENUL NEUTER:\n- În limba română, cuvintele care sunt neutre în alte limbi sunt masculine sau feminine (copil-masculin, mână-feminin)",
+              "examples": [
+                "Substantive masculine: copil, om, pom, glas",
+                "Substantive feminine: fată, mamă, masă, carte",
+                "Plural masculin: copii, oameni, pomi, glasuri",
+                "Plural feminin: fete, mame, mese, cărți"
+              ],
+              "tips": [
+                "Observă terminația cuvântului pentru a determina genul",
+                "Articolul îți ajută: \"un, o, unii, unele\"",
+                "Unele cuvinte au plural neregulat: om-oameni, copil-copii",
+                "Practica cu articole: \"un corabie\" vs. \"o corabie\""
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Care cuvânt este substantiv feminin?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "copil",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Copil este masculin"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "pom",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Pom este masculin"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "carte",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Carte este substantiv feminin"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "om",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Om este masculin"
                   }
                 ]
               }
@@ -1935,34 +2475,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adjectivul - acordul cu substantivul",
+              "theory": "Adjectivul este cuvântul care descrie o proprietate a substantivului și TREBUIE SĂ SE ACORDE cu acesta.\n\nACORDUL ADJECTIVULUI:\n- Adjectivul se schimbă în gen și număr după substantivul pe care îl descrie\n- Exemplu: copil frumos → copii frumoși (feminin: fată frumoasă → fete frumoase)\n\nTRECEREA ADJECTIVELOR LA PLURAL:\n- Masculin: frumos → frumoși, glas → glasuri\n- Feminin: frumoasă → frumoase\n\nPOZIȚIA ADJECTIVULUI:\n- Înaintea substantivului: \"omul bun\"\n- După substantiv: \"omul bun\" sau \"bunul om\"\n\nGRADELE ADJECTIVULUI:\n- Grad pozitiv: frumos\n- Grad comparativ: mai frumos, mai puțin frumos\n- Grad superlativ: cel mai frumos (cel mai puțin frumos)",
+              "examples": [
+                "Acord: casa roșie, case roșii, copil frumos, copii frumoși",
+                "Comparativ: El este mai inteligent decât mine",
+                "Superlativ: Aceasta este cea mai frumoasă carte din bibliotecă",
+                "Pozitie: părul negru vs. negrul păr (ambele sunt corecte)"
+              ],
+              "tips": [
+                "Observă genul și numărul substantivului pentru a acorda adjectivul",
+                "Unele adjective nu se schimbă: culori simple (roșu, albastru), unele adjective derivate",
+                "Folosiți \"mai\" pentru comparativ și \"cel mai/cea mai\" pentru superlativ",
+                "Adjectivele derivate din alte limbi rămân neschimbate uneori"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Cum se transformă adjectivul \"frumos\" pentru a se acorda cu \"fete\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "frumoși",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoși este pentru masculin plural"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "frumoase",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Frumoase este feminin plural"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "frumoasă",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Frumoasă este feminin singular"
+                  },
+                  {
+                    "text": "frumoastă",
+                    "correct": false,
+                    "explanation": "Nu este forma corectă"
                   }
                 ]
               }
@@ -1970,34 +2520,45 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Verbul - timpurile și modurile",
+              "theory": "Verbul exprimă o acțiune, o stare sau o întâmplare.\n\nTIMPURILE VERBALE:\n1. PREZENT: se întâmplă acum (eu merg, tu mergi, el merge)\n2. TRECUT: s-a întâmplat deja\n   - Perfectul simplu: am mers, ai mers (acțiune încheiată)\n   - Perfectul compus: am mercat, ai mercat\n   - Imperfectul: mergeam, mergeai (acțiune trecută care se repeta)\n3. VIITOR: se va întâmpla mai târziu\n   - Viitorul apropiat: o să merg, voi merge\n   - Viitorul depărtat: voi fi mers\n\nMODURILE VERBALE:\n1. Indicativ - afirmă o acțiune reală (eu merg)\n2. Condițional - exprimă o acțiune posibilă (aș merge dacă)\n3. Conjunctiv - exprimă dorință, teamă, îndoială (să merg)\n4. Imperativ - dă ordine (mergi! mergeți!)\n\nASPECTUL VERBAL:\n- Aspect perfective: acțiune încheiată (a scrie - am scris)\n- Aspect imperfective: acțiune în curs (a scrisa - scriam)",
+              "examples": [
+                "Prezent: Eu citesc cartea acum",
+                "Trecut: Ieri am citit cartea",
+                "Viitor: Mâine voi citi cartea",
+                "Condițional: Aș citi cartea dacă aș avea timp",
+                "Imperativ: Citește cartea!"
+              ],
+              "tips": [
+                "Coniugă verbele regulate pentru a înțelege modelul",
+                "Unele verbe sunt neregulate: a fi (sunt, ești, este), a avea (am, ai, are)",
+                "Folosiți timpurile corecte pentru a exprima corect ideile",
+                "Practica cu diferitele timpuri și moduri"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "În ce timp se află verbul în propoziția: \"Ieri am citit o carte\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Prezent",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Prezentul ar fi: citesc"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Trecut (Perfectul compus)",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "\"Am citit\" este trecut"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Viitor",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Viitorul ar fi: voi citi"
+                  },
+                  {
+                    "text": "Condițional",
+                    "correct": false,
+                    "explanation": "Condiționalul ar fi: aș citi"
                   }
                 ]
               }
@@ -2005,34 +2566,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Propoziția simplă - structura și funcțiile cuvintelor",
+              "theory": "Propoziția este o unitate de limbă care exprimă o idee completă și are cel puțin o predicație.\n\nPROPOZIȚIA SIMPLĂ are o singură predicație și conține:\n\nFUNCȚIILE CUVINTELOR:\n1. SUBIECTUL - ce/cine se vorbește (Copilul citește)\n2. PREDICATUL - ce se spune despre subiect (Copilul CITEȘTE o carte)\n3. COMPLEMENT DIRECT - cine/ce primește acțiunea (Copilul citește CARTEA)\n4. COMPLEMENT INDIRECT - cui/cui se spune (Dau cadoul PRIETENEI)\n5. COMPLEMENT CIRCUMSTANȚIAL - unde, când, cum, de ce\n   - de timp: AZI am venit\n   - de loc: Am venit în CASĂ\n   - de mod: A venit REPEDE\n6. ATRIBUT - descrie un obiect (Un copil FRUMOS)\n\nORDINEA NATURAL: Subiect + Predicat + Complementele\n\nPUNCTUAȚIA:\n- . (punct) - sfârșit de propoziție\n- , (virgulă) - desparte parți\n- ! (exclamation) - expresii emoționate\n- ? (întrebare) - pentru întrebări",
+              "examples": [
+                "Propoziție: \"Copilul frumos citește cartea roșie în bibliotecă.\"",
+                "Subiect: copilul, Predicat: citește, Complement direct: cartea",
+                "Complement circumst. de loc: în bibliotecă",
+                "Atribut: frumos (pentru copil), roșie (pentru carte)"
+              ],
+              "tips": [
+                "Identifică mai întâi verbul pentru a găsi predicatul",
+                "Pune întrebări: Cine? (subiect), Ce? (complement direct)",
+                "Unde? Când? Cum? (complement circumstanțial)",
+                "Nu uita de semne de punctuație!"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce funcție are cuvântul \"cartea\" în propoziția: \"Copilul citește cartea\"?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Subiect",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Subiectul este \"copilul\""
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "Predicat",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Predicatul este \"citește\""
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "Complement direct",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Cartea primește acțiunea citirii"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Complement circumstanțial",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Lipsește în această propoziție"
                   }
                 ]
               }
@@ -2040,34 +2611,45 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Textul și tipuri de texte - narațiune, descriere, dialog",
+              "theory": "Textul este o succesiune de propoziții organizate pentru a exprima idei complete.\n\nTIPURI DE TEXTE:\n\n1. NARAȚIUNE - Povestește o întâmplare\n   - Are o succesiune de evenimente\n   - Personaje care acționează\n   - Ordinea cronologică (ceea ce se întâmplă mai întâi)\n   - Exemple: povești, fapte cărți, aventuri\n\n2. DESCRIERE - Prezintă o persoană, obiect sau peisaj\n   - Detalii despre cum arată ceva\n   - Adjective și adverbe descriptive\n   - Poate fi descriptivă (cum arată) sau emoțională (cum simți)\n   - Exemple: portrete, peisaje, descrieri de locuri\n\n3. DIALOG - Conversație între persoane\n   - Fiecare vorbă este pe rând\n   - Ghilimele pentru vorbele directe\n   - Cuvinte care introduc dialogul\n   - Exemplu: \"Bună!\" zise Maria. \"Bună!\" răspunse Ion.\n\n4. TEXT INSTRUCTIV/EXPLICATIV\n   - Explică cum să faci ceva\n   - Are pași clari\n   - Ordine logică\n   - Exemple: rețete, instrucțiuni",
+              "examples": [
+                "Narațiune: \"Un copil a plecat pe o călătorie... și s-a întors acasă\"",
+                "Descriere: \"Casa avea ferestre mari cu perdele albe...\"",
+                "Dialog: \"—Vii cu mine?\\n—Nu, sunt ocupat.\"",
+                "Text instructiv: \"Pentru a face o prăjituri: 1. Amesteci... 2. Pui-o la cuptor...\""
+              ],
+              "tips": [
+                "Identifică tipul de text pentru a-l citi mai bine",
+                "Folosiți organizatori grafici (diagrame) pentru a planifica",
+                "Narațiunea trebuie să aibă o ordine logică",
+                "Descrierea folosește mulți detalii și adjective",
+                "Dialogul trebuie să sune natural"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Care din următoarele este o narațiune?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "O descriere a unei case frumoase",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este descriere"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "O conversație între doi prieteni",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este dialog"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "O poveste despre o aventură în pădure",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Povestea este narațiune"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Instrucțiuni pentru a face o prăjitura",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este text instructiv"
                   }
                 ]
               }

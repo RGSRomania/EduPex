@@ -1,0 +1,519 @@
+Ministerul Educației
+Marius Perianu
+Dana Heuberger
+Ștefan Smărăndoiu
+Cătălin Stănică
+Ioan Balica
+Matematică
+Clasa a VII-a
+Acest manual este proprietatea Ministerului Educației.
+Acest manual școlar este realizat în conformitate cu Programa școlară aprobată
+prin Ordinul ministrului educației naționale nr. 3393/28.02.2017.
+119 – număr unic de telefon la nivel național pentru cazurile de abuz împotriva copiilor
+116.111 – numărul de telefon de asistență pentru copii
+Ministerul Educației
+Marius Perianu
+Dana Heuberger
+Ștefan Smărăndoiu
+Cătălin Stănică
+Ioan Balica
+Matematică
+Clasa a VII-a
+Manualul școlar a fost aprobat de Ministerul Educației prin ordinul de ministru nr. 5420 / 04.07.2024.
+Manualul este distribuit elevilor în mod gratuit, atât în format tipărit, cât și în format digital, și este transmisibil timp de patru ani
+școlari, începând din anul școlar 2024‑2025.
+Inspectoratul Școlar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .
+Școala / Colegiul / Liceul . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .
+ACEST MANUAL A FOST FOLOSIT DE:
+Clasa Anul școlar Aspectul manualului*
+Anul Numele elevului format tipărit format digital
+la primire la predare la primire la predare
+1
+2
+3
+4
+* Pentru precizarea aspectului manualului se va folosi unul dintre următorii termeni: nou, bun, îngrijit, neîngrijit, deteriorat.
+• Cadrele didactice vor verifica dacă informațiile înscrise în tabelul de mai sus sunt corecte.
+• Elevii nu vor face niciun fel de însemnări pe manual.
+Referenți științifici:
+• conf. univ. dr. Eugen Păltănea, Facultatea de Matematică și Informatică, Universitatea „Transilvania” din Brașov
+• prof. gradul I Vladimir Cerbu, Colegiul Național Militar „Ștefan cel Mare” din Câmpulung Moldovenesc
+Coordonator redacție: Cătălin Georgescu
+Editor‑coordonator: Mihaela Preda
+Redactare: Irina Munteanu
+Copertă: Faber Studio
+Tehnoredactare: Crenguța Rontea
+Activități digitale interactive și platformă e‑learning: Learn Forward Ltd. Website: https://learnfwd.com
+Înregistrare sunet și postprocesare: ML Sistem Consulting
+Voce: Camelia Pintilie
+Animații: S.C. Film Experience S.R.L.
+Credite foto și video: Dreamstime
+ISBN 978‑606‑076‑829‑6
+Pentru comenzi puteţi contacta Departamentul Difuzare
+C.P. 12, O.P. 63, sector 1, București
+Telefoane: 021 796 73 83; 021 796 73 80
+Fax: 021 369 31 99
+www.art‑educational.ro
+Toate drepturile asupra acestei lucrări sunt rezervate Editurii Art Klett.
+Nicio parte a acestei lucrări nu poate fi reprodusă, stocată ori transmisă, sub nicio formă
+(electronic, mecanic, fotocopiere, înregistrare sau altfel), fără acordul prealabil scris al Editurii Art Klett.
+© Editura Art Klett, 2024
+Cuvânt‑înainte
+Matematica este arta de a construi realitatea și de a oferi înţelesuri noi cunoașterii umane.
+Urmând definiţia artei, matematica presupune exersare și îndemânare, cunoaștere și simţ
+estetic și, mai ales, imaginaţie și intuiţie. Matematica este poezia ideilor logice, iar adevă‑
+rurile matematice sunt gamele muzicale în care este scrisă simfonia legilor naturii.
+Matematica clasei a VII‑a este povestea marilor descoperiri: începem călătoria măsurând
+realitatea cu mărimi și forme noi (Unitatea 1: Mulţimea numerelor reale), apoi transpu‑
+nem problemele practice în modele matematice (Unitatea 2: Ecuaţii și sisteme de ec uaţii
+li niare) și stabilim coordonate matematice pentru lumea înconjurătoare sau pentru acti‑
+vităţile cotidiene (Unitatea 3: Elemente de organizare a datelor). Realitatea se descrie
+în forme noi, drepte (Unitatea 4: Patrulatere) sau rotunde (Unitatea 5: Cercul), și se
+modelează în dimensiuni mai mari sau mai mici (Unitatea 5: Asemănarea triunghiurilor).
+Cum orice final amintește de început, ultima aventură aduce împreună numerele și for‑
+mele geometrice (Unitatea 7: Relaţii metrice).
+Pentru ca aventura noastră matematică să fie încununată de succes, manualul ne poartă
+printre idei, concepte, definiţii și teoreme folosind o exprimare prietenoasă, apropiată de
+elev, apelând la simţul practic și la intuiţie. Introducerea conceptelor matematice se face
+plecând de la exemple din realitatea imediată, de la experienţele de zi cu zi. Matematica
+apare astfel ca o lume deschisă, vie, dinamică, în strânsă legătură cu toate domeniile de
+activitate, capabilă să formuleze, să descrie și să explice situaţii, probleme, fenomene sau
+procese.
+Deși nu apare la cuprins, adevărata lecţie din acest manual este aceea care ne învaţă să
+ne punem întrebarea: „De ce?“. Educaţia matematică este nu doar o simplă activitate de
+învăţare, ci reprezintă antrenarea minţii pentru a gândi. Manualul oferă, la fiecare pas,
+momente de investigaţie, de reflecţie, ocazii de a pune întrebări și de a corela răspunsu‑
+rile posibile cu datele situaţiilor analizate.
+Matematica este cea mai frumoasă și mai profundă creaţie a spiritului uman. Umanitatea
+are nevoie de matematică, pentru că tot ceea ce există în Univers nu este doar descris de
+matematică, ci este construit din matematică.
+Acest manual este ghidul de călătorie în universul minunat al matematicii.
+Autorii
+3
+Prezentarea manualului
+Manualul cuprinde:
+varianta tipărită Manualul este împărțit în șapte unități care acoperă integral conținutul prevăzut de programa
++ școlară. Lecțiile care compun o unitate sunt prezentate în mod coerent, unitar, într‑un stil
+consecvent.
+varianta digitală,
+similară cu cea tipărită, Fiecare lecție debutează cu o problemă practică, pe baza căreia se introduc noile concepte.
+care are în plus activități Acestea sunt conturate apoi într‑un limbaj matematic care echilibrează nivelul descriptiv cu
+multimedia interactive rigoarea specifică matematicii. Noțiunile noi sunt însoțite de exemple semnificative, comen‑
+de învățare, cu rolul tarii și aplicații.
+de a spori valoarea
+Manualul acordă o atenție sporită gândirii critice și dezvoltării calculului mintal, prin zone
+cognitivă.
+dedicate, încurajând în același timp activitățile de grup, independența în gândire și dezvoltarea
+Varianta digitală este
+accesibilă pe platforma încrederii în sine. Evaluarea se realizează prin forme și instrumente diversificate, orientate spre
+www.manuale.edu.ro. formarea și dezvoltarea competențelor matematice.
+Manualul este structurat în 7 unități de învățare
+Instrucțiuni de utilizare
+a manualului digital
+Varianta digitală a
+manualului este similară
+cu cea tipărită, având
+în plus 155 de AMII,
+activități multimedia
+interactive de învățare,
+cu rolul de a spori
+valoarea cognitivă.
+Activitățile multimedia
+interactive de învățare
+sunt de trei feluri,
+simbolizate pe parcursul
+manualului astfel:
+Activitate statică,
+de ascultare
+activă și de
+observare dirijată
+a unei imagini
+semnificative
+Activitate animată,
+filmuleț sau scurtă
+animație
+Activitate
+interactivă,
+de tip exercițiu
+sau joc, în urma
+căreia elevul are
+feedback imediat
+4
+Alte butoane folosite
+Structura unității de învățare în varianta digitală:
+Cuprins
+Ecran complet
+Mod de afișare
+2 pagini (tip carte)
+Mod de afișare
+pagină lată (pagină
+sub pagină)
+Mod de afișare
+digital responsive
+Mod de afișare
+comutare
+automată
+Notițe
+Ajutor
+Navigare către
+pagina precedentă
+Navigare către
+pagina următoare
+5
+Cuprins
+Nr. pag. Lecții
+UNITATEA 1 10 L1: Rădăcina pătrată a pătratului unui număr natural. Estimarea rădăcinii pătrate
+Mulțimea dintr‑un număr rațional pozitiv
+numerelor reale 16 L2: Mulţimea numerelor reale
+1.1, 2.1, 3.1, 4.1, 24 L3: Reguli de calcul cu radicali
+5.1, 6.1
+30 L4: Adunarea și scăderea numerelor reale
+35 L5: Înmulţirea și împărţirea numerelor reale
+40 L6: Puterea cu exponent întreg a unui număr real. Ordinea efectuării operaţiilor
+cu numere reale
+45 L7: Raţionalizarea numitorului unei fracţii
+49 L8: Media aritmetică ponderată a două sau mai multe numere reale. Media geometrică
+a două numere reale pozitive
+53 L9: Ecuaţia de forma x2 = a, unde a ∈ R
+55 Recapitulare și evaluare
+UNITATEA 2 58 L1: Transformarea unei egalități într‑o egalitate echivalentă. Identități
+Ecuații și sisteme 62 L2: Ecuații de forma ax + b = 0, unde a, b ∈ R. Mulțimea soluțiilor unei ecuații.
+de ecuații liniare Ecuații echivalente
+1.2, 2.2, 3.2, 4.2, 68 L3: Sisteme de două ecuații liniare cu două necunoscute
+5.2, 6.2
+74 L4: Probleme care se rezolvă cu ajutorul ecuațiilor sau al sistemelor de ecuații liniare
+79 Recapitulare și evaluare
+UNITATEA 3 82 L1: P rodusul cartezian a două mulțimi nevide. Sistem de axe ortogonale în plan. Reprezentarea
+Elemente de organizare într‑un sistem de axe ortogonale a unor perechi de numere reale. Reprezentarea punctelor
+a datelor într‑un sistem de axe ortogonale. Distanța dintre două puncte în plan
+1.3, 2.3, 3.3, 4.3, 88 L2: Reprezentarea și interpretarea unor dependențe funcționale prin tabele, diagrame
+5.3, 6.3
+și grafice. Poligonul frecvențelor
+95 Recapitulare și evaluare
+UNITATEA 4 98 L1: Patrulaterul convex. Suma măsurilor unghiurilor unui patrulater convex
+Patrulaterul 102 L2: Paralelogramul. Proprietăți
+1.4, 2.4, 3.4, 4.4, 107 L3: Aplicații ale paralelogramului în geometria triunghiului. Linia mijlocie în triunghi,
+5.4, 6.4 centrul de greutate al unui triunghi
+111 L4: Dreptunghiul. Proprietăți
+115 L5: Rombul. Proprietăți
+120 L6: Pătratul. Proprietăți
+125 L7: Trapezul: clasificare, proprietăți. Linia mijlocie în trapez
+131 L8: Perimetre și arii
+138 Recapitulare și evaluare
+UNITATEA 5 142 L1: Cercul. Coarde și arce în cerc. Proprietăți
+Cercul 147 L2: Unghi înscris în cerc
+1.5, 2.5, 3.5, 4.5, 151 L3: Tangente la cerc
+5.5, 6.5 155 L4: Poligoane regulate înscrise într‑un cerc
+158 L5: Lungimea cercului și aria discului
+162 Recapitulare și evaluare
+UNITATEA 6 166 L1: Segmente proporționale. Teorema paralelelor echidistante
+Asemănarea 170 L2: Teorema lui Thales
+triunghiurilor 175 L3: Triunghiuri asemenea. Teorema fundamentală a asemănării
+1.6, 2.6, 3.6, 4.6, 179 L4: Criterii de asemănare a triunghiurilor. Aproximarea în practică a distanțelor
+5.6, 6.6
+folosind asemănarea
+184 Recapitulare și evaluare
+UNITATEA 7 188 L1: Proiecții ortogonale pe o dreaptă. Teorema înălțimii
+Relații metrice 192 L2: Teorema catetei
+în triunghiul 195 L3: Teorema lui Pitagora
+dreptunghic
+201 L4: Noțiuni de trigonometrie în triunghiul dreptunghic
+1.7, 2.7, 3.7, 4.7,
+208 L5: Rezolvarea triunghiului dreptunghic. Calculul elementelor în poligoane regulate.
+5.7, 6.7
+Aproximarea în practică a distanțelor folosind relații metrice
+214 Recapitulare și evaluare
+Soluții 216
+6
+Competențe generale și specifice
+Nr. pag. Lecții
+UNITATEA 1 10 L1: Rădăcina pătrată a pătratului unui număr natural. Estimarea rădăcinii pătrate Competențe generale
+Mulțimea dintr‑un număr rațional pozitiv
+1. Identificarea unor date, mărimi și relații matematice, în contextul în care acestea apar
+numerelor reale 16 L2: Mulţimea numerelor reale
+2. Prelucrarea unor date matematice de tip cantitativ, calitativ, structural, cuprinse în diverse surse
+1.1, 2.1, 3.1, 4.1, 24 L3: Reguli de calcul cu radicali
+informaționale
+5.1, 6.1
+30 L4: Adunarea și scăderea numerelor reale
+3. Utilizarea conceptelor și a algoritmilor specifici în diverse contexte matematice
+35 L5: Înmulţirea și împărţirea numerelor reale
+4. Exprimarea în limbajul specific matematicii a informațiilor, concluziilor și demersurilor de rezolvare
+40 L6: Puterea cu exponent întreg a unui număr real. Ordinea efectuării operaţiilor
+pentru o situaţie dată
+cu numere reale
+5. Analizarea caracteristicilor matematice ale unei situaţii date
+45 L7: Raţionalizarea numitorului unei fracţii
+49 L8: Media aritmetică ponderată a două sau mai multe numere reale. Media geometrică 6. Modelarea matematică a unei situaţii date, prin integrarea achizițiilor din diferite domenii
+a două numere reale pozitive Competențe specifice
+53 L9: Ecuaţia de forma x2 = a, unde a ∈ R 1.1. Identificarea numerelor aparținând diferitelor submulțimi ale lui R
+55 Recapitulare și evaluare 1.2. Identificarea unei situații date rezolvabile prin ecuaţii sau sisteme de ecuaţii liniare
+UNITATEA 2 58 L1: Transformarea unei egalități într‑o egalitate echivalentă. Identități 1.3. Identificarea unor informații din tabele, grafice și diagrame
+Ecuații și sisteme 62 L2: Ecuații de forma ax + b = 0, unde a, b ∈ R. Mulțimea soluțiilor unei ecuații. 1.4. Identificarea patrulaterelor particulare în configurații geometrice date
+de ecuații liniare Ecuații echivalente 1.5. Identificarea elementelor cercului și/sau poligoanelor regulate în configurații geometrice date
+1.2, 2.2, 3.2, 4.2, 68 L3: Sisteme de două ecuații liniare cu două necunoscute 1.6. Identificarea triunghiurilor asemenea în configurații geometrice date
+5.2, 6.2 1.7. Recunoașterea elementelor unui triunghi dreptunghic într‑o configuraţie geometrică dată
+74 L4: Probleme care se rezolvă cu ajutorul ecuațiilor sau al sistemelor de ecuații liniare
+2.1. Aplicarea regulilor de calcul pentru estimarea și aproximarea numerelor reale
+79 Recapitulare și evaluare 2.2. Utilizarea regulilor de calcul cu numere reale pentru verificarea soluţiilor unor ecuaţii sau sisteme
+UNITATEA 3 82 L1: P rodusul cartezian a două mulțimi nevide. Sistem de axe ortogonale în plan. Reprezentarea de ecuaţii liniare
+Elemente de organizare într‑un sistem de axe ortogonale a unor perechi de numere reale. Reprezentarea punctelor 2.3. P relucrarea unor date sub formă de tabele, grafice sau diagrame în vederea înregistrării, reprezentării
+a datelor într‑un sistem de axe ortogonale. Distanța dintre două puncte în plan și prezentării acestora
+1.3, 2.3, 3.3, 4.3, 88 L2: Reprezentarea și interpretarea unor dependențe funcționale prin tabele, diagrame 2.4. Descrierea patrulaterelor utilizând definiții și proprietăți ale acestora, în configuraţii geometrice date
+5.3, 6.3 2.5. Descrierea proprietăților cercului și ale poligoanelor regulate înscrise într‑un cerc
+și grafice. Poligonul frecvențelor
+2.6. Stabilirea relaţiei de asemănare între triunghiuri
+95 Recapitulare și evaluare
+2.7. Aplicarea relaţiilor metrice într‑un triunghi dreptunghic pentru determinarea unor elemente ale
+UNITATEA 4 98 L1: Patrulaterul convex. Suma măsurilor unghiurilor unui patrulater convex acestuia
+Patrulaterul 102 L2: Paralelogramul. Proprietăți 3.1. Utilizarea unor algoritmi și a proprietăţilor operaţiilor în efectuarea unor calcule cu numere reale
+1.4, 2.4, 3.4, 4.4, 107 L3: Aplicații ale paralelogramului în geometria triunghiului. Linia mijlocie în triunghi, 3.2. Utilizarea transformărilor echivalente în rezolvarea unor ecuaţii și sisteme de ecuaţii liniare
+5.4, 6.4 centrul de greutate al unui triunghi 3.3. Alegerea metodei adecvate de reprezentare a problemelor în care intervin dependenţe funcţionale
+și reprezentări ale acestora
+111 L4: Dreptunghiul. Proprietăți
+3.4. Utilizarea proprietăţilor patrulaterelor în rezolvarea unor probleme
+115 L5: Rombul. Proprietăți
+3.5. Utilizarea proprietăților cercului în rezolvarea de probleme
+120 L6: Pătratul. Proprietăți
+3.6. Utilizarea asemănării triunghiurilor în configurații geometrice date pentru determinarea de lungimi,
+125 L7: Trapezul: clasificare, proprietăți. Linia mijlocie în trapez
+măsuri și arii
+131 L8: Perimetre și arii
+3.7. Deducerea relaţiilor metrice într‑un triunghi dreptunghic
+138 Recapitulare și evaluare 4.1. Folosirea terminologiei aferente noţiunii de număr real (semn, modul, opus, invers)
+UNITATEA 5 142 L1: Cercul. Coarde și arce în cerc. Proprietăți 4.2. Redactarea rezolvării ecuaţiilor și sistemelor de ecuaţii liniare
+Cercul 147 L2: Unghi înscris în cerc 4.3. Descrierea în limbajul specific matematicii a unor elemente de organizare a datelor
+4.4. Exprimarea în limbaj geometric a noţiunilor legate de patrulatere
+1.5, 2.5, 3.5, 4.5, 151 L3: Tangente la cerc
+4.5. Exprimarea proprietăţilor cercului și ale poligoanelor în limbaj matematic
+5.5, 6.5 155 L4: Poligoane regulate înscrise într‑un cerc
+4.6. Exprimarea în limbaj matematic a proprietăţilor unor figuri geometrice folosind asemănarea
+158 L5: Lungimea cercului și aria discului
+4.7. Exprimarea în limbaj matematic a relaţiilor dintre elementele unui triunghi dreptunghic
+162 Recapitulare și evaluare 5.1. Elaborarea de strategii pentru rezolvarea unor probleme cu numere reale
+UNITATEA 6 166 L1: Segmente proporționale. Teorema paralelelor echidistante 5.2. Stabilirea unor metode de rezolvare a ecuațiilor sau a sistemelor de ecuații liniare
+Asemănarea 170 L2: Teorema lui Thales 5.3. Analizarea unor situaţii practice prin elemente de organizare a datelor
+triunghiurilor 175 L3: Triunghiuri asemenea. Teorema fundamentală a asemănării 5.4. Alegerea reprezentărilor geometrice adecvate în vederea optimizării calculării unor lungimi de
+segmente, a unor măsuri de unghiuri și a unor arii
+1.6, 2.6, 3.6, 4.6, 179 L4: Criterii de asemănare a triunghiurilor. Aproximarea în practică a distanțelor
+5.6, 6.6 5.5. I nterpretarea unor proprietăți ale cercului și ale poligoanelor regulate folosind reprezentări geometrice
+folosind asemănarea
+5.6. Interpretarea asemănării triunghiurilor în configurații geometrice
+184 Recapitulare și evaluare 5.7. Interpretarea unor relaţii metrice între elementele unui triunghi dreptunghic
+UNITATEA 7 188 L1: Proiecții ortogonale pe o dreaptă. Teorema înălțimii 6.1. Modelarea matematică a unor situații practice care implică operații cu numere reale
+Relații metrice 192 L2: Teorema catetei 6.2. Transpunerea matematică a unor situații date, utilizând ecuații și/sau sisteme de ecuații liniare
+în triunghiul 195 L3: Teorema lui Pitagora 6.3. Transpunerea unei situații date într‑o reprezentare adecvată (text, formulă, diagramă, grafic)
+dreptunghic 6.4. Modelarea unor situații date prin reprezentări geometrice cu patrulatere
+201 L4: Noțiuni de trigonometrie în triunghiul dreptunghic
+1.7, 2.7, 3.7, 4.7, 6.5. Modelarea matematică a unor situații practice în care intervin poligoane regulate sau cercuri
+208 L5: Rezolvarea triunghiului dreptunghic. Calculul elementelor în poligoane regulate.
+5.7, 6.7 6.6. I mplementarea unei strategii pentru rezolvarea unor situaţii date, utilizând asemănarea triunghiurilor
+Aproximarea în practică a distanțelor folosind relații metrice
+6.7. Implementarea unei strategii pentru rezolvarea unor situaţii date, utilizând relații metrice în triunghiul
+214 Recapitulare și evaluare dreptunghic
+Soluții 216
+7
+U1
+Mulțimea numerelor reale
+Lecția 1 Rădăcina pătrată a pătratului unui număr natural.
+Estimarea rădăcinii pătrate dintr-un număr rațional pozitiv
+Lecția 2 Mulţimea numerelor reale
+Lecția 3 Reguli de calcul cu radicali
+Lecția 4 Adunarea și scăderea numerelor reale
+Lecția 5 Înmulţirea și împărţirea numerelor reale
+Lecția 6 Puterea cu exponent întreg a unui număr real.
+Ordinea efectuării operaţiilor cu numere reale
+Lecția 7 Raţionalizarea numitorului unei fracţii
+Lecția 8 Media aritmetică ponderată a două sau mai multe numere reale.
+Media geometrică a două numere reale pozitive
+Lecția 9 Ecuaţia de forma x2 = a, unde a ∈ R
+Recapitulare
+și evaluare
+Majoritatea numerelor pe care le utilizăm
+cotidian sunt numere reale. Printre acestea se
+află: numărul banilor pe care îi avem în portofel,
+statisticile pe care le vedem la emisiunile
+sportive, măsurile din cărțile de bucate. Apelăm
+la numere reale pentru a indica viteza vântului,
+cantitățile de precipitații, distanțele, dar și
+volumul de benzină din rezervor și pulsul cardiac.
+1.1
+Lecţia 1: Rădăcina pătrată a pătratului unui număr natural.
+Estimarea rădăcinii pătrate dintr‑un număr rațional pozitiv
+Cuvinte cheie
+pătrat perfect rădăcină pătrată radical
+Rădăcina pătrată a pătratului unui număr natural
+Mate practică
+Terenul din imagine are forma unui pătrat, iar aria sa este egală cu
+6 400 m2.
+Ce lungime are latura terenului?
+Aria unui pătrat este egală cu pătratul lungimii laturii pătratului.
+Notând cu l lungimea laturii terenului, exprimată în metri, aria terenului
+este l2 metri pătrați.
+Așadar, l2 = 6 400. Cum 802 = 6 400, obținem l = 80 m.
+Ce observăm?
+În anumite situații practice, este necesar să determinăm un număr natural n cunoscând cât este pătratul său n2.
+Această operație se numește extragerea rădăcinii pătrate a numărului n2.
+Un număr natural care este pătratul unui alt număr natural se numește pătrat perfect.
+De reținut
+Fie a un număr natural pătrat perfect. Se numește rădăcina pătrată a sa numărul natural n astfel încât n2 = a.
+Numărul n se notează a și se citește radical din a. Astfel, se poate scrie:
+a=n dacă și numai dacă n2 = a.
+Exemple
+1. 0=0, deoarece 02 = 0; 2. 25=5, deoarece 52 = 25;
+3. 121=11, deoarece 112 = 121; 4. 729=27, deoarece 272 = 729;
+5. 1024=32, deoarece 322 = 1 024; 6. 7225=85, deoarece 852 = 7 225.
+Observație
+Legătura dintre operația de ridicare la pătrat și operația de extragere a rădăcinii pătrate
+Din definiția rădăcinii pătrate a unui număr natural pătrat perfect rezultă imediat că: ridicarea la pătrat
+1. n2 =n, pentru orice număr natural n;
+n n2
+2. ( a )2 =a, pentru orice număr natural pătrat perfect a.
+Cu alte cuvinte, operațiile de ridicare la pătrat și de extragere a rădăcinii pătrate
+extragerea
+rădăcinii
+pătrate
+sunt operații inverse una celeilalte.
+Exemple
+1. 72 =7, deoarece 72 = 49=7; 3. 52 =5, deoarece 52 = 25=5;
+2. ( 16)2 =16, deoarece ( 16)2 =42 =16; 4. ( 81)2 =81, deoarece ( 81)2 =92 =81.
+Rădăcina pătrată a pătratului unui număr rațional pozitiv
+În paragraful anterior, am văzut că dacă un număr natural a se poate scrie ca pătratul unui alt număr natural n,
+atunci a se numește pătrat perfect, iar n se numește rădăcina pătrată (sau radicalul) lui a.
+Vom extinde această definiție și pentru pătratele unor numere raționale pozitive.
+10
+1.1
+Activitate pe grupe
+1. Lucrând în echipe de câte 2 elevi, copiați și completați tabelul:
+2 7 9 11
+x 0,7 1,2 1,3 1,4 1,5 4,5
+3 5 13 101
+49
+x2 0,49 20,25
+25
+2. Transcrieți pe caiete tabelul de mai jos, verificați corectitudinea datelor și determinați, prin încercări, valo‑
+rile numerelor raționale pozitive x care trebuie scrise în cea de a doua linie a tabelului astfel încât să existe
+corespondența indicată între x2 și x:
+4 49 169 256
+x2 0,01 1,69 1,96 2,25 8,41 30,25
+9 25 81 625
+2
+x 0,1 2,9
+3
+3. Comparați, între echipe, rezultatele obținute, atât pentru primul, cât și pentru al doilea tabel, și analizați
+legăturile ce există între datele din cele două tabele.
+De reținut
+Fie a un număr rațional pozitiv care se poate scrie ca pătratul unui număr rațional.
+Numărul rațional pozitiv x cu proprietatea x2 = a se numește rădăcina pătrată a numărului rațional a.
+Ca mai înainte, x se notează a și se citește radical din a. Astfel, dacă numărul rațional a > 0 este pătratul unui
+număr rațional, se poate scrie:
+a=x dacă și numai dacă x2 = a și x > 0.
+Întrucât 0=0, relația anterioară se scrie mai general, pentru a ≥ 0, sub forma:
+a=x dacă și numai dacă x2 = a și x ≥ 0.
+Exemple
+1. 0,04=0,2, deoarece (0,2)2 = 0,04; 2. 11,56=3,4, deoarece 3,42 = 11,56;
+9 3 32 9 121 11 112 121
+3. = , deoarece   = ; 4. = , deoarece   = .
+49 7 7 49 729 27 27 729
+Observații
+1. Dacă numărul rațional a > 0 este pătratul unui număr rațional x, atunci a=x2 =(−x)2.
+1 12  12
+Exemple: a. =  =−  ; b. 5,76=(2,4)2 =(−2,4)2.
+4 2  2
+Definiția de mai sus arată că rădăcina pătrată a lui a este un număr pozitiv. Ca urmare:
+1 1 1 1
+a. = și ≠− ; b. 5,76=2,4 și 5,76≠−2,4.
+4 2 4 2
+2. Legătura dintre operația de ridicare la pătrat și extragerea rădăcinii pătrate se păstrează și în cazul numerelor
+raționale, cu respectarea condiției de pozitivitate de mai sus. Deoarece modulul unui număr rațional este nene‑
+gativ și |−x|=|x|, pentru orice număr rațional x, din definiția rădăcinii pătrate rezultă că:
+a. ( a )2 =a, pentru orice număr rațional a ≥ 0 care este pătratul unui număr rațional;
+b. x2 =|x|, pentru orice număr rațional x.
+11
+1.1
+Rădăcina pătrată a unui număr rațional pozitiv
+Mate practică
+Pentru realizarea unui model de avion precum cel din imaginea alăturată, sunt
+necesare patru piese identice din placaj, sub forma unor triunghiuri dreptunghice
+isoscele cu catetele având lungimea de 1 dm.
+Piesele se pot obține în două moduri:
+1. Desenăm pe foaia de placaj un dreptunghi cu dimensiunile de 1 dm și 2 dm, îl împărțim în două pătrate de
+latură 1 dm, apoi facem două tăieturi pe diagonalele acestor pătrate, ca în Figura 1, obținând cele patru piese.
+1 dm
+12
+md
+1
+1 dm
+1 dm
+md
+1
+Figura 1 Figura 2
+2. Observăm că piesele pot fi aranjate astfel încât să formeze un pătrat (Figura 2). Ne propunem să aflăm lungi‑
+mea laturii acestui pătrat, pentru ca, decupându‑l din altă bucată de placaj, să nu facem risipă de material.
+Deoarece patrulaterele din figurile 1 și 2 au aceeași arie, de 2 dm2, lungimea laturii pătratului este numărul
+pozitiv x, cu proprietatea că x2 = 2. Cum nu există niciun număr rațional al cărui pătrat să fie egal cu 2, căutăm
+o aproximare a acestuia.
+Deoarece 12 < 2 < 22, deducem că x trebuie să fie cuprins între 1 și 2.
+De fapt, pentru că 1,42 = 1,96 și 1,52 = 2,25, înseamnă că 1,4 < x < 1,5. Mai precis, 1,41 < x < 1,42, întrucât
+1,412 = 1,9881 < 2 și 1,422 = 2,0164 < 2.
+Ce observăm?
+Situația practică descrisă mai sus demonstrează că există un număr pozitiv x, cu proprietatea x2 = 2, a cărui valoare,
+chiar dacă nu poate fi indicată cu exactitate, poate fi aproximată la un număr întreg sau la o fracție zecimală finită
+cu una, două sau mai multe zecimale.
+Asemănător, putem arăta că, pentru orice număr rațional pozitiv a, există un număr pozitiv x al cărui pătrat
+este a. Mai mult, se poate demonstra că x este unicul număr cu această proprietate.
+Astfel, noțiunea de rădăcină pătrată se extinde la numere raționale pozitive oarecare.
+De reținut
+Rădăcina pătrată a unui număr rațional pozitiv a este un număr pozitiv x , cu proprietatea x2 = a.
+Ca mai înainte, notăm x= a și spunem că x este radicalul numărului a (sau radical din a).
+De asemenea, sunt valabile relațiile:
+a. a=x dacă și numai dacă x2 = a;
+b. ( a )2 =a, pentru orice număr rațional a ≥ 0;
+c. a2 =|a|, pentru orice număr rațional a.
+Exemple
+În problema practică de mai înainte, lungimea x a laturii pătratului verifică relația x2 = 2, deci, conform definiției,
+x= 2.
+În mod asemănător, alte probleme practice conduc la concluzia că există numerele pozitive 3, 3,14
+5
+sau .
+12
+1.1
+Estimarea rădăcinii pătrate a unui număr rațional pozitiv
+A estima o cantitate înseamnă a indica o valoare aproximativă a acesteia, fără a cunoaște toate datele necesare
+pentru a putea formula un răspuns exact. Pentru a putea utiliza în practică un număr de forma a, unde a este
+număr rațional pozitiv, vom folosi aproximări ale sale la numere întregi sau la fracții zecimale finite, încadrând
+numărul rațional a între pătratele a două numere raționale.
+Estimarea rădăcinii pătrate a unui număr rațional pozitiv
+prin încadrarea între pătrate de numere raționale
+Să considerăm, de exemplu, numărul rațional 5,61. Încadrăm acest număr între două pătrate perfecte conse‑
+cutive: 22 <5,61<32, de unde rezultă că 2< 5,61<3.
+Prin urmare, aproximarea lui 5,61 la ordinul unităților este egală cu 2, dacă aproximarea se face prin lipsă,
+respectiv cu 3, dacă aproximarea se face prin adaos.
+Pentru a determina aproximările lui 5,61 la ordinul zecimilor și al sutimilor, vom proceda astfel:
+Pasul 1: C alculăm pătratele numerelor de forma 2,a, unde a∈{1,2,…,9}.
+Obținem 2,32 <5,61<2,42, deci 5,612,3….
+Pasul 2: C alculăm pătratele numerelor de forma 2,3a, unde a∈{1,2,…,9}.
+Obținem 2,362 <5,61<2,372, de unde rezultă 5,612,36….
+Continuând în acest fel se pot obține aproximări cu oricâte zecimale.
+Utilizarea minicalculatorului pentru aflarea valorii aproximative a rădăcinii pătrate
+Folosind minicalculatorul (sau aplicații mobile sau tablete), rădăcina pătrată a unui
+număr rațional pozitiv se află introducând în calculator numărul respectiv, în formă zeci‑
+mală, și apăsând apoi tasta pe care este marcat semnul radical.
+De exemplu, valoarea aproximativă a lui 2 se află apăsând, în ordine, tastele:
+2 1,4142135
+Dacă numărul rațional este dat sub forma unei fracții ordinare, atunci folosim tasta de
+împărțire pentru a aduce numărul la forma zecimală, apoi apăsăm tasta radical.
+Portofoliu
+Consultați manualul digital pentru a studia:
+• metoda babiloniană pentru determinarea valorii aproximative a rădăcinii pătrate a unui număr rațional pozitiv;
+• algoritmul de extragere a rădăcinii pătrate dintr‑un număr rațional pozitiv exprimat printr‑o fracție zecimală
+finită. Folosind algoritmul de extragere a rădăcinii pătrate, calculați, cu două zecimale exacte, radicalul dintr‑un
+număr natural care nu este pătrat perfect.
+Observație
+Tabel cu valorile radicalilor numerelor naturale cuprinse între 1 și 25
+1=1 6=2,4494… 11=3,3166… 16=4 21=4,5825…
+2=1,4142… 7=2,6457… 12=3,4641… 17=4,1231… 22=4,6904…
+3=1,7320… 8=2,8284… 13=3,6055… 18=4,2426… 23=4,7958…
+4=2 9=3 14=3,7416… 19=4,3588… 24=4,8989…
+5=2,2360… 10=3,1622… 15=3,8729… 20=4,4721… 25=5
+13

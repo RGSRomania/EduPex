@@ -15,34 +15,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Numere naturale și operații fundamentale",
+              "theory": "Numerele naturale sunt numerele folosite pentru a numărătorii obiecte: 0, 1, 2, 3, 4, 5... etc.\n\nOperațiile fundamentale cu numere naturale sunt:\n- Adunarea: operația prin care se reunesc două sau mai multe mulțimi de obiecte\n- Scăderea: operația inversă adunării\n- Înmulțirea: adunare repetată\n- Împărțirea: operația inversă înmulțirii\n\nProprietăți importante:\n- Comutativitatea la adunare: a + b = b + a\n- Asociativitatea la adunare: (a + b) + c = a + (b + c)\n- Element neutru la adunare: a + 0 = a\n- Element neutru la înmulțire: a × 1 = a",
+              "examples": [
+                "Exemplu adunare: 23 + 45 = 68",
+                "Exemplu scădere: 78 - 32 = 46",
+                "Exemplu înmulțire: 5 × 6 = 30",
+                "Exemplu împărțire: 24 ÷ 6 = 4"
+              ],
+              "tips": [
+                "Memorează tabelele de adunare și înmulțire",
+                "Practică zilnic pentru a îmbunătăți viteza de calcul",
+                "Verifică-ți întotdeauna răspunsurile",
+                "Pentru adunare și scădere, aliniază numerele după poziția zecilor și unităților"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cât este 15 + 28?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "43",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Adunând 15 + 28 = 43"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "42",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "44",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "45",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -50,34 +60,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adunarea și scăderea numerelor naturale",
+              "theory": "Adunarea numerelor naturale:\n- Se efectuează de la dreapta la stânga (de la unități la zeci la sute)\n- Dacă suma unităților depășește 9, se trece zecele în ordinul următor\n- Exemplu: 27 + 15: 7+5=12 (scriem 2, trecem 1), 2+1+1=4, rezultat 42\n\nScăderea numerelor naturale:\n- Se efectuează și ea de la dreapta la stânga\n- Dacă cifra de scăzut este mai mare decât cifra din descăzut, se împrumută de la ordinul următor\n- Exemplu: 42 - 15: nu putem scădea 5 din 2, deci împrumutăm, 12-5=7, 3-1=2, rezultat 27",
+              "examples": [
+                "Adunare cu trecere peste ordin: 28 + 14 = 42",
+                "Scădere cu împrumut: 50 - 23 = 27",
+                "Adunare mai multor numere: 12 + 15 + 13 = 40",
+                "Probleme practice: Dacă ai 35 lei și primești 25 lei, cât vei avea? 35 + 25 = 60 lei"
+              ],
+              "tips": [
+                "Verifică adunarea prin scădere: dacă a + b = c, atunci c - b = a",
+                "Verifică scăderea prin adunare: dacă a - b = c, atunci b + c = a",
+                "Când aduni mai multe numere, poți schimba ordinea pentru a le grupa mai ușor",
+                "Caută numere care se completează la 10 pentru calcule mai rapide"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Cât este 56 - 24?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "32",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Scăzând 56 - 24 = 32"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "34",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "36",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -85,34 +105,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Înmulțirea numerelor naturale",
+              "theory": "Înmulțirea este o adunare repetată. Prin înmulțire se calculează aria dreptunghiurilor, grupuri de obiecte identice, etc.\n\nProprietăți ale înmulțirii:\n- Comutativitate: a × b = b × a (3 × 5 = 5 × 3 = 15)\n- Asociativitate: (a × b) × c = a × (b × c)\n- Element neutru: a × 1 = a\n- Element absorbant: a × 0 = 0\n- Distributivitate: a × (b + c) = a × b + a × c\n\nÎnmulțirea cu 10, 100, 1000:\n- Pentru a înmulți cu 10, adaugă un zero\n- Pentru a înmulți cu 100, adaugă doi zerouri\n- Pentru a înmulți cu 1000, adaugă trei zerouri",
+              "examples": [
+                "Tabla înmulțirii cu 3: 3×1=3, 3×2=6, 3×3=9, 3×4=12, 3×5=15, 3×6=18, 3×7=21, 3×8=24, 3×9=27, 3×10=30",
+                "Înmulțire cu 10: 23 × 10 = 230",
+                "Înmulțire cu mai multe cifre: 23 × 14 = 322",
+                "Problema practică: Dacă o carte costă 15 lei, cât vor costa 5 cărți? 15 × 5 = 75 lei"
+              ],
+              "tips": [
+                "Memorează tabelele de înmulțire de la 1 la 10",
+                "Folosiți proprietatea comutativă pentru a ușura calculele (e mai ușor 2×9 decât 9×2)",
+                "Pentru înmulțiri mari, descompuneți numerele în sute, zeci și unități",
+                "Verificați prin împărțire: dacă a × b = c, atunci c ÷ b = a"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Cât este 7 × 8?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "54",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "56",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "7 × 8 = 56"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "58",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "60",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -120,34 +150,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Împărțirea numerelor naturale",
+              "theory": "Împărțirea este operația inversă a înmulțirii. Prin împărțire, o cantitate se distribuie în mod egal în mai multe grupe.\n\nTermenul împărțirii:\n- Deîmpărțit: numărul care se împarte\n- Împărțitor: numărul care arată în câte grupe se împarte\n- Cât: rezultatul împărțirii\n- Rest: ceea ce rămâne dacă împărțirea nu este exactă\n\nProprietăți importante:\n- a ÷ a = 1 (dacă a ≠ 0)\n- a ÷ 1 = a\n- 0 ÷ a = 0 (dacă a ≠ 0)\n- NU se poate împărți la 0!\n\nLegătura cu înmulțirea:\nDacă a ÷ b = c, atunci a = b × c",
+              "examples": [
+                "Împărțire exactă: 24 ÷ 6 = 4 (verificare: 6 × 4 = 24)",
+                "Împărțire cu rest: 27 ÷ 5 = 5 rest 2 (verificare: 5 × 5 + 2 = 27)",
+                "Împărțire la 10: 240 ÷ 10 = 24",
+                "Problema practică: 30 de cărți trebuie împărțite în mod egal între 5 elevi. Fiecare elev primește 6 cărți."
+              ],
+              "tips": [
+                "Verifică-ți întotdeauna răspunsurile prin înmulțire",
+                "Pentru împărțiri mari, folosiți împărțirea în coloniță",
+                "Amintiți-vă că restul trebuie să fie ÎNTOTDEAUNA mai mic decât împărțitorul",
+                "Dacă nu reții bine tabelele de înmulțire, folosiți-le pentru a calcula mai ușor"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Cât este 45 ÷ 9?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "45 ÷ 9 = 5"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -155,34 +195,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Ordinea operațiilor și expresii matematice",
+              "theory": "Atunci când avem mai multe operații într-o expresie, trebuie să le facem în ordinea corectă:\n\nORDINEA OPERAȚIILOR (PEMDAS/BODMAS):\n1. Paranteze - calculează mai întâi ceea ce este în paranteze\n2. Exponenți/Puteri - calculează puterile\n3. Înmulțire și Împărțire - de la stânga la dreapta\n4. Adunare și Scădere - de la stânga la dreapta\n\nDacă nu respecti ordinea, vei obține un rezultat greșit!\n\nExemplu: 2 + 3 × 4\n- Greșit: (2 + 3) × 4 = 5 × 4 = 20\n- Corect: 2 + (3 × 4) = 2 + 12 = 14",
+              "examples": [
+                "10 + 5 × 2 = 10 + 10 = 20 (NU 15 × 2 = 30)",
+                "(10 + 5) × 2 = 15 × 2 = 30 (parantezele schimbă ordinea)",
+                "24 ÷ 2 × 3 = 12 × 3 = 36 (de la stânga la dreapta)",
+                "30 - 5 + 2 = 25 + 2 = 27 (de la stânga la dreapta)"
+              ],
+              "tips": [
+                "Memorează acronimul PEMDAS pentru a-ți aminti ordinea",
+                "Când nu ești sigur, pune paranteze pentru a clarifica ordinea",
+                "Pentru înmulțire și împărțire de aceeași nivel, lucrează de la stânga la dreapta",
+                "Pentru adunare și scădere de aceeași nivel, lucrează de la stânga la dreapta"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Care este rezultatul: 2 + 3 × 4?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "14",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Înmulțirea se face înainte: 3 × 4 = 12, apoi 2 + 12 = 14"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "20",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este greșit, ai calculat (2 + 3) × 4"
+                  },
+                  {
+                    "text": "10",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "12",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -190,34 +240,44 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Fracții și numere fracționare",
+              "theory": "O fracție este o parte din întreg. Fracția se scrie ca o linie orizontală cu doi numeri:\n- Numărător (sus): indică câte părti luăm\n- Numitor (jos): indică în câte părti egale este împărțit întregul\n\nExemplu: 3/4 (trei sferturi) - întregul este împărțit în 4 părti egale, luăm 3\n\nTipuri de fracții:\n- Fracție proprie: numărător < numitor (3/4, 1/2, 5/8)\n- Fracție improprie: numărător > numitor (5/4, 9/8)\n- Fracții echivalente: au valori egale dar numeri diferiți (1/2 = 2/4 = 3/6)\n\nSimplificarea fracțiilor:\nSe împarte numărătorul și numitorul la aceeași număr (dacă se poate)\nExemplu: 6/8 = 3/4 (am împărțit ambii la 2)",
+              "examples": [
+                "Fracții dintr-un întreg: 1/2 (jumătate), 1/4 (sfert), 1/3 (treime)",
+                "Fracții echivalente: 1/2 = 2/4 = 3/6 = 4/8",
+                "Simplificare: 10/15 = 2/3 (am împărțit la 5)",
+                "Pe o linie: 0/4, 1/4, 2/4, 3/4, 4/4 (care = 1)"
+              ],
+              "tips": [
+                "Desenează întregul și colorează parțile pentru a vizualiza fracțiile",
+                "Fracții cu numitor egal sunt mai ușor de comparat",
+                "Pentru a compara fracții, găsește un numitor comun",
+                "Pentru simplificare, găsește cel mai mare divizor comun (CMMDC)"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "Care fracție este echivalentă cu 1/2?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "2/5",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Nu sunt echivalente"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "3/6",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1/2 = 3/6 (am înmulțit ambii cu 3)"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "2/3",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Nu sunt echivalente"
+                  },
+                  {
+                    "text": "3/4",
+                    "correct": false,
+                    "explanation": "Nu sunt echivalente"
                   }
                 ]
               }
@@ -225,34 +285,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Zecimale și operații cu numere zecimale",
+              "theory": "Numerele zecimale sunt o altă formă de a scrie fracții cu numitor 10, 100, 1000, etc.\n\nStructura unui număr zecimal:\n- Punctul zecimal separă partea întreagă de partea fracționară\n- Zecimi: prima poziție după punct (10 este în numitor)\n- Sutimi: a doua poziție (100 în numitor)\n- Miimi: a treia poziție (1000 în numitor)\n\nExemplu: 3,456\n- 3 este partea întreagă\n- 4 zecimi = 0,4\n- 5 sutimi = 0,05\n- 6 miimi = 0,006\n\nConversii:\n- 1/2 = 0,5\n- 1/4 = 0,25\n- 1/5 = 0,2\n- 1/10 = 0,1",
+              "examples": [
+                "Scris ca fracție: 0,5 = 5/10 = 1/2",
+                "Scris ca zecimală: 3/4 = 0,75",
+                "Comparare: 0,3 < 0,31 < 0,4",
+                "Ordonare: 0,12, 0,2, 0,21, 1,2"
+              ],
+              "tips": [
+                "Memorează conversiile comune de fracții în zecimale",
+                "Când aduni sau scazi zecimale, aliniază punctele zecimale",
+                "Zerourile la sfârșit nu schimbă valoarea: 0,5 = 0,50 = 0,500",
+                "Pentru a compara zecimale, privește-le ca pe cărți de credit: 0,30 < 0,31"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce valoare are 1/4 ca zecimală?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "0,20",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 1/5"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "0,25",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1/4 = 0,25 (împărțim 1 la 4)"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "0,40",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 2/5"
+                  },
+                  {
+                    "text": "0,50",
+                    "correct": false,
+                    "explanation": "Aceasta ar fi 1/2"
                   }
                 ]
               }
@@ -260,34 +330,44 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Mărimi și măsurări - lungime, masă, capacitate",
+              "theory": "Măsurarea este procesul de comparare a mărimilor cu o unitate standard.\n\nLUNGIMI (Metrul - m):\n- 1 km = 1000 m (kilometru)\n- 1 m = 100 cm (centimetru)\n- 1 m = 1000 mm (milimetru)\n- 1 cm = 10 mm\n\nMASĂ (Kilogramul - kg):\n- 1 t = 1000 kg (tonă)\n- 1 kg = 1000 g (gram)\n- 1 g = 1000 mg (miligram)\n\nCAPACITATE (Litrul - l):\n- 1 hl = 100 l (hectolitru)\n- 1 l = 1000 ml (mililitru)\n- 1 l = 1 dm³ (decimetru cub)\n\nPentru a converti:\n- De la mai mare la mai mic: înmulțești\n- De la mai mic la mai mare: împarți",
+              "examples": [
+                "Conversie lungime: 5 m = 500 cm = 5000 mm",
+                "Conversie masă: 2 kg = 2000 g",
+                "Conversie capacitate: 1 l = 1000 ml",
+                "Probleme practice: Dacă o tablă măsoară 2 m, câți centimetri sunt? 2 × 100 = 200 cm"
+              ],
+              "tips": [
+                "Memorează conversiile principale pentru fiecare unitate",
+                "Desenează diagrame pentru a vizualiza relațiile",
+                "Folosește cuvintele: kilo = 1000, centi = 1/100, mili = 1/1000",
+                "Pentru a compara mărimi, convertește-le la aceeași unitate"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Câți centimetri sunt în 3 metri?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30 cm",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "300 cm",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1 m = 100 cm, deci 3 m = 300 cm"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "3000 cm",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 30 m"
+                  },
+                  {
+                    "text": "3 cm",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -295,34 +375,44 @@
             {
               "title": "L9 - Lecția 9",
               "order": 9,
-              "summary": "Lecția 9",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Puterea cu exponent natural a unui număr natural",
+              "theory": "Puterea unui număr este o operație matematică care înseamnă înmulțirea unui număr cu el însuși de mai multe ori.\n\n    Notație: a^n, unde:\n    - a se numește bază\n    - n se numește exponent\n    - a^n = a × a × a × ... × a (de n ori)\n\n    Exemple: 2^3 = 2 × 2 × 2 = 8; 5^2 = 5 × 5 = 25\n\n    Cazuri speciale:\n    - Orice număr la puterea 1 este egal cu acel număr: a^1 = a\n    - Orice număr la puterea 0 este egal cu 1: a^0 = 1 (pentru a ≠ 0)\n    - 1 la orice putere este 1: 1^n = 1\n\n    Operații cu puteri:\n    - Înmulțire: a^m × a^n = a^(m+n)\n    - Împărțire: a^m ÷ a^n = a^(m-n)\n    - Putere de putere: (a^m)^n = a^(m×n)\n    - Putere de produs: (a×b)^n = a^n × b^n",
+              "examples": [
+                "Calculează 3^4: 3^4 = 3 × 3 × 3 × 3 = 9 × 9 = 81",
+                "Calculează 2^5: 2^5 = 2 × 2 × 2 × 2 × 2 = 32",
+                "Calculează 10^3: 10^3 = 10 × 10 × 10 = 1000",
+                "Calculează 7^2: 7^2 = 7 × 7 = 49"
+              ],
+              "tips": [
+                "Pentru a calcula o putere, înmulțește baza cu ea însăși de atâtea ori cât arată exponentul",
+                "Puterile cu baza 10 sunt ușor de calculat: 10^n are 1 urmat de n zerouri",
+                "Orice număr la puterea 0 este 1, iar orice număr la puterea 1 este el însuși",
+                "Puterile cresc foarte rapid - de aceea se folosesc în științe pentru a exprima numere foarte mari"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 9?",
+                "text": "Calculează 4^3:",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "12",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "4^3 înseamnă 4 × 4 × 4, nu 4 × 3"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "16",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "16 este 4^2, nu 4^3"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "64",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "4^3 = 4 × 4 × 4 = 64 ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "81",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "81 este 3^4, nu 4^3"
                   }
                 ]
               }
@@ -330,34 +420,44 @@
             {
               "title": "L10 - Lecția 10",
               "order": 10,
-              "summary": "Lecția 10",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Ordinea efectuării operațiilor",
+              "theory": "Ordinea efectuării operațiilor este un set de reguli care ne spun în ce ordine să facem calculele atunci când avem mai multe operații într-o expresie matematică.\n\n    Ordinea corectă (PEMDAS/BODMAS):\n    1. Paranteză - Calculele din paranteză se fac primele\n    2. Exponenți - Puterile se calculează în urmă\n    3. Înmulțire și Împărțire - Se fac de la stânga la dreapta, în ordinea apariției\n    4. Adunare și Scădere - Se fac de la stânga la dreapta, în ordinea apariției\n\n    Important: Înmulțirea și împărțirea au aceeași prioritate, la fel ca și adunarea și scăderea. Se calculează în ordinea în care apar, de la stânga la dreapta.\n\n    Exemplu: 2 + 3 × 4 = 2 + 12 = 14 (nu 5 × 4 = 20)\n    De ce? Pentru că înmulțirea se face înainte de adunare.",
+              "examples": [
+                "Calculează 10 + 5 × 2: Înmulțirea are prioritate: 5 × 2 = 10, apoi 10 + 10 = 20",
+                "Calculează (10 + 5) × 2: Paranteza se face prima: (10 + 5) = 15, apoi 15 × 2 = 30",
+                "Calculează 20 - 8 ÷ 2: Împărțirea se face prima: 8 ÷ 2 = 4, apoi 20 - 4 = 16",
+                "Calculează 2 + 3 × 4 - 5: Înmulțire: 3 × 4 = 12, apoi 2 + 12 - 5 = 9"
+              ],
+              "tips": [
+                "Reține acronimul PEMDAS: Paranteză, Exponenți, Înmulțire, Împărțire, Adunare, Scădere",
+                "Dacă ai îndoieli, folosește paranteze pentru a clarifica ordinea operațiilor",
+                "Înmulțirea și împărțirea sunt echivalente - se fac de la stânga la dreapta",
+                "Adunarea și scăderea sunt echivalente - se fac de la stânga la dreapta"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 10?",
+                "text": "Calculează 12 + 3 × 2:",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi dacă adunarea se face prima: (12+3)×2=30, dar înmulțirea are prioritate"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "18",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! 3 × 2 = 6, apoi 12 + 6 = 18 ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "24",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "24 nu este rezultatul acestei operații"
+                  },
+                  {
+                    "text": "6",
+                    "correct": false,
+                    "explanation": "6 este doar rezultatul înmulțirii, nu și al întregii expresii"
                   }
                 ]
               }
@@ -365,34 +465,44 @@
             {
               "title": "L11 - Lecția 11",
               "order": 11,
-              "summary": "Lecția 11",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Divizibilitate. Criterii de divizibilitate",
+              "theory": "Un număr a se divide la un număr b (notație: b | a) dacă există un număr natural c, astfel încât a = b × c.\n\n    Criteriile de divizibilitate sunt reguli care ne ajută să determinăm dacă un număr este divizibil cu altul fără a face împărțirea.\n\n    Criteriile principale:\n    - Divizibilitate cu 2: Ultimul cifră este pară (0, 2, 4, 6, 8)\n    - Divizibilitate cu 3: Suma cifrelor este divizibilă cu 3\n    - Divizibilitate cu 5: Ultimul cifră este 0 sau 5\n    - Divizibilitate cu 10: Ultimul cifră este 0\n    - Divizibilitate cu 4: Ultimele două cifre formează un număr divizibil cu 4\n    - Divizibilitate cu 9: Suma cifrelor este divizibilă cu 9\n\n    Exemplu: 246 este divizibil cu 2 (ultima cifră este 6, care este pară)\n    Exemplu: 315 este divizibil cu 3 (3+1+5=9, care este divizibil cu 3)",
+              "examples": [
+                "Este 234 divizibil cu 2? Da, pentru că ultima cifră (4) este pară",
+                "Este 345 divizibil cu 3? Da, pentru că 3+4+5=12, iar 12 este divizibil cu 3",
+                "Este 570 divizibil cu 5? Da, pentru că ultima cifră este 0",
+                "Este 728 divizibil cu 4? Da, pentru că 28 (ultimele două cifre) sunt divizibile cu 4"
+              ],
+              "tips": [
+                "Memorează criteriile de divizibilitate - ele te vor ajuta să economisești timp",
+                "Pentru a verifica divizibilitatea cu 2, privește doar ultima cifră",
+                "Pentru a verifica divizibilitatea cu 3 sau 9, adună toate cifrele",
+                "Orice număr care se termină în 0 este divizibil atât cu 2, 5, cât și cu 10"
+              ],
               "estimatedTime": 45,
               "difficulty": "hard",
               "question": {
-                "text": "Întrebare despre Lecția 11?",
+                "text": "Este 243 divizibil cu 3?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Nu, pentru că nu se termină în 0",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi regula pentru 10, nu pentru 3"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Da, pentru că 2+4+3=9, care este divizibil cu 3",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! Suma cifrelor este 9, care se divide cu 3 ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Nu, pentru că 243 nu se divide exact",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "243 ÷ 3 = 81, deci se divide exact"
+                  },
+                  {
+                    "text": "Da, pentru că are trei cifre",
+                    "correct": false,
+                    "explanation": "Numărul de cifre nu determină divizibilitatea"
                   }
                 ]
               }
@@ -400,34 +510,44 @@
             {
               "title": "L12 - Lecția 12",
               "order": 12,
-              "summary": "Lecția 12",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Numere prime și numere compuse",
+              "theory": "Un număr prim este un număr natural mai mare decât 1 care are exact doi divizori: 1 și el însuși.\n    Un număr compus este un număr natural care are mai mult de doi divizori.\n\n    Numerele prime până la 30: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29\n\n    Proprietăți importante:\n    - 1 nu este nici prim, nici compus\n    - 2 este singurul număr prim par\n    - Orice număr compus poate fi scris ca produs de numere prime (Teorema Fundamentală a Aritmeticii)\n    - Există infinit de numere prime\n\n    Pentru a determina dacă un număr n este prim:\n    - Verifică dacă se divide la 2, 3, 5, 7, ..., până la √n\n    - Dacă nu are niciun divizor în acest interval, este prim\n\n    Exemplu: Pentru a verifica dacă 17 este prim, verifici doar 2 și 3 (pentru că √17 ≈ 4.1)",
+              "examples": [
+                "7 este prim: are doar divizori 1 și 7",
+                "12 este compus: are divizori 1, 2, 3, 4, 6, 12",
+                "13 este prim: are doar divizori 1 și 13",
+                "20 este compus: are divizori 1, 2, 4, 5, 10, 20"
+              ],
+              "tips": [
+                "Memorează numerele prime de la 2 la 20: 2, 3, 5, 7, 11, 13, 17, 19",
+                "Singurul număr prim par este 2 - toți ceilalți numere pare sunt compuși",
+                "Pentru a verifica dacă un număr mare este prim, nu trebuie să testezi toti divizorii până la el",
+                "Numerele prime sunt blocurile de construcție ale tuturor numerelor naturale"
+              ],
               "estimatedTime": 45,
               "difficulty": "hard",
               "question": {
-                "text": "Întrebare despre Lecția 12?",
+                "text": "Care dintre aceste numere este prim?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "15",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "15 = 3 × 5, deci este compus"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "21",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "21 = 3 × 7, deci este compus"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "23",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "23 nu se divide la 2, 3, 5, deci este prim ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "25",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "25 = 5 × 5, deci este compus"
                   }
                 ]
               }
@@ -435,34 +555,44 @@
             {
               "title": "L13 - Lecția 13",
               "order": 13,
-              "summary": "Lecția 13",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Descompunerea în factori primi",
+              "theory": "Descompunerea în factori primi înseamnă a scrie un număr compus ca produs de numere prime.\n\n    Metoda: Împarte numărul succesiv la numere prime (2, 3, 5, 7, ...) până obții 1.\n\n    Pași:\n    1. Începe cu cel mai mic număr prim (2)\n    2. Dacă numărul se divide, scrie factorul și continuă cu câtul\n    3. Dacă nu se divide, treci la următorul număr prim\n    4. Repetă până când ajungi la 1\n\n    Exemplu: 60 = 2 × 30 = 2 × 2 × 15 = 2 × 2 × 3 × 5\n\n    Scriere standard: 60 = 2² × 3 × 5\n\n    Utilități:\n    - Găsirea celui mai mare divizor comun (CMMDC)\n    - Găsirea celui mai mic multiplu comun (CMMMC)\n    - Simplificarea fracțiilor\n    - Determinarea proprietăților numărului",
+              "examples": [
+                "Descompune 12: 12 = 2 × 6 = 2 × 2 × 3 = 2² × 3",
+                "Descompune 18: 18 = 2 × 9 = 2 × 3 × 3 = 2 × 3²",
+                "Descompune 24: 24 = 2 × 12 = 2 × 2 × 6 = 2 × 2 × 2 × 3 = 2³ × 3",
+                "Descompune 30: 30 = 2 × 15 = 2 × 3 × 5"
+              ],
+              "tips": [
+                "Poate ajuta să-ți faci o linie de împărțire și să notezi factorii pe dreapta",
+                "Începe întotdeauna cu cel mai mic număr prim (2)",
+                "Ordinea factorilor nu contează: 2 × 3 × 5 = 5 × 3 × 2",
+                "Verifică-ți răspunsul prin înmulțirea factorilor: aceștia trebuie să dea numărul original"
+              ],
               "estimatedTime": 45,
               "difficulty": "hard",
               "question": {
-                "text": "Întrebare despre Lecția 13?",
+                "text": "Descompune 36 în factori primi:",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "2 × 18",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta nu este descompunerea completă - 18 nu este prim"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "2² × 3²",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "36 = 2 × 2 × 3 × 3 = 2² × 3² ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "2 × 3 × 6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "6 nu este prim"
+                  },
+                  {
+                    "text": "4 × 9",
+                    "correct": false,
+                    "explanation": "4 și 9 nu sunt numere prime"
                   }
                 ]
               }
@@ -483,34 +613,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Numere naturale și operații fundamentale",
+              "theory": "Numerele naturale sunt numerele folosite pentru a numărătorii obiecte: 0, 1, 2, 3, 4, 5... etc.\n\nOperațiile fundamentale cu numere naturale sunt:\n- Adunarea: operația prin care se reunesc două sau mai multe mulțimi de obiecte\n- Scăderea: operația inversă adunării\n- Înmulțirea: adunare repetată\n- Împărțirea: operația inversă înmulțirii\n\nProprietăți importante:\n- Comutativitatea la adunare: a + b = b + a\n- Asociativitatea la adunare: (a + b) + c = a + (b + c)\n- Element neutru la adunare: a + 0 = a\n- Element neutru la înmulțire: a × 1 = a",
+              "examples": [
+                "Exemplu adunare: 23 + 45 = 68",
+                "Exemplu scădere: 78 - 32 = 46",
+                "Exemplu înmulțire: 5 × 6 = 30",
+                "Exemplu împărțire: 24 ÷ 6 = 4"
+              ],
+              "tips": [
+                "Memorează tabelele de adunare și înmulțire",
+                "Practică zilnic pentru a îmbunătăți viteza de calcul",
+                "Verifică-ți întotdeauna răspunsurile",
+                "Pentru adunare și scădere, aliniază numerele după poziția zecilor și unităților"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cât este 15 + 28?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "43",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Adunând 15 + 28 = 43"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "42",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "44",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "45",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -518,34 +658,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adunarea și scăderea numerelor naturale",
+              "theory": "Adunarea numerelor naturale:\n- Se efectuează de la dreapta la stânga (de la unități la zeci la sute)\n- Dacă suma unităților depășește 9, se trece zecele în ordinul următor\n- Exemplu: 27 + 15: 7+5=12 (scriem 2, trecem 1), 2+1+1=4, rezultat 42\n\nScăderea numerelor naturale:\n- Se efectuează și ea de la dreapta la stânga\n- Dacă cifra de scăzut este mai mare decât cifra din descăzut, se împrumută de la ordinul următor\n- Exemplu: 42 - 15: nu putem scădea 5 din 2, deci împrumutăm, 12-5=7, 3-1=2, rezultat 27",
+              "examples": [
+                "Adunare cu trecere peste ordin: 28 + 14 = 42",
+                "Scădere cu împrumut: 50 - 23 = 27",
+                "Adunare mai multor numere: 12 + 15 + 13 = 40",
+                "Probleme practice: Dacă ai 35 lei și primești 25 lei, cât vei avea? 35 + 25 = 60 lei"
+              ],
+              "tips": [
+                "Verifică adunarea prin scădere: dacă a + b = c, atunci c - b = a",
+                "Verifică scăderea prin adunare: dacă a - b = c, atunci b + c = a",
+                "Când aduni mai multe numere, poți schimba ordinea pentru a le grupa mai ușor",
+                "Caută numere care se completează la 10 pentru calcule mai rapide"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Cât este 56 - 24?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "32",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Scăzând 56 - 24 = 32"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "34",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "36",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -553,34 +703,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Înmulțirea numerelor naturale",
+              "theory": "Înmulțirea este o adunare repetată. Prin înmulțire se calculează aria dreptunghiurilor, grupuri de obiecte identice, etc.\n\nProprietăți ale înmulțirii:\n- Comutativitate: a × b = b × a (3 × 5 = 5 × 3 = 15)\n- Asociativitate: (a × b) × c = a × (b × c)\n- Element neutru: a × 1 = a\n- Element absorbant: a × 0 = 0\n- Distributivitate: a × (b + c) = a × b + a × c\n\nÎnmulțirea cu 10, 100, 1000:\n- Pentru a înmulți cu 10, adaugă un zero\n- Pentru a înmulți cu 100, adaugă doi zerouri\n- Pentru a înmulți cu 1000, adaugă trei zerouri",
+              "examples": [
+                "Tabla înmulțirii cu 3: 3×1=3, 3×2=6, 3×3=9, 3×4=12, 3×5=15, 3×6=18, 3×7=21, 3×8=24, 3×9=27, 3×10=30",
+                "Înmulțire cu 10: 23 × 10 = 230",
+                "Înmulțire cu mai multe cifre: 23 × 14 = 322",
+                "Problema practică: Dacă o carte costă 15 lei, cât vor costa 5 cărți? 15 × 5 = 75 lei"
+              ],
+              "tips": [
+                "Memorează tabelele de înmulțire de la 1 la 10",
+                "Folosiți proprietatea comutativă pentru a ușura calculele (e mai ușor 2×9 decât 9×2)",
+                "Pentru înmulțiri mari, descompuneți numerele în sute, zeci și unități",
+                "Verificați prin împărțire: dacă a × b = c, atunci c ÷ b = a"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Cât este 7 × 8?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "54",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "56",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "7 × 8 = 56"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "58",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "60",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -588,34 +748,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Împărțirea numerelor naturale",
+              "theory": "Împărțirea este operația inversă a înmulțirii. Prin împărțire, o cantitate se distribuie în mod egal în mai multe grupe.\n\nTermenul împărțirii:\n- Deîmpărțit: numărul care se împarte\n- Împărțitor: numărul care arată în câte grupe se împarte\n- Cât: rezultatul împărțirii\n- Rest: ceea ce rămâne dacă împărțirea nu este exactă\n\nProprietăți importante:\n- a ÷ a = 1 (dacă a ≠ 0)\n- a ÷ 1 = a\n- 0 ÷ a = 0 (dacă a ≠ 0)\n- NU se poate împărți la 0!\n\nLegătura cu înmulțirea:\nDacă a ÷ b = c, atunci a = b × c",
+              "examples": [
+                "Împărțire exactă: 24 ÷ 6 = 4 (verificare: 6 × 4 = 24)",
+                "Împărțire cu rest: 27 ÷ 5 = 5 rest 2 (verificare: 5 × 5 + 2 = 27)",
+                "Împărțire la 10: 240 ÷ 10 = 24",
+                "Problema practică: 30 de cărți trebuie împărțite în mod egal între 5 elevi. Fiecare elev primește 6 cărți."
+              ],
+              "tips": [
+                "Verifică-ți întotdeauna răspunsurile prin înmulțire",
+                "Pentru împărțiri mari, folosiți împărțirea în coloniță",
+                "Amintiți-vă că restul trebuie să fie ÎNTOTDEAUNA mai mic decât împărțitorul",
+                "Dacă nu reții bine tabelele de înmulțire, folosiți-le pentru a calcula mai ușor"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Cât este 45 ÷ 9?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "45 ÷ 9 = 5"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -623,34 +793,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Ordinea operațiilor și expresii matematice",
+              "theory": "Atunci când avem mai multe operații într-o expresie, trebuie să le facem în ordinea corectă:\n\nORDINEA OPERAȚIILOR (PEMDAS/BODMAS):\n1. Paranteze - calculează mai întâi ceea ce este în paranteze\n2. Exponenți/Puteri - calculează puterile\n3. Înmulțire și Împărțire - de la stânga la dreapta\n4. Adunare și Scădere - de la stânga la dreapta\n\nDacă nu respecti ordinea, vei obține un rezultat greșit!\n\nExemplu: 2 + 3 × 4\n- Greșit: (2 + 3) × 4 = 5 × 4 = 20\n- Corect: 2 + (3 × 4) = 2 + 12 = 14",
+              "examples": [
+                "10 + 5 × 2 = 10 + 10 = 20 (NU 15 × 2 = 30)",
+                "(10 + 5) × 2 = 15 × 2 = 30 (parantezele schimbă ordinea)",
+                "24 ÷ 2 × 3 = 12 × 3 = 36 (de la stânga la dreapta)",
+                "30 - 5 + 2 = 25 + 2 = 27 (de la stânga la dreapta)"
+              ],
+              "tips": [
+                "Memorează acronimul PEMDAS pentru a-ți aminti ordinea",
+                "Când nu ești sigur, pune paranteze pentru a clarifica ordinea",
+                "Pentru înmulțire și împărțire de aceeași nivel, lucrează de la stânga la dreapta",
+                "Pentru adunare și scădere de aceeași nivel, lucrează de la stânga la dreapta"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Care este rezultatul: 2 + 3 × 4?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "14",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Înmulțirea se face înainte: 3 × 4 = 12, apoi 2 + 12 = 14"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "20",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este greșit, ai calculat (2 + 3) × 4"
+                  },
+                  {
+                    "text": "10",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "12",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -671,34 +851,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Numere naturale și operații fundamentale",
+              "theory": "Numerele naturale sunt numerele folosite pentru a numărătorii obiecte: 0, 1, 2, 3, 4, 5... etc.\n\nOperațiile fundamentale cu numere naturale sunt:\n- Adunarea: operația prin care se reunesc două sau mai multe mulțimi de obiecte\n- Scăderea: operația inversă adunării\n- Înmulțirea: adunare repetată\n- Împărțirea: operația inversă înmulțirii\n\nProprietăți importante:\n- Comutativitatea la adunare: a + b = b + a\n- Asociativitatea la adunare: (a + b) + c = a + (b + c)\n- Element neutru la adunare: a + 0 = a\n- Element neutru la înmulțire: a × 1 = a",
+              "examples": [
+                "Exemplu adunare: 23 + 45 = 68",
+                "Exemplu scădere: 78 - 32 = 46",
+                "Exemplu înmulțire: 5 × 6 = 30",
+                "Exemplu împărțire: 24 ÷ 6 = 4"
+              ],
+              "tips": [
+                "Memorează tabelele de adunare și înmulțire",
+                "Practică zilnic pentru a îmbunătăți viteza de calcul",
+                "Verifică-ți întotdeauna răspunsurile",
+                "Pentru adunare și scădere, aliniază numerele după poziția zecilor și unităților"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cât este 15 + 28?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "43",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Adunând 15 + 28 = 43"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "42",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "44",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "45",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -706,34 +896,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adunarea și scăderea numerelor naturale",
+              "theory": "Adunarea numerelor naturale:\n- Se efectuează de la dreapta la stânga (de la unități la zeci la sute)\n- Dacă suma unităților depășește 9, se trece zecele în ordinul următor\n- Exemplu: 27 + 15: 7+5=12 (scriem 2, trecem 1), 2+1+1=4, rezultat 42\n\nScăderea numerelor naturale:\n- Se efectuează și ea de la dreapta la stânga\n- Dacă cifra de scăzut este mai mare decât cifra din descăzut, se împrumută de la ordinul următor\n- Exemplu: 42 - 15: nu putem scădea 5 din 2, deci împrumutăm, 12-5=7, 3-1=2, rezultat 27",
+              "examples": [
+                "Adunare cu trecere peste ordin: 28 + 14 = 42",
+                "Scădere cu împrumut: 50 - 23 = 27",
+                "Adunare mai multor numere: 12 + 15 + 13 = 40",
+                "Probleme practice: Dacă ai 35 lei și primești 25 lei, cât vei avea? 35 + 25 = 60 lei"
+              ],
+              "tips": [
+                "Verifică adunarea prin scădere: dacă a + b = c, atunci c - b = a",
+                "Verifică scăderea prin adunare: dacă a - b = c, atunci b + c = a",
+                "Când aduni mai multe numere, poți schimba ordinea pentru a le grupa mai ușor",
+                "Caută numere care se completează la 10 pentru calcule mai rapide"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Cât este 56 - 24?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "32",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Scăzând 56 - 24 = 32"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "34",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "36",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -741,34 +941,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Înmulțirea numerelor naturale",
+              "theory": "Înmulțirea este o adunare repetată. Prin înmulțire se calculează aria dreptunghiurilor, grupuri de obiecte identice, etc.\n\nProprietăți ale înmulțirii:\n- Comutativitate: a × b = b × a (3 × 5 = 5 × 3 = 15)\n- Asociativitate: (a × b) × c = a × (b × c)\n- Element neutru: a × 1 = a\n- Element absorbant: a × 0 = 0\n- Distributivitate: a × (b + c) = a × b + a × c\n\nÎnmulțirea cu 10, 100, 1000:\n- Pentru a înmulți cu 10, adaugă un zero\n- Pentru a înmulți cu 100, adaugă doi zerouri\n- Pentru a înmulți cu 1000, adaugă trei zerouri",
+              "examples": [
+                "Tabla înmulțirii cu 3: 3×1=3, 3×2=6, 3×3=9, 3×4=12, 3×5=15, 3×6=18, 3×7=21, 3×8=24, 3×9=27, 3×10=30",
+                "Înmulțire cu 10: 23 × 10 = 230",
+                "Înmulțire cu mai multe cifre: 23 × 14 = 322",
+                "Problema practică: Dacă o carte costă 15 lei, cât vor costa 5 cărți? 15 × 5 = 75 lei"
+              ],
+              "tips": [
+                "Memorează tabelele de înmulțire de la 1 la 10",
+                "Folosiți proprietatea comutativă pentru a ușura calculele (e mai ușor 2×9 decât 9×2)",
+                "Pentru înmulțiri mari, descompuneți numerele în sute, zeci și unități",
+                "Verificați prin împărțire: dacă a × b = c, atunci c ÷ b = a"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Cât este 7 × 8?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "54",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "56",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "7 × 8 = 56"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "58",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "60",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -789,34 +999,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Numere naturale și operații fundamentale",
+              "theory": "Numerele naturale sunt numerele folosite pentru a numărătorii obiecte: 0, 1, 2, 3, 4, 5... etc.\n\nOperațiile fundamentale cu numere naturale sunt:\n- Adunarea: operația prin care se reunesc două sau mai multe mulțimi de obiecte\n- Scăderea: operația inversă adunării\n- Înmulțirea: adunare repetată\n- Împărțirea: operația inversă înmulțirii\n\nProprietăți importante:\n- Comutativitatea la adunare: a + b = b + a\n- Asociativitatea la adunare: (a + b) + c = a + (b + c)\n- Element neutru la adunare: a + 0 = a\n- Element neutru la înmulțire: a × 1 = a",
+              "examples": [
+                "Exemplu adunare: 23 + 45 = 68",
+                "Exemplu scădere: 78 - 32 = 46",
+                "Exemplu înmulțire: 5 × 6 = 30",
+                "Exemplu împărțire: 24 ÷ 6 = 4"
+              ],
+              "tips": [
+                "Memorează tabelele de adunare și înmulțire",
+                "Practică zilnic pentru a îmbunătăți viteza de calcul",
+                "Verifică-ți întotdeauna răspunsurile",
+                "Pentru adunare și scădere, aliniază numerele după poziția zecilor și unităților"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cât este 15 + 28?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "43",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Adunând 15 + 28 = 43"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "42",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "44",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "45",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -824,34 +1044,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adunarea și scăderea numerelor naturale",
+              "theory": "Adunarea numerelor naturale:\n- Se efectuează de la dreapta la stânga (de la unități la zeci la sute)\n- Dacă suma unităților depășește 9, se trece zecele în ordinul următor\n- Exemplu: 27 + 15: 7+5=12 (scriem 2, trecem 1), 2+1+1=4, rezultat 42\n\nScăderea numerelor naturale:\n- Se efectuează și ea de la dreapta la stânga\n- Dacă cifra de scăzut este mai mare decât cifra din descăzut, se împrumută de la ordinul următor\n- Exemplu: 42 - 15: nu putem scădea 5 din 2, deci împrumutăm, 12-5=7, 3-1=2, rezultat 27",
+              "examples": [
+                "Adunare cu trecere peste ordin: 28 + 14 = 42",
+                "Scădere cu împrumut: 50 - 23 = 27",
+                "Adunare mai multor numere: 12 + 15 + 13 = 40",
+                "Probleme practice: Dacă ai 35 lei și primești 25 lei, cât vei avea? 35 + 25 = 60 lei"
+              ],
+              "tips": [
+                "Verifică adunarea prin scădere: dacă a + b = c, atunci c - b = a",
+                "Verifică scăderea prin adunare: dacă a - b = c, atunci b + c = a",
+                "Când aduni mai multe numere, poți schimba ordinea pentru a le grupa mai ușor",
+                "Caută numere care se completează la 10 pentru calcule mai rapide"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Cât este 56 - 24?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "32",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Scăzând 56 - 24 = 32"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "34",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "36",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -859,34 +1089,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Înmulțirea numerelor naturale",
+              "theory": "Înmulțirea este o adunare repetată. Prin înmulțire se calculează aria dreptunghiurilor, grupuri de obiecte identice, etc.\n\nProprietăți ale înmulțirii:\n- Comutativitate: a × b = b × a (3 × 5 = 5 × 3 = 15)\n- Asociativitate: (a × b) × c = a × (b × c)\n- Element neutru: a × 1 = a\n- Element absorbant: a × 0 = 0\n- Distributivitate: a × (b + c) = a × b + a × c\n\nÎnmulțirea cu 10, 100, 1000:\n- Pentru a înmulți cu 10, adaugă un zero\n- Pentru a înmulți cu 100, adaugă doi zerouri\n- Pentru a înmulți cu 1000, adaugă trei zerouri",
+              "examples": [
+                "Tabla înmulțirii cu 3: 3×1=3, 3×2=6, 3×3=9, 3×4=12, 3×5=15, 3×6=18, 3×7=21, 3×8=24, 3×9=27, 3×10=30",
+                "Înmulțire cu 10: 23 × 10 = 230",
+                "Înmulțire cu mai multe cifre: 23 × 14 = 322",
+                "Problema practică: Dacă o carte costă 15 lei, cât vor costa 5 cărți? 15 × 5 = 75 lei"
+              ],
+              "tips": [
+                "Memorează tabelele de înmulțire de la 1 la 10",
+                "Folosiți proprietatea comutativă pentru a ușura calculele (e mai ușor 2×9 decât 9×2)",
+                "Pentru înmulțiri mari, descompuneți numerele în sute, zeci și unități",
+                "Verificați prin împărțire: dacă a × b = c, atunci c ÷ b = a"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Cât este 7 × 8?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "54",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "56",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "7 × 8 = 56"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "58",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "60",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -894,34 +1134,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Împărțirea numerelor naturale",
+              "theory": "Împărțirea este operația inversă a înmulțirii. Prin împărțire, o cantitate se distribuie în mod egal în mai multe grupe.\n\nTermenul împărțirii:\n- Deîmpărțit: numărul care se împarte\n- Împărțitor: numărul care arată în câte grupe se împarte\n- Cât: rezultatul împărțirii\n- Rest: ceea ce rămâne dacă împărțirea nu este exactă\n\nProprietăți importante:\n- a ÷ a = 1 (dacă a ≠ 0)\n- a ÷ 1 = a\n- 0 ÷ a = 0 (dacă a ≠ 0)\n- NU se poate împărți la 0!\n\nLegătura cu înmulțirea:\nDacă a ÷ b = c, atunci a = b × c",
+              "examples": [
+                "Împărțire exactă: 24 ÷ 6 = 4 (verificare: 6 × 4 = 24)",
+                "Împărțire cu rest: 27 ÷ 5 = 5 rest 2 (verificare: 5 × 5 + 2 = 27)",
+                "Împărțire la 10: 240 ÷ 10 = 24",
+                "Problema practică: 30 de cărți trebuie împărțite în mod egal între 5 elevi. Fiecare elev primește 6 cărți."
+              ],
+              "tips": [
+                "Verifică-ți întotdeauna răspunsurile prin înmulțire",
+                "Pentru împărțiri mari, folosiți împărțirea în coloniță",
+                "Amintiți-vă că restul trebuie să fie ÎNTOTDEAUNA mai mic decât împărțitorul",
+                "Dacă nu reții bine tabelele de înmulțire, folosiți-le pentru a calcula mai ușor"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Cât este 45 ÷ 9?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "45 ÷ 9 = 5"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -929,34 +1179,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Ordinea operațiilor și expresii matematice",
+              "theory": "Atunci când avem mai multe operații într-o expresie, trebuie să le facem în ordinea corectă:\n\nORDINEA OPERAȚIILOR (PEMDAS/BODMAS):\n1. Paranteze - calculează mai întâi ceea ce este în paranteze\n2. Exponenți/Puteri - calculează puterile\n3. Înmulțire și Împărțire - de la stânga la dreapta\n4. Adunare și Scădere - de la stânga la dreapta\n\nDacă nu respecti ordinea, vei obține un rezultat greșit!\n\nExemplu: 2 + 3 × 4\n- Greșit: (2 + 3) × 4 = 5 × 4 = 20\n- Corect: 2 + (3 × 4) = 2 + 12 = 14",
+              "examples": [
+                "10 + 5 × 2 = 10 + 10 = 20 (NU 15 × 2 = 30)",
+                "(10 + 5) × 2 = 15 × 2 = 30 (parantezele schimbă ordinea)",
+                "24 ÷ 2 × 3 = 12 × 3 = 36 (de la stânga la dreapta)",
+                "30 - 5 + 2 = 25 + 2 = 27 (de la stânga la dreapta)"
+              ],
+              "tips": [
+                "Memorează acronimul PEMDAS pentru a-ți aminti ordinea",
+                "Când nu ești sigur, pune paranteze pentru a clarifica ordinea",
+                "Pentru înmulțire și împărțire de aceeași nivel, lucrează de la stânga la dreapta",
+                "Pentru adunare și scădere de aceeași nivel, lucrează de la stânga la dreapta"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Care este rezultatul: 2 + 3 × 4?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "14",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Înmulțirea se face înainte: 3 × 4 = 12, apoi 2 + 12 = 14"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "20",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este greșit, ai calculat (2 + 3) × 4"
+                  },
+                  {
+                    "text": "10",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "12",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -964,34 +1224,44 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Fracții și numere fracționare",
+              "theory": "O fracție este o parte din întreg. Fracția se scrie ca o linie orizontală cu doi numeri:\n- Numărător (sus): indică câte părti luăm\n- Numitor (jos): indică în câte părti egale este împărțit întregul\n\nExemplu: 3/4 (trei sferturi) - întregul este împărțit în 4 părti egale, luăm 3\n\nTipuri de fracții:\n- Fracție proprie: numărător < numitor (3/4, 1/2, 5/8)\n- Fracție improprie: numărător > numitor (5/4, 9/8)\n- Fracții echivalente: au valori egale dar numeri diferiți (1/2 = 2/4 = 3/6)\n\nSimplificarea fracțiilor:\nSe împarte numărătorul și numitorul la aceeași număr (dacă se poate)\nExemplu: 6/8 = 3/4 (am împărțit ambii la 2)",
+              "examples": [
+                "Fracții dintr-un întreg: 1/2 (jumătate), 1/4 (sfert), 1/3 (treime)",
+                "Fracții echivalente: 1/2 = 2/4 = 3/6 = 4/8",
+                "Simplificare: 10/15 = 2/3 (am împărțit la 5)",
+                "Pe o linie: 0/4, 1/4, 2/4, 3/4, 4/4 (care = 1)"
+              ],
+              "tips": [
+                "Desenează întregul și colorează parțile pentru a vizualiza fracțiile",
+                "Fracții cu numitor egal sunt mai ușor de comparat",
+                "Pentru a compara fracții, găsește un numitor comun",
+                "Pentru simplificare, găsește cel mai mare divizor comun (CMMDC)"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "Care fracție este echivalentă cu 1/2?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "2/5",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Nu sunt echivalente"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "3/6",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1/2 = 3/6 (am înmulțit ambii cu 3)"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "2/3",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Nu sunt echivalente"
+                  },
+                  {
+                    "text": "3/4",
+                    "correct": false,
+                    "explanation": "Nu sunt echivalente"
                   }
                 ]
               }
@@ -999,34 +1269,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Zecimale și operații cu numere zecimale",
+              "theory": "Numerele zecimale sunt o altă formă de a scrie fracții cu numitor 10, 100, 1000, etc.\n\nStructura unui număr zecimal:\n- Punctul zecimal separă partea întreagă de partea fracționară\n- Zecimi: prima poziție după punct (10 este în numitor)\n- Sutimi: a doua poziție (100 în numitor)\n- Miimi: a treia poziție (1000 în numitor)\n\nExemplu: 3,456\n- 3 este partea întreagă\n- 4 zecimi = 0,4\n- 5 sutimi = 0,05\n- 6 miimi = 0,006\n\nConversii:\n- 1/2 = 0,5\n- 1/4 = 0,25\n- 1/5 = 0,2\n- 1/10 = 0,1",
+              "examples": [
+                "Scris ca fracție: 0,5 = 5/10 = 1/2",
+                "Scris ca zecimală: 3/4 = 0,75",
+                "Comparare: 0,3 < 0,31 < 0,4",
+                "Ordonare: 0,12, 0,2, 0,21, 1,2"
+              ],
+              "tips": [
+                "Memorează conversiile comune de fracții în zecimale",
+                "Când aduni sau scazi zecimale, aliniază punctele zecimale",
+                "Zerourile la sfârșit nu schimbă valoarea: 0,5 = 0,50 = 0,500",
+                "Pentru a compara zecimale, privește-le ca pe cărți de credit: 0,30 < 0,31"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce valoare are 1/4 ca zecimală?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "0,20",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 1/5"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "0,25",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1/4 = 0,25 (împărțim 1 la 4)"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "0,40",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 2/5"
+                  },
+                  {
+                    "text": "0,50",
+                    "correct": false,
+                    "explanation": "Aceasta ar fi 1/2"
                   }
                 ]
               }
@@ -1034,34 +1314,44 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Mărimi și măsurări - lungime, masă, capacitate",
+              "theory": "Măsurarea este procesul de comparare a mărimilor cu o unitate standard.\n\nLUNGIMI (Metrul - m):\n- 1 km = 1000 m (kilometru)\n- 1 m = 100 cm (centimetru)\n- 1 m = 1000 mm (milimetru)\n- 1 cm = 10 mm\n\nMASĂ (Kilogramul - kg):\n- 1 t = 1000 kg (tonă)\n- 1 kg = 1000 g (gram)\n- 1 g = 1000 mg (miligram)\n\nCAPACITATE (Litrul - l):\n- 1 hl = 100 l (hectolitru)\n- 1 l = 1000 ml (mililitru)\n- 1 l = 1 dm³ (decimetru cub)\n\nPentru a converti:\n- De la mai mare la mai mic: înmulțești\n- De la mai mic la mai mare: împarți",
+              "examples": [
+                "Conversie lungime: 5 m = 500 cm = 5000 mm",
+                "Conversie masă: 2 kg = 2000 g",
+                "Conversie capacitate: 1 l = 1000 ml",
+                "Probleme practice: Dacă o tablă măsoară 2 m, câți centimetri sunt? 2 × 100 = 200 cm"
+              ],
+              "tips": [
+                "Memorează conversiile principale pentru fiecare unitate",
+                "Desenează diagrame pentru a vizualiza relațiile",
+                "Folosește cuvintele: kilo = 1000, centi = 1/100, mili = 1/1000",
+                "Pentru a compara mărimi, convertește-le la aceeași unitate"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Câți centimetri sunt în 3 metri?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30 cm",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "300 cm",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1 m = 100 cm, deci 3 m = 300 cm"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "3000 cm",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 30 m"
+                  },
+                  {
+                    "text": "3 cm",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1069,34 +1359,44 @@
             {
               "title": "L9 - Lecția 9",
               "order": 9,
-              "summary": "Lecția 9",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Puterea cu exponent natural a unui număr natural",
+              "theory": "Puterea unui număr este o operație matematică care înseamnă înmulțirea unui număr cu el însuși de mai multe ori.\n\n    Notație: a^n, unde:\n    - a se numește bază\n    - n se numește exponent\n    - a^n = a × a × a × ... × a (de n ori)\n\n    Exemple: 2^3 = 2 × 2 × 2 = 8; 5^2 = 5 × 5 = 25\n\n    Cazuri speciale:\n    - Orice număr la puterea 1 este egal cu acel număr: a^1 = a\n    - Orice număr la puterea 0 este egal cu 1: a^0 = 1 (pentru a ≠ 0)\n    - 1 la orice putere este 1: 1^n = 1\n\n    Operații cu puteri:\n    - Înmulțire: a^m × a^n = a^(m+n)\n    - Împărțire: a^m ÷ a^n = a^(m-n)\n    - Putere de putere: (a^m)^n = a^(m×n)\n    - Putere de produs: (a×b)^n = a^n × b^n",
+              "examples": [
+                "Calculează 3^4: 3^4 = 3 × 3 × 3 × 3 = 9 × 9 = 81",
+                "Calculează 2^5: 2^5 = 2 × 2 × 2 × 2 × 2 = 32",
+                "Calculează 10^3: 10^3 = 10 × 10 × 10 = 1000",
+                "Calculează 7^2: 7^2 = 7 × 7 = 49"
+              ],
+              "tips": [
+                "Pentru a calcula o putere, înmulțește baza cu ea însăși de atâtea ori cât arată exponentul",
+                "Puterile cu baza 10 sunt ușor de calculat: 10^n are 1 urmat de n zerouri",
+                "Orice număr la puterea 0 este 1, iar orice număr la puterea 1 este el însuși",
+                "Puterile cresc foarte rapid - de aceea se folosesc în științe pentru a exprima numere foarte mari"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 9?",
+                "text": "Calculează 4^3:",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "12",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "4^3 înseamnă 4 × 4 × 4, nu 4 × 3"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "16",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "16 este 4^2, nu 4^3"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "64",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "4^3 = 4 × 4 × 4 = 64 ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "81",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "81 este 3^4, nu 4^3"
                   }
                 ]
               }
@@ -1104,34 +1404,44 @@
             {
               "title": "L10 - Lecția 10",
               "order": 10,
-              "summary": "Lecția 10",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Ordinea efectuării operațiilor",
+              "theory": "Ordinea efectuării operațiilor este un set de reguli care ne spun în ce ordine să facem calculele atunci când avem mai multe operații într-o expresie matematică.\n\n    Ordinea corectă (PEMDAS/BODMAS):\n    1. Paranteză - Calculele din paranteză se fac primele\n    2. Exponenți - Puterile se calculează în urmă\n    3. Înmulțire și Împărțire - Se fac de la stânga la dreapta, în ordinea apariției\n    4. Adunare și Scădere - Se fac de la stânga la dreapta, în ordinea apariției\n\n    Important: Înmulțirea și împărțirea au aceeași prioritate, la fel ca și adunarea și scăderea. Se calculează în ordinea în care apar, de la stânga la dreapta.\n\n    Exemplu: 2 + 3 × 4 = 2 + 12 = 14 (nu 5 × 4 = 20)\n    De ce? Pentru că înmulțirea se face înainte de adunare.",
+              "examples": [
+                "Calculează 10 + 5 × 2: Înmulțirea are prioritate: 5 × 2 = 10, apoi 10 + 10 = 20",
+                "Calculează (10 + 5) × 2: Paranteza se face prima: (10 + 5) = 15, apoi 15 × 2 = 30",
+                "Calculează 20 - 8 ÷ 2: Împărțirea se face prima: 8 ÷ 2 = 4, apoi 20 - 4 = 16",
+                "Calculează 2 + 3 × 4 - 5: Înmulțire: 3 × 4 = 12, apoi 2 + 12 - 5 = 9"
+              ],
+              "tips": [
+                "Reține acronimul PEMDAS: Paranteză, Exponenți, Înmulțire, Împărțire, Adunare, Scădere",
+                "Dacă ai îndoieli, folosește paranteze pentru a clarifica ordinea operațiilor",
+                "Înmulțirea și împărțirea sunt echivalente - se fac de la stânga la dreapta",
+                "Adunarea și scăderea sunt echivalente - se fac de la stânga la dreapta"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 10?",
+                "text": "Calculează 12 + 3 × 2:",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi dacă adunarea se face prima: (12+3)×2=30, dar înmulțirea are prioritate"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "18",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! 3 × 2 = 6, apoi 12 + 6 = 18 ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "24",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "24 nu este rezultatul acestei operații"
+                  },
+                  {
+                    "text": "6",
+                    "correct": false,
+                    "explanation": "6 este doar rezultatul înmulțirii, nu și al întregii expresii"
                   }
                 ]
               }
@@ -1152,34 +1462,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Numere naturale și operații fundamentale",
+              "theory": "Numerele naturale sunt numerele folosite pentru a numărătorii obiecte: 0, 1, 2, 3, 4, 5... etc.\n\nOperațiile fundamentale cu numere naturale sunt:\n- Adunarea: operația prin care se reunesc două sau mai multe mulțimi de obiecte\n- Scăderea: operația inversă adunării\n- Înmulțirea: adunare repetată\n- Împărțirea: operația inversă înmulțirii\n\nProprietăți importante:\n- Comutativitatea la adunare: a + b = b + a\n- Asociativitatea la adunare: (a + b) + c = a + (b + c)\n- Element neutru la adunare: a + 0 = a\n- Element neutru la înmulțire: a × 1 = a",
+              "examples": [
+                "Exemplu adunare: 23 + 45 = 68",
+                "Exemplu scădere: 78 - 32 = 46",
+                "Exemplu înmulțire: 5 × 6 = 30",
+                "Exemplu împărțire: 24 ÷ 6 = 4"
+              ],
+              "tips": [
+                "Memorează tabelele de adunare și înmulțire",
+                "Practică zilnic pentru a îmbunătăți viteza de calcul",
+                "Verifică-ți întotdeauna răspunsurile",
+                "Pentru adunare și scădere, aliniază numerele după poziția zecilor și unităților"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cât este 15 + 28?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "43",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Adunând 15 + 28 = 43"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "42",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "44",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "45",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1187,34 +1507,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adunarea și scăderea numerelor naturale",
+              "theory": "Adunarea numerelor naturale:\n- Se efectuează de la dreapta la stânga (de la unități la zeci la sute)\n- Dacă suma unităților depășește 9, se trece zecele în ordinul următor\n- Exemplu: 27 + 15: 7+5=12 (scriem 2, trecem 1), 2+1+1=4, rezultat 42\n\nScăderea numerelor naturale:\n- Se efectuează și ea de la dreapta la stânga\n- Dacă cifra de scăzut este mai mare decât cifra din descăzut, se împrumută de la ordinul următor\n- Exemplu: 42 - 15: nu putem scădea 5 din 2, deci împrumutăm, 12-5=7, 3-1=2, rezultat 27",
+              "examples": [
+                "Adunare cu trecere peste ordin: 28 + 14 = 42",
+                "Scădere cu împrumut: 50 - 23 = 27",
+                "Adunare mai multor numere: 12 + 15 + 13 = 40",
+                "Probleme practice: Dacă ai 35 lei și primești 25 lei, cât vei avea? 35 + 25 = 60 lei"
+              ],
+              "tips": [
+                "Verifică adunarea prin scădere: dacă a + b = c, atunci c - b = a",
+                "Verifică scăderea prin adunare: dacă a - b = c, atunci b + c = a",
+                "Când aduni mai multe numere, poți schimba ordinea pentru a le grupa mai ușor",
+                "Caută numere care se completează la 10 pentru calcule mai rapide"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Cât este 56 - 24?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "32",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Scăzând 56 - 24 = 32"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "34",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "36",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1222,34 +1552,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Înmulțirea numerelor naturale",
+              "theory": "Înmulțirea este o adunare repetată. Prin înmulțire se calculează aria dreptunghiurilor, grupuri de obiecte identice, etc.\n\nProprietăți ale înmulțirii:\n- Comutativitate: a × b = b × a (3 × 5 = 5 × 3 = 15)\n- Asociativitate: (a × b) × c = a × (b × c)\n- Element neutru: a × 1 = a\n- Element absorbant: a × 0 = 0\n- Distributivitate: a × (b + c) = a × b + a × c\n\nÎnmulțirea cu 10, 100, 1000:\n- Pentru a înmulți cu 10, adaugă un zero\n- Pentru a înmulți cu 100, adaugă doi zerouri\n- Pentru a înmulți cu 1000, adaugă trei zerouri",
+              "examples": [
+                "Tabla înmulțirii cu 3: 3×1=3, 3×2=6, 3×3=9, 3×4=12, 3×5=15, 3×6=18, 3×7=21, 3×8=24, 3×9=27, 3×10=30",
+                "Înmulțire cu 10: 23 × 10 = 230",
+                "Înmulțire cu mai multe cifre: 23 × 14 = 322",
+                "Problema practică: Dacă o carte costă 15 lei, cât vor costa 5 cărți? 15 × 5 = 75 lei"
+              ],
+              "tips": [
+                "Memorează tabelele de înmulțire de la 1 la 10",
+                "Folosiți proprietatea comutativă pentru a ușura calculele (e mai ușor 2×9 decât 9×2)",
+                "Pentru înmulțiri mari, descompuneți numerele în sute, zeci și unități",
+                "Verificați prin împărțire: dacă a × b = c, atunci c ÷ b = a"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Cât este 7 × 8?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "54",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "56",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "7 × 8 = 56"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "58",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "60",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1257,34 +1597,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Împărțirea numerelor naturale",
+              "theory": "Împărțirea este operația inversă a înmulțirii. Prin împărțire, o cantitate se distribuie în mod egal în mai multe grupe.\n\nTermenul împărțirii:\n- Deîmpărțit: numărul care se împarte\n- Împărțitor: numărul care arată în câte grupe se împarte\n- Cât: rezultatul împărțirii\n- Rest: ceea ce rămâne dacă împărțirea nu este exactă\n\nProprietăți importante:\n- a ÷ a = 1 (dacă a ≠ 0)\n- a ÷ 1 = a\n- 0 ÷ a = 0 (dacă a ≠ 0)\n- NU se poate împărți la 0!\n\nLegătura cu înmulțirea:\nDacă a ÷ b = c, atunci a = b × c",
+              "examples": [
+                "Împărțire exactă: 24 ÷ 6 = 4 (verificare: 6 × 4 = 24)",
+                "Împărțire cu rest: 27 ÷ 5 = 5 rest 2 (verificare: 5 × 5 + 2 = 27)",
+                "Împărțire la 10: 240 ÷ 10 = 24",
+                "Problema practică: 30 de cărți trebuie împărțite în mod egal între 5 elevi. Fiecare elev primește 6 cărți."
+              ],
+              "tips": [
+                "Verifică-ți întotdeauna răspunsurile prin înmulțire",
+                "Pentru împărțiri mari, folosiți împărțirea în coloniță",
+                "Amintiți-vă că restul trebuie să fie ÎNTOTDEAUNA mai mic decât împărțitorul",
+                "Dacă nu reții bine tabelele de înmulțire, folosiți-le pentru a calcula mai ușor"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Cât este 45 ÷ 9?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "45 ÷ 9 = 5"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1292,34 +1642,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Ordinea operațiilor și expresii matematice",
+              "theory": "Atunci când avem mai multe operații într-o expresie, trebuie să le facem în ordinea corectă:\n\nORDINEA OPERAȚIILOR (PEMDAS/BODMAS):\n1. Paranteze - calculează mai întâi ceea ce este în paranteze\n2. Exponenți/Puteri - calculează puterile\n3. Înmulțire și Împărțire - de la stânga la dreapta\n4. Adunare și Scădere - de la stânga la dreapta\n\nDacă nu respecti ordinea, vei obține un rezultat greșit!\n\nExemplu: 2 + 3 × 4\n- Greșit: (2 + 3) × 4 = 5 × 4 = 20\n- Corect: 2 + (3 × 4) = 2 + 12 = 14",
+              "examples": [
+                "10 + 5 × 2 = 10 + 10 = 20 (NU 15 × 2 = 30)",
+                "(10 + 5) × 2 = 15 × 2 = 30 (parantezele schimbă ordinea)",
+                "24 ÷ 2 × 3 = 12 × 3 = 36 (de la stânga la dreapta)",
+                "30 - 5 + 2 = 25 + 2 = 27 (de la stânga la dreapta)"
+              ],
+              "tips": [
+                "Memorează acronimul PEMDAS pentru a-ți aminti ordinea",
+                "Când nu ești sigur, pune paranteze pentru a clarifica ordinea",
+                "Pentru înmulțire și împărțire de aceeași nivel, lucrează de la stânga la dreapta",
+                "Pentru adunare și scădere de aceeași nivel, lucrează de la stânga la dreapta"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Care este rezultatul: 2 + 3 × 4?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "14",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Înmulțirea se face înainte: 3 × 4 = 12, apoi 2 + 12 = 14"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "20",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este greșit, ai calculat (2 + 3) × 4"
+                  },
+                  {
+                    "text": "10",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "12",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1327,34 +1687,44 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Fracții și numere fracționare",
+              "theory": "O fracție este o parte din întreg. Fracția se scrie ca o linie orizontală cu doi numeri:\n- Numărător (sus): indică câte părti luăm\n- Numitor (jos): indică în câte părti egale este împărțit întregul\n\nExemplu: 3/4 (trei sferturi) - întregul este împărțit în 4 părti egale, luăm 3\n\nTipuri de fracții:\n- Fracție proprie: numărător < numitor (3/4, 1/2, 5/8)\n- Fracție improprie: numărător > numitor (5/4, 9/8)\n- Fracții echivalente: au valori egale dar numeri diferiți (1/2 = 2/4 = 3/6)\n\nSimplificarea fracțiilor:\nSe împarte numărătorul și numitorul la aceeași număr (dacă se poate)\nExemplu: 6/8 = 3/4 (am împărțit ambii la 2)",
+              "examples": [
+                "Fracții dintr-un întreg: 1/2 (jumătate), 1/4 (sfert), 1/3 (treime)",
+                "Fracții echivalente: 1/2 = 2/4 = 3/6 = 4/8",
+                "Simplificare: 10/15 = 2/3 (am împărțit la 5)",
+                "Pe o linie: 0/4, 1/4, 2/4, 3/4, 4/4 (care = 1)"
+              ],
+              "tips": [
+                "Desenează întregul și colorează parțile pentru a vizualiza fracțiile",
+                "Fracții cu numitor egal sunt mai ușor de comparat",
+                "Pentru a compara fracții, găsește un numitor comun",
+                "Pentru simplificare, găsește cel mai mare divizor comun (CMMDC)"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "Care fracție este echivalentă cu 1/2?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "2/5",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Nu sunt echivalente"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "3/6",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1/2 = 3/6 (am înmulțit ambii cu 3)"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "2/3",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Nu sunt echivalente"
+                  },
+                  {
+                    "text": "3/4",
+                    "correct": false,
+                    "explanation": "Nu sunt echivalente"
                   }
                 ]
               }
@@ -1362,34 +1732,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Zecimale și operații cu numere zecimale",
+              "theory": "Numerele zecimale sunt o altă formă de a scrie fracții cu numitor 10, 100, 1000, etc.\n\nStructura unui număr zecimal:\n- Punctul zecimal separă partea întreagă de partea fracționară\n- Zecimi: prima poziție după punct (10 este în numitor)\n- Sutimi: a doua poziție (100 în numitor)\n- Miimi: a treia poziție (1000 în numitor)\n\nExemplu: 3,456\n- 3 este partea întreagă\n- 4 zecimi = 0,4\n- 5 sutimi = 0,05\n- 6 miimi = 0,006\n\nConversii:\n- 1/2 = 0,5\n- 1/4 = 0,25\n- 1/5 = 0,2\n- 1/10 = 0,1",
+              "examples": [
+                "Scris ca fracție: 0,5 = 5/10 = 1/2",
+                "Scris ca zecimală: 3/4 = 0,75",
+                "Comparare: 0,3 < 0,31 < 0,4",
+                "Ordonare: 0,12, 0,2, 0,21, 1,2"
+              ],
+              "tips": [
+                "Memorează conversiile comune de fracții în zecimale",
+                "Când aduni sau scazi zecimale, aliniază punctele zecimale",
+                "Zerourile la sfârșit nu schimbă valoarea: 0,5 = 0,50 = 0,500",
+                "Pentru a compara zecimale, privește-le ca pe cărți de credit: 0,30 < 0,31"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce valoare are 1/4 ca zecimală?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "0,20",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 1/5"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "0,25",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1/4 = 0,25 (împărțim 1 la 4)"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "0,40",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 2/5"
+                  },
+                  {
+                    "text": "0,50",
+                    "correct": false,
+                    "explanation": "Aceasta ar fi 1/2"
                   }
                 ]
               }
@@ -1397,34 +1777,44 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Mărimi și măsurări - lungime, masă, capacitate",
+              "theory": "Măsurarea este procesul de comparare a mărimilor cu o unitate standard.\n\nLUNGIMI (Metrul - m):\n- 1 km = 1000 m (kilometru)\n- 1 m = 100 cm (centimetru)\n- 1 m = 1000 mm (milimetru)\n- 1 cm = 10 mm\n\nMASĂ (Kilogramul - kg):\n- 1 t = 1000 kg (tonă)\n- 1 kg = 1000 g (gram)\n- 1 g = 1000 mg (miligram)\n\nCAPACITATE (Litrul - l):\n- 1 hl = 100 l (hectolitru)\n- 1 l = 1000 ml (mililitru)\n- 1 l = 1 dm³ (decimetru cub)\n\nPentru a converti:\n- De la mai mare la mai mic: înmulțești\n- De la mai mic la mai mare: împarți",
+              "examples": [
+                "Conversie lungime: 5 m = 500 cm = 5000 mm",
+                "Conversie masă: 2 kg = 2000 g",
+                "Conversie capacitate: 1 l = 1000 ml",
+                "Probleme practice: Dacă o tablă măsoară 2 m, câți centimetri sunt? 2 × 100 = 200 cm"
+              ],
+              "tips": [
+                "Memorează conversiile principale pentru fiecare unitate",
+                "Desenează diagrame pentru a vizualiza relațiile",
+                "Folosește cuvintele: kilo = 1000, centi = 1/100, mili = 1/1000",
+                "Pentru a compara mărimi, convertește-le la aceeași unitate"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Câți centimetri sunt în 3 metri?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30 cm",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "300 cm",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1 m = 100 cm, deci 3 m = 300 cm"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "3000 cm",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 30 m"
+                  },
+                  {
+                    "text": "3 cm",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1432,34 +1822,44 @@
             {
               "title": "L9 - Lecția 9",
               "order": 9,
-              "summary": "Lecția 9",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Puterea cu exponent natural a unui număr natural",
+              "theory": "Puterea unui număr este o operație matematică care înseamnă înmulțirea unui număr cu el însuși de mai multe ori.\n\n    Notație: a^n, unde:\n    - a se numește bază\n    - n se numește exponent\n    - a^n = a × a × a × ... × a (de n ori)\n\n    Exemple: 2^3 = 2 × 2 × 2 = 8; 5^2 = 5 × 5 = 25\n\n    Cazuri speciale:\n    - Orice număr la puterea 1 este egal cu acel număr: a^1 = a\n    - Orice număr la puterea 0 este egal cu 1: a^0 = 1 (pentru a ≠ 0)\n    - 1 la orice putere este 1: 1^n = 1\n\n    Operații cu puteri:\n    - Înmulțire: a^m × a^n = a^(m+n)\n    - Împărțire: a^m ÷ a^n = a^(m-n)\n    - Putere de putere: (a^m)^n = a^(m×n)\n    - Putere de produs: (a×b)^n = a^n × b^n",
+              "examples": [
+                "Calculează 3^4: 3^4 = 3 × 3 × 3 × 3 = 9 × 9 = 81",
+                "Calculează 2^5: 2^5 = 2 × 2 × 2 × 2 × 2 = 32",
+                "Calculează 10^3: 10^3 = 10 × 10 × 10 = 1000",
+                "Calculează 7^2: 7^2 = 7 × 7 = 49"
+              ],
+              "tips": [
+                "Pentru a calcula o putere, înmulțește baza cu ea însăși de atâtea ori cât arată exponentul",
+                "Puterile cu baza 10 sunt ușor de calculat: 10^n are 1 urmat de n zerouri",
+                "Orice număr la puterea 0 este 1, iar orice număr la puterea 1 este el însuși",
+                "Puterile cresc foarte rapid - de aceea se folosesc în științe pentru a exprima numere foarte mari"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 9?",
+                "text": "Calculează 4^3:",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "12",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "4^3 înseamnă 4 × 4 × 4, nu 4 × 3"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "16",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "16 este 4^2, nu 4^3"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "64",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "4^3 = 4 × 4 × 4 = 64 ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "81",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "81 este 3^4, nu 4^3"
                   }
                 ]
               }
@@ -1480,34 +1880,44 @@
             {
               "title": "L1 - Lecția 1",
               "order": 1,
-              "summary": "Lecția 1",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Numere naturale și operații fundamentale",
+              "theory": "Numerele naturale sunt numerele folosite pentru a numărătorii obiecte: 0, 1, 2, 3, 4, 5... etc.\n\nOperațiile fundamentale cu numere naturale sunt:\n- Adunarea: operația prin care se reunesc două sau mai multe mulțimi de obiecte\n- Scăderea: operația inversă adunării\n- Înmulțirea: adunare repetată\n- Împărțirea: operația inversă înmulțirii\n\nProprietăți importante:\n- Comutativitatea la adunare: a + b = b + a\n- Asociativitatea la adunare: (a + b) + c = a + (b + c)\n- Element neutru la adunare: a + 0 = a\n- Element neutru la înmulțire: a × 1 = a",
+              "examples": [
+                "Exemplu adunare: 23 + 45 = 68",
+                "Exemplu scădere: 78 - 32 = 46",
+                "Exemplu înmulțire: 5 × 6 = 30",
+                "Exemplu împărțire: 24 ÷ 6 = 4"
+              ],
+              "tips": [
+                "Memorează tabelele de adunare și înmulțire",
+                "Practică zilnic pentru a îmbunătăți viteza de calcul",
+                "Verifică-ți întotdeauna răspunsurile",
+                "Pentru adunare și scădere, aliniază numerele după poziția zecilor și unităților"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 1?",
+                "text": "Cât este 15 + 28?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "43",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Adunând 15 + 28 = 43"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "42",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "44",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "45",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1515,34 +1925,44 @@
             {
               "title": "L2 - Lecția 2",
               "order": 2,
-              "summary": "Lecția 2",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Adunarea și scăderea numerelor naturale",
+              "theory": "Adunarea numerelor naturale:\n- Se efectuează de la dreapta la stânga (de la unități la zeci la sute)\n- Dacă suma unităților depășește 9, se trece zecele în ordinul următor\n- Exemplu: 27 + 15: 7+5=12 (scriem 2, trecem 1), 2+1+1=4, rezultat 42\n\nScăderea numerelor naturale:\n- Se efectuează și ea de la dreapta la stânga\n- Dacă cifra de scăzut este mai mare decât cifra din descăzut, se împrumută de la ordinul următor\n- Exemplu: 42 - 15: nu putem scădea 5 din 2, deci împrumutăm, 12-5=7, 3-1=2, rezultat 27",
+              "examples": [
+                "Adunare cu trecere peste ordin: 28 + 14 = 42",
+                "Scădere cu împrumut: 50 - 23 = 27",
+                "Adunare mai multor numere: 12 + 15 + 13 = 40",
+                "Probleme practice: Dacă ai 35 lei și primești 25 lei, cât vei avea? 35 + 25 = 60 lei"
+              ],
+              "tips": [
+                "Verifică adunarea prin scădere: dacă a + b = c, atunci c - b = a",
+                "Verifică scăderea prin adunare: dacă a - b = c, atunci b + c = a",
+                "Când aduni mai multe numere, poți schimba ordinea pentru a le grupa mai ușor",
+                "Caută numere care se completează la 10 pentru calcule mai rapide"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 2?",
+                "text": "Cât este 56 - 24?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "32",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Scăzând 56 - 24 = 32"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "34",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "36",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1550,34 +1970,44 @@
             {
               "title": "L3 - Lecția 3",
               "order": 3,
-              "summary": "Lecția 3",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Înmulțirea numerelor naturale",
+              "theory": "Înmulțirea este o adunare repetată. Prin înmulțire se calculează aria dreptunghiurilor, grupuri de obiecte identice, etc.\n\nProprietăți ale înmulțirii:\n- Comutativitate: a × b = b × a (3 × 5 = 5 × 3 = 15)\n- Asociativitate: (a × b) × c = a × (b × c)\n- Element neutru: a × 1 = a\n- Element absorbant: a × 0 = 0\n- Distributivitate: a × (b + c) = a × b + a × c\n\nÎnmulțirea cu 10, 100, 1000:\n- Pentru a înmulți cu 10, adaugă un zero\n- Pentru a înmulți cu 100, adaugă doi zerouri\n- Pentru a înmulți cu 1000, adaugă trei zerouri",
+              "examples": [
+                "Tabla înmulțirii cu 3: 3×1=3, 3×2=6, 3×3=9, 3×4=12, 3×5=15, 3×6=18, 3×7=21, 3×8=24, 3×9=27, 3×10=30",
+                "Înmulțire cu 10: 23 × 10 = 230",
+                "Înmulțire cu mai multe cifre: 23 × 14 = 322",
+                "Problema practică: Dacă o carte costă 15 lei, cât vor costa 5 cărți? 15 × 5 = 75 lei"
+              ],
+              "tips": [
+                "Memorează tabelele de înmulțire de la 1 la 10",
+                "Folosiți proprietatea comutativă pentru a ușura calculele (e mai ușor 2×9 decât 9×2)",
+                "Pentru înmulțiri mari, descompuneți numerele în sute, zeci și unități",
+                "Verificați prin împărțire: dacă a × b = c, atunci c ÷ b = a"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 3?",
+                "text": "Cât este 7 × 8?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "54",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "56",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "7 × 8 = 56"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "58",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "60",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1585,34 +2015,44 @@
             {
               "title": "L4 - Lecția 4",
               "order": 4,
-              "summary": "Lecția 4",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Împărțirea numerelor naturale",
+              "theory": "Împărțirea este operația inversă a înmulțirii. Prin împărțire, o cantitate se distribuie în mod egal în mai multe grupe.\n\nTermenul împărțirii:\n- Deîmpărțit: numărul care se împarte\n- Împărțitor: numărul care arată în câte grupe se împarte\n- Cât: rezultatul împărțirii\n- Rest: ceea ce rămâne dacă împărțirea nu este exactă\n\nProprietăți importante:\n- a ÷ a = 1 (dacă a ≠ 0)\n- a ÷ 1 = a\n- 0 ÷ a = 0 (dacă a ≠ 0)\n- NU se poate împărți la 0!\n\nLegătura cu înmulțirea:\nDacă a ÷ b = c, atunci a = b × c",
+              "examples": [
+                "Împărțire exactă: 24 ÷ 6 = 4 (verificare: 6 × 4 = 24)",
+                "Împărțire cu rest: 27 ÷ 5 = 5 rest 2 (verificare: 5 × 5 + 2 = 27)",
+                "Împărțire la 10: 240 ÷ 10 = 24",
+                "Problema practică: 30 de cărți trebuie împărțite în mod egal între 5 elevi. Fiecare elev primește 6 cărți."
+              ],
+              "tips": [
+                "Verifică-ți întotdeauna răspunsurile prin înmulțire",
+                "Pentru împărțiri mari, folosiți împărțirea în coloniță",
+                "Amintiți-vă că restul trebuie să fie ÎNTOTDEAUNA mai mic decât împărțitorul",
+                "Dacă nu reții bine tabelele de înmulțire, folosiți-le pentru a calcula mai ușor"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 4?",
+                "text": "Cât este 45 ÷ 9?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "4",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "5",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "45 ÷ 9 = 5"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "6",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "7",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1620,34 +2060,44 @@
             {
               "title": "L5 - Lecția 5",
               "order": 5,
-              "summary": "Lecția 5",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Ordinea operațiilor și expresii matematice",
+              "theory": "Atunci când avem mai multe operații într-o expresie, trebuie să le facem în ordinea corectă:\n\nORDINEA OPERAȚIILOR (PEMDAS/BODMAS):\n1. Paranteze - calculează mai întâi ceea ce este în paranteze\n2. Exponenți/Puteri - calculează puterile\n3. Înmulțire și Împărțire - de la stânga la dreapta\n4. Adunare și Scădere - de la stânga la dreapta\n\nDacă nu respecti ordinea, vei obține un rezultat greșit!\n\nExemplu: 2 + 3 × 4\n- Greșit: (2 + 3) × 4 = 5 × 4 = 20\n- Corect: 2 + (3 × 4) = 2 + 12 = 14",
+              "examples": [
+                "10 + 5 × 2 = 10 + 10 = 20 (NU 15 × 2 = 30)",
+                "(10 + 5) × 2 = 15 × 2 = 30 (parantezele schimbă ordinea)",
+                "24 ÷ 2 × 3 = 12 × 3 = 36 (de la stânga la dreapta)",
+                "30 - 5 + 2 = 25 + 2 = 27 (de la stânga la dreapta)"
+              ],
+              "tips": [
+                "Memorează acronimul PEMDAS pentru a-ți aminti ordinea",
+                "Când nu ești sigur, pune paranteze pentru a clarifica ordinea",
+                "Pentru înmulțire și împărțire de aceeași nivel, lucrează de la stânga la dreapta",
+                "Pentru adunare și scădere de aceeași nivel, lucrează de la stânga la dreapta"
+              ],
               "estimatedTime": 45,
               "difficulty": "easy",
               "question": {
-                "text": "Întrebare despre Lecția 5?",
+                "text": "Care este rezultatul: 2 + 3 × 4?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "14",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Înmulțirea se face înainte: 3 × 4 = 12, apoi 2 + 12 = 14"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "20",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta este greșit, ai calculat (2 + 3) × 4"
+                  },
+                  {
+                    "text": "10",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
+                  },
+                  {
+                    "text": "12",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1655,34 +2105,44 @@
             {
               "title": "L6 - Lecția 6",
               "order": 6,
-              "summary": "Lecția 6",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Fracții și numere fracționare",
+              "theory": "O fracție este o parte din întreg. Fracția se scrie ca o linie orizontală cu doi numeri:\n- Numărător (sus): indică câte părti luăm\n- Numitor (jos): indică în câte părti egale este împărțit întregul\n\nExemplu: 3/4 (trei sferturi) - întregul este împărțit în 4 părti egale, luăm 3\n\nTipuri de fracții:\n- Fracție proprie: numărător < numitor (3/4, 1/2, 5/8)\n- Fracție improprie: numărător > numitor (5/4, 9/8)\n- Fracții echivalente: au valori egale dar numeri diferiți (1/2 = 2/4 = 3/6)\n\nSimplificarea fracțiilor:\nSe împarte numărătorul și numitorul la aceeași număr (dacă se poate)\nExemplu: 6/8 = 3/4 (am împărțit ambii la 2)",
+              "examples": [
+                "Fracții dintr-un întreg: 1/2 (jumătate), 1/4 (sfert), 1/3 (treime)",
+                "Fracții echivalente: 1/2 = 2/4 = 3/6 = 4/8",
+                "Simplificare: 10/15 = 2/3 (am împărțit la 5)",
+                "Pe o linie: 0/4, 1/4, 2/4, 3/4, 4/4 (care = 1)"
+              ],
+              "tips": [
+                "Desenează întregul și colorează parțile pentru a vizualiza fracțiile",
+                "Fracții cu numitor egal sunt mai ușor de comparat",
+                "Pentru a compara fracții, găsește un numitor comun",
+                "Pentru simplificare, găsește cel mai mare divizor comun (CMMDC)"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 6?",
+                "text": "Care fracție este echivalentă cu 1/2?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "2/5",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Nu sunt echivalente"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "3/6",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1/2 = 3/6 (am înmulțit ambii cu 3)"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "2/3",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Nu sunt echivalente"
+                  },
+                  {
+                    "text": "3/4",
+                    "correct": false,
+                    "explanation": "Nu sunt echivalente"
                   }
                 ]
               }
@@ -1690,34 +2150,44 @@
             {
               "title": "L7 - Lecția 7",
               "order": 7,
-              "summary": "Lecția 7",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Zecimale și operații cu numere zecimale",
+              "theory": "Numerele zecimale sunt o altă formă de a scrie fracții cu numitor 10, 100, 1000, etc.\n\nStructura unui număr zecimal:\n- Punctul zecimal separă partea întreagă de partea fracționară\n- Zecimi: prima poziție după punct (10 este în numitor)\n- Sutimi: a doua poziție (100 în numitor)\n- Miimi: a treia poziție (1000 în numitor)\n\nExemplu: 3,456\n- 3 este partea întreagă\n- 4 zecimi = 0,4\n- 5 sutimi = 0,05\n- 6 miimi = 0,006\n\nConversii:\n- 1/2 = 0,5\n- 1/4 = 0,25\n- 1/5 = 0,2\n- 1/10 = 0,1",
+              "examples": [
+                "Scris ca fracție: 0,5 = 5/10 = 1/2",
+                "Scris ca zecimală: 3/4 = 0,75",
+                "Comparare: 0,3 < 0,31 < 0,4",
+                "Ordonare: 0,12, 0,2, 0,21, 1,2"
+              ],
+              "tips": [
+                "Memorează conversiile comune de fracții în zecimale",
+                "Când aduni sau scazi zecimale, aliniază punctele zecimale",
+                "Zerourile la sfârșit nu schimbă valoarea: 0,5 = 0,50 = 0,500",
+                "Pentru a compara zecimale, privește-le ca pe cărți de credit: 0,30 < 0,31"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 7?",
+                "text": "Ce valoare are 1/4 ca zecimală?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "0,20",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 1/5"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "0,25",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1/4 = 0,25 (împărțim 1 la 4)"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "0,40",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 2/5"
+                  },
+                  {
+                    "text": "0,50",
+                    "correct": false,
+                    "explanation": "Aceasta ar fi 1/2"
                   }
                 ]
               }
@@ -1725,34 +2195,44 @@
             {
               "title": "L8 - Lecția 8",
               "order": 8,
-              "summary": "Lecția 8",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Mărimi și măsurări - lungime, masă, capacitate",
+              "theory": "Măsurarea este procesul de comparare a mărimilor cu o unitate standard.\n\nLUNGIMI (Metrul - m):\n- 1 km = 1000 m (kilometru)\n- 1 m = 100 cm (centimetru)\n- 1 m = 1000 mm (milimetru)\n- 1 cm = 10 mm\n\nMASĂ (Kilogramul - kg):\n- 1 t = 1000 kg (tonă)\n- 1 kg = 1000 g (gram)\n- 1 g = 1000 mg (miligram)\n\nCAPACITATE (Litrul - l):\n- 1 hl = 100 l (hectolitru)\n- 1 l = 1000 ml (mililitru)\n- 1 l = 1 dm³ (decimetru cub)\n\nPentru a converti:\n- De la mai mare la mai mic: înmulțești\n- De la mai mic la mai mare: împarți",
+              "examples": [
+                "Conversie lungime: 5 m = 500 cm = 5000 mm",
+                "Conversie masă: 2 kg = 2000 g",
+                "Conversie capacitate: 1 l = 1000 ml",
+                "Probleme practice: Dacă o tablă măsoară 2 m, câți centimetri sunt? 2 × 100 = 200 cm"
+              ],
+              "tips": [
+                "Memorează conversiile principale pentru fiecare unitate",
+                "Desenează diagrame pentru a vizualiza relațiile",
+                "Folosește cuvintele: kilo = 1000, centi = 1/100, mili = 1/1000",
+                "Pentru a compara mărimi, convertește-le la aceeași unitate"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 8?",
+                "text": "Câți centimetri sunt în 3 metri?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30 cm",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Calcul incorect"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "300 cm",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "1 m = 100 cm, deci 3 m = 300 cm"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "3000 cm",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi 30 m"
+                  },
+                  {
+                    "text": "3 cm",
+                    "correct": false,
+                    "explanation": "Calcul incorect"
                   }
                 ]
               }
@@ -1760,34 +2240,44 @@
             {
               "title": "L9 - Lecția 9",
               "order": 9,
-              "summary": "Lecția 9",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Puterea cu exponent natural a unui număr natural",
+              "theory": "Puterea unui număr este o operație matematică care înseamnă înmulțirea unui număr cu el însuși de mai multe ori.\n\n    Notație: a^n, unde:\n    - a se numește bază\n    - n se numește exponent\n    - a^n = a × a × a × ... × a (de n ori)\n\n    Exemple: 2^3 = 2 × 2 × 2 = 8; 5^2 = 5 × 5 = 25\n\n    Cazuri speciale:\n    - Orice număr la puterea 1 este egal cu acel număr: a^1 = a\n    - Orice număr la puterea 0 este egal cu 1: a^0 = 1 (pentru a ≠ 0)\n    - 1 la orice putere este 1: 1^n = 1\n\n    Operații cu puteri:\n    - Înmulțire: a^m × a^n = a^(m+n)\n    - Împărțire: a^m ÷ a^n = a^(m-n)\n    - Putere de putere: (a^m)^n = a^(m×n)\n    - Putere de produs: (a×b)^n = a^n × b^n",
+              "examples": [
+                "Calculează 3^4: 3^4 = 3 × 3 × 3 × 3 = 9 × 9 = 81",
+                "Calculează 2^5: 2^5 = 2 × 2 × 2 × 2 × 2 = 32",
+                "Calculează 10^3: 10^3 = 10 × 10 × 10 = 1000",
+                "Calculează 7^2: 7^2 = 7 × 7 = 49"
+              ],
+              "tips": [
+                "Pentru a calcula o putere, înmulțește baza cu ea însăși de atâtea ori cât arată exponentul",
+                "Puterile cu baza 10 sunt ușor de calculat: 10^n are 1 urmat de n zerouri",
+                "Orice număr la puterea 0 este 1, iar orice număr la puterea 1 este el însuși",
+                "Puterile cresc foarte rapid - de aceea se folosesc în științe pentru a exprima numere foarte mari"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 9?",
+                "text": "Calculează 4^3:",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "12",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "4^3 înseamnă 4 × 4 × 4, nu 4 × 3"
                   },
                   {
-                    "text": "Opțiunea B",
+                    "text": "16",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "16 este 4^2, nu 4^3"
                   },
                   {
-                    "text": "Opțiunea C",
+                    "text": "64",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "4^3 = 4 × 4 × 4 = 64 ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "81",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "81 este 3^4, nu 4^3"
                   }
                 ]
               }
@@ -1795,34 +2285,44 @@
             {
               "title": "L10 - Lecția 10",
               "order": 10,
-              "summary": "Lecția 10",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Ordinea efectuării operațiilor",
+              "theory": "Ordinea efectuării operațiilor este un set de reguli care ne spun în ce ordine să facem calculele atunci când avem mai multe operații într-o expresie matematică.\n\n    Ordinea corectă (PEMDAS/BODMAS):\n    1. Paranteză - Calculele din paranteză se fac primele\n    2. Exponenți - Puterile se calculează în urmă\n    3. Înmulțire și Împărțire - Se fac de la stânga la dreapta, în ordinea apariției\n    4. Adunare și Scădere - Se fac de la stânga la dreapta, în ordinea apariției\n\n    Important: Înmulțirea și împărțirea au aceeași prioritate, la fel ca și adunarea și scăderea. Se calculează în ordinea în care apar, de la stânga la dreapta.\n\n    Exemplu: 2 + 3 × 4 = 2 + 12 = 14 (nu 5 × 4 = 20)\n    De ce? Pentru că înmulțirea se face înainte de adunare.",
+              "examples": [
+                "Calculează 10 + 5 × 2: Înmulțirea are prioritate: 5 × 2 = 10, apoi 10 + 10 = 20",
+                "Calculează (10 + 5) × 2: Paranteza se face prima: (10 + 5) = 15, apoi 15 × 2 = 30",
+                "Calculează 20 - 8 ÷ 2: Împărțirea se face prima: 8 ÷ 2 = 4, apoi 20 - 4 = 16",
+                "Calculează 2 + 3 × 4 - 5: Înmulțire: 3 × 4 = 12, apoi 2 + 12 - 5 = 9"
+              ],
+              "tips": [
+                "Reține acronimul PEMDAS: Paranteză, Exponenți, Înmulțire, Împărțire, Adunare, Scădere",
+                "Dacă ai îndoieli, folosește paranteze pentru a clarifica ordinea operațiilor",
+                "Înmulțirea și împărțirea sunt echivalente - se fac de la stânga la dreapta",
+                "Adunarea și scăderea sunt echivalente - se fac de la stânga la dreapta"
+              ],
               "estimatedTime": 45,
               "difficulty": "medium",
               "question": {
-                "text": "Întrebare despre Lecția 10?",
+                "text": "Calculează 12 + 3 × 2:",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "30",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi dacă adunarea se face prima: (12+3)×2=30, dar înmulțirea are prioritate"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "18",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! 3 × 2 = 6, apoi 12 + 6 = 18 ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "24",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "24 nu este rezultatul acestei operații"
+                  },
+                  {
+                    "text": "6",
+                    "correct": false,
+                    "explanation": "6 este doar rezultatul înmulțirii, nu și al întregii expresii"
                   }
                 ]
               }
@@ -1830,34 +2330,44 @@
             {
               "title": "L11 - Lecția 11",
               "order": 11,
-              "summary": "Lecția 11",
-              "theory": "",
-              "examples": [],
-              "tips": [],
+              "summary": "Divizibilitate. Criterii de divizibilitate",
+              "theory": "Un număr a se divide la un număr b (notație: b | a) dacă există un număr natural c, astfel încât a = b × c.\n\n    Criteriile de divizibilitate sunt reguli care ne ajută să determinăm dacă un număr este divizibil cu altul fără a face împărțirea.\n\n    Criteriile principale:\n    - Divizibilitate cu 2: Ultimul cifră este pară (0, 2, 4, 6, 8)\n    - Divizibilitate cu 3: Suma cifrelor este divizibilă cu 3\n    - Divizibilitate cu 5: Ultimul cifră este 0 sau 5\n    - Divizibilitate cu 10: Ultimul cifră este 0\n    - Divizibilitate cu 4: Ultimele două cifre formează un număr divizibil cu 4\n    - Divizibilitate cu 9: Suma cifrelor este divizibilă cu 9\n\n    Exemplu: 246 este divizibil cu 2 (ultima cifră este 6, care este pară)\n    Exemplu: 315 este divizibil cu 3 (3+1+5=9, care este divizibil cu 3)",
+              "examples": [
+                "Este 234 divizibil cu 2? Da, pentru că ultima cifră (4) este pară",
+                "Este 345 divizibil cu 3? Da, pentru că 3+4+5=12, iar 12 este divizibil cu 3",
+                "Este 570 divizibil cu 5? Da, pentru că ultima cifră este 0",
+                "Este 728 divizibil cu 4? Da, pentru că 28 (ultimele două cifre) sunt divizibile cu 4"
+              ],
+              "tips": [
+                "Memorează criteriile de divizibilitate - ele te vor ajuta să economisești timp",
+                "Pentru a verifica divizibilitatea cu 2, privește doar ultima cifră",
+                "Pentru a verifica divizibilitatea cu 3 sau 9, adună toate cifrele",
+                "Orice număr care se termină în 0 este divizibil atât cu 2, 5, cât și cu 10"
+              ],
               "estimatedTime": 45,
               "difficulty": "hard",
               "question": {
-                "text": "Întrebare despre Lecția 11?",
+                "text": "Este 243 divizibil cu 3?",
                 "options": [
                   {
-                    "text": "Opțiunea A",
+                    "text": "Nu, pentru că nu se termină în 0",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "Aceasta ar fi regula pentru 10, nu pentru 3"
                   },
                   {
-                    "text": "Opțiunea B",
-                    "correct": false,
-                    "explanation": ""
-                  },
-                  {
-                    "text": "Opțiunea C",
+                    "text": "Da, pentru că 2+4+3=9, care este divizibil cu 3",
                     "correct": true,
-                    "explanation": ""
+                    "explanation": "Corect! Suma cifrelor este 9, care se divide cu 3 ✓"
                   },
                   {
-                    "text": "Opțiunea D",
+                    "text": "Nu, pentru că 243 nu se divide exact",
                     "correct": false,
-                    "explanation": ""
+                    "explanation": "243 ÷ 3 = 81, deci se divide exact"
+                  },
+                  {
+                    "text": "Da, pentru că are trei cifre",
+                    "correct": false,
+                    "explanation": "Numărul de cifre nu determină divizibilitatea"
                   }
                 ]
               }

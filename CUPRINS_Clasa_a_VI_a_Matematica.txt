@@ -1,0 +1,596 @@
+Maria-Daniela Stoica
+6Titi Hanghiuc
+clasa a VI-a
+ĂCITAMETAM
+telkooB
+Ministerul Educației
+MATEMATICĂ
+Acest manual școlar este proprietatea Ministerului Educației.
+Acest manual școlar este realizat în conformitate cu Programa școlară aprobată prin Ordinul ministrului
+educației naționale nr. 3393/28.02.2017.
+119 – număr unic de telefon la nivel național pentru cazurile de abuz împotriva copiilor
+116.111 – numărul de telefon de asistență pentru copii
+Ministerul Educației
+6
+MATEMATICĂ
+clasa a VI-a
+telkooB
+Maria-Daniela Stoica
+Titi Hanghiuc
+Manualul școlar a fost aprobat de Ministerul Educației prin Ordinul de ministru nr. 5268/04.08.2023.
+Manualul este distribuit elevilor în mod gratuit, atât în format tipărit, cât și în format digital, și este
+transmisibil timp de patru ani școlari, începând din anul școlar 2023 − 2024.
+Inspectoratul Școlar
+Școala/ Colegiul/ Liceul
+ACEST MANUAL A FOST FOLOSIT DE:
+Aspectul manualului*
+Anul
+Anul Numele elevului Clasa format tipărit format digital
+școlar
+la primire la predare la primire la predare
+1.
+2.
+3.
+4.
+* Pentru precizarea aspectului manualului se va folosi unul dintre următorii termeni: nou, bun, îngrijit, neîngrijit, deteriorat.
+Cadrele didactice vor verifica dacă informațiile înscrise în tabelul de mai sus sunt corecte.
+Elevii nu vor face niciun fel de însemnări pe manual.
+Descrierea CIP a Bibliotecii Naționale a României
+STOICA, MARIA-DANIELA
+Matematică : clasa a VI-a / Maria-Daniela Stoica, Titi Hanghiuc. - Bucureşti : Booklet, 2023
+ISBN - - - -
+978 630 6530 17 5
+I.Hanghiuc, Titi
+51
+Referenți științifici: conf. univ. dr. habil. Georgia Irina Oros, Universitatea din Oradea
+prof. gr. I Valerian Vlăduț, Liceul Teoretic „Dimitrie Bolintineanu”, București
+Redactor: Alin Gogan
+Corector rezolvator: Daniela Ciofu
+Corectură: Dorina Lipan
+Design copertă: Silvia Olteanu
+Layout interior: Roxana Ignat
+Tehnoredactare: Carmen Dumitrescu
+Grafică și DTP: Mihaela Cojoc
+Video: Quartz Film Studio
+Voce: Ramona Hilohe
+Digital: MyKoolio
+Credite foto: Adobe Stock, Wikimedia Commons
+Pentru comenzi:
+tel.: 021.430.30.95/021.440.10.02
+© Editura Booklet e-mail: comenzi@booklet.ro
+Toate drepturile asupra lucrării aparțin editurii. site: www.booklet.ro
+CUPRINS
+Recapitulare inițială 7 UNITATEA 3
+Mulțimea numerelor întregi
+UNITATEA 1
+1. Mulțimea numerelor întregi. Opusul unui număr
+Mulțimi. Mulțimea numerelor naturale
+întreg. Reprezentarea pe axa numerelor.
+1. Mulțimi: descriere, notații, reprezentări. Modulul unui număr întreg. Compararea și
+Mulțimi numerice/nenumerice. Relația ordonarea numerelor întregi 70
+dintre un element și o mulțime 10 2.Adunarea numerelor întregi. Proprietăți 75
+2.Relații între mulțimi 14 3.Scăderea numerelor întregi 79
+3. Mulțimi finite, cardinalul unei mulțimi finite. 4.Înmulțirea numerelor întregi. Proprietăți 81
+Mulțimi infinite. Mulțimea numerelor naturale 18 5.Împărțirea numerelor întregi 84
+4. Operații cu mulțimi: reuniune, intersecție,
+6. Puterea cu exponent număr natural a unui
+diferență 21 număr întreg nenul. Reguli de calcul cu puteri 86
+5. Descompunerea numerelor naturale în
+7. Ordinea efectuării operațiilor și folosirea
+produs de puteri de numere prime 25 parantezelor 89
+6. Determinarea celui mai mare divizor comun
+8.Ecuații în mulțimea numerelor întregi 91
+și a celui mai mic multiplu comun.
+9. Inecuații în mulțimea numerelor întregi 96
+Numere prime între ele 27
+10. Probleme care se rezolvă cu ajutorul ecuațiilor/
+7.Proprietăți ale divizibilității în ℕ 32
+inecuațiilor în contextul numerelor întregi 99
+Exerciții recapitulative 35
+Exerciții recapitulative 103
+Evaluare 36
+Evaluare 104
+UNITATEA 2
+UNITATEA 4
+Rapoarte, proporții
+Mulțimea numerelor raționale
+1.Rapoarte 38
+1. Număr rațional. Mulțimea numerelor raționale.
+2. Proporții. Proprietatea fundamentală a
+Reprezentarea numerelor raționale pe axa
+proporțiilor. Determinarea unui termen
+numerelor, opusul unui număr rațional. Modulul
+necunoscut dintr-o proporție 42 unui număr rațional. Compararea și ordonarea
+3.Proporții derivate 45 numerelor raționale 106
+4.Șir de rapoarte egale 49 2. Adunarea numerelor raționale. Proprietăți.
+5.Mărimi direct proporționale 52 Scăderea numerelor raționale 114
+6.Mărimi invers proporționale 55 3.Înmulțirea numerelor raționale. Proprietăți 119
+7.Regula de trei simplă 58 4.Împărțirea numerelor raționale 123
+8. Elemente de organizare a datelor. 5. Puterea cu exponent număr întreg a unui număr
+Reprezentarea datelor prin grafice în contextul rațional nenul. Reguli de calcul cu puteri 125
+proporționalității. Reprezentarea datelor cu 6. Ordinea efectuării operațiilor și folosirea
+ajutorul unor softuri matematice 60 parantezelor 129
+9.Probabilități 64 7. Ecuații de tipul x + a = b, x ∙ a = b, x : a = b (a ≠ 0),
+Exerciții recapitulative 67 a ∙ x + b = c, unde a, b și c sunt numere raționale 131
+Evaluare 68 8.Probleme care se rezolvă folosind ecuațiile 134
+Exerciții recapitulative 136
+Evaluare 138
+3
+CUPRINS
+UNITATEA 5 UNITATEA 6
+Noțiuni geometrice fundamentale Triunghiul
+1. Unghiuri opuse la vârf. Unghiuri formate în 1. Triunghiul: definiție, elemente, clasificare,
+jurul unui punct. Unghiuri complementare, perimetru. Suma măsurilor unghiurilor unui
+unghiuri suplementare 140 triunghi. Unghi exterior unui triunghi 180
+2. Unghiuri adiacente. Bisectoarea unui unghi. 2. Construcția triunghiurilor. Inegalități între
+Construcția bisectoarei unui unghi 146 elementele triunghiului 185
+3. Drepte paralele. Axioma paralelelor. Criterii 3.Linii importante în triunghi 188
+de paralelism. Aplicații practice în poligoane 4.Congruența triunghiurilor oarecare 193
+și corpuri geometrice 152
+4.1. Criterii de congruență a triunghiurilor 193
+4. Drepte perpendiculare în plan. Oblice.
+4.2. Criteriile de congruență a triunghiurilor
+Distanța de la un punct la o dreaptă. Mediatoarea
+dreptunghice 197
+unui segment. Construcția mediatoarei unui
+5.Metoda triunghiurilor congruente 200
+segment. Simetria față de o dreaptă 160
+6.Proprietăți ale triunghiului isoscel 204
+5.Cercul 169
+7.Proprietăți ale triunghiului echilateral 209
+5.1. Cerc: definiție și construcție. Elemente
+8.Proprietăți ale triunghiului dreptunghic 212
+în cerc. Unghi la centru. Măsuri 169
+Exerciții recapitulative 217
+5.2. Pozițiile unei drepte față de un cerc.
+Pozițiile relative a două cercuri 174 Evaluare 218
+Exerciții recapitulative 177 Recapitulare finală 219
+Evaluare 178 Indicații și răspunsuri 221
+Anexă 224
+4
+COMPETENȚE GENERALE ȘI SPECIFICE
+Ce vei învăța anul acesta la matematică?
+1. Identificarea unor date, mărimi 3. Utilizarea conceptelor și a 5. Analizarea caracteristicilor
+și relații matematice, în
+algoritmilor specifici în matematice ale unei situații
+contextul în care acestea apar
+diverse contexte matematice date
+1.1. Identificarea unor noțiuni specifice
+3.1. Utilizarea unor modalități adecvate de 5.1. Analizarea unor situații date în
+mulțimilor și relației de divizibilitate în ℕ
+reprezentare a mulțimilor și de contextul mulțimilor și al divizibilității
+1.2. Identificarea rapoartelor, proporțiilor și
+determinare a c.m.m.d.c. și a c.m.m.m.c. în ℕ
+a mărimilor direct sau invers
+3.2. Aplicarea unor metode specifice de 5.2. Analizarea unor situații practice cu
+proporționale
+rezolvare a problemelor în care intervin ajutorul rapoartelor, proporțiilor și a
+1.3. Identificarea caracteristicilor numerelor rapoarte, proporții și mărimi direct/ colecțiilor de date
+întregi în contexte variate invers proporționale 5.3. Interpretarea unor date din probleme
+1.4. Recunoașterea fracțiilor echivalente, a 3.3. Aplicarea regulilor de calcul și folosirea care se rezolvă utilizând numerele
+fracțiilor ireductibile și a formelor de parantezelor în efectuarea operațiilor întregi
+scriere a unui număr rațional cu numere întregi 5.4. Determinarea unor metode eficiente în
+1.5. Recunoașterea unor figuri geometrice 3.4. Utilizarea proprietăților operațiilor efectuarea calculelor cu numere
+plane (drepte, unghiuri, cercuri, arce de pentru compararea și efectuarea raționale
+cerc) în configurații date calculelor cu numere raționale 5.5. Analizarea seturilor de date numerice
+1.6. Recunoașterea unor elemente de 3.5. Utilizarea unor proprietăți referitoare la sau a reprezentărilor geometrice în
+geometrie plană asociate noțiunii de distanțe, drepte, unghiuri, cerc pentru vederea optimizării calculelor cu
+triunghi realizarea unor construcții geometrice lungimi de segmente, distanțe, măsuri
+3.6. Utilizarea criteriilor de congruență și a de unghiuri și de arce de cerc
+2. Prelucrarea unor date
+proprietăților unor triunghiuri 5.6. Analizarea unor construcții geometrice
+matematice de tip cantitativ,
+particulare pentru determinarea în vederea evidențierii unor proprietăți
+calitativ, structural, cuprinse caracteristicilor unei configurații ale triunghiurilor
+geometrice
+în diverse surse
+6. Modelarea matematică a unei
+informaționale 4. Exprimarea în limbajul
+situații date, prin integrarea
+specific matematicii a
+2.1. Evidențierea în exemple a relațiilor de achizițiilor din diferite
+apartenență, de incluziune, de egalitate informațiilor, concluziilor și
+domenii
+și a criteriilor de divizibilitate cu 2, 5,
+demersurilor de rezolvare
+10n, 3 și 9 în ℕ 6.1. Transpunerea, în limbaj matematic, a
+pentru o situație dată
+2.2. Prelucrarea cantitativă a unor date unor situații date utilizând mulțimi,
+utilizând rapoarte și proporții pentru 4.1. Exprimarea în limbaj matematic a unor operații cu mulțimi și divizibilitatea în ℕ
+organizarea de date situații concrete care se pot descrie 6.2. Modelarea matematică a unei situații
+2.3. Utilizarea operațiilor cu numere întregi utilizând mulțimile și divizibilitatea în ℕ date în care intervin rapoarte, proporții
+pentru rezolvarea ecuațiilor și 4.2. Exprimarea în limbaj matematic a și mărimi direct sau invers
+inecuațiilor relațiilor și a mărimilor care apar în proporționale
+2.4. Aplicarea regulilor de calcul cu numere probleme cu rapoarte, proporții și 6.3. Transpunerea, în limbaj algebric, a unei
+raționale pentru rezolvarea ecuațiilor mărimi direct sau invers proporționale situații date, rezolvarea ecuației sau
+de tipul: x + a = b, x ⋅ a = b , x : a = b 4.3. Redactarea etapelor de rezolvare a inecuației obținute și interpretarea
+(a ≠ 0), a ⋅ x + b = c, unde a, b și c sunt ecuațiilor și a inecuațiilor studiate în rezultatului
+numere raționale mulțimea numerelor întregi 6.4. Interpretarea matematică a unor
+2.5. Recunoașterea coliniarității unor 4.4. Redactarea etapelor de rezolvare a probleme practice prin utilizarea
+puncte, a faptului că două unghiuri unor probleme, folosind operații în operațiilor cu numere raționale
+sunt opuse la vârf, adiacente, mulțimea numerelor raționale 6.5. Interpretarea informațiilor conținute în
+complementare sau suplementare și a reprezentări geometrice pentru
+4.5. Exprimarea, prin reprezentări
+paralelismului sau perpendicularității a determinarea unor lungimi de
+geometrice sau în limbaj specific
+două drepte segmente, distanțe și a unor măsuri de
+matematic, a noțiunilor legate de
+2.6. Calcularea unor lungimi de segmente, dreaptă, unghi și cerc unghiuri/arce de cerc
+măsuri de unghiuri în contextul 6.6. Transpunerea, în limbaj specific, a unei
+4.6. Exprimarea în limbaj geometric
+geometriei triunghiului situații date legate de geometria
+simbolic și figurativ a caracteristicilor
+triunghiului, rezolvarea problemei
+triunghiurilor și ale liniilor importante
+obținute și interpretarea rezultatului
+în triunghi
+5
+GHID DE UTILIZARE A MANUALULUI DIGITAL
+Manualul digital reproduce integral versiunea tipărită, oferind elevilor posibilitatea de a interacționa cu diverse
+elemente de conținut. Astfel, aceștia vor putea să vizioneze animații sau filme, să rezolve exerciții interactive și să
+navigheze prin manual.
+Simboluri:
+1.Elemente grafice 2.Elemente video 3.Exerciții interactive
+(AMII-uri statice): (AMII-uri animate): (AMII-uri interactive):
+imagini, informații și activități videoclipuri cu informații și exerciții de alegere multiplă, de
+suplimentare. activități suplimentare, curiozități. tip adevărat sau fals, de asociere,
+de completare etc.
+Cum se folosește manualul digital?
+1.Meniul superior
+Mărire/micșorare – se mărește sau se Pagina următoare – se accesează pagina
+micșorează fereastra. următoare paginii curente.
+Căutare – pot fi efectuate căutări în Salt la ultima pagină – se accesează ultima
+manualul digital după cuvinte-cheie. pagină a manualului digital.
+Cuprins – deschide cuprinsul manualului Adnotări – deschide o galerie de instrumente,
+digital. cu funcții diferite, ce permit operații în timp
+real: sublinieri, adnotări, încercuiri, demarcări,
+Înapoi la prima pagină – se revine la
+mascări, evidențieri etc.
+prima pagină a manualului digital.
+Tipărește pagini din manualul digital.
+Pagina anterioară – se accesează pagina
+anterioară paginii curente. Indicații – se accesează ecranul cu indicații.
+2.Ajutor în utilizarea exercițiilor interactive (AMII-urilor interactive):
+Deschide exercițiul interactiv dând click pe . Pentru exercițiile de completare, utilizează mouse-ul pentru
+a poziționa cursorul pe spațiul în care dorești să completezi. Pentru exercițiile de alegere, urmărește cerința, apoi
+utilizează mouse-ul și apasă pe varianta de răspuns pe care o consideri corectă. Apasă butonul Verifică pentru a vedea
+dacă ai ales corect. Pentru toate tipurile de exerciții apare în cazul răspunsului corect și în cazul răspunsului
+greșit. Pentru a relua rezolvarea exercițiului, apasă butonul Mai încearcă.
+3.Ajutor în utilizarea elementelor video (AMII-urilor animate):
+Apasă butonul pentru a deschide videoclipul. Butonul Play (Vizualizare) este localizat pe bara de jos a ferestrei,
+alături de Volum și de opțiunea Afișare completă pe ecran. Pentru a opri temporar videoclipul, apasă butonul Pauză,
+de pe bara de jos a ferestrei. Pentru a închide videoclipul, apasă butonul din colțul din dreapta sus al ferestrei.
+4.Ajutor în utilizarea elementelor grafice (AMII-urilor statice):
+Apasă butonul . Imaginea se va deschide într-o fereastră nouă. Apasă butonul din colțul din dreapta sus,
+pentru a închide imaginea.
+6
+RECAPITULARE INIȚIALĂ
+Recapitulare inițială
+1. Ordonează crescător seturile de numere:
+a)11 011, 11 100, 11 010, 11 101, 10 111; c) 1,5; 1,35; 1,52; 2; 1,495; e)
+1_ 2_
+,
+_1 3_
+,
+1_ 1_
+,
+9_
+,
+_1 4_
+;
+5 5 5 5 5
+b)3 8 , 2 7 3 , ( 3 2 ) 3 , 81, 2 022 0 ; d) _7_ , _ 5 , _ 3 , _ 2 , _1 ; f) 1,4; _ 5 ; 1 _ 3 ; 1,33; 3_ _3 .
+12 6 4 3 2 4 4 25
+9_ 1_1_ 1_2_ 1_3_ 1_4_
+Exemplu: e) , , , ,
+5 5 5 5 5
+2. Rotunjește numărul:
+a)124 053 la sute; b) 64 231 la zeci de mii; c)123,825 la zecimi; d) 0,52572 la sutimi.
+Indicație: Se scriu aproximările prin lipsă și prin adaos.
+3. Scrie litera corespunzătoare răspunsului corect.
+a)Produsul numerelor 1,23 și 100 este egal cu:
+A. 12,3; B.0,0123; C.123; D.1230.
+b)Rezultatul calculului 23 – 22 este egal cu:
+A.2; B.4; C.0; D.12.
+_1 _5
+c)Suma numerelor și este egală cu:
+4 6
+_6 6_ 1_3
+A. ; B. ; C.1; D. .
+10 4 12
+_2 +8
+d)Fracția ordinară ireductibilă echivalentă cu este:
+4
+5_ 4_ _3 _1
+A. ; B. ; C. ; D. .
+2 1 2 4
+Exemplu: a) C.
+4. Calculează:
+_2 _9 5_ 1_0_ 3__ 2
+a) 12 + 2020 : 20 − 19 ∙ 3 ; e) ∙ + : − ;
+3 8 3 9 2 3
+__1_ __2_ __3_ 1_0_0_
+b) 1 + 2 + 3 + ... + 50 − 275 ; f) + + + ... + ;
+100 100 100 100
+c)[ 5 + 5 ∙ ( 5 2 + 5 75 : 5 73 ) ] : 51 ; g) 1,4 ∙ 2,5 + 1,5 2 − 3,6 : 0,9 ;
+_1 _1 _1 _1 _9
+d) 1 + + + + : ; h) 3,4 + 3, ( 4) − 3,04 − 3,0( 4) .
+( 2 3 4 6) 8
+Indicație : Se ține cont de ordinea efectuării operațiilor.
+5. Determină ultima cifră a numărului natural m :
+a) m = 55 99 + 99 55 ; b) m = 2 10 + 3 10 + 7 10 .
+6. a) Determină cel mai mare număr natural care dă câtul 20 prin împărțire la 17.
+b)Determină cel mai mic număr natural care, prin împărțire la 23, dă câtul 10.
+Indicație: deîmpărțit = împărțitor ∙ cât + rest
+7. Calculează media aritmetică a numerelor: a) 28 și 36; b) 225 și 475; c) 154, 24 și 17.
+8. Scrie divizorii numărului: a) 36; b) 81; c) 144; d) 96.
+9. Scrie câte trei multipli nenuli ai numărului: a) 24; b) 56; c) 18.
+6__0_ _2_0_ 2_0_2_
+10. Scrie sub formă de fracție ordinară ireductibilă: a) ; b) ; c)1,2(3); d) 0,(6); e) 1,25.
+54 30 303
+11. Demonstrează că numărul m = a ‾b + b ‾a + 143 este divizibil cu 11, oricare ar fi numărul natural de două
+cifre ‾a b .
+12. Demonstrează că numărul a = 2 n + 2 n + 1 + 2 n + 2 + 2 n + 3 este multiplu al numărului 15, pentru oricare număr
+natural n.
+13. Diferența a două numere raționale pozitive este 3,2. Determină cele două numere, știind că unul dintre ele
+este de trei ori mai mare decât celălalt.
+7
+RECAPITULARE INIȚIALĂ
+14. Pentru un pix și două caiete, Dan a plătit 11,1 lei. Determină prețul unui caiet, știind că acesta costă cu
+1,8 lei mai mult decât două pixuri.
+15. Pentru 8 caiete de același tip, Aura a plătit 24 de lei. Câți lei ar fi plătit dacă ar fi cumpărat numai 5 caiete?
+16. Cinci robinete cu același debit umplu o piscină în 4 ore și 15 minute. În cât timp se va umple piscina dacă
+curg numai trei robinete?
+17. Andrei a cumpărat 3 caiete și 2 pixuri pentru care a plătit 14,1 lei. Mara a plătit 19,4 lei pentru 4 caiete și 3
+pixuri. Mircea cumpără 3 caiete și 5 pixuri. Ce rest primește Mircea de la o bancnotă de 200 de lei?
+18. Într-un bloc sunt 40 de apartamente cu două și patru camere, în total fiind 100 de camere.
+a) Verifică dacă numărul apartamentelor cu două camere poate fi egal cu numărul apartamentelor cu
+patru camere.
+b)Determină numărul apartamentelor cu 2 camere.
+19. Determină media aritmetică a numerelor a, b și 3, știind că media aritmetică a numerelor a și b este 1,5.
+20. În graficul alăturat este reprezentat numărul 60
+autoturismelor care au intrat într-o parcare pe
+50
+parcursul unei săptămâni.
+40
+a) Câte mașini au intrat în parcare în acea
+număr mașini
+30
+săptămână?
+20
+b) Calculează câte mașini au intrat în parcare,
+10
+în medie, pe zi.
+0
+21. Calculează:
+L Ma Mi J V S D
+a)102° 46′ + 10° 52′ ; c) 26° 24′ ∙ 3 ;
+b) 150° − 123° 25′ ; d) 127° : 4.
+22. În figura 1, punctul E este mijlocul segmentului AD, punctul C este simetricul punctului A față de punctul D, iar
+punctul B este simetricul punctului A față de punctul C. Determină lungimea segmentului BD, știind că ED = 1,5 cm.
+A E D C B
+Figura 1
+23. Determină măsurile unghiurilor AOB, PNQ și HEG din figurile geometrice de mai jos, știind că punctele A,
+O, C și, respectiv, F, E, D sunt coliniare.
+M
+B G
+Q
+H
+60°
+55° 75°
+30°
+A O C N P D E F
+24. Un dreptunghi cu lungimea egală cu 22 cm și lățimea egală cu 18 cm are același perimetru cu un pătrat.
+Care dintre ele are aria mai mare?
+25. Un tractor ară într-o zi 9 hectare. În câte zile vor ara 12 tractoare un teren în formă de dreptunghi cu
+lungimea de 4,8 km și lățimea de 360 dam?
+26. Un robinet are debitul 2400 l pe oră. În câte ore poate umple o piscină în formă de paralelipiped dreptunghic
+cu lungimea de 9 m, lățimea de 8 m și adâncimea de 2 m?
+27. Câți litri de apă încap într-un acvariu în formă de cub cu lungimea muchiei egală cu 40 cm?
+28. Pentru a vopsi un cub din lemn cu latura de 3 dm sunt necesare 720 g de vopsea. Ce cantitate de vopsea
+este necesară pentru a vopsi un cub (din același material) cu latura de 6 dm?
+8
+Unitatea
+1
+Mulțimi. Mulțimea
+numerelor naturale
+9
+UNITATEA 1
+Mulțimi. Mulțimea numerelor naturale
+1. Mulțimi: descriere, notații, reprezentări.
+Mulțimi numerice/nenumerice. Relația dintre un
+element și o mulțime
+Descopăr
+a, e, i, o,
+u, ă, î, â
+Colonie de pinguini Buchet de lalele Turmă de oi
+Grupul literelor din
+alfabetul limbii
+române cu ajutorul
+Folosind imaginile de mai sus, răspunde la următoarele întrebări:
+cărora se scriu
+semivocalele și
+1. L itera „u” face parte din grupul literelor din alfabetul limbii române cu ajutorul
+vocalele
+cărora se scriu semivocalele și vocalele? De câte ori apare în acest grup? Există
+litere care nu fac parte din acest grup? Dă câteva exemple.
+2. C uvintele „turmă”, „colonie”, „buchet”, „grup” implică existența unui anumit număr
+de obiecte distincte și bine determinate, din care sunt compuse. Dă exemple de
+alte cuvinte de același tip. Care este termenul care poate înlocui aceste cuvinte?
+Învăț
+Mulțimea este o colecție de obiecte (numite elementele mulțimii) de natură oarecare, bine determinate și
+distincte.
+În general, mulțimile se notează cu majuscule din alfabetul latin (A, B, C, ...), dar se pot folosi și notații de
+tipul: A, A , D etc.
+1 2 8
+Pentru a pune în evidență faptul că este vorba despre o mulțime, nu despre o simplă enumerare, vom scrie
+elementele acesteia între acolade. De exemplu, mulțimea numerelor naturale de o cifră poate fi scrisă
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9} .
+OBSERVAȚII
+1. Într-o mulțime, orice element apare o singură dată.
+De exemplu, mulțimea literelor din alfabetul limbii române cu ajutorul cărora scriem cuvântul „bibliotecă”
+este { b, i, l, o, t, e, c, ă} . Deși litera „ b ” apare de două ori în scrierea cuvântului „bibliotecă”, în mulțime
+este scrisă o singură dată.
+2. Într-o mulțime nu contează ordinea scrierii elementelor.
+De exemplu, mulțimea { a, b, c} mai poate fi scrisă { a, c, b} , {b, a, c} , {b, c, a} , { c, a, b} sau {c, b, a} .
+10
+UNITATEA 1
+Mulțimi. Mulțimea numerelor naturale
+Există două moduri de definire a unei mulțimi:
+Explicit (sintetic), numind individual elementele sale:
+– Mulțimea se scrie punând între acolade elementele sale.
+Exemplu: Mulțimea numerelor naturale impare de o cifră se poate scrie { 1, 3, 5, 7, 9} .
+– Mulțimea poate fi ilustrată desenând o curbă închisă și scriind în interiorul ei
+elementele corespunzătoare (diagrama Venn-Euler a mulțimii considerate). 1 3 5
+Exemplu: Mulțimea numerelor naturale impare de o cifră se poate reprezenta 7 9
+ca în figura 1.
+Implicit (analitic), specificând o proprietate pe care o au toate elementele sale Figura 1
+și nu o au alte elemente care nu aparțin mulțimii.
+Exemplu: Mulțimea numerelor naturale impare de o cifră se poate scrie {x | x este număr natural impar
+de o cifră} (citim „mulțimea elementelor x cu proprietatea că x este număr natural impar de o cifră”).
+Mulțimea care nu are niciun element se numește mulțimea vidă și se notează cu ∅ .
+O mulțime ale cărei elemente sunt numere se numește mulțime numerică.
+Exemplu: Mulțimea numerelor naturale impare de o cifră este o mulțime numerică.
+Mulțimile care nu sunt numerice se numesc mulțimi nenumerice.
+Exemplu: Mulțimea orașelor din țara noastră este o mulțime nenumerică.
+Dacă A este o mulțime și x este un element al său, spunem că x aparține mulțimii A și notăm x ∈ A.
+Dacă A este o mulțime și x nu este un element al său, spunem că x nu aparține mulțimii A și notăm x ∉ A.
+Exemple:
+1. Dacă A este mulțimea numerelor prime, atunci 3 ∈ A și 4 ∉ A.
+2. Dacă B = { a, b, c, d} , atunci c ∈ A și e ∉ A.
+3. Dacă C = { n | n este număr natural mai mic decât 4} , atunci 0 ∈ A și 7 ∉ A .
+Exercițiu rezolvat
+Se consideră mulțimile A = { x | x este număr natural, 1 < x ≤ 5} ,
+B = {x este număr natural, 18 ⋮ x} și C = { 0, 1, 4, 9, 16, 25, …}.
+i) Scrie mulțimile A și B prin enumerarea elementelor.
+ii) Scrie mulțimea C folosind o proprietate caracteristică a elementelor sale.
+iii) Completează casetele cu unul dintre simbolurile ∈ sau ∉ pentru a obține
+propoziții matematice adevărate.
+a) 2 A; b) 1 A; c) 36 B; d) 0 B; e) 100 C; f) 453 C.
+Rezolvare:
+i) Numerele naturale x care verifică inegalitatea 1 < x ≤ 5 sunt 2, 3, 4 și 5, deci
+A = {2, 3, 4, 5} .
+Dacă 18 ⋮ x , atunci x poate fi 1, 2, 3, 6, 9 sau 18. Așadar, B = { 1, 2, 3, 6, 9, 18} .
+ii ) C = {x | x = k 2 , k este număr natural}
+iii) a) 2 ∈ A; b) 1 ∉ A; c) 36 ∉ B; d) 0 ∉ B; e) 100 ∈ C; f) 453 ∉ C.
+11
+UNITATEA 1
+Mulțimi. Mulțimea numerelor naturale
+Aplic
+1. Dă exemple de mulțimi ale căror elemente sunt obiecte:
+a) din penarul tău; b) din camera ta; c) din sala de sport.
+2. i) Scrie, prin enumerarea elementelor, mulțimea literelor din cuvântul:
+a) matematică; b) tehnologie; c) cancelarie; d) geografie; e) mulțime.
+ii) Compară, în fiecare caz, numărul elementelor mulțimii cu numărul literelor
+cuvântului.
+Exemplu: i) a) {m, a, t, e, i, c, ă}; ii) Cuvântul „matematică” are 10 litere, iar mulțimea
+literelor cuvântului are 8 elemente și 8 < 10.
+3. i) Scrie, prin enumerarea elementelor, mulțimea cifrelor numărului:
+a) 1 201 120; b) 2 023; c) 77 777; d) 302 203 032; e) 9 182 736 450.
+ii) Compară în fiecare caz numărul elementelor mulțimii cu numărul cifrelor
+D C H
+numărului.
+G F 4. Fie M mulțimea literelor cu ajutorul cărora este notat dreptunghiul din figura 2,
+P mulțimea literelor cu ajutorul cărora este notat pătratul din figura 2 și T
+A B E
+mulțimea literelor cu ajutorul cărora este notat triunghiul din figura 2. Scrie
+Figura 2
+mulțimile M, P și T prin enumerarea elementelor. Exemplu: M = {B, E, F, G}
+5. În figura 3 sunt reprezentate mulțimile A, B, C, D și E cu ajutorul diagramelor
+A
+B Venn-Euler. Scrie aceste mulțimi prin enumerarea elementelor.
+1
+8 6. Realizează diagrama Venn-Euler pentru fiecare dintre mulțimile:
+0
+2 a) mulțimea numerelor naturale prime mai mici decât 20;
+3 9
+7 4 b) mulțimea numerelor naturale pare de o cifră;
+c) mulțimea divizorilor numărului 12;
+C D
+d) mulțimea formelor de relief din țara noastră.
+11 E
+10 7. Găsește greșeala și scrie corect mulțimile A = { 5, 7, 9, 7} , B = { a, 5, 6, 3, a} ,
+13
+C = { 7, 5, 7, 5, 7, 5} .
+12 18
+20 14 8. Completează spațiile libere cu unul dintre simbolurile ∈ sau ∉ pentru a obține
+19 propoziții matematice adevărate.
+15
+a) 8 { 2, 4, 6, 8} ; e) 8 910 { 8, 9, 10} ; Exemplu: a) ∈
+Figura 3
+b) p { a, ă, â, e, i, o, u} ; f) 0 ∅ ;
+c) 12 { 1, 2, 4, 6, 8} ; g) 5 { n | n e număr natural impar} ;
+d) 9 { 8, 9, 10} ; h) 0 { x | x e pătratul unui număr natural} .
+9. Se consideră mulțimea M = {x | x e număr natural par, 8 < x ≤ 71}. Precizează
+valoarea de adevăr a afirmațiilor:
+a) 8 ∈ M ; c) 8 2 + 1 ∈ M; e) 3 0 ∙ 3 1 ∙ 3 2 ∙ 3 3 ∈ M ; Exemplu: a) F
+b) 2 4 ∈ M ; d) 20 0 ∈ M; f) 20 + 21 + 22 + 23 + 24 + 25 ∈ M.
+10. Determină mulțimea A, știind că are 3 elemente, 0 ∉ A , 2 ∈ A , 4 ∈ A, 7 ∉ A,
+10 ∉ A și 6 ∈ A.
+12
+UNITATEA 1
+Mulțimi. Mulțimea numerelor naturale
+11. Se consideră mulțimile: A = {x | x este număr prim de o cifră}, B = {x | x este țară JOC:
+vecină cu România}, C = {x | x este zi a săptămânii}, D = {x | x este număr impar ELIMINĂ INTRUSUL
+de o cifră, x | 30}, E = {x | x este lună a anului care are 31 de zile}, F = {n | n este
+Elementele fiecăreia
+număr natural impar, 3 < n < 9}. Scrie mulțimile A, B, C, D, E și F prin enumerarea
+dintre mulțimile de
+elementelor.
+mai jos, cu excepția
+12. În tabelul de mai jos sunt prezentate temperaturile medii înregistrate timp de o
+unuia dintre ele, au o
+săptămână la o stație meteorologică.
+proprietate
+Ziua luni marți miercuri joi vineri sâmbătă duminică caracteristică.
+Temperatura (°C) 21 20 22 20 19 18 21 Precizează care este
+această proprietate și
+Fie T mulțimea temperaturilor medii înregistrate, M mulțimea zilelor în care
+elimină „intrusul”.
+temperatura medie a fost mai mare decât 20°C și P mulțimea zilelor în care
+temperatura medie a fost mai mică decât 20°C. Scrie mulțimile T, M și P prin I.
+enumerarea elementelor. oaia
+vaca
+13. Reprezintă în trei moduri (prin enumerarea elementelor, scriind o proprietate câinele
+lupul
+comună a elementelor, folosind diagrama Venn-Euler):
+pisica
+capra
+a) mulțimea divizorilor numărului 32;
+porcul
+b) mulțimea numerelor naturale care împărțite la 5 dau câtul 3;
+c) mulțimea numerelor naturale prime de o cifră;
+Paris
+d) mulțimea numerelor de o cifră care sunt pătratele unor numere naturale.
+București
+14. Stabilește valoarea de adevăr a următoarelor propoziții: Viena
+a) 10 ∈ { x | x = 5 n , n este număr natural} ; România
+Budapesta
+b) 8 ∉ {x | x = 2n, n este număr natural prim};
+Berlin
+c) 7 ∈ {x | x = 2n + 1, n este număr natural};
+d) 50 ∈ {x | x = n2, n este număr natural};
+pătrat
+e) 17 ∉ {x | x = 5n + 2, n este număr natural};
+dreptunghi
+f) 0 ∈ {x | x = 2n, n este număr natural}.
+romb cub
+15. Scrie mulțimea A, folosind o proprietate caracteristică a elementelor sale:
+paralelogram
+a) A = { 1, 3, 9, 27, 81} ; d) A = { 1, 3, 5, 7, 9, 11, 13, 15, 17, 19} ; triunghi
+_1 _1 _1 _1 _1 _1 _1 _1
+b) A = { 2, 3, 5, 7, 11, 13, 17, 19} ; e) A = { 1, 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 } .
+II.
+c) A = { 0, 2, 4, 6, 8} ;
+16. Fie A mulțimea literelor cuvântului „bacalaureat” și B mulțimea silabelor a) { 0, 2, 4, 5, 6, 8} ;
+cuvântului „bacalaureat”. Precizează valoarea de adevăr a afirmațiilor: b) { 0, 1, 4, 9, 12, 25, 49} ;
+a) b ac ∈ B ; c) u ∈ A; e) c ∈ A și c a ∈ B ; g) f ∈ A . c) { 3, 6, 9, 11, 12, 15} ;
+b) b a ∈ B ; d) a ∈ A și a ∈ B ; f) a t ∈ B ; d) { 1, 2, 4, 6, 8, 16, 32} .
+17. Se consideră mulțimile:
+A = { x | x e număr natural nenul, _ x 6___ e număr natural } ,
+B = { x | x = a¯b , a¯b + b¯a = 66} ,
+C = {x | x = a¯bc , a , b, c sunt numere naturale, a ∙ b ∙ c = 8 },
+D = { x | x este divizor par al numărului 24} ,
+E = { x | x e multiplu de două cifre al numărului 15} .
+Scrie mulțimile A, B, C, D și E prin enumerarea elementelor.
+13
