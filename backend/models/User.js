@@ -73,6 +73,23 @@ const UserSchema = new mongoose.Schema({
       default: 50 // XP points
     }
   },
+  assessmentLevel: {
+    type: String,
+    enum: ['incepator', 'mediu', 'avansat', 'neevaluated'],
+    default: 'neevaluated'
+  },
+  assessmentScore: {
+    type: Number,
+    default: 0
+  },
+  assessmentCompleted: {
+    type: Boolean,
+    default: false
+  },
+  assessmentDate: {
+    type: Date,
+    default: null
+  },
   createdAt: {
     type: Date,
     default: Date.now

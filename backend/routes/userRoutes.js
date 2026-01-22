@@ -294,4 +294,34 @@ router.put('/streak', authMiddleware, async (req, res) => {
   }
 });
 
+// Save assessment results
+router.put('/assessment', authMiddleware, async (req, res) => {
+  try {
+    const { assessmentLevel, assessmentScore, assessmentCompleted } = req.body;
+
+    const user = await User.findById(req.user._id);
+
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+
+    // Update assessment fields
+    user.assessmentLevel = assessmentLevel || 'neevaluated';
+    user.assessmentScore = assessmentScore || 0;
+    user.assessmentCompleted = assessmentCompleted || false;
+    user.assessmentDate = new Date();
+
+    await user.save();
+
+    res.json({
+      message: 'Assessment saved successfully',
+      assessmentLevel: user.assessmentLevel,
+      assessmentScore: user.assessmentScore,
+      assessmentCompleted: user.assessmentCompleted
+    });
+  } catch (error) {
+    res.status(500).json({ message: 'Server error', error: error.message });
+  }
+});
+
 module.exports = router;
