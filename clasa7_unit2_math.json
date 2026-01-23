@@ -1,0 +1,166 @@
+{
+  "unit_number": "2",
+  "unit_name": "Ecuații și sisteme de ecuații liniare",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Transformarea unei egalități într-o egalitate echivalentă. Identități",
+      "summary": "Egalitate: a = b. Transformări echivalente: adunare/scădere același număr, înmulțire/împărțire cu număr ≠0. Exemplu: 2x+3=7 → 2x=4 → x=2. Identități: adevărate pentru orice valoare. Exemplu: (a+b)² = a²+2ab+b². Ecuații: adevărate pentru anumite valori. Proprietate: transformări echivalente nu schimbă soluțiile. Metod: izolează necunoscuta. Aplicații: rezolvare probleme. Fundamental pentru algebră.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Egalitate echivalentă 2x=4?",
+          "options": [
+            "A. 2x+1=5",
+            "B. x=2",
+            "C. x=4",
+            "D. 2x=2"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Identitate e?",
+          "options": [
+            "A. 2x=4",
+            "B. (a+b)²=a²+2ab+b²",
+            "C. x+1=3",
+            "D. 5x=10"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Transformare validă?",
+          "options": [
+            "A. +5 ambele laturi",
+            "B. ×0 ambele laturi",
+            "C. ÷-1 ambele laturi",
+            "D. Radical ambele"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Ecuații de forma ax + b = 0, unde a, b ∈ R. Mulțimea soluțiilor unei ecuații. Ecuații echivalente",
+      "summary": "Ecuație liniară: ax+b=0 (a≠0). Soluție: x=-b/a. Exemplu: 3x+6=0 → x=-2. Mulțimea soluțiilor: {-b/a} o valoare. Cazuri speciale: a=0, b≠0 (nicio soluție), a=0, b=0 (infinit soluții). Ecuații echivalente: aceleași soluții. Verificare: substituie în ecuație. Aplicații: probleme practice. Metode: izolează x. Fundamental pentru algebră.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Soluție 3x+6=0?",
+          "options": [
+            "A. 2",
+            "B. -2",
+            "C. 3",
+            "D. 6"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Mulțimea soluții?",
+          "options": [
+            "A. {-b/a}",
+            "B. Toate numerele",
+            "C. Nicio soluție",
+            "D. Infinit soluții"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "0x=5 soluții?",
+          "options": [
+            "A. x=5",
+            "B. Nicio soluție",
+            "C. Infinit soluții",
+            "D. x=0"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Sisteme de două ecuații liniare cu două necunoscute",
+      "summary": "Sistem: două ecuații liniare cu două necunoscute x,y. Forme: ax+by=c, dx+ey=f. Metode rezolvare: Substituție (izolează variabilă dintr-una, substituie în alta), Eliminare (adunare/scădere pentru elimina variabilă), Grafic (intersecție drepte). Soluție: pereche (x,y) satisface ambele. Tipuri: o soluție (drepte intersectează), nicio soluție (paralele), infinit (coincid). Exemplu: x+y=3, x-y=1 → x=2, y=1. Verificare: substituie. Aplicații: probleme practice. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Soluție x+y=3, x-y=1?",
+          "options": [
+            "A. (1,2)",
+            "B. (2,1)",
+            "C. (3,0)",
+            "D. (0,3)"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Metode rezolvare?",
+          "options": [
+            "A. Doar substituție",
+            "B. Substituție, eliminare, grafic",
+            "C. Doar eliminare",
+            "D. Doar grafic"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Drepte paralele sistemă?",
+          "options": [
+            "A. O soluție",
+            "B. Nicio soluție",
+            "C. Infinit soluții",
+            "D. Două soluții"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Probleme care se rezolvă cu ajutorul ecuațiilor sau al sistemelor de ecuații liniare",
+      "summary": "Pași: 1) Identifică necunoscuta 2) Scrie ecuația/sistem 3) Rezolvă 4) Verifică 5) Răspuns. Exemplu: \"Suma două numere e 10, diferența e 2.\" x+y=10, x-y=2 → x=6, y=4. Tipuri: movimento (viteză, timp, distanță), lucru (productivitate, timp), amestec (concentrație). Verificare: substituie în problemă. Aplicații: practică. Important pentru viață.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Suma=10, diferența=2, numere?",
+          "options": [
+            "A. 4,6",
+            "B. 5,5",
+            "C. 6,4",
+            "D. 3,7"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ecuație pentru suma numerelor?",
+          "options": [
+            "A. x-y=s",
+            "B. x+y=s",
+            "C. xy=s",
+            "D. x/y=s"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Verificare soluție?",
+          "options": [
+            "A. Obliga",
+            "B. Opțional",
+            "C. Imposibil",
+            "D. Niciodată"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

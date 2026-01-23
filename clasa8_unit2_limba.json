@@ -1,0 +1,726 @@
+{
+  "unit_number": "2",
+  "unit_name": "Cum sunt ceilalți?",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul dramatic: Take, Ianke și Cadâr de Victor Ion Popa",
+      "summary": "Textul dramatic: construire conflict și dialog între personaje. Victor Ion Popa: dramaturg cu temă asupra oamenilor și societății. 'Take, Ianke și Cadâr' explorează relații umane complexe, conflicte, humor și pathos. Piesa e reprezentativă pentru teatrul românesc. Personajele: archetipi sociali. Dialog: revelator de caracter. Structură: acte și scene. Temă: ce sunt oamenii într-adevăr. Stil: realist cu elemente comice. Importanță: drama oferă perspectivă asupra comportamentului uman. Analiza necesită înțelegere a scen și replici.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce explore Popa?",
+          "options": [
+            "A. Natura",
+            "B. Relații și conflicte umane",
+            "C. Aventuri",
+            "D. Tehnologie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Structură drama?",
+          "options": [
+            "A. Doar dialog",
+            "B. Acte și scene",
+            "C. Doar narație",
+            "D. Doar descriere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Dialog revelează?",
+          "options": [
+            "A. Locul",
+            "B. Caracter personajelor",
+            "C. Vremea",
+            "D. Culoarea"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Textul dramatic. Structuri textuale",
+      "summary": "Structuri dramatice: expunere (prezentare), conflict, climax, rezoluție. Dialogue: schimb replici care avanseaza intriga. Didascalii (stage directions): instructiuni pentru actori. Tiraj: cuvinte vorbite. Silenț: moment de tensiune. Asides: vorbe la audiență. Ironie: contrast între sperat și realizat. Comedia vs. Tragedie. Analiza structurii: cum se construieste piesă. Efecte emoționale. Popa: maeștru structurii. Importanță: înțelegere cum funczioneaza drama.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Structură drama?",
+          "options": [
+            "A. Doar dialog",
+            "B. Expunere, conflict, climax, rezoluție",
+            "C. Doar cuvinte",
+            "D. Random"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Didascalii sunt?",
+          "options": [
+            "A. Cuvinte personaje",
+            "B. Instructiuni pentru actori",
+            "C. Descriere",
+            "D. Doar poveste"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Climax e?",
+          "options": [
+            "A. Început",
+            "B. Punctul maxim tensiune",
+            "C. Sfarsit",
+            "D. Mijloc"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Timpul, spațiul, acțiunea, personajele",
+      "summary": "Timp: când se întâmplă. Spațiu: unde se întâmplă. Acțiune: ce se întâmplă. Personajele: cine sunt. Unitate de timp: acțiune într-un interval scurt (Aristotel). Unitate de spațiu: acțiune în un loc. Unitate de acțiune: o singură trama. Popa respectă unități în piesa. Personajul protagonistă vs. antagonistă. Conflictul: intre dorit și realizabil. Analiza: cum elementele create atmoșferă și semnificație. Importanță: coeziune dramatică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Unitățile sunt?",
+          "options": [
+            "A. Doar spațiu",
+            "B. Timp, spațiu, acțiune",
+            "C. Doar timp",
+            "D. Doar personaje"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Protagonistă vs. antagonistă?",
+          "options": [
+            "A. Același",
+            "B. Personaj principal vs. opozant",
+            "C. Invers",
+            "D. Aleatoare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Conflictul derivă?",
+          "options": [
+            "A. Din spațiu",
+            "B. Din timp",
+            "C. Din disonantă dorit-realizabil",
+            "D. Din personaje"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Semnificațiile textului",
+      "summary": "Analiza semnificații în drama: ce zice piesa despre oameni, societate, moralitate. Popa transmite: oamenii sunt complexi, puni au motive ascunse, comunicarea e dificilă. Nivele: literal (ce se întâmplă), simbolic (ce reprezintă), tematic (ce mesaj). Context: Popa scrie în perioada modernă, cu influență realism. Semnificații personale și colective. Interpretări multiple. Reflexie asupra propriii judecăți. Analiza critic: ce funcționează și de ce.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Semnificații includ?",
+          "options": [
+            "A. Doar ce zic personajele",
+            "B. Niveluri literal, simbolic, tematic",
+            "C. Doar dialog",
+            "D. Doar acțiuni"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce transmite Popa?",
+          "options": [
+            "A. Oamenii sunt simpli",
+            "B. Oamenii sunt complecși",
+            "C. Oamenii sunt egali",
+            "D. Oamenii sunt buni"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Interpretări sunt?",
+          "options": [
+            "A. Unice",
+            "B. Multiple și valide",
+            "C. Fixe",
+            "D. Doar subiective"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Textul nonliterar. Cronica de spectacol: Omenescul personajelor de Ștefan Popa",
+      "summary": "Cronica de spectacol: text care descrie și critică o producție teatrală. Ștefan Popa: critic de teatru care analizează actoria, regia, mesajul piesei. Diferența cu piesa: cronica e text critic, piesa e text creativ. Cronica informează și evaluează. Stilul: jurnalistic cu element critic. Temă: cum actori și regizor interpretează piesa. Importanță: cronica ajută publi încă să înțeleagă teatru. Analiza: cum critic justifică opinii. Competență: a fi critic spectator.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cronica spectacol?",
+          "options": [
+            "A. Poveste",
+            "B. Text critic despre producție",
+            "C. Piesa de teatru",
+            "D. Doar intrări"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Diferență cronica-piesa?",
+          "options": [
+            "A. Nicio diferență",
+            "B. Cronica e critic, piesa e creativ",
+            "C. Sunt identice",
+            "D. Cronica e mai lungă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Rol cronica?",
+          "options": [
+            "A. Divertisment",
+            "B. Informare și evaluare",
+            "C. Doar promovare",
+            "D. Fără scop"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Noi pagini – alte idei. Nathan Înțeleptul (fragment) de Gotthold Ephraim Lessing",
+      "summary": "Lessing: dramaturg german cu influență asupra teatrului european. 'Nathan Înțeleptul': piesă despre toleranță, rație și înțelegere între religii. Fragment prezentat: ilustrează abordare raționalista. Comparație cu Popa: amândoi exploreaza oameni, dar contextele diferă. Lessing: Iluminis, Popa: modernism. Temă: raționalism vs. pasiune. Stil: neoclasic cu influență modernă. Importanță: influență globală a dramei europene. Analiza: cum context istoric formează literatura.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Temă Lessing?",
+          "options": [
+            "A. Aventură",
+            "B. Toleranță și rație",
+            "C. Pasiune",
+            "D. Ură"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Context Lessing?",
+          "options": [
+            "A. Modernă",
+            "B. Iluminism",
+            "C. Romantism",
+            "D. Realismul"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Comparație Popa-Lessing?",
+          "options": [
+            "A. Identici",
+            "B. Explore oameni, contexte diferite",
+            "C. Nu sunt comparabili",
+            "D. Lessing e mai vechi"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Relații culturale constructive. Noi și ceilalți",
+      "summary": "Tema: cum ne raportam la alții. Popa: conflict și coexistență. Lessing: dialogu rațional. Perspective culturale: diverse moduri de gândire. Respectul pentru diferență. Empatia: înțelegere perspectiva altuia. Comunicare eficientă: ascultare activă, claritate. Stereotipi: prejudecăți care îngreuiază relații. Superare stereotipi: cunoaștere și deschidere. Importanță: relaț constructive sunt esențiale. Conflictul e natural, dar rezolvabil. Analiza: cum autori propun rezolvări.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Relații constructive includ?",
+          "options": [
+            "A. Doar conflict",
+            "B. Respect, empatie, comunicare",
+            "C. Doar coexistență",
+            "D. Doar acord"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Empatia?",
+          "options": [
+            "A. Acord total",
+            "B. Înțelegere perspectiva altuia",
+            "C. Doar pity",
+            "D. Fără implicare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Stereotipi?",
+          "options": [
+            "A. Adevār",
+            "B. Prejudecăți care îngreuiază",
+            "C. Fapte",
+            "D. Utile"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Atitudini comunicative",
+      "summary": "Atitudini: manieri de a comunica. Asertiv (exprimate claritate), pasiv (tăcut, submis), agresiv (ofensator). Egal: vorbitor și asculter. Respectul: ingredient esențial. Non-verbal: tone, gest, contactul ochi. Paraverbal: intonație, ritmul. Popa: explore atitudini în dialog. Lessing: raționalitate în discurs. Competență: să alegi atitudine potrivită. Scenarii: cum răspunzi la conflict. Importanță: abilitate de viață.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Atitudini includ?",
+          "options": [
+            "A. Doar vorbe",
+            "B. Asertiv, pasiv, agresiv",
+            "C. Doar tăcut",
+            "D. Doar zgomot"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ingredient esențial?",
+          "options": [
+            "A. Claritate",
+            "B. Respect",
+            "C. Putere",
+            "D. Control"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Non-verbal include?",
+          "options": [
+            "A. Doar cuvinte",
+            "B. Tone, gest, contact ochi",
+            "C. Doar sunete",
+            "D. Fără importanță"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Construcțiile active. Construcțiile pasive cu verbul a fi",
+      "summary": "Construcție activă: subiect perform acțiune. 'Ion citește cartea.' Construcție pasivă: subiect primește acțiune. 'Cartea este citită de Ion.' Schimbare focus: acțiune la subiect. Vorbă pasivă: 'a fi' + participiu. Analiza în texte: cand autori folosesc pasiv. Efect: slăbire agent sau enfază pe obiect. Popa: mix active-pasiv. Lessing: mai mult activ. Competență: control focus naratir. Importanță: expresie și stil.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Activ vs. pasiv?",
+          "options": [
+            "A. Same meaning",
+            "B. Subiect perform vs. primește acțiune",
+            "C. Doar orden cuvinte",
+            "D. Fără diferență"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Pasiv cu 'a fi'?",
+          "options": [
+            "A. a fi + verb",
+            "B. a fi + participiu",
+            "C. a fi + adjectiv",
+            "D. a fi + adverb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Efect pasiv?",
+          "options": [
+            "A. Acționare",
+            "B. Slăbire agent sau enfază obiect",
+            "C. Claritate",
+            "D. Negativ"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Predicatul (actualizare)",
+      "summary": "Predicat: ce zice despre subiect. Predicat verbal: verb. Exemplu: 'Ion merge'. Predicat nominal: verb + atribut. Exemplu: 'Ion este destept'. Predicat compus: mai mult verbe. Exemplu: 'Ion poate cita'. Timpuri verbale: prezent, trecut, viitor. Moduri: indicativ, conditional, subjunctiv. Analiza în texte: cum verbe crează acțiune și emotion. Popa: verbe dinamice. Lessing: verbe reflective. Importanță: predicat e inima propoziție.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Predicat este?",
+          "options": [
+            "A. Subiect",
+            "B. Ce zice despre subiect",
+            "C. Verb",
+            "D. Doar timp"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Predicat verbal vs. nominal?",
+          "options": [
+            "A. Same",
+            "B. Verb vs. verb+atribut",
+            "C. Noun vs. verb",
+            "D. Nici diferență"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Exemple predicat compus?",
+          "options": [
+            "A. 'Ion merge'",
+            "B. 'Ion poate cita'",
+            "C. 'Ion este bun'",
+            "D. Nicio variantă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Construcțiile cu pronume reflexive",
+      "summary": "Pronume reflexiv: se, și-și se referă la subiect. Exemplu: 'Ion se lovește'. 'Ea și-a spălat mâinile'. Sens reflexiv: acțiune pe sine. Sens reciproc: acțiune între două persoane. Exemplu: 'Ei se iubesc' (se iubesc reciproc). Variații: 'me', 'te', 'se', 'ne', 've', 'se'. Analiza: cum reflexivele adaugă sens. Popa: utilizare reflexivelor în conflict. Lessing: mai puțin. Competență: control sens. Expresie exactă. Importanță: nuanță lingvistică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Reflexiv?",
+          "options": [
+            "A. Subiect și obiect diferite",
+            "B. Acțiune pe sine",
+            "C. Doar verb",
+            "D. Random"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Reciproc?",
+          "options": [
+            "A. Acțiune pe sine",
+            "B. Acțiune între două",
+            "C. Doar reflexiv",
+            "D. Nu-i legat"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Exemplu reflexiv?",
+          "options": [
+            "A. 'Ion citește'",
+            "B. 'Se lovește'",
+            "C. 'El merge'",
+            "D. Citirea"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Construcțiile impersonale",
+      "summary": "Impersonal: nu are subiect explicit. 'Plouă.' 'Se spune că...' 'Trebuie să...' Verbe impersonale: plouă, ningă, trăsnă, geamă. Efect: fără agent definit, misterios. Pasiv impersonal: 'Se muncit mult.' Analiza: cand autori folosesc. Popa: crear mister. Lessing: clar identifică agent. Competență: cand impersonal e potrivit. Expresie și atmosferă. Importanță: varietate constructivă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Impersonal e?",
+          "options": [
+            "A. Subiect explicit",
+            "B. Fără subiect explicit",
+            "C. Pronume",
+            "D. Adverb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Verbe impersonale?",
+          "options": [
+            "A. Citire",
+            "B. Plouă, ningă, trăsnă",
+            "C. Merge",
+            "D. Spun"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Efect impersonal?",
+          "options": [
+            "A. Claritate",
+            "B. Mister, fără agent",
+            "C. Descriere",
+            "D. Action"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Subiectul (actualizare)",
+      "summary": "Subiect: cine/ce perform acțiune. 'Ion merge.' 'Cartea este interesantă.' Tip subiect: substantiv, pronume, infinitiv. Subiect compus: mai mult subiect. 'Ion și Maria merg.' Acord subiect-predicat: număr și persoană. Analiza: cum subiect definește acțiune. Popa: subiecte clare. Lessing: subiecte filosofice. Competență: să identifici subiect. Importanță: bază propoziție.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Subiect e?",
+          "options": [
+            "A. Verb",
+            "B. Cine/ce perform acțiune",
+            "C. Complement",
+            "D. Adverb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Subiect compus?",
+          "options": [
+            "A. Un subiect",
+            "B. Mai mult subiecte",
+            "C. Verb compus",
+            "D. Impossible"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Acord?",
+          "options": [
+            "A. Subiect-verb",
+            "B. Număr și persoană",
+            "C. Random",
+            "D. Optional"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Construcțiile incidente",
+      "summary": "Incident: frază inserată în propoziție care nu e esențiala. 'Popa, care era dramaturg, a scris piese.' Incident: 'care era dramaturg'. Funcție: adaugă informație suplimentară. Semne: virgule sau liniuțe. Analiza: cand incident e util. Popa: utilizare încidentelor. Lessing: mai liniar. Competență: cand incidență clarificare. Stil și varietate. Importanță: construct avansată.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Incident e?",
+          "options": [
+            "A. Propozitie principală",
+            "B. Frază inserată suplimentar",
+            "C. Complement",
+            "D. Subiect"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Semne incidente?",
+          "options": [
+            "A. Puncte",
+            "B. Virgule sau liniuțe",
+            "C. Nicio semn",
+            "D. Parantiezi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Funcție?",
+          "options": [
+            "A. Esențial",
+            "B. Adaugă informație",
+            "C. Confuzie",
+            "D. Fără scop"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Fraza. Coordonarea",
+      "summary": "Frază: set de propozitii coerente. Coordonare: propoziții de rang egal conectate cu conjuncții. Conjuncții: și, dar, sau, nici...nici, deci, fiindcă. Exemplu: 'Ion merge și Maria stă acasă.' Relații: adițio (și), opoziție (dar), alternatives (sau), cauzalitate (deci). Analiza: cum coordonare crează fluiditate. Popa: complex coordonare. Lessing: coordinare pentru limpiditate. Competență: variație ordonată. Stil și ritm.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Frază e?",
+          "options": [
+            "A. Un cuvânt",
+            "B. Set propoziții coerente",
+            "C. Doar verb",
+            "D. Adjectiv"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Coordonare conectează?",
+          "options": [
+            "A. Subiect cu verb",
+            "B. Propoziții de rang egal",
+            "C. Noun cu adj",
+            "D. Random"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Conjuncție adițio?",
+          "options": [
+            "A. Dar",
+            "B. Și",
+            "C. Sau",
+            "D. Nici"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "name": "Fraza. Subordonarea",
+      "summary": "Subordonare: propozitie dependentă de altă. Conjuncții subordonare: care, că, daca, dacă, pentru că, deși, deși. Tipuri: atributivă (descriere), completivă (complement), circumstanțială (condiție, timp, loc). Exemplu: 'Ion merge acolo UNDE Maria stă.' Dependență gramaticală. Analiza: cum subordonare crează relații complexe. Popa: subordonare pentru depth. Lessing: clar identifică relații. Competență: maniple complexitate. Stil și profunzime.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Subordonare?",
+          "options": [
+            "A. Propoziții egale",
+            "B. Dependență gramaticală",
+            "C. Complement",
+            "D. Adverb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tipuri subordonare?",
+          "options": [
+            "A. Doar atributiva",
+            "B. Atributiva, completiva, circumstanțiala",
+            "C. Doar completiva",
+            "D. Nici unu"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Exemplu subordonare?",
+          "options": [
+            "A. 'Merge acolo'",
+            "B. 'Merge ACOLO UNDE Maria stă'",
+            "C. 'Și merge'",
+            "D. 'Sau merge'"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "name": "Enunțuri eliptice. Norme de punctuație",
+      "summary": "Eliptice: propozitie care omite cuvinte subînțelese. 'Ion merge la birou, Maria [merge] acasă.' Efect: concis, ritmic. Norme punctuație: punct (final), virgulă (pauza), punct și virgulă (pauza lungă), doi puncte (introducer), parantiezi (incidență), liniuțe (pauza importantă). Analiza în texte: cum punctuație crează ritm. Popa: utilizare creativă punctuație. Lessing: tradițional. Competență: contrast și atenție. Stil și legibilitate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Eliptice?",
+          "options": [
+            "A. Cuvinte adaugate",
+            "B. Omit cuvinte subînțelese",
+            "C. Lungime",
+            "D. Nici diferență"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Norme punctuație?",
+          "options": [
+            "A. Fără reguli",
+            "B. Punct, virgulă, punct-virgulă",
+            "C. Doar aleatoriu",
+            "D. Nicio semnă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Efect eliptic?",
+          "options": [
+            "A. Lung",
+            "B. Concis și ritmic",
+            "C. Confuzion",
+            "D. Fără importanță"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "name": "Cronica de film. Redactarea de mână și computerizată. Etica redactării: originalitatea",
+      "summary": "Cronica film: text critic despre producție cinematografică. Diferen mână vs. computerizată: accesibilitate, edit, distribu. Etica redactării: citat corect, citat surse, originalitate, nu plagiat. Plagiat: copierea fără citat. Parafrazare: reformulare cu citat sursei. Integritate intelectuală: esențial. Analiza: cum critic evaluează film. Lessing și Popa: perspective diverse. Competență: scris ethical și original. Responsabilitate. Importanță: integritate în comunicare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cronica film?",
+          "options": [
+            "A. Poveste",
+            "B. Text critic producție",
+            "C. Doar intrări",
+            "D. Film"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Plagiat e?",
+          "options": [
+            "A. Citat",
+            "B. Copiare fără citat",
+            "C. Parafrazare",
+            "D. Traducere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Originalitate?",
+          "options": [
+            "A. Interzis",
+            "B. Esențial",
+            "C. Optional",
+            "D. Fără importanță"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

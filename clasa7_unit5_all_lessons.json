@@ -1,0 +1,524 @@
+{
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul dramatic: Vrem să vă dăruim câte o fereastră de Matei Vișniec",
+      "summary": "\"Vrem să vă dăruim câte o fereastră\" de Matei Vișniec e o piesă contemporană care explorează teme de libertate, speranta, și humanitate. Textul e scris sub forma unui dialog intens între personaje care se confrunta cu dileme morale. Vișniec e cunoscut pentru dramaturgie socială care pune in fata audienta probleme contemporane. Piesa invita reflectie asupra valorilor și responsabilitatii. Structura dramatica: acte, scene, dialog. Rolul didactic: educă prin emoție și conflict. Textul demonstrează cum teatrul poate fi instrument de crítica și schimbare socială.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tema centrala?",
+          "options": [
+            "A. Doar aventura",
+            "B. Libertate, speranta, humanitate",
+            "C. Doar drag",
+            "D. Doar moarte"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Genul Vișniec?",
+          "options": [
+            "A. Romantic",
+            "B. Dramaturgie sociala",
+            "C. Fantastic",
+            "D. Comic"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Rol teatru?",
+          "options": [
+            "A. Doar entertainment",
+            "B. Instrument critica si schimbare",
+            "C. Doar joc",
+            "D. Fara importanta"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Textul dramatic. Structura textului dramatic, rolul indicațiilor scenice, autorul",
+      "summary": "Textul dramatic are structura speciala: acte (parti principale), scene (subdivisiuni), dialog (conversatii intre personaje), indicatii scenice (instructiuni pentru actori și regizor). Exemplu: \"Actul I, Scena 1: Biroul unui doctor. DOCTOR: Buna ziua.\" (indicatie scenica + dialog). Indicatiile scenice specifica locul, lumina, miscari. Autorul dramatic scrie pentru o audienta directa, prin intermediul actorilor. Diferența cu literatura: textul dramatic e VIU, impermanent, se schimba cu fiecare reprezentatie. Rolul autorului: crea dialog plauzibil, conflict dramatic, personaje credibile. Structura trebuie sa creeze suspans și emoție. Aceasta e arta scrierii dramatice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Componente drama?",
+          "options": [
+            "A. Doar dialog",
+            "B. Acte, scene, dialog, indicatii scenice",
+            "C. Doar descriere",
+            "D. Doar povestea"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Rol indicatii?",
+          "options": [
+            "A. Fara importanta",
+            "B. Specifica locul, lumina, miscari",
+            "C. Doar text",
+            "D. Doar decor"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Diferenta drama-literatura?",
+          "options": [
+            "A. Nu-i diferenta",
+            "B. Drama e VIVA, se schimba cu fiecare reprezentatie",
+            "C. Sunt identice",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Arta spectacolului. Personajul dramatic",
+      "summary": "Spectacolul dramatic e o experienta colectiva unde actori si spectatori se intalnesc intr-un loc si timp specific. Elementele spectacolului: actorii (incarneaza personajele), decorul (creaza atmosfera), lumina (realizeaza efecte), sunetul (amplifica emotii). Personajul dramatic trebuie sa fie credibil și memorabil. Caracterizare: cum se comporta, ce spune, cum se interactioneaza cu altii. Conflictul intra si dintre personaje creeaza dramatismul. Roluri: protagonist (personajul principal), antagonist (opozant), personaje secundare. Mastering crearii personajelor e esentiala pentru dramaturgia bună. Personajele bune devin parte din memoria colectiva a culturii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e spectacolul?",
+          "options": [
+            "A. Doar text",
+            "B. Experienta colectiva actori-spectatori",
+            "C. Doar joc",
+            "D. Doar decor"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Elemente spectacol?",
+          "options": [
+            "A. Doar actori",
+            "B. Actori, decor, lumina, sunet",
+            "C. Doar sunet",
+            "D. Doar text"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Tipuri personaje?",
+          "options": [
+            "A. Doar principal",
+            "B. Protagonist, antagonist, secundare",
+            "C. Doar bune",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Rolul dialogului. Dialogul în textul scris și în spectacol",
+      "summary": "Dialogul e conversatia intre personaje. In textul scris: \"ION: Unde pleci? MARIA: La cumpărături.\" In spectacol: actorii rostesc replica. Roluri dialog: avanseaza intriga, caracterizeaza personajele, transmite informatii, creeaza suspans. Dialog bun: suna natural (nu artificial), are ritm, conflicte, umor. Diferenta: in text, dialogul e static (pe pagina), in spectacol e dinamic (se schimba cu actorrii si regizor). Subtextul: ce se intelege dincolo de cuvinte. Exemplu: \"Buna\" poate insemna multa tandrete sau mult sarcasm, depinde intonatie. Mastering dialogului e cheie pentru dramaturgie.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e dialog?",
+          "options": [
+            "A. Monolog",
+            "B. Conversatia intre personaje",
+            "C. Descriere",
+            "D. Doar text"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Roluri dialog?",
+          "options": [
+            "A. Doar divertisment",
+            "B. Avansare intriga, caracterizare, informatii",
+            "C. Fara scop",
+            "D. Doar vorbe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Subtextul?",
+          "options": [
+            "A. Textul care lipseste",
+            "B. Ce se intelege dincolo de cuvinte",
+            "C. Doar imagine",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Semnificațiile textului",
+      "summary": "Texte dramatice au multiple niveluri: literal (ce se intampla pe scena), figurat (ce implica sub-textul), simbolic (ce reprezinta arhetipuri sau idei universale). Exemplu: in \"Vrem să vă dăruim...\", literal e o conversatie, figurat e o lupta pentru dignitate, simbolic e lupta umana impotriva oprimarii. Analiza semnificatii necesita: atenție la dialog, miscari, simboluri (obiecte care poarta sens), conflicte. Context cultural si istoric influenteaza interpretare. Semnificatii nu sunt fixe, se schimba cu timp si audienta. Aceasta e libertate artei dramatice - fiecare reprezentatie e unica si noua.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Niveluri drama?",
+          "options": [
+            "A. Doar literal",
+            "B. Literal, figurat, simbolic",
+            "C. Doar unu",
+            "D. Infinit"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce analiza necesita?",
+          "options": [
+            "A. Doar text",
+            "B. Dialog, miscari, simboluri, conflicte",
+            "C. Doar imaginatie",
+            "D. Fara analiza"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Semnificatii?",
+          "options": [
+            "A. Fixe",
+            "B. Se schimba cu timp si audienta",
+            "C. Nu-i semnificatii",
+            "D. Doar opinie"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Dialogul în textul nonliterar. Interviul. Interviu cu Matei Vișniec",
+      "summary": "Interviul e dialog intre intrebator (jurnalist) si respondent (persoana intervievata). Scopul: obtine informatii, perspective, confesiuni. Structura: introducere, serii de intrebari, inchidere. Exemplu: \"Q: Care e procesul de creatie? A: Incep cu o imagine, apoi...\" Interviul cu Matei Vișniec oferă perspectiva autorului asupra propriei opere. El explica intentii, inspiratii, mesaje. Diferenta cu textul literar: interviul e VRAI (sau pretinde sa fie), prezinta persoana reala, nu imaginar. Stilul: conversational, direct, adesea cu umor. Competenta de a lua interviu e importanta pentru jurnalism, cercetare, educatie. Ascultarea activa e cheie.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e interviu?",
+          "options": [
+            "A. Monolog",
+            "B. Dialog intrebator-respondent",
+            "C. Descriere",
+            "D. Doar text"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Scop interviu?",
+          "options": [
+            "A. Divertisment",
+            "B. Obtine informatii si perspective",
+            "C. Fara scop",
+            "D. Doar vorbe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Diferenta interviu-drama?",
+          "options": [
+            "A. Nu-i diferenta",
+            "B. Interviu e vrai cu persoana reala",
+            "C. Sunt identice",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Noi pagini – alte idei. Visul unei nopți de vară de William Shakespeare (fragment)",
+      "summary": "\"Visul unei nopți de vară\" de William Shakespeare e o comedie clasica care exploreaza tema iubirii, maiei, si transformarii. Fragmentul oferă o perspectiva pe drama elizabetana: limbaj poetic, conflicte de iubire, personaje comice. Comparatia cu Vișniec: Shakespeare scrie in epoca diferita (1595), cu stil diferit (vers), dar amandoi exploreaza conflicte umane adanci. Lectia comparativa: literatura dramatica se dezvolta in timp, dar teme fundamentale raman. Intertextualitatea: cum textele dialogheaza intre ele. Analiza comparativa dezvolta capacitate de a evalua diferente stilistice si culturale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Gen piesa Shakespeare?",
+          "options": [
+            "A. Tragica",
+            "B. Comedie cu iubire si magie",
+            "C. Drama sociala",
+            "D. Experimental"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tema piesa?",
+          "options": [
+            "A. Nur iubire",
+            "B. Iubire, magie, transformare",
+            "C. Nur rebeliune",
+            "D. Fara tema"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Comparatie Vișniec-Shakespeare?",
+          "options": [
+            "A. Sunt identici",
+            "B. Epoci diferite, stil diferit, teme fundamentale similare",
+            "C. Total diferiti",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Textul dialogat. Tracul comunicativ",
+      "summary": "Textul dialogat prezinta schimb de vorbe. Tracul comunicativ e schema care explica cum funczioneaza comunicarea: emitator (cine vorbeste) -> mesaj -> receptor (cine asculta) -> feedback. In textul dialogat: fiecare personaj e emitator si receptor alternativ. Exemplu: A: \"Esti OK?\" B: \"Sunt obosit.\" A: \"Ne odihnim.\" Obstacolele comunicarii: zgomot (literal sau metaforic), prejudecati, neintelegeri. Textul dialogat bun pastreaza fluxul natural de conversatie. Diferenta cu monolog: monolog = o persoana vorbeste, dialogat = interactiune. Dialog real are pauze, intreruperi, zile incomplete (naturale in vorbire). Aceasta e realismul dramatic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e tracul comunicativ?",
+          "options": [
+            "A. Doar vorbire",
+            "B. Schema emitator-mesaj-receptor",
+            "C. Doar ascultare",
+            "D. Fara importanta"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Obstacole comunicare?",
+          "options": [
+            "A. Nu-i obstacole",
+            "B. Zgomot, prejudecati, neintelegeri",
+            "C. Doar vorbire",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Dialog real?",
+          "options": [
+            "A. Fara pauze",
+            "B. Are pauze, intreruperi, replica incompleta",
+            "C. Foarte formal",
+            "D. Artificial"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Strategii de ascultare activă",
+      "summary": "Ascultarea activa e abilitate esentiala pentru comunicare. Componente: atenție (concentrare pe vorbitor), empatie (intelege perspectiva), feedback (confirma intelegere), non-verbal (contact ochi, mimica). Patrunderea: 1) Ascultă fara a planui raspuns, 2) Intelege contextul, 3) Verifica intelegerea (\"Imi confirm...?\"), 4) Raspunde cu echilibru. Obstacole: distractii, prejudecati, dorinta de a vorbi, oboseala. In drama, ascultarea activa intre actori creaza interactiune credibila. Spectatori care asculta activ au experienta mai profunda. Aceasta e abilitate pentru viata: relatii mai bune, colaborare mai eficienta, mai multa intelegere.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e ascultare activa?",
+          "options": [
+            "A. Doar auzire",
+            "B. Atenție, empatie, feedback, non-verbal",
+            "C. Doar tacare",
+            "D. Fara importanta"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Componente?",
+          "options": [
+            "A. Doar vorbire",
+            "B. Atenție, empatie, verificare intelegere",
+            "C. Doar ascultare",
+            "D. Orice"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Obstacole?",
+          "options": [
+            "A. Nu-i obstacole",
+            "B. Distractii, prejudecati, dorinta de vorbire",
+            "C. Doar vorbire",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Numeralul. Posibilități combinatorii ale numeralului",
+      "summary": "Numeralul e cuvant care exprima numar sau ordine. Tipuri: Cardinal (unu, doi, trei - cite?), Ordinal (prim, secund, terț - care?), Distributiv (cate unu, cate doi). Exemple: \"Trei carti\" (cardinal), \"Al treilea curs\" (ordinal), \"Merg cate doi intr-un sir\" (distributiv). Posibilitati combinatorii: numerale + substantiv, numerale + adjectiv. Acordare: \"Trei carti albastre\" (numeralul si adjectivul se acorda cu substantivul). Utilizare: Cardinale in calcul si descriere, Ordinale in clasificare si ordine. Diferenta cu adverb: \"Trei\" (numeral) vs. \"Triplu\" (adverb/adjectiv). Masteria numeralelor e importanta pentru claritate si expresivitate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tipuri numerale?",
+          "options": [
+            "A. Doar cardinal",
+            "B. Cardinal, ordinal, distributiv",
+            "C. Doar ordinal",
+            "D. Nu sunt tipuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemplu ordinal?",
+          "options": [
+            "A. \"Trei carti\"",
+            "B. \"Al patrulea curs\"",
+            "C. \"Cate doi\"",
+            "D. \"Doua zile\""
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Acordare?",
+          "options": [
+            "A. Nu-i necesar",
+            "B. Cu substantivul in gen, numar, caz",
+            "C. Fara reguli",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Adverbul. Posibilități combinatorii ale adverbului",
+      "summary": "Adverbul descrie verb, adjectiv, sau alt adverb. Tipuri: Mod (repede, ușor), Timp (ieri, mâine), Loc (acolo, aici), Cota (mult, puțin), Afirmatie (da, sigur), Negatie (nu, niciodată). Posibilitati combinatorii: adverb + verb (\"Merg repede\"), adverb + adjectiv (\"Foarte frumos\"), adverb + adverb (\"Prea ușor\"). Ordinea: adverbul de mod merge inaintea complementelor: \"Lucreaza bine la birou\" (nu \"la birou lucreaza bine\"). Formare: adjectiv + -ă/-ă/-ă (frumos -> frumos - wait, știe ce este formati in roamana). Avem adverbe predefinite (repede) si derivate (frumos -> frumos). Utilizare corecta creeaza expresie nuanta si clara.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce descrie adverb?",
+          "options": [
+            "A. Substantiv",
+            "B. Verb, adjectiv, adverb",
+            "C. Doar timp",
+            "D. Doar culoare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Combinatii?",
+          "options": [
+            "A. Orice se leaga",
+            "B. Adverb+verb, adverb+adjectiv, adverb+adverb",
+            "C. Fara combinatii",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ordinea?",
+          "options": [
+            "A. Random",
+            "B. Adverb de mod inainte de complemente",
+            "C. Fara ordine",
+            "D. Orice"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Interjecția. Onomatopeele. Interjecția predicativă",
+      "summary": "Interjectia e exclamatie care exprima emotii sau reactionii. Tipuri: Bucurie (Hura!), Durere (Aua!), Mirare (Oh!), Dezgust (Bleah!). Onomatopee e cuvant care imita sunet: Cioc-cioc (bataie), Fluut (vant), Bufai (animal). Diferenta: interjectie e emotie vocala, onomatopee imita sunet fizic. Interjectie predicativa: interjectia care funczioneaza ca predicat. Exemplu: \"El fu oribil!\" (oribil e adjectiv predicativ) vs. \"Ah! E oribil.\" (Ah = interjectie predicativa). In drama, interjec si onomatopee creaza realizm și emotivitate. Ele sunt parte a registrului coloquial. Utilizare corecta face dialogul mai viu și credibil.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e interjectie?",
+          "options": [
+            "A. Verb",
+            "B. Exclamatie care exprima emotii",
+            "C. Substantiv",
+            "D. Adjectiv"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Onomatopee?",
+          "options": [
+            "A. Emotie",
+            "B. Cuvant care imita sunet",
+            "C. Expresie",
+            "D. Exclamatie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "In drama?",
+          "options": [
+            "A. Nu se folosesc",
+            "B. Creaza realism si emotivitate",
+            "C. Doar decoratie",
+            "D. Fara importanta"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Tipare textuale de structurare a ideilor. Cererea",
+      "summary": "Tipare textuale sunt scheme de organizare a informatiei. Principale: Descriere (ce e ceva), Narativa (ce se intampa), Explicatie (de ce/cum), Argumentare (de ce e adevarat), Instructie (cum se face). Cererea e un tip de text cu scopul de a obtine ceva (de la o persoana, institutie). Structura cererii: salutare, motiv, cerere clara, inchidere. Exemplu: \"Stimat Domn Director, Va rog... Multumesc.\" Limbaj: formal, clar, concis. Diferenta cu drama: drama e pentru audienta (experienta colectiva), cererea e pentru destinatar individual (comunicare directa). Competenta de a scrie cereri bune e practica esentiala: scrisori de angajare, de bursa, reclamtii. Aceasta e abilitate pentru viata adulta.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tipare textuale?",
+          "options": [
+            "A. Doar descriere",
+            "B. Descriere, narativa, explicatie, argumentare",
+            "C. Doar narativa",
+            "D. Nu sunt tipare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce e cerere?",
+          "options": [
+            "A. Narativa",
+            "B. Text cu scop de a obtine ceva",
+            "C. Drama",
+            "D. Descriere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Structura cererii?",
+          "options": [
+            "A. Fara structura",
+            "B. Salutare, motiv, cerere clara, inchidere",
+            "C. Orice ordine",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

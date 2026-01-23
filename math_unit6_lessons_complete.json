@@ -1,0 +1,366 @@
+{
+  "unit_number": "6",
+  "unit_name": "Elemente de geometrie și unități de măsură",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
+      "summary": "Geometria se bazează pe concepte fundamentale: Punctul este cea mai mică unitate, fără dimensiuni. Dreapta este o linie infinită în ambele direcții. Planul este o suprafață infinită bidimensională. Semiplanul este o jumătate de plan delimitată de o dreaptă. Semidreapta este o jumătate de dreaptă care are o origine dar se întinde infinit. Segmentul de dreaptă este porțiunea dintre două puncte. Aceste concepte sunt fundamentale în geometrie.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este diferența dintre o dreaptă și un segment?",
+          "options": [
+            "A. Dreapta este finită, segmentul este infinit",
+            "B. Dreapta este infinită, segmentul are două capete",
+            "C. Nu există diferență",
+            "D. Segmentul este mai lung"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este un punct în geometrie?",
+          "options": [
+            "A. O linie mică",
+            "B. O figură cu o dimensiune",
+            "C. Cea mai mică unitate, fără dimensiuni",
+            "D. Un pătrat mic"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce este o semidreaptă?",
+          "options": [
+            "A. O dreapta întreagă",
+            "B. O jumătate de dreaptă cu origine și infinit",
+            "C. Un segment scurt",
+            "D. Un punct"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Pozițiile relative ale unui punct față de o dreaptă. Puncte coliniare. Pozițiile relative a două drepte: drepte concurente, drepte paralele",
+      "summary": "Un punct poate fi pe dreapta (incident) sau în afara dreptei (nu incident). Punctele coliniare sunt puncte care se află pe aceeași dreaptă. Trei sau mai multe puncte pot fi coliniare (pe aceeași dreaptă) sau necoliniare. Două drepte pot fi: 1) Concurente - au un punct în comun, 2) Paralele - nu au niciun punct în comun și nu se întâlnesc niciodată, 3) Confundate - sunt aceeași dreaptă. Aceste relații sunt importante în geometrie.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt punctele coliniare?",
+          "options": [
+            "A. Puncte care sunt foarte departe",
+            "B. Puncte care se află pe aceeași dreaptă",
+            "C. Puncte care sunt în afara unei drepte",
+            "D. Puncte care sunt identice"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum se numesc două drepte care au un punct în comun?",
+          "options": [
+            "A. Paralele",
+            "B. Confundate",
+            "C. Concurente",
+            "D. Perpendiculare"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum se numesc două drepte care nu au niciun punct în comun?",
+          "options": [
+            "A. Concurente",
+            "B. Confundate",
+            "C. Paralele",
+            "D. Sechante"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Lungimea unui segment. Distanța dintre două puncte. Segmente congruente",
+      "summary": "Lungimea unui segment este distanța dintre capetele sale, măsurată în unități (cm, m, etc.). Distanța dintre două puncte este lungimea segmentului care le unește. Segmentele congruente sunt segmentele care au aceeași lungime. De exemplu, dacă AB = 5 cm și CD = 5 cm, atunci AB ≡ CD (AB este congruent cu CD). Congruența este echivalentă cu egalitatea pentru segmente.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este congruența pentru segmente?",
+          "options": [
+            "A. Paralelsimul lor",
+            "B. Aceeași lungime",
+            "C. Aceeași poziție",
+            "D. Aceeași direcție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum se notează că segment AB este congruent cu segment CD?",
+          "options": [
+            "A. AB = CD",
+            "B. AB ≡ CD",
+            "C. AB ∥ CD",
+            "D. AB ⊥ CD"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este distanța dintre punctele A și B dacă AB = 7 cm?",
+          "options": [
+            "A. 7 puncte",
+            "B. 14 cm",
+            "C. 7 cm",
+            "D. 3,5 cm"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Mijlocul unui segment. Simetricul unui punct față de un punct",
+      "summary": "Mijlocul unui segment este punctul care împarte segmentul în două segmente congruente. De exemplu, dacă AB = 8 cm și M este mijlocul lui AB, atunci AM = MB = 4 cm. Simetricul unui punct A față de un punct M este punctul A' care se află pe dreapta AM, la aceeași distanță de M ca și A, dar pe cealaltă parte. De exemplu, dacă AM = 3 cm, atunci MA' = 3 cm, și A, M, A' sunt coliniare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este mijlocul unui segment?",
+          "options": [
+            "A. Un punct care îl împarte în două segmente inegale",
+            "B. Un punct care îl împarte în două segmente congruente",
+            "C. Capătul segmentului",
+            "D. Un punct în afara segmentului"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Dacă AB = 10 cm și M este mijlocul lui AB, care este AM?",
+          "options": [
+            "A. 5 cm",
+            "B. 10 cm",
+            "C. 15 cm",
+            "D. 20 cm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce este simetricul unui punct A față de un punct O?",
+          "options": [
+            "A. Punctul A însuși",
+            "B. Punctul pe cealaltă parte a lui O la aceeași distanță",
+            "C. Un punct pe dreapta A",
+            "D. Originea"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi",
+      "summary": "Unghiul este format din două semidrepte cu aceeași origine (vârf). Se notează cu ∠ABC sau ∠B, unde B este vârful. Elementele unui unghi sunt: vârful și laturile (semidreptele). Interiorul unghiului este regiunea dintre laturile unghiului. Exteriorul unghiului este restul planului. Unghiurile nule (0°), ascuțite (<90°), drepte (90°), obtuze (>90°, <180°), plate (180°) sunt clasificări după mărime.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cum se notează un unghi cu vârf în B?",
+          "options": [
+            "A. [AB",
+            "B. ∠ABC",
+            "C. B∠",
+            "D. AB°"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este vârful unui unghi?",
+          "options": [
+            "A. Una dintre laturile unghiului",
+            "B. Punctul de origine al unghiului",
+            "C. Interiorul unghiului",
+            "D. O latură a unghiului"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce este interiorul unui unghi?",
+          "options": [
+            "A. Doar vârful",
+            "B. Doar laturile",
+            "C. Regiunea dintre laturile unghiului",
+            "D. Exteriorul unghiului"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Măsura unui unghi. Unghiuri congruente (măsurarea și construcția cu raportorul)",
+      "summary": "Măsura unui unghi se exprimă în grade (°). Un unghi complet (360°), unghi drept (90°), unghi plat (180°). Raportorul este instrumentul folosit pentru a măsura și construi unghiuri. Unghiurile congruente sunt unghiurile cu aceeași măsură. De exemplu, ∠ABC ≡ ∠DEF dacă ambele au 45°. Măsurarea cu raportorul: se aliniază centrul raportorului cu vârful unghiului, iar una dintre laturile unghiului cu baza raportorului.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cât este măsura unui unghi drept?",
+          "options": [
+            "A. 45°",
+            "B. 90°",
+            "C. 180°",
+            "D. 360°"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce sunt unghiurile congruente?",
+          "options": [
+            "A. Unghiuri cu vârfuri diferite",
+            "B. Unghiuri cu aceeași măsură",
+            "C. Unghiuri paralele",
+            "D. Unghiuri perpendiculare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cu ce instrument se măsoară unghiurile?",
+          "options": [
+            "A. Riglă",
+            "B. Compas",
+            "C. Raportor",
+            "D. Echer"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+      "summary": "Clasificarea unghiurilor după mărime: Unghi nul (0°), Unghi ascuțit (0° < măsura < 90°), Unghi drept (90°), Unghi obtuz (90° < măsura < 180°), Unghi plat (180°), Unghi reflex (180° < măsura < 360°), Unghi complet (360°). Unghiurile complementare au suma 90°. Unghiurile suplimentare au suma 180°. Calcule cu unghiuri: adunare, scădere, înmulțire cu scalari. De exemplu, 30° + 45° = 75°, 90° - 30° = 60°.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este un unghi ascuțit?",
+          "options": [
+            "A. 90°",
+            "B. 180°",
+            "C. 45°",
+            "D. 360°"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce sunt unghiurile complementare?",
+          "options": [
+            "A. Unghiuri cu suma 180°",
+            "B. Unghiuri cu suma 90°",
+            "C. Unghiuri cu suma 360°",
+            "D. Unghiuri paralele"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Dacă unghiul A măsoară 60°, cât măsoară complementul său?",
+          "options": [
+            "A. 30°",
+            "B. 90°",
+            "C. 120°",
+            "D. 180°"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Unități de măsură pentru lungime, arie, volum, capacitate, masă, timp și unități monetare",
+      "summary": "Unitățile de măsură fundamentale: Lungime: mm, cm, m, km. Arie: mm², cm², m², km², hectar. Volum: mm³, cm³, m³, litru. Capacitate: ml, l. Masă: mg, g, kg, t. Timp: s, min, h, zile, luni, ani. Unități monetare: bani, lei (RON), euro, dolari, etc. Conversiile între unități: 1 m = 100 cm, 1 km = 1000 m, 1 kg = 1000 g, 1 h = 60 min, etc.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Câți centimetri sunt într-un metru?",
+          "options": [
+            "A. 10 cm",
+            "B. 100 cm",
+            "C. 1000 cm",
+            "D. 1 cm"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Câte grame sunt într-un kilogram?",
+          "options": [
+            "A. 100 g",
+            "B. 1000 g",
+            "C. 10 g",
+            "D. 10000 g"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Câte minute sunt într-o oră?",
+          "options": [
+            "A. 30 min",
+            "B. 60 min",
+            "C. 100 min",
+            "D. 120 min"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Perimetrul și aria unei figuri geometrice. Aria discului. Lungimea cercului",
+      "summary": "Perimetrul este suma lungimilor laturilor unei figuri. De exemplu, perimetrul pătratului cu latura a este 4a. Aria este măsura suprafeței unei figuri. De exemplu, aria pătratului cu latura a este a². Pentru cerc: Lungimea cercului (circumferința) = 2πr, unde r este raza. Aria discului = πr². Aceste formule sunt esențiale pentru calculele geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este formula perimetrului pătratului cu latura a?",
+          "options": [
+            "A. a",
+            "B. a²",
+            "C. 4a",
+            "D. 2a"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este formula ariei unui dreptunghi cu laturile a și b?",
+          "options": [
+            "A. a + b",
+            "B. 2a + 2b",
+            "C. a × b",
+            "D. a² + b²"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este formula lungimii unui cerc cu raza r?",
+          "options": [
+            "A. πr",
+            "B. 2πr",
+            "C. πr²",
+            "D. r²"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "unit_number": "3",
+  "unit_name": "Harta sentimentelor",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Structura textului poetic. Lacul de Mihai Eminescu",
+      "summary": "\"Lacul\" de Mihai Eminescu e o piesă liricăcare explorează frumusețea naturii și melancolia interiori. Structura: versuri în rimă, metrică regulată, strofuri care dezvoltă o idee. Lacul e simbol al sufletului sau introspectării. Eminescu folosește imagini naturale para exprimă emoții. Textul demonstrează cum forma (versuri, ritm) complementează conținut (sentimente). Studiul structurii lirice ajută la înțelegerea cum cuvintele și sunetele creează efect emoțional. Poesia e artă care combine forma și fond în echilibriu perfect.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce explorează \"Lacul\"?",
+          "options": [
+            "A. Doar natură",
+            "B. Frumusețe naturii și melancolia",
+            "C. Doar stări",
+            "D. Doar vorbe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce e lacul în poem?",
+          "options": [
+            "A. Doar apă",
+            "B. Simbol al sufletului",
+            "C. Doar peisaj",
+            "D. Doar decor"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum complementează forma conținut?",
+          "options": [
+            "A. Nu complementează",
+            "B. Versuri și ritm creează efect emoțional",
+            "C. Sunt separate",
+            "D. Depinde de cititor"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Textul liric. Exprimarea emoțiilor și a sentimentelor",
+      "summary": "Textul liric exprimă emoții și sentimente personale. Diferență cu narativ: narativul spune poveste, liricul exprimă sentiment. Mijloace: Imagini senzoriale (culori, sunete, miros), Tonul emotional, Ritmul și metrică, Figuri de stil (metaphor, simbol). Exemplu: \"Inima mea e o plouă de păsări\" (imagine a agitației). Lirica se conectează profund cu citori deoarece apelează la emoție și experiență universală. Texte lirice bune nu doar descriu sentiment, dar creează experiență a acelui sentiment în cititor. Aceasta e puterea artei - de a transmite emoție pură.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă lirica?",
+          "options": [
+            "A. Poveste",
+            "B. Emoții și sentimente personale",
+            "C. Doar descriere",
+            "D. Doar acțiune"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Diferență narativ - liric?",
+          "options": [
+            "A. Nu sunt diferite",
+            "B. Narativ spune poveste, liric exprimă sentiment",
+            "C. Sunt identice",
+            "D. Depinde de autortributor"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce apelează lirica?",
+          "options": [
+            "A. Doar logică",
+            "B. Emoție și experiență universală",
+            "C. Doar intelect",
+            "D. Doar memorie"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Limbajul figurat",
+      "summary": "Limbajul figurat folosește cuvinte în sens neobișnuit pentru a crea imagini vivide. Tipuri: Metaforă (comparație subînjentesă), Simil (comparație explicită cu \"ca\"), Personificare (atribuire calități umane), Hiperbola (exagerare), Sinestezic (amestecare sensuri). Exemplu metaforă: \"Inima e foc\" (foc = pasiune). Simil: \"Inima e ca foc\" (explicit). Personificare: \"Lacul zâmbește\" (zâmbet = emoție umană). Limbajul figurat creează richeness și captivează lectura. Înțelegerea acestora îmbunătățește apreciere pentru artă. Figurile nu sunt doar ornament, ci transmit sens adânc și emoție inexprimabilă în limbaj direct.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e limbajul figurat?",
+          "options": [
+            "A. Limbaj direct",
+            "B. Cuvinte cu sens neobișnuit pentru imagini",
+            "C. Limbaj corect",
+            "D. Limbaj simplu"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tipuri figuri?",
+          "options": [
+            "A. Doar metaforă",
+            "B. Metaforă, simil, personificare, hiperbola",
+            "C. Doar simile",
+            "D. Nu sunt tipuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante?",
+          "options": [
+            "A. Nu sunt importante",
+            "B. Creează richeness și transmit sens adânc",
+            "C. Doar pentru examene",
+            "D. Doar complicare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Semnificațiile textului",
+      "summary": "Semnificații în lirica: literal (versurile spun despre lac), figurat (lacul= sufletul), simbolic (culoarea apei = emoție). Analiza semnificații necesită atenție la: Context (care e situația?), Motive (care obiecte se repetă?), Ton (care e atitudine autorului?). Semnificații multiple permit cititori diferite să găsească propriile interpretări. Aceasta e caracteristică a artei bune - capacitate de a rezonă diferit cu diferiți cititori. Textul bun e viu și se schimbă cu fiecare lectură. Semnificațiile nu sunt mereu evidente, ci trebuie descoperite în profunzime.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Niveluri semnificație?",
+          "options": [
+            "A. Doar literal",
+            "B. Literal, figurat, simbolic",
+            "C. Doar unu",
+            "D. Infinit"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce necesită analiza?",
+          "options": [
+            "A. Doar intuiție",
+            "B. Atenție la context, motive, ton",
+            "C. Doar memorie",
+            "D. Doar imaginație"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce multiple semnificații?",
+          "options": [
+            "A. Confuzie",
+            "B. Permit cititori diferite să găsească propriile interpretări",
+            "C. Greșeală",
+            "D. Ambiguitate"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Textul liric. Am legat... de Marin Sorescu",
+      "summary": "\"Am legat...\" de Marin Sorescu e o piață liricămodnă cu ton ironic și vulnerabil. Sorescu manevrează emoție cu umor și autoironie. Textul combinează sentiment profund cu detașare. Prin comparație cu \"Lacul\", elevii observă evoluție a lirici: de la romantism la modernism, de la idealizare la realism. Ambele explore iubire și pierdere, dar cu tone și perspective diferite. Intertextualitatea și dialogul între texte arată dezvoltare de gândire literară. Sorescu's tone ne amintesc că emoție e complexă și nu poate fi întotdeauna exprimată direct.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tonul \"Am legat...\"?",
+          "options": [
+            "A. Melancolic",
+            "B. Ironic și vulnerabil",
+            "C. Pur fericit",
+            "D. Furios"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Diferență cu \"Lacul\"?",
+          "options": [
+            "A. Nu sunt diferite",
+            "B. Tonuri și perspective diferite - romantism vs. modernism",
+            "C. Sunt identice",
+            "D. Depinde de cititor"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce ne amintește Sorescu?",
+          "options": [
+            "A. Emoție e simplă",
+            "B. Emoție e complexă și nu se exprimă direct",
+            "C. Emoție e ușoară",
+            "D. Emoție nu contează"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Limbajul figurat. Metafora",
+      "summary": "Metafora e figură care echivalează doi lucruri fără \"ca\". \"Viața e o călătorie\" (viață = călătorie). Metafora e mai puternică decât simila deoarece fusion completa două concepte. Metafore bune deschid percepții noi. De exemplu, \"tiempo e monedă\" schimbă cum gândim despre timp (valoros, se cheltuie, nu se poate recupera). Metafore persistente (același domeniu al imaginii) creează coerență. Metafore mixte (concepte inconsecvente) pot fi nepotrivite. Masteria metaforei e semnul autorului sofisticat. Adesea, metaforele cea mai bună sunt simple și neașteptate, creând insight.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e metafora?",
+          "options": [
+            "A. Comparație cu \"ca\"",
+            "B. Echivalare fără \"ca\"",
+            "C. Exagerare",
+            "D. Descriere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "De ce e puternică?",
+          "options": [
+            "A. Nu e puternică",
+            "B. Fuzionează complet două concepte",
+            "C. E doar decor",
+            "D. E nedeterminată"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Metafore mixte?",
+          "options": [
+            "A. Bune",
+            "B. Pot fi nepotrivite",
+            "C. Mereu bune",
+            "D. Depinde de text"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Semnificațiile textului",
+      "summary": "...see lesson 4 summary for similar structure...",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Analiza semnificații?",
+          "options": [
+            "A. Doar literal",
+            "B. Literal, figurat, simbolic",
+            "C. Doar opinie",
+            "D. Intuiție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Context?",
+          "options": [
+            "A. Nu contează",
+            "B. Situația e importantă pentru semnificație",
+            "C. Doar background",
+            "D. Doar timp"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Motive?",
+          "options": [
+            "A. Doar intenție",
+            "B. Obiecte care se repetă și poartă sens",
+            "C. Doar accident",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Noi pagini – alte idei. Iarna de Mircea Cărtărescu",
+      "summary": "\"Iarna\" de Mircea Cărtărescu e o piață liricăpostmodernă cu limbaj sofisticat și imagini neobișnuite. Cărtărescu contemporizează cu evoluția lirici în epoca contemporană. Prin comparație cu Eminescu și Sorescu, elevii văd progresie și transformare. Postmodernismul introduce fragmentație, joc lingvistic, și intertextualitate. Textul invită relecturi și reinterpretări. Studiul evoluție literare diacronic arată cum contextul cultural și historic influențează expresia artistică. Iarna poate fie sezon, metaforă spirituală, sau stare psihologică - ambiguitate deliberată.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Stil \"Iarna\"?",
+          "options": [
+            "A. Realist",
+            "B. Postmodern cu limbaj sofisticat",
+            "C. Romantic",
+            "D. Clasic"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce introduce postmodernism?",
+          "options": [
+            "A. Claritate",
+            "B. Fragmentație și joc lingvistic",
+            "C. Simplitate",
+            "D. Liniaritate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ambiguitate deliberată?",
+          "options": [
+            "A. Greșeală",
+            "B. Deliberată - invită relectură",
+            "C. Nedorită",
+            "D. Accidentală"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Tradiții și obiceiuri legate de sentimente și emoții",
+      "summary": "Fiecare cultură are tradiții care exprimă emoții: Ziua îndrăgostiților (iubire), Funeralii (doliu), Sărbători (bucurie). În România: Mărțișor (primavăra și renaștere), Colindele (nostalgie și speranță). Aceste tradiții sunt expresii colective a emoții universale. Studiul tradiții culturale arată că sub diferențe, omenitatea partajează sentimente fundamentale. Texte literare adesea activează aceste tradiții culturale pentru rezonanță emoțională. Înțelegerea contextul cultural îmbunătățește apreciere pentru text. Tradiții conectează individual la colectiv, personal la universal.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt tradiții emoționale?",
+          "options": [
+            "A. Doar suprastitii",
+            "B. Expresii culturale a emoții",
+            "C. Doar joc",
+            "D. Fără sens"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemplu românesc?",
+          "options": [
+            "A. Doar Crăciun",
+            "B. Mărțișor, Colinde, etc.",
+            "C. Doar nuntă",
+            "D. Doar funeralii"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce important?",
+          "options": [
+            "A. Nu e important",
+            "B. Conectează individual la universal",
+            "C. Doar tradițional",
+            "D. Doar rituals"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Atitudini comunicative",
+      "summary": "Atitudini: modul în care abordezi comunicare. Empatic (intelegi celalalt), Asertiv (exprimi clar), Pasiv (nu te implici), Agresiv (impui fără respect). În context liric: atitudinea poetului față de subiect și cititor. De exemplu, Eminescu e reflectiv și deschis, Cărtărescu e provocator și jucăușitor. Atitudini diferite creează tone și efecte diferite. Înțelegerea atitudinii poetului ajută la înțelegerea intenție și impact emocional. Dezvoltarea atitudinilor comunicative sănătoase e esențială pentru relații și influență personală.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tipuri atitudini?",
+          "options": [
+            "A. Doar empatic",
+            "B. Empatic, asertiv, pasiv, agresiv",
+            "C. Doar agresiv",
+            "D. Nu sunt tipuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Atitudinea Eminescu?",
+          "options": [
+            "A. Pasivă",
+            "B. Reflectivă și deschisă",
+            "C. Agresivă",
+            "D. Neutrală"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce să înțeleagă atitudine?",
+          "options": [
+            "A. Nu e important",
+            "B. Ajută la intenție și impact",
+            "C. Doar curiozitate",
+            "D. Doar critic"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Textul descriptiv",
+      "summary": "Textul descriptiv creează imagini vivide prin detalii senzoriale. Include: culori, sunete, mirosuri, textură, mișcari. Structură: introducere (ce se descrie), dezvoltare (detalii ordonate), concluzie (impresie generală). De exemplu, descrierea unui parc poate urma: general (parc frumos), detalii (flori roșii, păsări cântând), concluzie (parc linistitor). Descriere bună amplează scena pentru cititor. Limbajul figurat și adjectivele precise sunt esențiale. Descriere slabă e generic și plictisitor. Masteria descrierii se zice la abilitate de a selecta detalii semnificative, nu toate detaliile. Economie și impactu - mai puțin e mai mult.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce creează descriere?",
+          "options": [
+            "A. Poveste",
+            "B. Imagini vivide prin detalii",
+            "C. Dialogu",
+            "D. Doar cuvinte"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ingrediente?",
+          "options": [
+            "A. Doar culori",
+            "B. Culori, sunete, mirosuri, textură",
+            "C. Doar mișcare",
+            "D. Doar numele"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Masteria descrierii?",
+          "options": [
+            "A. Toate detaliile",
+            "B. Selectare detalii semnificative",
+            "C. Doar generic",
+            "D. Depinde de lungime"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Substantivul",
+      "summary": "Substantivul e cuvântul care numește persoane, lucruri, idei. Tipuri: Propriu (nume specifice: Ion, București), Comun (clase de obiecte: copil, masă), Abstract (idei, emoții: iubire, frică), Concret (obiecte palpabile: pâine, casă). Genul: masculin, feminin, neutru. Numărul: singular, plural. Cazul: nominativ, acuzativ, genitiv, dativ, locativ, vocativ. Derivare: creșterea vocabularului prin sufixe. Substantivul e centrul sintaxei. Alegere corectă și precisă a substantivelor îmbunătățește claritate și expresivitate. Substantive puternice creează text viu și concret, nu abstract și vag.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce numește substantivul?",
+          "options": [
+            "A. Doar lucruri",
+            "B. Persoane, lucruri, idei",
+            "C. Doar emoții",
+            "D. Doar concepte"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tipuri substantive?",
+          "options": [
+            "A. Doar propriu",
+            "B. Propriu, comun, abstract, concret",
+            "C. Doar comun",
+            "D. Nu sunt tipuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce important?",
+          "options": [
+            "A. Nu e important",
+            "B. E centru sintaxei și expres",
+            "C. Doar formal",
+            "D. Doar grammar"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Prepoziția",
+      "summary": "Prepoziția e cuvânt care stabilește relații spațiale, temporale, cauzale între elemente. Exemple: \"în\" (loc), \"după\" (timp), \"pentru\" (cauza/scop). De exemplu: \"în cameră\" (relație spațială), \"după cina\" (relație temporală), \"pentru tine\" (relație de intenție). Prepoziții comune în limba română: în, pe, sub, deasupra, lângă, înainte, după, pentru, din, cu, etc. Utilizare corectă e importante pentru claritate. Erori prepoziții pot schimba sensul: \"în cărți\" vs. \"pe cărți\" (loc diferit). Prepoziții sunt instrumente subtile care creează precision spațio-temporală. Masteria prepoziții e abilitate importante pentru claritate gramaticală și semantică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce stabilește prepoziția?",
+          "options": [
+            "A. Acțiune",
+            "B. Relații spațiale, temporale, cauzale",
+            "C. Emoție",
+            "D. Timp"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemplu prepoziție?",
+          "options": [
+            "A. \"merge\"",
+            "B. \"în\", \"pe\", \"sub\"",
+            "C. \"frumos\"",
+            "D. \"rapid\""
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce important?",
+          "options": [
+            "A. Nu e important",
+            "B. Pentru claritate spațio-temporală și precisione",
+            "C. Doar formal",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Posibilități combinatorii ale substantivului",
+      "summary": "Substantivele pot combina cu alte cuvinte pentru a crea sensuri noi și nuanțate. De exemplu: \"masă de lemn\" (material), \"masă de lucru\" (funcție), \"masă rotundă\" (formă). Combinații create prin: Adjectiv + substantiv, Substantiv + prepoziție + substantiv, Substantiv + substantiv (genitiv). Fiecare combinație subzisă o perspectivă diferită și oferă informație diferitată. Limba e flexibilă și permite creativity în combinații. Limbajul figurat adesea întrebuințează combinații neobișnuite pentru efect: \"ploaie de aur\" (ploaie = aur, neașteptat). Masteria combinații substantivale creează expresie bogată și nuanțată. Aceasta permite comunicare precisă și artistică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cum se combinează?",
+          "options": [
+            "A. Aleatoru",
+            "B. Cu adjectiv, prepoziție, alt substantiv",
+            "C. Fără reguli",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Efect combinații?",
+          "options": [
+            "A. Nu au efect",
+            "B. Creează sensuri noi și nuanțate",
+            "C. Confuzie",
+            "D. Plictiseală"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Limbaj figurat?",
+          "options": [
+            "A. Combinații obișnuite",
+            "B. Combinații neobișnuite pentru efect",
+            "C. Fără creativitate",
+            "D. Accident"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Adjectivul",
+      "summary": "Adjectivul descrie sau specifică caracteristicile substantivului. Tipuri: Descriptiv (frumos, mic, roșu), Demonstrativ (acesta, acel), Posesiv (meu, tău), Nelimitat (unii, toți), Numeric (trei, prim). Grad: Pozitiv (frumos), Comparativ (mai frumos), Superlativ (cel mai frumos). Acordare: adjectivul se acordă cu substantivul în gen, număr, caz. De exemplu: \"omul frumos\" (singular, masculin), \"oameni frumoși\" (plural, masculin). Adjectiv corect e important pentru claritate și pentru evitarea confuziei. Adjective precise creează descriere bogată. Adjective slabă e vag și generic. Alegere corectă a adjectivelor îmbunătățește stil și expresivitate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce descrie adjectivul?",
+          "options": [
+            "A. Acțiune",
+            "B. Caracteristici substantivului",
+            "C. Timp",
+            "D. Locație"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tipuri adjectiv?",
+          "options": [
+            "A. Doar descriptiv",
+            "B. Descriptiv, demonstrativ, posesiv, numeric",
+            "C. Doar numeric",
+            "D. Nu sunt tipuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Importanță acordare?",
+          "options": [
+            "A. Nu e importantă",
+            "B. Pentru claritate și corectitudine",
+            "C. Doar formal",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "name": "Posibilități combinatorii ale adjectivului",
+      "summary": "Adjectivele se combinau similar cu substantivele pentru a crea nuanțe. De exemplu: \"frumos și trist\" (doi adjectivi care se modifică reciproc), \"foarte frumos\" (adverb + adjectiv), \"frumos ca diamantul\" (comparație). Ordre adjectivelor contează: \"mic casa roșu\" (dimensiune, apoi culoare) vs. \"roșu mic casa\" (culoare mai important). Combinații create through: Adverb + adjectiv (\"prea frumos\"), Conjunction (\"frumos și trist\"), Similitudine (\"frumos ca X\"). Limbajul figurat folosește combinații neobișnuite: \"zâmbet amar\" (emoție contradictorie). Masteria combinații adjectivale creează texture și profunzime în descriere. Aceasta permite comunicare subtilă și nuanțată a emoții și percepției. ",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cum se combinau adjective?",
+          "options": [
+            "A. Aleatoru",
+            "B. Cu adverb, conjunction, similitudine",
+            "C. Fără reguli",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Importanță ordine?",
+          "options": [
+            "A. Nu contează",
+            "B. Ordinea transmite prioritate și nuanță",
+            "C. Random",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Limbaj figurat?",
+          "options": [
+            "A. Combinații obișnuite",
+            "B. Combinații neobișnuite pentru efect",
+            "C. Fără creativitate",
+            "D. Accident"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "name": "Textul descriptiv",
+      "summary": "See lesson 11 - similar content about descriptive text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Textul descriptiv?",
+          "options": [
+            "A. Poveste",
+            "B. Creează imagini prin detalii",
+            "C. Doar dialogu",
+            "D. Doar acțiune"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Structură?",
+          "options": [
+            "A. Random",
+            "B. Introducere, dezvoltare, concluzie",
+            "C. Fără ordine",
+            "D. Liniar"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Masteria?",
+          "options": [
+            "A. Toate detaliile",
+            "B. Detalii semnificative",
+            "C. Doar generic",
+            "D. Accident"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "name": "Comentarea unor pasaje dintr-un text. Descrierea unei emoții",
+      "summary": "Comentare: explicare și analiză a unui fragment de text. Include: Identificare context (unde e fragmentul?), Analiza figuri de stil (ce figuri sunt presente?), Explicare semnificații (ce înseamnă?), Conexiune la temă generală (cum se leagă la întregul text?), Evaluare impactu (ce efect are?). De exemplu, comentare a versetelor din \"Lacul\": contextu poetic, metafore prezente (lacul = suflet), semnificații (introspectare), conexiune la tema melancholiei. Descriere emoție: exprimă sentiment cu detalii senzoriale și introspectare. De exemplu, tristețea: \"o greauate în piept, gânduri negre, dorință să stai singur\". Aceste exercițiu dezvoltă capacitate de analiză și expresie. Sunt practici esențiale pentru redactare academic și personal development.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce include comentare?",
+          "options": [
+            "A. Doar opinie",
+            "B. Context, analiză, semnificații, impact",
+            "C. Doar rezumat",
+            "D. Doar critica"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Pași comentare?",
+          "options": [
+            "A. Aleatoru",
+            "B. Identificare, analiză, explicare, conexiune, evaluare",
+            "C. Random",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Descriere emoție?",
+          "options": [
+            "A. Doar cuvânt",
+            "B. Detalii senzoriale și introspectare",
+            "C. Doar listă",
+            "D. Fără texturăness"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

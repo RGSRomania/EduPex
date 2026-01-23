@@ -58,6 +58,28 @@ const UserSchema = new mongoose.Schema({
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Achievement'
   }],
+  nivelCunostinte: {
+    type: String,
+    enum: ['Incepator', 'Mediu', 'Avansat'],
+    default: 'Incepator'
+  },
+  evaluationScores: {
+    matematica: {
+      type: Number,
+      default: 0
+    },
+    limba: {
+      type: Number,
+      default: 0
+    },
+    total: {
+      type: Number,
+      default: 0
+    },
+    completedAt: {
+      type: Date
+    }
+  },
   preferences: {
     aiTeacherGender: {
       type: String,
@@ -72,23 +94,6 @@ const UserSchema = new mongoose.Schema({
       type: Number,
       default: 50 // XP points
     }
-  },
-  assessmentLevel: {
-    type: String,
-    enum: ['incepator', 'mediu', 'avansat', 'neevaluated'],
-    default: 'neevaluated'
-  },
-  assessmentScore: {
-    type: Number,
-    default: 0
-  },
-  assessmentCompleted: {
-    type: Boolean,
-    default: false
-  },
-  assessmentDate: {
-    type: Date,
-    default: null
   },
   createdAt: {
     type: Date,

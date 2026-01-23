@@ -1,0 +1,206 @@
+{
+  "unit_number": "7",
+  "unit_name": "Relații metrice în triunghiul dreptunghic",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Proiecții ortogonale pe o dreaptă. Teorema înălțimii",
+      "summary": "Proiecție ortogonală: perpendiculară de la punct la dreaptă. Triunghi dreptunghic: înălțime din unghi drept la ipotenuzătaie ipotenuză în două segmente (proiecții). Teorema înălțimii: h² = p×q (p,q proiecții). Exemplu: p=3, q=12 → h²=36 → h=6. Aplicații: construcție. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Proiecție ortogonală?",
+          "options": [
+            "A. Paralel dreapta",
+            "B. Perpendiculară din punct la dreapta",
+            "C. Unghi 45°",
+            "D. Translație"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Teore înălțime h²=?",
+          "options": [
+            "A. p+q",
+            "B. p×q",
+            "C. (p+q)/2",
+            "D. p²+q²"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "p=4, q=9, h?",
+          "options": [
+            "A. 6",
+            "B. 6.5",
+            "C. 7",
+            "D. 5"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Teorema catetei",
+      "summary": "Catetă: latură triunghi dreptunghic lângă unghi drept. Teorema catetei: cateta² = proiecție×ipotenuză. c² = p×a (a ipotenuză, p proiecție). Exemplu: p=4, a=10 → c²=40 → c≈6.32. Aplicații: calcule. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Catetă e?",
+          "options": [
+            "A. Ipotenuza",
+            "B. Latură lângă unghi drept",
+            "C. Diagonal",
+            "D. Median"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Teore catetă c²=?",
+          "options": [
+            "A. p²+q²",
+            "B. p×a",
+            "C. p+a",
+            "D. a/p"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "p=3, a=12, c?",
+          "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 7"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Teorema lui Pitagora",
+      "summary": "Pitagora: a² = b² + c² (a ipotenuză, b,c catete). Exemplu: 3²+4²=5². Verificare: 9+16=25 ✓. Aplicații: distanțe, geometrie, fizică. Importance: fundamental. Invers: dacă a²=b²+c² → unghi drept. Calculă lungimi, diagonale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Pitagora formula?",
+          "options": [
+            "A. a+b=c",
+            "B. a²=b²+c²",
+            "C. a×b=c",
+            "D. a/b=c"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "b=5, c=12, a?",
+          "options": [
+            "A. 13",
+            "B. 17",
+            "C. 15",
+            "D. 10"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "3-4-5 e?",
+          "options": [
+            "A. Nu",
+            "B. Da, triplet Pitagor",
+            "C. Fals",
+            "D. Aproximativ"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Noțiuni de trigonometrie în triunghiul dreptunghic",
+      "summary": "Trigonometrie: study relații unghi-laturi. sin(θ) = opus/ipotenuza, cos(θ) = alăturat/ipotenuza, tan(θ) = opus/alăturat. Exemplu: unghi=30° → sin(30°)=0.5. Aplicații: fizică, inginerie, astronomie. Tabele sau calculator. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "sin(θ)=?",
+          "options": [
+            "A. alăturat/ipotenuza",
+            "B. opus/ipotenuza",
+            "C. ipotenuza/opus",
+            "D. alăturat+opus"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "tan(θ)=?",
+          "options": [
+            "A. sin/cos",
+            "B. opus/alăturat",
+            "C. Amandoi",
+            "D. cos/sin"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "sin(90°)=?",
+          "options": [
+            "A. 0",
+            "B. 0.5",
+            "C. 1",
+            "D. ∞"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Rezolvarea triunghiului dreptunghic. Calculul elementelor în poligoane regulate. Aproximarea în practică a distanțelor folosind relații metrice",
+      "summary": "Rezolvare triunghi: găsire toate laturi și unghiuri dintr-o parte informație. Metode: Pitagora, trigonometrie, unghiuri. Poligoane regulate: înălțime, arie, rază circumscris. Practică: teodolite, măsurare teren. Pași: 1) Identific date 2) Aleg metod 3) Calcul 4) Verific. Aplicații: inginerie, construcție, topografie. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Rezolvare triunghi înseamnă?",
+          "options": [
+            "A. Găsire arie",
+            "B. Găsire toate laturi și unghiuri",
+            "C. Desenare",
+            "D. Doar perimetru"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Poligon regulat înălțime?",
+          "options": [
+            "A. Random",
+            "B. Formula depinde de rază și laturi",
+            "C. Fără formula",
+            "D. Doar pătrat"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Practică măsurare?",
+          "options": [
+            "A. Doar teorie",
+            "B. Teodolite, topografie",
+            "C. Fără aplicație",
+            "D. Astronomie doar"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

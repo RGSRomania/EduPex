@@ -1,0 +1,486 @@
+{
+  "unit_number": "3",
+  "unit_name": "Pe strada mea",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul descriptiv literar. O stradă cu sentimente de Ana Blandiana",
+      "summary": "Aceasta lectie prezinta textul descriptiv literar prin fragmente din \"O stradă cu sentimente\" de Ana Blandiana, \n            o poeta si prozatoare romana cunoscuta pentru sensibilitatea si profunzimea sa. Textul descriptiv literar se concentreaza pe \n            prezentarea detaliat a unui loc, a unei persoane sau a unui obiect, dar nu intr-un mod obiectiv ci intr-un mod plin de emotie \n            si sens. Ana Blandiana foloseste limbajul poetic pentru a transmite sentimentele si perceptiile sale despre strada, transformand \n            un simplu loc in ceva cu semnificatie profunda. Lectia invata elevii cum descrierile nu sunt doar informatii factuale, ci \n            expresii ale unei perspective personale si emotionale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cine este autoarea textului 'O stradă cu sentimente'?",
+          "options": [
+            "A. Ioana Pârvu",
+            "B. Ana Blandiana",
+            "C. Ioan Luca Caragiale",
+            "D. Mihai Eminescu"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce se concentrează textul descriptiv literar?",
+          "options": [
+            "A. Pe prezentarea detaliat a unui loc, într-un mod obiectiv",
+            "B. Pe prezentarea detaliat a unui loc, plin de emoție și sens personal",
+            "C. Pe acțiuni și conflicte",
+            "D. Pe instrucțiuni practice"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce este caracteristic limbajului utilizat de Ana Blandiana?",
+          "options": [
+            "A. Limbaj simplu și pragmatic",
+            "B. Limbaj poetic plin de emoție și sens",
+            "C. Limbaj tehnic și științific",
+            "D. Limbaj vulgar și nepoliticos"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Textul descriptiv literar. Personificarea",
+      "summary": "Personificarea este o figura de stil in care se atribuie calitati umane unor obiecte sau fenomene naturale. De exemplu, \n            \"strada suspina\" atribuie strada capacitatea de a suspina, o actiune umana. In textul descriptiv, personificarea ajuta la crearea \n            unei conexiuni emotionale intre cititor si obiectul descris. Prin personificare, o strada devine nu doar o cale, ci o fiinta \n            cu sentimente si experiente. Lectia invata elevii cum sa identifice si sa utilizeze personificarea in propriile descrieri, \n            demonstrand cum figurile de stil pot transforma modul in care percepe cititorii lumea.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este personificarea?",
+          "options": [
+            "A. Descrierea unei persoane reale",
+            "B. Atribuirea de calități umane unor obiecte sau fenomene naturale",
+            "C. Crearea unei ficciuni complete",
+            "D. Repetarea aceluiași cuvânt de mai multe ori"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este scopul utilizării personificării în textul descriptiv?",
+          "options": [
+            "A. Să lungească textul inutilul",
+            "B. Să creeze o conexiune emoțională între cititor și obiectul descris",
+            "C. Să confunde cititorul",
+            "D. Să facă textul mai greu de înțeles"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care din următoarele este un exemplu de personificare?",
+          "options": [
+            "A. Strada este scurtă",
+            "B. Strada suspină ca o ființă vie",
+            "C. Strada este situată la nord",
+            "D. Strada are 500 de metri"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Semnificațiile textului",
+      "summary": "Similar cu unitatile anterioare, textul descriptiv poate avea multiple semnificatii. O descriere a unei strazi nu este doar \n            informatii geografice, ci poate fi o metafora pentru viata, pentru trecerea timpului, pentru amintiri. Lectia invata elevii sa \n            caute sensurile profunde ale descriptiilor, sa inteleaga ce vrea autorul sa comunice dincolo de detaliile obiective. O strada \n            cu sentimente nu este doar o strada, ci o expresie a emotiilor autorului si o invitatie pentru cititor sa-si reflecteze propria \n            relatie cu locurile cunoscute.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce pot exprima semnificațiile unui text descriptiv?",
+          "options": [
+            "A. Doar informații obiective despre loc",
+            "B. Emoții, gânduri și perspective personale ale autorului",
+            "C. Instrucții de construcție",
+            "D. Doar date geografice"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este o stradă 'cu sentimente'?",
+          "options": [
+            "A. O stradă cu mulți oameni",
+            "B. O stradă descrisă din perspectiva emoțiilor autorului",
+            "C. O stradă care este vie",
+            "D. O stradă cu mașini"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum poate o descriere a unei strazi să fie o metaforă?",
+          "options": [
+            "A. Nu poate",
+            "B. Prin utilizarea elementelor descrierii pentru a exprima idei mai profunde",
+            "C. Prin repetarea cuvintelor",
+            "D. Prin descrierea unor mașini"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Noi pagini – alte idei",
+      "summary": "Aceasta sectiune a Unit 3 continua prezentarea unor texte descriptive de alti autori sau cu alte teme, aratand cum \n            descrierile pot varia in functie de subiect, stil si perspectiva autorului. Prin compararea acestor texte, elevii invata ca \n            descrierea nu este un singur stil sau abordare, ci poate fi personalizata si creativa. Textele descriptive pot fi liniare si \n            simple, sau pot fi complexe si pline de figuri de stil. Aceasta lectie incurajeaza elevii sa experimenteze propriile moduri \n            de a descrie lumea care ii inconjoara.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este scopul secțiunii 'Noi pagini - alte idei' în Unit 3?",
+          "options": [
+            "A. Să prezinte doar texte proaste",
+            "B. Să arate cum descrierile pot varia între diferiți autori și subiecte",
+            "C. Să lungească cartea",
+            "D. Să enerveze elevii"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce pot invață elevii din compararea textelor descriptive diferite?",
+          "options": [
+            "A. Că descrierea este mereu aceeași",
+            "B. Că descrierea poate fi personalizată și creativă",
+            "C. Că descrierile sunt plictisitoare",
+            "D. Nimic util"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce încurajează această lectie elevilor?",
+          "options": [
+            "A. Să memoreze descrieri",
+            "B. Să experimenteze propriile moduri de a descrie lumea",
+            "C. Să copie descrieri din cărți",
+            "D. Să evite descrierile"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Textul descriptiv nonliterar. Persana — un ghem pufos cu o personalitate încântătoare",
+      "summary": "Textul descriptiv nonliterar este o descriere objectiva a unui subiect, concentrandu-se pe detalii factuale si \n            informatii practice. In acest caz, descrierea unui animal (persana) este facuta cu scopul de a transmite informatii despre \n            caracteristicile fizice si comportamentul acestuia. Desi textul poate fi atractiv si bine scris, el nu apeleaza la figurile \n            de stil complexe sau la emotii profunde cum ar face un text literar. Lectia invata elevii sa distinga intre descrierea \n            litera si cea nonlitera, si cum fiecare are propriul scop si valoare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este caracteristica textului descriptiv nonliterar?",
+          "options": [
+            "A. Plin de figuri de stil și emoții",
+            "B. Concentrat pe detalii factuale și informații practice",
+            "C. Doar versuri frumoase",
+            "D. Doar naratiuni lungi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este scopul textului descriptiv nonliterar?",
+          "options": [
+            "A. Să emoționeze cititorii",
+            "B. Să transmită informații practice și factuale",
+            "C. Să distreze cu poveștile",
+            "D. Să facă cititorii să plângă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este diferența dintre textul descriptiv literar și nonliterar?",
+          "options": [
+            "A. Nu există diferență",
+            "B. Literar apeleaza la figuri de stil și emoții, nonliterar la fapte și informații",
+            "C. Sunt identice",
+            "D. Doar cuvintele sunt diferite"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Tradiții: sărbătoriile de iarnă",
+      "summary": "Aceasta lectie abordeaza tema tradițiilor si a sărbătoriilor de iarnă din perspectiva culturala si sociala. Sărbătoriile \n            de iarnă sunt expresii ale valorilor culturale, ale creintelor și ale modului de viață al unei comunitati. Prin studiul acestor \n            traditii, elevii invata sa aprecieze diversitatea culturala si sa inteleaga cum diferitele culturi celebreaza sezonul rece. \n            Lectia conecteaza literatura cu sociologia si antropologia, aratand cum textele pot fi surse de informatie despre o cultura.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt tradițiile de iarnă?",
+          "options": [
+            "A. Doar activități de distracție",
+            "B. Expresii ale valorilor culturale și ale credinței unei comunități",
+            "C. Doar mâncare specială",
+            "D. Doar decorații"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce se poate învăța din studiul tradițiilor de iarnă?",
+          "options": [
+            "A. Cum să gătim",
+            "B. Să apreciem diversitatea culturală și modurile de viață",
+            "C. Cum să ne plictisim",
+            "D. Nimic important"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante tradițiile de iarnă pentru o cultură?",
+          "options": [
+            "A. Nu sunt importante",
+            "B. Păstrează și transmit valorile și credințele unei comunități",
+            "C. Doar pentru că sunt vechi",
+            "D. Pentru că face vreme rece"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Ascultarea activă",
+      "summary": "Ascultarea activă este o abilitate de comunicare in care receptorul se concentreaza pe intelegerea completa a mesajului \n            transmis de vorbitor. Nu este simpla receptie pasiva de informatii, ci o participare activa care include: urmarirea atentă, \n            punerea de intrebari de clarificare, parafrazarea cu propriile cuvinte si oferirea de feedback. Ascultarea activa demonstreaza \n            respect si interes pentru celalalt, si este esentiala pentru comunicarea eficace in orice domeniu: familie, scoala, munca, \n            prietenie. Lectia invata elevii cum sa practica ascultarea activa in propriile conversatii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este ascultarea activă?",
+          "options": [
+            "A. Doar să aud ce spune cineva",
+            "B. O participare activă în înțelegerea completă a mesajului",
+            "C. A ignora pe celalalt",
+            "D. A gândi la altceva în timp ce cineva vorbește"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt elementele ascultării active?",
+          "options": [
+            "A. Doar să asculți",
+            "B. Atenție, clarificare, parafrazare, feedback",
+            "C. Doar să zici da",
+            "D. Să întrerupi pe celalalt"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce este importantă ascultarea activă?",
+          "options": [
+            "A. Nu este importantă",
+            "B. Demonstrează respect și este esențială pentru comunicare eficace",
+            "C. Doar pentru a fi politicos",
+            "D. Pentru a câștiga argumente"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Substantivul",
+      "summary": "Substantivul este cuvantul care denumeste o persoana, un lucru, o notiune, o senzatie, etc. De exemplu: \"copil\", \"masa\", \n            \"frumusete\", \"durere\" sunt substantive. Substantivele pot fi: comune (care denumesc obiecte din aceeasi categorie, cum ar fi \n            \"cas\", \"copac\") sau proprii (care denumesc obiecte specifice, cum ar fi \"Nicolae\", \"Bucuresti\"). Substantivele au gen (masculin, \n            feminin, neutru), numar (singular, plural) si caz (nominativ, acuzativ, genitiv, dativ, vocativ, locativ). Lectia invata elevii \n            cum sa identifice substantivele in texte si cum sa le utilizeze corect in propriile fraze.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este substantivul?",
+          "options": [
+            "A. Un cuvant care exprima o actiune",
+            "B. Cuvantul care denumeste o persoana, un lucru, o notiune",
+            "C. Un cuvant care modifica alt cuvant",
+            "D. Un semn de punctuatie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este diferența dintre substantivul comun și cel propriu?",
+          "options": [
+            "A. Nu există diferență",
+            "B. Comun denumește obiecte din aceeași categorie, propriu obiecte specifice",
+            "C. Sunt identice",
+            "D. Doar în pronunție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce categorii gramaticale are substantivul?",
+          "options": [
+            "A. Doar numărul",
+            "B. Gen, număr, caz",
+            "C. Doar genul",
+            "D. Nu are categorii"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Articolul",
+      "summary": "Articolul este cuvantul care se pune inaintea substantivului pentru a indica genul, numarul si cazul acestuia. In limba \n            romana exista doua tipuri de articole: hotarâte (care indica un obiect cunoscut: \"cartea\", \"copilul\") si nehotarâte (care \n            indica un obiect necunoscut: \"o carte\", \"un copil\"). Articolul hotarât se poate pune inainte de substantiv (\"cartea\") sau \n            dupa substantiv (\"casa noastră\"). Lectia invata elevii cum sa utilizeze corect articolele in diverse contexte.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este articolul?",
+          "options": [
+            "A. Un substantiv mic",
+            "B. Cuvantul care se pune inaintea substantivului pentru a indica gen, numar, caz",
+            "C. O propozitie scurta",
+            "D. Un verb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Câte tipuri de articole sunt în limba română?",
+          "options": [
+            "A. Unu",
+            "B. Două: hotărâte și nehotărâte",
+            "C. Trei",
+            "D. Patru"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este diferența dintre articolul hotărât și cel nehotărât?",
+          "options": [
+            "A. Nu există diferență",
+            "B. Hotărât indică obiecte cunoscute, nehotărât obiecte necunoscute",
+            "C. Sunt identice",
+            "D. Doar în scris"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Posibilități combinatorii ale substantivului. Prepoziția",
+      "summary": "Substantivele pot fi combinate cu alte cuvinte pentru a crea expresii mai complexe. De exemplu: \"casa verde\", \"cartea \n            de povesti\", \"om cu inima buna\". Prepozitia este cuvantul care se pune inaintea unui substantiv sau a unui pronume pentru a \n            exprima relatiile spatiale, temporale, cauzale, etc. Prepozitiile comune sunt: in, pe, sub, deasupra, inaintea, dupa, cu, fara, \n            pentru, dintr-o, la, de, etc. Lectia invata elevii cum sa utilizeze prepozitiile pentru a crea fraze mai expresive si corecte.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt posibilitățile combinatorii ale substantivului?",
+          "options": [
+            "A. Moduri de a folosi substantivul singur",
+            "B. Moduri de a combina substantivul cu alte cuvinte",
+            "C. Tipuri de substantive",
+            "D. Nicio posibilitate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este prepoziția?",
+          "options": [
+            "A. Un substantiv mic",
+            "B. Cuvantul care se pune inaintea unui substantiv pentru a exprima relații",
+            "C. Un verb",
+            "D. O interjacție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care din următoarele este o prepoziție?",
+          "options": [
+            "A. Casa",
+            "B. În",
+            "C. Merge",
+            "D. Verde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Substantivul subiect. Acordul predicatului cu subiectul",
+      "summary": "Substantivul subiect este cel care realizeaza actiunea exprimata de predicat (verbul). De exemplu, in propozitia \n            \"Copilul citeste cartea\", \"copilul\" este subiectul. Predicatul (verbul) trebuie sa se acorde cu subiectul in numar si persoana. \n            De exemplu: \"Copilul citeste\" (subiect singular, verb singular), \"Copiii citesc\" (subiect plural, verb plural). Intelegerea \n            acordului este esentiala pentru o scriere corecta gramatical.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este substantivul subiect?",
+          "options": [
+            "A. Obiectul unei acțiuni",
+            "B. Cel care realizează acțiunea exprimată de predicat",
+            "C. Un tip special de verb",
+            "D. O descriere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cu ce trebuie să se acorde predicatul?",
+          "options": [
+            "A. Cu obiectul direct",
+            "B. Cu subiectul în număr și persoană",
+            "C. Cu propozițiile precedente",
+            "D. Nu trebuie să se acorde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este forma corectă: 'Copiii citesc' sau 'Copiii citeşte'?",
+          "options": [
+            "A. 'Copiii citește'",
+            "B. 'Copiii citesc'",
+            "C. Ambele sunt corecte",
+            "D. Nici una nu este corectă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Descrierea unui obiect",
+      "summary": "Aceasta lectie finala a Unit 3 invata elevii cum sa descrie un obiect in mod eficace. O descriere buna a unui obiect \n            include: forma, culoare, dimensiuni, material, utilizare, emotii asociate cu obiectul. Descrierea poate fi facuta in mod obiectiv \n            (prezentand doar faptele) sau in mod subiectiv (incluzand emotii si impresii personale). Elevii invata cum sa aleaga detaliile \n            relevante, cum sa utilizeze adjectivele potrivite si cum sa creeaze o imagine clara in mintea cititorului. Aceasta abilitate \n            este esentiala pentru scrierea creativa si pentru comunicarea clara in orice domeniu.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce include o descriere bună a unui obiect?",
+          "options": [
+            "A. Doar forma și culoarea",
+            "B. Forma, culoare, dimensiuni, material, utilizare, emoții",
+            "C. Doar prețul",
+            "D. Doar numele obiectului"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt modalitățile de a descrie un obiect?",
+          "options": [
+            "A. Doar obiectiv",
+            "B. Obiectiv sau subiectiv, cu fapte și emoții",
+            "C. Doar prin numere",
+            "D. Nu se poate descrie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce este importantă abilitatea de a descrie un obiect?",
+          "options": [
+            "A. Nu este importantă",
+            "B. Pentru scrierea creativă și comunicare clară",
+            "C. Doar pentru proiecte școlare",
+            "D. Nu are scop"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

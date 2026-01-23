@@ -1,0 +1,407 @@
+{
+  "unit_number": "4",
+  "unit_name": "Vreau să salvez lumea",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul narativ literar. Tezeu și Minotaur de Florin Bican",
+      "summary": "Aceasta lectie prezinta un text narativ bazat pe mitul grec al lui Tezeu si Minotaurului, adaptat de Florin Bican. Mitul este o forma de narativ care exploreaza teme universale despre curaj, sacrificiu si lupta dintre bine si rau. Prin povestea clasica a unui erou care se confrunta cu un monstru, se transmit lecii despre responsabilitate si eroism. Lectia invata elevii sa recunoasca elementele mitice intr-un text si cum miturile continua sa fie relevante pentru intelegerea valorilor umane.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este tema principală a textului 'Tezeu și Minotaur'?",
+          "options": [
+            "A. O poveste de dragoste",
+            "B. Curaj și lupta dintre bine și rău",
+            "C. O descriere de călătorii",
+            "D. O lecție de geografie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "De unde provine mitul Tezeu și Minotaur?",
+          "options": [
+            "A. Din mitologia romană",
+            "B. Din mitologia greacă",
+            "C. Din literatura modernă",
+            "D. Din folclorul românesc"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce transmite mitul prin povestea eroului?",
+          "options": [
+            "A. Doar divertisment",
+            "B. Lecii despre responsabilitate și eroism",
+            "C. Informații geografice",
+            "D. Rețete de gătit"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Timp, spațiu și acțiune",
+      "summary": "Elementele de timp, spațiu și acțiune sunt critice în naratiunea mitică. Mitul se desfășoară adesea într-un timp ''al începuturilor'' sau într-un trecut mitic. Spațiul mitologic este adesea fantastic, cu locuri imposibile în realitate. Acțiunea este epicale, implicând lupte cosmice și transformări. Lectia invata elevii cum aceste elemente se combina pentru a crea o narațiune puternica cu impact emocional.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Unde se desfășoară de obicei un mit?",
+          "options": [
+            "A. Întotdeauna în prezent",
+            "B. Într-un timp mitic al începuturilor",
+            "C. Doar în cities moderne",
+            "D. În spații reale măsurabile"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este caracteristica spațiului mitologic?",
+          "options": [
+            "A. Este întotdeauna realist",
+            "B. Este adesea fantastic și imposibil",
+            "C. Sunt doar descrieri geografice",
+            "D. Nu are importanță"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce tip de acțiuni sunt caracteristice miturilor?",
+          "options": [
+            "A. Acțiuni ordinare cotidiene",
+            "B. Lupte cosmice și transformări epice",
+            "C. Doar conversații",
+            "D. Doar descrieri"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Personajele",
+      "summary": "În miturile transmise prin literatură, personajele sunt adesea archetipi - reprezentanți ai unor principii universale. Eroul mitic este un personaj special, adesea cu abilități supraomenești sau o destinație special. Antagonistul mitologic este adesea o forță a răului sau o ființă monstruoasă. Lectia invata elevii cum să analizeze archetipurile și cum miturile folosesc personaje simbolice pentru a transmite înțelepciune.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt archetipurile în mit?",
+          "options": [
+            "A. Personaje istorice reale",
+            "B. Reprezentanți ai unor principii universale",
+            "C. Doar niste nume",
+            "D. Personaje secundare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este rolul eroului mitic?",
+          "options": [
+            "A. Să piardă lupta",
+            "B. Să se confrunte cu forțele răului și să înfăptuiască o misiune",
+            "C. Să se ascundă",
+            "D. Să refuze aventura"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce reprezintă antagonistul mitologic?",
+          "options": [
+            "A. Inamicul personal al eroului",
+            "B. O forță a răului sau o ființă monstruoasă",
+            "C. Un prieten loial",
+            "D. Un ghid spiritual"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Semnificații ale textului",
+      "summary": "Miturile au semnificații profunde care depășesc povestea literală. Lupta cu Minotaurul nu este doar o confruntare fizică, ci o reprezentare a luptei interne cu demonii interiori. Labirintul este o metaforă pentru confuzia și rătăcire. Firul lui Ariadnei simbolizează speranța și ajutorul în momente de întuneric. Lectia invata elevii să descopere aceste niveluri de semnificație și cum literatura transmite înțelepciune prin simbolism.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce reprezintă Minotaurul în context simbolic?",
+          "options": [
+            "A. Doar un monstru literal",
+            "B. Reprezentarea demonilor interiori și a răului",
+            "C. Un animal real",
+            "D. O persoană binevoitoare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce simbolizează labirintul?",
+          "options": [
+            "A. Un loc frumos",
+            "B. Confuzia, rătăcirea și imposibilitatea de a găsi ieșirea",
+            "C. Un castel luxos",
+            "D. O grădină",
+            "D. O grădină"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce rol are firul lui Ariadnei?",
+          "options": [
+            "A. Doar decorație",
+            "B. Simbolizează speranța și ajutorul în momentele dificile",
+            "C. Un obiect inutil",
+            "D. Un instrument de muncă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Comparația",
+      "summary": "Comparația este o figură de stil care pune în relație două lucruri diferite folosind cuvinte de comparație cum ar fi ''ca'', ''precum'', ''asemeni''. De exemplu: ''Copilul era curajos ca un leu'' compară curajul copilului cu curajul leului. Comparația ajută cititorul să înțeleagă mai bine o proprietate prin asociere cu ceva cunoscut. Lectia invata elevii cum să identifice și să creeze comparații în propriile scrieri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este comparația?",
+          "options": [
+            "A. O contradicție între două idei",
+            "B. O punere în relație a două lucruri diferite folosind cuvinte ca ''ca'' sau ''precum''",
+            "C. O descriere lungă",
+            "D. Un tip de verb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care din următoarele este o comparație?",
+          "options": [
+            "A. Copilul courul",
+            "B. Copilul era curajos ca un leu",
+            "C. Copilul este copil",
+            "D. Copilul mănâncă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt utile comparațiile?",
+          "options": [
+            "A. Nu sunt utile",
+            "B. Ajută cititorul să înțeleagă o proprietate prin asociere cu ceva cunoscut",
+            "C. Doar pentru a face textul mai lung",
+            "D. Pentru a confunda cititorul"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Textul multimodal. Banda desenată",
+      "summary": "Banda desenată este un tip de text multimodal care combina imagini cu text. Cititul unei benzi desenate necesită intelegerea atât a componentei vizuale cât și a componentei textuale. Imaginile transmit informatii despre personaje, despre mediu și despre emoții. Textul din baloane transmite dialogul și narațiunea. Lectia invata elevii cum să citească și să analizeze bandele desenate, și cum acestea pot comunica povești complexe printr-o combinație de medii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este un text multimodal?",
+          "options": [
+            "A. Un text cu un singur tip de informație",
+            "B. Un text care combina mai multe moduri de comunicare (imagini, text, etc.)",
+            "C. Un text foarte lung",
+            "D. Un text în care nu sunt imagini"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce transmit imaginile într-o bandă desenată?",
+          "options": [
+            "A. Nimic important",
+            "B. Informații despre personaje, mediu și emoții",
+            "C. Doar decorații",
+            "D. Doar culori"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce este importantă citirea benzilor desenate?",
+          "options": [
+            "A. Nu este importantă",
+            "B. Pentru a învăța cum mai multe medii combinate transmit povești complexe",
+            "C. Doar pentru distracție",
+            "D. Pentru a pierde timp"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Textul explicativ (aplicativ)",
+      "summary": "Textul explicativ este un text care explicare cum funcționează ceva sau cum se face ceva. De exemplu, o instrucție de asamblare a unui obiect sau o explicație despre cum funcționează sistemul solar. Scopul textului explicativ este claritate și exactitate. Lectia invata elevii cum să scrie texte explicative clara și cum să le citeasca cu atenție pentru a înțelege procesele descrise.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este scopul unui text explicativ?",
+          "options": [
+            "A. Să distreze",
+            "B. Să clarifice cum funcționează ceva",
+            "C. Să emoționeze",
+            "D. Să inspire"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce ar putea explica un text explicativ?",
+          "options": [
+            "A. O poveste de dragoste",
+            "B. Cum funcționează un sistem sau cum se face ceva",
+            "C. O critică de film",
+            "D. O polemică"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce calități trebuie să aibă un text explicativ?",
+          "options": [
+            "A. Să fie artistic și emoționant",
+            "B. Să fie clar, exact și ușor de înțeles",
+            "C. Să fie lung și complex",
+            "D. Să fie vag și ambiguu"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Noi pagini – alte idei",
+      "summary": "Aceasta secțiune continuă prezentarea perspectivelor variate asupra temei eroismului și a salvării lumii. Sunt prezentate alte texte, alte istorii, alte moduri de a conceptualiza sacrificiul și responsabilitatea. Diversitatea perspectivelor arată că tema eroismului este universală și poate fi abordată din mai multe unghiuri. Lectia incurajează elevii să înțeleagă complexitatea temeio umaneo și că nu există un singur răspuns la întrebările profunde.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este scopul secțiunii 'Noi pagini - alte idei'?",
+          "options": [
+            "A. Să plictisească",
+            "B. Să prezinte perspective variate asupra temei eroismului",
+            "C. Să lungească cartea",
+            "D. Să enerveze"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce demonstrează prezentarea mai multor perspective?",
+          "options": [
+            "A. Că există un singur răspuns corect",
+            "B. Că tema eroismului este universală și complexă",
+            "C. Că textele sunt toate la fel",
+            "D. Că nu contează perspectiva"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce ar trebui să înțeleagă elevii din diversitatea perspectivelor?",
+          "options": [
+            "A. Că numai o perspectivă este corectă",
+            "B. Că întrebările profunde nu au răspunsuri",
+            "C. Că există mai multe moduri valide de a înțelege tema",
+            "D. Că perspectivele nu sunt importante"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Modele comportamentale eroice de-a lungul timpului",
+      "summary": "Eroismul a fost valorificat în toate culturile și în toate perioadele istorice, dar modelele comportamentale eroice au evoluat. În antichitate, eroismul era adesea militar și spectaculos. În Evul Mediu, eroismul era legat de dovadă și onoare. În timpurile moderne, eroismul poate fi mai subtil - acte de curaj moral, de sacrificiu pentru binele comun. Lectia invata elevii să recunoască formele variate ale eroismului și cum valorile se schimbă în timp.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cum s-a schimbat definiția eroismului în timp?",
+          "options": [
+            "A. Nu s-a schimbat",
+            "B. De la eroism militar la eroism moral și subtil",
+            "C. Eroismul a dispărut",
+            "D. A crescut doar eroismul militar"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce tipuri de eroism se recunosc în lumea modernă?",
+          "options": [
+            "A. Doar militar",
+            "B. Militar, moral, sacrificiu pentru binele comun",
+            "C. Doar sacrificiu",
+            "D. Niciun fel"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce este important să studiem eroismul la-a lungul timpului?",
+          "options": [
+            "A. Nu este important",
+            "B. Pentru a înțelege evoluția valorilor și a recunoaște eroismul în forme variate",
+            "C. Doar pentru istorie",
+            "D. Pentru a judeca perioadele trecute"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Atitudini comunicative. Acte de limbaj: a întreba, a solicita, a felicita",
+      "summary": "Comunicarea nu este doar transmiterea de informații, ci o serie de acte de limbaj cu scopuri specifice. A întreba este o cerere de informație. A solicita este o cerere de acțiune. A felicita este exprimarea unei aprecieri și a bucuriei pentru ceva bun ce s-a întâmplat cu cineva. Aceste acte de limbaj sunt esențiale în interacțiunile cotidiene și în construirea relațiilor. Lectia invata elevii cum să utilizeze aceste acte de limbaj în mod adecvat și eficient.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este un act de limbaj?",
+          "options": [
+            "A. O greșeală gramaticală",
+            "B. Un cuvânt izolat",
+            "C. O expresie sau o propozitie cu un scop comunicativ specific",
+            "D. O figură de stil"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt exemplele de acte de limbaj menționate?",
+          "options": [
+            "A. Doar a întreba",
+            "B. Doar a solicita",
+            "C. A întreba, a solicita, a felicita",
+            "D. A plânge, a cânta"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante aceste acte de limbaj?",
+          "options": [
+            "A. Nu sunt importante",
+            "B. Pentru interacțiuni cotidiene și construirea relațiilor",
+            "C. Doar pentru școală",
+            "D. Pentru a complica comunicarea"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

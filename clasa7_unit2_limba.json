@@ -1,0 +1,606 @@
+{
+  "unit_number": "2",
+  "unit_name": "Aproape de ceilalți",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul narativ literar: Popa Tanda de Ioan Slavici",
+      "summary": "\"Popa Tanda\" de Ioan Slavici este o narațiune despre un preot care trăiește cu o femeie în condiții neobișnuite. Textul exploreaza tema iubirii, datoriei morale, și compromisuluior în viață. Slavici creează personaje complexe care nu sunt pur bune sau rele, ci nuanțate. Prin dialog și reflecție internă, textul reveală conflictele morale ale protagonistului. Atmosfera este melancholică și reflectivă. Textul e important pentru înțelegerea literaturii realiste românești din sec. XIX. Tema centrală: cum se confruntă oamenii cu dileme morale și ce sacrificii fac pentru iubire. Aceasta e o lecție în complexitate morală și empatia pentru alți oameni.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este tema centrală a \"Popa Tanda\"?",
+          "options": [
+            "A. Aventura",
+            "B. Iubire, datorii morale, și compromisuri",
+            "C. Ura",
+            "D. Aventura"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum sunt personajele în textul lui Slavici?",
+          "options": [
+            "A. Pur bune",
+            "B. Pur rele",
+            "C. Complexe și nuanțate",
+            "D. Stereotipice"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce tip de literatură e textul?",
+          "options": [
+            "A. Romantică",
+            "B. Realistă",
+            "C. Modernistă",
+            "D. Surrealistă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Structura textului narativ",
+      "summary": "Structura narativă include: Expozițiune (introducere situației), Nod (complicație, conflict), Criza (punctul climactic), Rezolvare (soluție). Exemplu: în \"Popa Tanda\", expozițiunea prezintă preotul și situația lui, nodul introduce conflictul moral, criza e când trebuie să ia o decizie, rezolvarea e consecințele. Această structură creeaza suspans și emoție. Legarea acestor elemente e esențială pentru narațiune bună. Înțelegerea structurii ajută la analiza textelor și la scris de povești. Fiecare etapă e importantă pentru drumul personajului și pentru impact emoțional.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce include structura narativă?",
+          "options": [
+            "A. Doar acțiune",
+            "B. Expozițiune, nod, criză, rezolvare",
+            "C. Doar dialogue",
+            "D. Doar descriere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care e elementul climactic?",
+          "options": [
+            "A. Expozițiune",
+            "B. Nod",
+            "C. Criза",
+            "D. Rezolvare"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce e importantă structura?",
+          "options": [
+            "A. Nu e importantă",
+            "B. Creează suspans și emoție",
+            "C. Doar pentru lungime",
+            "D. Doar pentru formă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Personajul. Mijloacele de caracterizare. Repetiția",
+      "summary": "Personajul poate fi caracterizat prin: Descriere fizică, Comportament și acțiuni, Dialoguri și monologuri, Reflecții interne, Relații cu alții, Schimbări în timp. Repetiția (motif recurent) poate evidenția caracteristicile. De exemplu, dacă un personaj mereu spune \"Sunt nevinovat\", aceasta reveală defensivitate și negare. Caracterizarea indirectă (prin acțiuni și efectul pe alții) e mai subtilă decât directă (descriere). Bună caracterizare creează personaje credibile și memorabile. Analiza caracterizării ajută la înțelegerea profundă a motivațiilor personajelor și a temelor literare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt mijloace de caracterizare?",
+          "options": [
+            "A. Doar nume",
+            "B. Descriere fizică, acțiuni, dialoguri, reflecții",
+            "C. Doar aparență",
+            "D. Doar vârstă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce e repetiția în caracterizare?",
+          "options": [
+            "A. Plictiseală",
+            "B. Motif recurent care reveală caracteristici",
+            "C. Greșeală",
+            "D. Doar stil"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce creează bună caracterizare?",
+          "options": [
+            "A. Confuzie",
+            "B. Personaje credibile și memorabile",
+            "C. Neplăcere",
+            "D. Supărare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Conflictul. Complexitatea personajului",
+      "summary": "Conflictul narativ poate fi: Extern (personaj vs. alți oameni, natură, societate), Intern (personaj vs. el însuși, dilemă morală). Conflicte mari creează dramatism și interes. Complexitatea personajului apare când are dorințe și motivații conflictuale. De exemplu, preotul în \"Popa Tanda\" dorește sfinție și iubire în același timp. Aceasta creeaza tensiune și autenticitate. Personaje plat (fără evoluție sau conflict) sunt mai puțin interesante. Personaje rotunde (complexe, cu evoluție) sunt mai reale și captivante. Analiza conflictelor ajută la înțelegerea profundă a intrigii și a motivațiilor personajelor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tipuri de conflict?",
+          "options": [
+            "A. Doar extern",
+            "B. Extern și intern",
+            "C. Doar intern",
+            "D. Nu sunt conflicte"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce creează complexitate?",
+          "options": [
+            "A. Dorințe singulare",
+            "B. Dorințe și motivații conflictuale",
+            "C. Lipsă de evoluție",
+            "D. Simplitate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce sunt personaje rotunde?",
+          "options": [
+            "A. Plat",
+            "B. Complexe cu evoluție și autenticitate",
+            "C. Statice",
+            "D. Inutile"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Semnificațiile textului",
+      "summary": "Niveluri de semnificație: Literal (ce se întâmplă), Figurat (ce implică), Simbolic (ce reprezintă). În \"Popa Tanda\": literal e legat de preot și relația lui, figurat e despre conflictul moralitate vs. iubire, simbolic reprezentă lupta universală a omului între ideal și realitate. Simbo...lul (o culoare, obiect, acțiune) poate purta sens adânc. De exemplu, o clocotire de apă poate reprezenta emoții turbulente. Analiza semnificațiilor deschide dimensiuni ale textului. Texte bune opera pe mai multe niveluri simultan, creând bogăție și profunzime.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Niveluri semnificație?",
+          "options": [
+            "A. Doar literal",
+            "B. Literal, figurat, simbolic",
+            "C. Doar unu",
+            "D. Infinit"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce e simbolul?",
+          "options": [
+            "A. O cuvânt",
+            "B. Ceva care reprezintă altceva cu sens adânc",
+            "C. O literă",
+            "D. O imagine"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce e importantă analiza semnificații?",
+          "options": [
+            "A. Nu e",
+            "B. Deschide dimensiuni și creează bogăție",
+            "C. Doar pentru examen",
+            "D. Doar plictiseală"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Noi pagini – alte idei. Inocenții de Ioana Pârvulescu (fragment)",
+      "summary": "\"Inocenții\" de Ioana Pârvulescu prezintă o perspectivă contemporană asupra unor teme clasice. Fragmentul oferă o comparație cu \"Popa Tanda\" prin tratare diferite a conflictului moral și al iubirii. Pârvulescu folosește limbaj modern și directă, în contrast cu stilul mai formal al lui Slavici. Prin citirea comparativă, elevii observă evoluția literaturii și continuitatea temelor de bază în timp. Aceasta dezvoltă capacitatea de analiză diacronică (prin timp) și de apreciere pentru diverse perspective. Intertextualitatea (referințe între texte) îmbogățește înțelegerea și creează dialog literar.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce oferă fragmentul din \"Inocenții\"?",
+          "options": [
+            "A. Poveste separată",
+            "B. Perspectivă modernă și comparație cu \"Popa Tanda\"",
+            "C. Pur ficțiune",
+            "D. Doar entertainment"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum diferă stilurile?",
+          "options": [
+            "A. Nu diferă",
+            "B. Pârvulescu modern și direct, Slavici formal",
+            "C. Sunt identice",
+            "D. Depinde de editor"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce dezvoltă citirea comparativă?",
+          "options": [
+            "A. Nimic",
+            "B. Capacitate de analiză diacronică și apreciere diversă",
+            "C. Doar memorare",
+            "D. Doar critică"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Despre limba și cultura țărilor vecine",
+      "summary": "Țările vecine României (Ungaria, Serbia, Bulgaria, Republica Moldova) au culturi și limbi bogașde care au influențat literatura și cultura românească. De exemplu, folclorul și tradițiile din aceste țări au circulat și au influențat tradițiile românești. Contactele lingvistice au adus cuvinte împrumutate în limba română. Studiul acestor contacte dezvoltă înțelegere antropologică și interculturală. Aceasta combate prejudecățile și promovează empatie. Literatura din aceste țări poate fi studiată pentru comparații tematice și stilistice. Aceasta amplificare perspectivei literare dincolo de granițele naționale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce țări sunt vecine României?",
+          "options": [
+            "A. Doar maghiare",
+            "B. Ungaria, Serbia, Bulgaria, Moldova",
+            "C. Doar sârbești",
+            "D. Nicio țară"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce a influențat literatura românească?",
+          "options": [
+            "A. Nimic din afară",
+            "B. Folclor și tradițiile țărilor vecine",
+            "C. Doar franceza",
+            "D. Doar germana"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce dezvoltă studiul contactelor?",
+          "options": [
+            "A. Naționalism",
+            "B. Înțelegere interculturală și empatie",
+            "C. Resentiment",
+            "D. Izolare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Fapte și opinii. Textul explicativ",
+      "summary": "Fapte: informații care pot fi verificate (Clopoțelul cântă la glas F). Opinii: perspective subiective (Clopoțelul cântă frumos). Textul explicativ transmite informație factualii cu claritate. De exemplu, un articol despre cum funcționează fotosinteza. Structură: introducere (ce e subiectul), dezvoltare (detalii și explicații), concluzie (rezumat). Diferență cu textul literar: textul explicativ prioritizează fapte și claritate. Abilitatea de a distinge fapte de opinii e critică pentru alfabetism informațional și pentru evaluare critică a mesajelor. În lumea plina de manipulare informațională, aceasta e abilitate esențială.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Diferența fapte - opinii?",
+          "options": [
+            "A. Nu sunt diferite",
+            "B. Fapte verificabile, opinii subiective",
+            "C. Toate sunt fapte",
+            "D. Toate sunt opinii"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce prioritizează textul explicativ?",
+          "options": [
+            "A. Emoție",
+            "B. Fapte și claritate",
+            "C. Imaginație",
+            "D. Opinie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce e importantă distincția?",
+          "options": [
+            "A. Nu e importantă",
+            "B. Pentru alfabetism informațional și evaluare critică",
+            "C. Doar pentru joc",
+            "D. Doar academic"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Verbul. Tipuri de verbe. Locuțiunea verbală",
+      "summary": "Verbul exprimă acțiune, stare, sau proces. Tipuri: Acțiune (a merge, a cânta), Stare (a fi, a sta), Proces (a crește, a deschide). Locuțiunea verbală: expresie cu sens verbal. De exemplu: \"a da pentru gol\" (a eșua). Conjugare: schimbarea verbului după persoană, timp, mod. De exemplu: \"eu merg\", \"tu mergi\", \"el merge\". Verbe regulate (urmează reguli) vs. neregulate (excepții). Masteria verbelor este fundamentală pentru scris și vorbire corecte. Verbele puternice creează text dinamic și viu. Alegerea verbelor potrivite îmbunătățește expresivitatea.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă verbul?",
+          "options": [
+            "A. Doar acțiune",
+            "B. Acțiune, stare, process",
+            "C. Doar stare",
+            "D. Doar nume"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce e locuțiunea verbală?",
+          "options": [
+            "A. Un verb",
+            "B. Expresie cu sens verbal",
+            "C. O prepoziție",
+            "D. Un adverb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce creează verbe puternice?",
+          "options": [
+            "A. Confuzie",
+            "B. Text dinamic și viu",
+            "C. Plictiseală",
+            "D. Monotonie"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Modurile și timpurile verbului",
+      "summary": "Moduri: Indicativ (realitate), Condițional (ipoteză), Conjunctiv (intenție, condiție), Imperativ (ordin). Exemplu: \"Merg\" (indicativ), \"Aș merge\" (condițional), \"Să merg\" (conjunctiv), \"Mergi!\" (imperativ). Timpuri: Prezent (acum), Trecut (perfect, imperfect, mai mult ca perfect), Viitor (viitor și viitor anterior). Alegerea modului și timpului transmite sens și nuanță. De exemplu: \"Voi merge\" (hotărâre) vs. \"Aș merge\" (intenție incertă). Corectitudine gramaticală și expresivitate se întâlnesc în masteria modurilor și timpurilor. Aceasta e crucială pentru scrierea clară și persuasivă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Moduri ale verbului?",
+          "options": [
+            "A. Doar indicativ",
+            "B. Indicativ, condițional, conjunctiv, imperativ",
+            "C. Doar imperativ",
+            "D. Nu sunt moduri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemple timpuri?",
+          "options": [
+            "A. Doar prezent",
+            "B. Prezent, trecut (cu variații), viitor",
+            "C. Doar trecut",
+            "D. Nu sunt timpuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce transmite alegerea corectă?",
+          "options": [
+            "A. Confuzie",
+            "B. Sens și nuanță corecte",
+            "C. Nicio diferență",
+            "D. Doar lungime"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Forme verbale nepersonale: infinitivul și participiul",
+      "summary": "Infinitivul: forma nedeterminate a verbului (a merge, a cânta). Nu se conjugă după persoană. Participiul: formă care descrie calitatea sau starea. Exemplu: \"Copilul plângând\" (participiu prezent), \"Cartea citită\" (participiu trecut). Infinitivul se folosește în combinații: \"Vreau să merg\", \"Trebuie să vorbesc\". Participiul se folosește pentru descriere și în formări compuse: \"Am citit cartea\". Aceste forme sunt importante pentru flexibilitate lingvistică și expresivitate. Înțelegerea lor e esențială pentru sintaxă avansată. Forme nepersonale permit variere stilistică și claritate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e infinitivul?",
+          "options": [
+            "A. Forma determinată",
+            "B. Forma nedeterminată a verbului",
+            "C. O conjugare",
+            "D. Un tense"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce descrie participiul?",
+          "options": [
+            "A. Acțiune",
+            "B. Calitate sau stare",
+            "C. Doar timp",
+            "D. Doar mod"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante forme nepersonale?",
+          "options": [
+            "A. Nu sunt",
+            "B. Pentru flexibilitate și expresivitate lingvistică",
+            "C. Doar pentru formalism",
+            "D. Doar pentru joc"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Forme verbale nepersonale: gerunziul și supinul",
+      "summary": "Gerunziul: exprimă simultanitate sau cauzalitate. Exemplu: \"Mergând la cumpărături, am vâzut un prieten\" (mersul și vederea sunt simultane). Supinul: exprimă intenție sau consecință. Exemplu: \"Veni să-ți vorbesc\" (intenție: pentru a-ți vorbi). Diferența cu participiul: participiul descrie calitate, gerunziul și supinul exprimă relații temporale și cauzale. Utilizare corectă: gerunziul și supinul aduc nuanță și economie lingvistică. De exemplu, \"mergând\" e mai concis decât \"și mergând\" sau \"după ce merged\". Masteria acestor forme îmbunătățește scrisul. Sunt esențiale pentru gramatică avansată și stil sofisticat.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă gerunziul?",
+          "options": [
+            "A. Acțiune viitoare",
+            "B. Simultanitate sau cauzalitate",
+            "C. Doar timp",
+            "D. Doar mod"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce exprimă supinul?",
+          "options": [
+            "A. Acțiune trecutăness",
+            "B. Intenție sau consecință",
+            "C. Doar descriere",
+            "D. Doar opinie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Diferența gerunziu - participiu?",
+          "options": [
+            "A. Nu sunt diferite",
+            "B. Gerunziu relații temporale, participiu calitate",
+            "C. Sunt identice",
+            "D. Depinde de text"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Posibilități combinatorii ale verbului. Circumstanțialul de cauza",
+      "summary": "Verbe combinate: verbe care se leagă cu alte verbe pentru a exprima relații complexe. De exemplu: \"Pot merge\" (posibilitate), \"Trebuie să plec\" (necesitate), \"Vreau să spun\" (voință). Circumstanțialul de cauza: exprimă motivul unei acțiuni. Exemplu: \"Rămâi acasă pentru că ploua\" (ploaia e cauza). Se introduce cu prepoziții: \"pentru că\", \"din cauza\", \"deoarece\". Combinații verbale și circumstanțiale crează propoziții complexe și nuanțate. Înțelegerea acestora permite construcție de fraze mai sofisticate. Acestea sunt instrumente pentru expresie precisă și subtilă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt verbe combinate?",
+          "options": [
+            "A. Un verb",
+            "B. Verbe legate pentru relații complexe",
+            "C. Doar acțiuni",
+            "D. Doar stări"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce e circumstanțialul de cauza?",
+          "options": [
+            "A. O locație",
+            "B. Exprimă motivul acțiuni",
+            "C. Un timp",
+            "D. O opinie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante combinații?",
+          "options": [
+            "A. Nu sunt",
+            "B. Pentru expresie precisă și subtilă",
+            "C. Doar pentru complicare",
+            "D. Doar academic"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Circumstanțialul de scop",
+      "summary": "Circumstanțialul de scop exprimă intenția, scopul unei acțiuni. Exemplu: \"Merg la cumpărături pentru pâine\" (scopul e procurarea pâinii). Se introduce cu: \"pentru\", \"ca să\", \"în scopul\", \"în vederea\". Diferența cu cauza: cauza explică de ce s-a întâmplat ceva (trecut), scop explică de ce se face ceva (intenție viitoare). De exemplu: \"Am fost întârziat pentru trafic\" (cauza), \"Plec mai devreme pentru a evita traficul\" (scop). Circumstanțialul de scop rafinează sensul și clarificifică intenții. Masteria acestor relații permite comunicare mai precisă și persuasivă. Sunt esențiale pentru claritate în expunere de plan și intenție.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă circumstanțialul de scop?",
+          "options": [
+            "A. Motivul trecut",
+            "B. Intenția, scopul acțiuni",
+            "C. Doar locație",
+            "D. Doar timp"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Diferența cauza - scop?",
+          "options": [
+            "A. Nu sunt diferite",
+            "B. Cauza trecut, scop intenție viitoare",
+            "C. Sunt identice",
+            "D. Depinde de cuvinte"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce e important scopul?",
+          "options": [
+            "A. Nu e important",
+            "B. Pentru claritate și intenție, persuasiune",
+            "C. Doar pentru joc",
+            "D. Doar pentru lungime"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Caracterizarea personajului",
+      "summary": "Caracterizarea e abilitate de a descrie și analiza atribute personajului. Include: Trăsături fizice (aparență), Psihologice (gânduri, emoții), Morale (valori, etică), Sociale (relații, statut). Metode: Descriere directă (autorul spune), Indirectă (prin acțiuni, dialoguri, efectul pe alții). Bună caracterizare creează personaje tridimensionale care par reale. Caracterizarea evoluează pe parcursul textului dacă personajul se schimbă. Analiza caracterizării ajută la înțelegerea profundă și la evaluare critică a atitudinii personajului. Aceasta e esență a literaturii bune și a cinematografiei. Personaje bine caracterizate sunt motivația multor persoane să se reîntoarcă la o poveste.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce include caracterizare?",
+          "options": [
+            "A. Doar aparență",
+            "B. Fizic, psihologic, moral, social",
+            "C. Doar gânduri",
+            "D. Doar relații"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Metode caracterizare?",
+          "options": [
+            "A. Doar directă",
+            "B. Directă și indirectă",
+            "C. Doar indirectă",
+            "D. Nu sunt metode"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce creează caracterizare bună?",
+          "options": [
+            "A. Plictiseală",
+            "B. Personaje tridimensionale și reale",
+            "C. Confuzie",
+            "D. Neplăcere"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

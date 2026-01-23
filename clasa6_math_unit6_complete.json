@@ -1,0 +1,150 @@
+{
+  "unit_number": "6",
+  "unit_name": "Triunghiul",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Triunghiul: definiție, elemente, clasificare, perimetru. Suma măsurilor unghiurilor unui triunghi",
+      "summary": "Triunghi: 3 vârfuri, 3 laturi, 3 unghiuri. Suma = 180°.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Suma unghiuri?",
+          "options": [
+            "A. 90°",
+            "B. 180°",
+            "C. 270°",
+            "D. 360°"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Construcția triunghiurilor. Inegalități între elementele triunghiului",
+      "summary": "Inegalități: a < b + c.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Laturile 3,4,8. Posibil?",
+          "options": [
+            "A. Da",
+            "B. Nu, 3+4<8",
+            "C. Poate",
+            "D. Dreptunghic"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Linii importante în triunghi",
+      "summary": "Mediana, bisectoare, altitudine, mediatoare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Mediana?",
+          "options": [
+            "A. Unghi",
+            "B. Vârf-mijloc latură",
+            "C. Perpendiculară",
+            "D. Bisectoare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Congruența triunghiurilor oarecare",
+      "summary": "Congruență: △ABC ≅ △A'B'C'.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "△ABC ≅ △DEF?",
+          "options": [
+            "A. Forma",
+            "B. Mărime",
+            "C. Forma și mărime",
+            "D. Paralel"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Metoda triunghiurilor congruente",
+      "summary": "Metodă: demonstrează congruență, concluzionează egalitate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Pas 1?",
+          "options": [
+            "A. Calculează",
+            "B. Identifică 2 triunghiuri",
+            "C. Desenează",
+            "D. Ghicește"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Proprietăți ale triunghiului isoscel",
+      "summary": "Isoscel: 2 laturi egale. Unghiuri bază egale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Unghiuri bază?",
+          "options": [
+            "A. Diferite",
+            "B. Egale",
+            "C. Suplementare",
+            "D. Complementare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Proprietăți ale triunghiului echilateral",
+      "summary": "Echilateral: laturi egale. Unghiuri = 60°.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Unghiuri?",
+          "options": [
+            "A. 90°",
+            "B. 60°",
+            "C. 120°",
+            "D. Variază"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Proprietăți ale triunghiului dreptunghic",
+      "summary": "Dreptunghic: unghi 90°. Pitagora: a² + b² = c².",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Pitagora?",
+          "options": [
+            "A. a+b=c",
+            "B. a²+b²=c²",
+            "C. a×b=c",
+            "D. a/b=c"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

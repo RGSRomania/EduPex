@@ -1,0 +1,286 @@
+{
+  "unit_number": "1",
+  "unit_name": "Mulțimi. Mulțimea numerelor naturale",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Mulțimi: descriere, notații, reprezentări. Mulțimi numerice/nenumerice. Relația dintre un element și o mulțime",
+      "summary": "O mulțime este o colecție de elemente bine definite. Se notează cu litere mari: A, B, C și elementele cu litere mici: a, b, c. Reprezentări: enumerare {1, 2, 3}, diagramă Venn, sau proprietate P(x). Relația dintre element și mulțime: x ∈ A (x aparține A) sau x ∉ A (x nu aparține A). Mulțimi numerice: conțin numere (ℕ, ℤ, ℚ, ℝ). Mulțimi nenumerice: conțin alte obiecte (copaci, culori). Conceptul de mulțime este fundamental în matematică modernă și permite definirea altor concepte.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este o mulțime?",
+          "options": [
+            "A. Un singur element",
+            "B. O colecție de elemente bine definite",
+            "C. Doar numere",
+            "D. Un set neordonat"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum se notează relația 'x aparține A'?",
+          "options": [
+            "A. x ⊂ A",
+            "B. x ∉ A",
+            "C. x ∈ A",
+            "D. x = A"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care sunt tipuri de mulțimi?",
+          "options": [
+            "A. Doar numerice",
+            "B. Numerice și nenumerice",
+            "C. Doar infinite",
+            "D. Doar ordonate"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Relații între mulțimi",
+      "summary": "Relații importante între mulțimi: Egalitate (A = B dacă au aceleași elemente), Incluziune (A ⊆ B dacă orice element al A este în B), Incluziune strictă (A ⊂ B dacă A ⊆ B dar A ≠ B), Mulțimea vidă (∅ = mulțimea fără elemente). Diagramele Venn sunt utile pentru vizualizare. Exemple: {1, 2} ⊂ {1, 2, 3}, {a} ⊆ {a}, ∅ ⊆ orice mulțime. Înțelegerea acestor relații este esențială pentru operații cu mulțimi.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce înseamnă A ⊆ B?",
+          "options": [
+            "A. A este mai mare decât B",
+            "B. Orice element al A este în B",
+            "C. A și B sunt disjuncte",
+            "D. A este infinit"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este diferența între ⊆ și ⊂?",
+          "options": [
+            "A. Nu există diferență",
+            "B. ⊆ permite egalitate, ⊂ nu",
+            "C. ⊂ permite egalitate, ⊆ nu",
+            "D. ⊂ este pentru numere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce este mulțimea vidă?",
+          "options": [
+            "A. Mulțimea cu infinit elemente",
+            "B. Mulțimea fără elemente",
+            "C. Mulțimea cu 1 element",
+            "D. Mulțimea tuturor numerelor"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Mulțimi finite, cardinalul unei mulțimi finite. Mulțimi infinite. Mulțimea numerelor naturale",
+      "summary": "Mulțimi finite: au un număr finit de elemente. Cardinalul |A| = numărul de elemente. Exemple: |{1, 2, 3}| = 3. Mulțimi infinite: au infinit de elemente. Mulțimea numerelor naturale ℕ = {0, 1, 2, 3, ...} este infinită. Diferența între |A| și cardinal abstract. Teorema: dacă A ⊂ B și A finit, atunci |A| < |B|. Pentru mulțimi infinite, cardinalii sunt mai complexi (cardinali transfinici). Această lecție introduce conceptul fundamental de mărime a unei mulțimi.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este cardinalul unei mulțimi?",
+          "options": [
+            "A. Suma elementelor",
+            "B. Numărul de elemente",
+            "C. Ordinea elementelor",
+            "D. Forma mulțimii"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Este ℕ finit sau infinit?",
+          "options": [
+            "A. Finit cu 10 elemente",
+            "B. Finit dar mare",
+            "C. Infinit",
+            "D. Gol"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este |∅|?",
+          "options": [
+            "A. 1",
+            "B. 0",
+            "C. ∞",
+            "D. Nedefinit"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Operații cu mulțimi: reuniune, intersecție, diferență",
+      "summary": "Operații fundamentale: Reuniune (A ∪ B) = {x | x ∈ A sau x ∈ B} = toate elementele din A sau B. Intersecție (A ∩ B) = {x | x ∈ A și x ∈ B} = elemente comune. Diferență (A \\ B) = {x | x ∈ A și x ∉ B} = elemente doar în A. Proprietăți: comutativitate, asociativitate, distributivitate. Exemple: {1,2} ∪ {2,3} = {1,2,3}, {1,2} ∩ {2,3} = {2}, {1,2} \\ {2,3} = {1}. Diagramele Venn sunt esențiale pentru vizualizare. Aceste operații sunt fundamentale în teoria mulțimilor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este A ∪ B?",
+          "options": [
+            "A. Elementele comune",
+            "B. Toate elementele din A sau B",
+            "C. Elementele doar din A",
+            "D. Mulțimea vidă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "{1,2} ∩ {2,3} = ?",
+          "options": [
+            "A. {1,2,3}",
+            "B. {2}",
+            "C. {1,3}",
+            "D. ∅"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce este A \\ B?",
+          "options": [
+            "A. Elementele din ambele",
+            "B. Elementele doar din A",
+            "C. Toate elementele",
+            "D. Niciunul"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Descompunerea numerelor naturale în produs de puteri de numere prime",
+      "summary": "Orice număr natural > 1 poate fi scris unic ca produs de puteri de numere prime (Teorema Fundamentală a Aritmeticii). Proces: împarte la cel mai mic divizor prim, repetă până obții 1. Exemplu: 60 = 2² × 3 × 5. Forma standard: n = p₁^a₁ × p₂^a₂ × ... × pₖ^aₖ. Importanță: calculul cmmdc și cmmmc, teoria numerelor. Algoritmul este sistematic și întotdeauna dă același rezultat. Descompunerea este crucială pentru înțelegerea structurii numerelor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cum se descompune 12?",
+          "options": [
+            "A. 2 × 6",
+            "B. 2² × 3",
+            "C. 3 × 4",
+            "D. 2 × 2 × 3"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este descompunerea lui 30?",
+          "options": [
+            "A. 2 × 15",
+            "B. 3 × 10",
+            "C. 2 × 3 × 5",
+            "D. 5 × 6"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce garantează Teorema Fundamentală?",
+          "options": [
+            "A. Doar un singur prim",
+            "B. Descompunere unică",
+            "C. Numai numere pare",
+            "D. Exponenți egali"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Determinarea celui mai mare divizor comun și a celui mai mic multiplu comun. Numere prime între ele",
+      "summary": "cmmdc(a,b) = cel mai mare număr care divide ambele. cmmmc(a,b) = cel mai mic număr care este multiplu al ambelor. Calcul: folosind descompunere în factori primi, cmmdc = produsul factorilor comuni cu exponenți minimi, cmmmc = produsul tuturor factorilor cu exponenți maximi. Identitate: cmmdc(a,b) × cmmmc(a,b) = a × b. Numere prime între ele: cmmdc = 1. Exemplu: cmmdc(12,18) = 2×3 = 6, cmmmc(12,18) = 2²×3² = 36. Aplicații: fracții, probleme practice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este cmmdc(12, 18)?",
+          "options": [
+            "A. 2",
+            "B. 3",
+            "C. 6",
+            "D. 36"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este cmmmc(4, 6)?",
+          "options": [
+            "A. 2",
+            "B. 12",
+            "C. 24",
+            "D. 8"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce sunt numere prime între ele?",
+          "options": [
+            "A. Ambele prime",
+            "B. cmmdc = 1",
+            "C. cmmmc maxim",
+            "D. Ambele impare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Proprietăți ale divizibilității în ℕ",
+      "summary": "Proprietăți: Reflexivitate (a | a), Tranzitivitate (a | b și b | c ⇒ a | c), Simetria în egalitate (a | b și b | a ⇒ a = b), Liniaritate (a | b și a | c ⇒ a | b+c și a | b-c). Reguli: a | 0, 1 | a pentru orice a. Dacă a | b atunci a | kb pentru orice k. Dacă a | b și a | c atunci a | (mb + nc) pentru orice m, n. Aceste proprietăți sunt fundamentale pentru teoria numerelor și sunt folosite în demonstrații. Înțelegerea acestora este esențială pentru rezolvarea problemelor de divizibilitate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Este divizibilitatea reflexivă?",
+          "options": [
+            "A. Nu",
+            "B. Da, a | a",
+            "C. Doar pentru numere prime",
+            "D. Depinde de a"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Dacă 2 | 6 și 6 | 12, ce poți spune?",
+          "options": [
+            "A. 2 | 12",
+            "B. 12 | 2",
+            "C. 2 = 12",
+            "D. Nu e relație"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Dacă a | b și a | c, ce poți spune?",
+          "options": [
+            "A. a | (b + c)",
+            "B. b = c",
+            "C. Nu e relație",
+            "D. a > b"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

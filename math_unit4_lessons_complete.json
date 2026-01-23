@@ -1,0 +1,406 @@
+{
+  "unit_number": "4",
+  "unit_name": "Fracții ordinare",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Fracții ordinare. Fracții echivalente. Procente",
+      "summary": "Fracția ordinară este o parte din întreg, reprezentată ca a/b, unde a este numărătorul și b este numitorul. Fracțiile echivalente sunt fracții care reprezintă aceeași valoare, de exemplu 1/2 = 2/4 = 3/6. Pentru a obține fracții echivalente, înmulțim sau împărțim atât numărătorul cât și numitorul cu același număr. Procentul este o fracție cu numitorul 100, de exemplu 25% = 25/100 = 1/4. Fracțiile sunt utilizate frecvent pentru a exprima părți din întreg și rapoarte.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este o fracție ordinară?",
+          "options": [
+            "A. Un număr întreg",
+            "B. O parte din întreg, reprezentată ca a/b",
+            "C. Un procent",
+            "D. O putere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care fracție este echivalentă cu 1/2?",
+          "options": [
+            "A. 2/3",
+            "B. 3/5",
+            "C. 2/4",
+            "D. 1/3"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce este un procent?",
+          "options": [
+            "A. O fracție cu numitorul 10",
+            "B. O fracție cu numitorul 100",
+            "C. Un număr mai mare decât 1",
+            "D. Un număr negativ"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Compararea fracțiilor cu același numitor/numărător. Reprezentarea fracțiilor ordinare pe axa numerelor",
+      "summary": "Pentru a compara fracții cu același numitor, se compară numărătorii: fracția cu numărător mai mare este mai mare. De exemplu, 3/5 > 2/5. Pentru a compara fracții cu același numărător, se compară numitorii: fracția cu numitor mai mic este mai mare. De exemplu, 3/4 > 3/5. Reprezentarea pe axa numerelor ajută la vizualizarea ordinii fracțiilor. Pe axa numerelor, 0 este la stânga, iar 1 este la dreapta. Fracții între 0 și 1 sunt fracții proprii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Compară 2/7 și 5/7",
+          "options": [
+            "A. 2/7 > 5/7",
+            "B. 2/7 = 5/7",
+            "C. 2/7 < 5/7",
+            "D. Nu se pot compara"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Compară 3/4 și 3/8",
+          "options": [
+            "A. 3/4 < 3/8",
+            "B. 3/4 = 3/8",
+            "C. 3/4 > 3/8",
+            "D. Nu se pot compara"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Unde se află 1/2 pe axa numerelor?",
+          "options": [
+            "A. La 0",
+            "B. La 1",
+            "C. La jumătatea dintre 0 și 1",
+            "D. La dreapta lui 1"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Introducerea și scoaterea întregilor dintr-o fracție",
+      "summary": "O fracție improprie (numărător > numitor) poate fi transformată într-un număr mixt: o parte întreagă și o fracție proprie. De exemplu, 7/3 = 2 1/3 (2 întregi și 1/3). Pentru a introduce întregi: 7 ÷ 3 = 2 rest 1, deci 7/3 = 2 1/3. Pentru a scoate întregi: 2 1/3 = (2×3 + 1)/3 = 7/3. Numerele mixte sunt utile pentru reprezentarea cantităților care depășesc un întreg.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Transformă 11/4 într-un număr mixt",
+          "options": [
+            "A. 2 1/4",
+            "B. 2 3/4",
+            "C. 3 1/4",
+            "D. 1 3/4"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Transformă 3 1/2 într-o fracție improprie",
+          "options": [
+            "A. 5/2",
+            "B. 7/2",
+            "C. 6/2",
+            "D. 4/2"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este relația dintre numerele mixte și fracțiile improprii?",
+          "options": [
+            "A. Nu sunt legate",
+            "B. Sunt identice",
+            "C. Exprimă aceeași valoare în forme diferite",
+            "D. Numerele mixte sunt mai mari"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Cel mai mare divizor comun a două numere naturale. Amplificarea și simplificarea fracțiilor. Fracții ireductibile",
+      "summary": "Cel mai mare divizor comun (cmmdc) a două numere este cel mai mare număr care le divide pe amândouă. De exemplu, cmmdc(12, 18) = 6. Amplificarea fracției înseamnă a înmulți atât numărătorul cât și numitorul cu același număr. Simplificarea fracției înseamnă a împărți atât numărătorul cât și numitorul cu același număr. O fracție ireductibilă este o fracție care nu mai poate fi simplificată, adică cmmdc-ul numărătorului și numitorului este 1. De exemplu, 3/5 este ireductibilă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este cmmdc-ul numerelor 12 și 8?",
+          "options": [
+            "A. 2",
+            "B. 4",
+            "C. 6",
+            "D. 12"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Simplifică 12/18",
+          "options": [
+            "A. 2/3",
+            "B. 6/9",
+            "C. 4/6",
+            "D. 1/2"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce este o fracție ireductibilă?",
+          "options": [
+            "A. O fracție care poate fi simplificată",
+            "B. O fracție care nu mai poate fi simplificată",
+            "C. O fracție cu numitor 1",
+            "D. O fracție mai mare decât 1"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Cel mai mic multiplu comun a două numere naturale. Aducerea fracțiilor la un numitor comun",
+      "summary": "Cel mai mic multiplu comun (cmmmc) a două numere este cel mai mic număr care se divide cu ambele. De exemplu, cmmmc(4, 6) = 12. Aducerea fracțiilor la un numitor comun înseamnă a găsi un numitor comun pentru două fracții, de obicei cmmmc-ul numitorilor. De exemplu, 1/4 și 1/6: cmmmc(4, 6) = 12, deci 1/4 = 3/12 și 1/6 = 2/12. Aceasta este necesară pentru a aduna sau scădea fracții cu numitori diferiți.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este cmmmc-ul numerelor 4 și 6?",
+          "options": [
+            "A. 2",
+            "B. 12",
+            "C. 24",
+            "D. 4"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Aducă la numitor comun 1/3 și 1/4",
+          "options": [
+            "A. 3/12 și 4/12",
+            "B. 4/12 și 3/12",
+            "C. 1/12 și 1/12",
+            "D. 3/7 și 4/7"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce avem nevoie să aducem fracții la numitor comun?",
+          "options": [
+            "A. Pentru a face calculele mai dificile",
+            "B. Pentru a putea aduna sau scădea fracții",
+            "C. Pentru a înmulți fracții",
+            "D. Nu este necesar"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Adunarea și scăderea fracțiilor",
+      "summary": "Pentru a aduna sau scădea fracții cu același numitor, se adună sau se scad numărătorii și se păstrează numitorul. De exemplu, 2/5 + 1/5 = 3/5. Pentru fracții cu numitori diferiți, se aduc mai întâi la numitor comun, apoi se efectuează operația. De exemplu, 1/4 + 1/6: cmmmc(4, 6) = 12, deci 3/12 + 2/12 = 5/12. Rezultatul trebuie să fie o fracție ireductibilă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Calculează 2/5 + 1/5",
+          "options": [
+            "A. 2/10",
+            "B. 3/5",
+            "C. 3/10",
+            "D. 1/5"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează 1/4 + 1/2",
+          "options": [
+            "A. 1/6",
+            "B. 2/6",
+            "C. 3/4",
+            "D. 1/8"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Calculează 3/4 - 1/4",
+          "options": [
+            "A. 2/4 = 1/2",
+            "B. 2/8",
+            "C. 4/4",
+            "D. 3/8"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Înmulțirea fracțiilor",
+      "summary": "Pentru a înmulți două fracții, se înmulțesc numărătorii între ei și numitorii între ei: (a/b) × (c/d) = (a×c)/(b×d). De exemplu, (2/3) × (3/4) = 6/12 = 1/2. Simplificarea se poate face înainte de înmulțire (simplificare ''pe diagonală''). De exemplu, (2/3) × (3/4) = (2×3)/(3×4) = 2/4 = 1/2. Înmulțirea fracțiilor este mai simplă decât adunarea pentru că nu necesită numitor comun.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Calculează (1/2) × (2/3)",
+          "options": [
+            "A. 2/6 = 1/3",
+            "B. 3/5",
+            "C. 2/5",
+            "D. 1/6"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează (2/5) × (5/4)",
+          "options": [
+            "A. 10/20 = 1/2",
+            "B. 7/9",
+            "C. 10/9",
+            "D. 2/4"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este regula pentru înmulțirea fracțiilor?",
+          "options": [
+            "A. Se adună numărătorii și numitorii",
+            "B. Se înmulțesc numărătorii și numitorii",
+            "C. Se scad numărătorii",
+            "D. Se împart numitorii"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Împărțirea fracțiilor ordinare",
+      "summary": "Pentru a împărți două fracții, se înmulțește prima fracție cu inversa (reciproca) celei de-a doua: (a/b) ÷ (c/d) = (a/b) × (d/c) = (a×d)/(b×c). De exemplu, (2/3) ÷ (1/4) = (2/3) × (4/1) = 8/3. Inversa unei fracții a/b este b/a. De exemplu, inversa lui 2/3 este 3/2. Împărțirea fracțiilor se reduce la înmulțire după înlocuirea cu inversa.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Calculează (1/2) ÷ (1/4)",
+          "options": [
+            "A. 1/8",
+            "B. 1/6",
+            "C. 2",
+            "D. 1/4"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este inversa fracției 3/5?",
+          "options": [
+            "A. 5/3",
+            "B. 3/5",
+            "C. -3/5",
+            "D. 1/3"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum se calculează (a/b) ÷ (c/d)?",
+          "options": [
+            "A. (a/b) × (c/d)",
+            "B. (a/b) × (d/c)",
+            "C. (a+b) ÷ (c+d)",
+            "D. (a-b) × (c-d)"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Puterea cu exponent natural a unei fracții ordinare",
+      "summary": "Puterea unei fracții cu exponent natural n se calculează prin înmulțirea fracției cu ea însăși de n ori: (a/b)^n = (a^n)/(b^n). De exemplu, (2/3)^2 = (2^2)/(3^2) = 4/9. Pentru (a/b)^0 = 1 (pentru orice a/b ≠ 0), și (a/b)^1 = a/b. Regulile pentru exponenți la numere naturale se aplică și la fracții.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Calculează (1/2)^2",
+          "options": [
+            "A. 1/2",
+            "B. 1/4",
+            "C. 1/8",
+            "D. 2/4"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează (2/3)^3",
+          "options": [
+            "A. 6/9",
+            "B. 8/27",
+            "C. 6/27",
+            "D. 2/3"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este valoarea (3/4)^0?",
+          "options": [
+            "A. 0",
+            "B. 1",
+            "C. 3/4",
+            "D. 4/3"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară",
+      "summary": "A afla o fracție dintr-un număr înseamnă a înmulți fracția cu acel număr: (a/b) × n. De exemplu, 1/2 din 10 = (1/2) × 10 = 5. A afla o fracție dintr-o fracție înseamnă a înmulți fracțiile: (a/b) × (c/d). De exemplu, 1/2 din 3/4 = (1/2) × (3/4) = 3/8. Procente funcționează similar: p% din n = (p/100) × n. De exemplu, 25% din 100 = (25/100) × 100 = 25. Aceste abilități sunt esențiale pentru probleme practice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Calculează 1/3 din 12",
+          "options": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează 50% din 200",
+          "options": [
+            "A. 50",
+            "B. 100",
+            "C. 150",
+            "D. 200"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Calculează 1/4 din 2/3",
+          "options": [
+            "A. 2/12 = 1/6",
+            "B. 3/4",
+            "C. 1/2",
+            "D. 2/7"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

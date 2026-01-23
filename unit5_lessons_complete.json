@@ -1,0 +1,326 @@
+{
+  "unit_number": "5",
+  "unit_name": "Călătoresc prin basme",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul narativ literar. Zâna Munților, basm cules de Petre Ispirescu",
+      "summary": "Basmul este un gen literar vechi care transmite înțelepciune, valori morale și vise. Basmul ''Zâna Munților'' cules de Petre Ispirescu (folclorist și scriitor român) este o poveste despre magie, frumusețe și transformare. Basme transmit lecii prin intermediul unor personaje fantastic și situații imposibile. Lectia invata elevii cum să recunoasca elementele basmului și semnificația acestora: magicul, transformarea, binele și răul.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este basmul?",
+          "options": [
+            "A. O poveste realistă",
+            "B. Un gen literar cu elemente magice care transmite înțelepciune",
+            "C. O descriere geografică",
+            "D. Un manual de știință"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cine a cules basmul 'Zâna Munților'?",
+          "options": [
+            "A. Ana Blandiana",
+            "B. Florin Bican",
+            "C. Petre Ispirescu",
+            "D. Ioan Luca Caragiale"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce transmit basmele?",
+          "options": [
+            "A. Doar povești false",
+            "B. Înțelepciune, valori morale și vise prin intermediul elementelor magice",
+            "C. Doar geografie",
+            "D. Doar entertainment"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Acțiunea. Timpul și spațiul",
+      "summary": "În basm, acțiunea este adesea complexă, cu mai multe întorsături și transformări. Timpul unui basm este adesea nedefinit - ''a fost odată'' - plasând povestea într-o dimensiune atemporală. Spațiul este fantastic - castele în nori, păduri magice, regate subacvatice. Acestea creează un sens de minune și posibilitate infinită. Lectia invata elevii cum aceste elemente basmice creează o atmosferă propice pentru transformări și lecii morale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cum este de obicei acțiunea într-un basm?",
+          "options": [
+            "A. Simplă și lineară",
+            "B. Complexă cu mai multe întorsături și transformări",
+            "C. Repetitivă",
+            "D. Statică"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce caracterizează timpul basmului?",
+          "options": [
+            "A. Este clar și măsurat",
+            "B. Este nedefinit - ''a fost odată''",
+            "C. Este mereu prezentul",
+            "D. Nu există timp în basm"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce tipuri de locuri se găsesc în basm?",
+          "options": [
+            "A. Doar locuri reale",
+            "B. Locuri fantastice - castele în nori, păduri magice",
+            "C. Doar orașe moderne",
+            "D. Doar case obișnuite"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Personajele",
+      "summary": "Personajele basmelor sunt adesea tipuri - printesele frumoase, caii magici, vrâjitoarele răzbunătoare, fericiții care se dovedesc a fi înțelepți. Acestea sunt simboluri ale unor principii morale. Transformarea personajelor este centrală în basm - copilul care se maturizează, entitatea răuă care se redimă. Lectia invata elevii cum să analizeze simbolismul personajelor și cum evoluția lor transmite lecii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt personajele basmului?",
+          "options": [
+            "A. Doar oameni obișnuiți",
+            "B. Tipuri simbolice - prințese, cai magici, vrăjitoare",
+            "C. Doar animale",
+            "D. Doar obiecte"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce rol are transformarea în basm?",
+          "options": [
+            "A. Nu are rol",
+            "B. Transmite maturizarea și redempția",
+            "C. Este doar pentru distracție",
+            "D. Nu se transformă nimeni"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce simbolizează o prințesă în basm?",
+          "options": [
+            "A. Doar o persoană reală",
+            "B. Frumusețea, virtuțea sau aspirația",
+            "C. O persoană rău",
+            "D. Un obiect"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Semnificații ale textului",
+      "summary": "Basme au semnificații mitice și psihologice profunde. Lupta cu dracul este lupta cu răul, atât în exterior cât și în interior. Comorile sunt obiectivele pe care le urmărim. Încercările sunt testele prin care trebuie să trecem pentru a ne dezvolta. Lectia invata elevii cum basmele codifică înțelepciunea omenească și cum povestile acestora pot oferi ghidare pentru propriile vieți.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce reprezintă lupta cu dracul în basm?",
+          "options": [
+            "A. Doar o povestă fictivă",
+            "B. Lupta cu răul, atât în exterior cât și în interior",
+            "C. O descriere de animale",
+            "D. O lecție de biologie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce simbolizează comorile în basm?",
+          "options": [
+            "A. Doar obiecte de valoare",
+            "B. Obiectivele pe care le urmărim în viață",
+            "C. Doar metale prețioase",
+            "D. Doar plante"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce codifică basme?",
+          "options": [
+            "A. Doar divertisment",
+            "B. Înțelepciunea omenească și ghidare pentru viață",
+            "C. Doar informații istorice",
+            "D. Doar fapte științifice"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Noi pagini – alte idei",
+      "summary": "Aceasta secțiune prezintă alte basme și alte interpretări ale acelorași teme - transformare, magie, redemție. Prin compararea basmelor din diferite culturi și diferite perioade, elevii învață că anumite arhetipuri și teme sunt universale. Orice cultură are propriile sale basm care transmit valorile și înțelepciunea sa. Lectia invata elevii să aprecieze universalitatea basmelor și diversitatea lor culturală.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce arată prezentarea mai multor basme?",
+          "options": [
+            "A. Că basmele sunt toate la fel",
+            "B. Că anumite arhetipuri și teme sunt universale",
+            "C. Că basme nu au valoare",
+            "D. Că nu ar trebui să le citim"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce au în comun basmele din diferite culturi?",
+          "options": [
+            "A. Au același titlu",
+            "B. Transmit teme universale - transformare, magie, redemție",
+            "C. Sunt identice",
+            "D. Nu au nimic în comun"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce valorează lectia în basme?",
+          "options": [
+            "A. Doar emoția",
+            "B. Atât universalitatea cât și diversitatea culturală",
+            "C. Doar divertismentul",
+            "D. Doar lungimea textului"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Diversitate culturală și lingvistică",
+      "summary": "Basme sunt expresii ale diversității culturale și lingvistice. Fiecare limbă și fiecare cultură are propriile sale basme care reflectă specificul acesteia. Studierea basmelor din diferite culturi ne deschide la înțelegerea modurilor variate în care oamenii dau sens lumii și transmit valori. Lectia invata elevii respect pentru diversitate și curiozitate față de alte culturi.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă basmele culturale?",
+          "options": [
+            "A. Doar niște povești pentru copii",
+            "B. Valorile, credințele și modurile de viață ale unei culturi",
+            "C. Doar limba",
+            "D. Doar cuvinte frumoase"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce învață noi din studierea basmelor din alte culturi?",
+          "options": [
+            "A. Că suntem mai buni decât ei",
+            "B. Modurile variate în care oamenii dau sens lumii",
+            "C. Că basme nu au valoare",
+            "D. Nimic util"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce atitudine ar trebui să avem față de basmele din alte culturi?",
+          "options": [
+            "A. Dispreț",
+            "B. Respect și curiozitate",
+            "C. Indiferență",
+            "D. Ostilitate"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Elemente paraverbale și nonverbale în prezentarea orală",
+      "summary": "Când spunem o poveste, nu doar cuvintele contează. Tonul vocii, ritmul, pauze, gesturi, expresia facială - toate acestea sunt elemente paraverbale și nonverbale care îmbogățesc narațiunea. În prezentarea unei basm, aceste elemente pot crea suspans, pot transmite emoția și pot captiva audiența. Lectia invata elevii cum să utilizeze aceste instrumente pentru a prezenta basmele intr-un mod atractiv și mai captivant.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt elementele paraverbale?",
+          "options": [
+            "A. Doar cuvintele vorbite",
+            "B. Tonul vocii, ritmul, pauze",
+            "C. Doar gesturi",
+            "D. Doar mișcări"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce sunt elementele nonverbale?",
+          "options": [
+            "A. Cuvintele vorbite",
+            "B. Gesturi, expresii faciale, limbaj corporal",
+            "C. Doar cuvintele scrise",
+            "D. Doar sunetele"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante aceste elemente în prezentarea unei basme?",
+          "options": [
+            "A. Nu sunt importante",
+            "B. Pot crea suspans, pot transmite emoție și pot captiva audiența",
+            "C. Doar pentru plăcerea noastră",
+            "D. Pentru a confunda ascultătorii"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Acte de limbaj: a promite, a afirma",
+      "summary": "A promite este a se angaja să faci ceva în viitor. A afirma este a exprima cu certitudine o idee sau o informație. În prezentarea orală a unei povești, aceste acte sunt importante. Un personaj care promite ceva și apoi nu ține promisiunea devine nedemn de încredere. Afirmațiile personajelor ne ajută să înțelegem convingerile și valorile lor. Lectia invata elevii cum aceste acte de limbaj modelează o poveste și relațiile dintre personaje.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este o promisiune în context de poveste?",
+          "options": [
+            "A. Doar un cuvânt",
+            "B. Un angajament de a face ceva în viitor",
+            "C. O minciuni",
+            "D. Doar vorbă în vânt"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce arată afirmațiile personajelor?",
+          "options": [
+            "A. Doar cuvinte fără sens",
+            "B. Convingerile și valorile personajelor",
+            "C. Doar descrieri fizice",
+            "D. Doar dialoguri inutile"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum afectează promisiunile ținute sau nu ținute o poveste?",
+          "options": [
+            "A. Nu au efect",
+            "B. Formează credibilitatea și relațiile dintre personaje",
+            "C. Sunt doar detalii",
+            "D. Nu contează"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

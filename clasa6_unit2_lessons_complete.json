@@ -1,0 +1,606 @@
+{
+  "unit_number": "2",
+  "unit_name": "Printre colegi și prieteni",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul narativ literar în proză: Oracolul de Mircea Cărtărescu",
+      "summary": "Textul 'Oracolul' de Mircea Cărtărescu este o narațiune literară care explorează teme profunde prin lentila unui eveniment aparent simplu. Cărtărescu este cunoscut pentru stilul său bizar și imaginativ. Textul probabil prezintă o situație în care ceva obișnuit devine extraordinar, investit cu semnificații mistice sau supranaturale. Prin această povestire, autorul invită cititorul să reconsidere realitatea și perceția noastră asupra lumii. Tema oracolului sugerează inevitabilitate a destinului, puterea cunoașterii și responsabilitatea care vine cu adevăr. Textul este o meditație asupra modului în care întâmplările aparent aleatoare sunt parte a unui plan mai mare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cine este autorul textului 'Oracolul'?",
+          "options": [
+            "A. Adina Popescu",
+            "B. Mircea Cărtărescu",
+            "C. Simona Popescu",
+            "D. Ioan Slavici"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce explorez Cărtărescu în textul 'Oracolul'?",
+          "options": [
+            "A. Doar o poveste simplă",
+            "B. Teme profunde prin lentila unui eveniment aparent simplu",
+            "C. Doar aventuri",
+            "D. Doar descrieri geografice"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce sugerează tema oracolului?",
+          "options": [
+            "A. Libertate totală",
+            "B. Inevitabilitate a destinului și puterea cunoașterii",
+            "C. Doar plăcerea",
+            "D. Doar joc"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Timpul și spațiul",
+      "summary": "Timpul și spațiul sunt elemente cruciale în narațiunea din 'Oracolul'. Timp psihologic - cum percepe personajul trecerea timpului - poate fi diferit de timp cronologic. Spațiul poate fi realist sau surreal, obișnuit sau transformator. În textele lui Cărtărescu, adesea spațiul deține o importanță metaphorică: o casă poate representa sufletul, o pădure poate fi necunoscutul. Timp și spațiu interacționează pentru a crea atmosfera și tonul textului. Înțelegerea cum sunt folosite acestea ajută la descifrarea mesajelor mai profunde ale textului.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este timp psihologic?",
+          "options": [
+            "A. Timp măsurat cu ceasul",
+            "B. Cum percepe personajul trecerea timpului",
+            "C. Numai pentru scriitori",
+            "D. Nu există"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce rol poate juca spațiul în text?",
+          "options": [
+            "A. Doar background",
+            "B. O importanță metaphorică și simbolică",
+            "C. Niciun rol",
+            "D. Doar descriere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum interacționează timp și spațiu?",
+          "options": [
+            "A. Nu interacționează",
+            "B. Pentru a crea atmosferă și ton al textului",
+            "C. De exemplu doar cu descrieri",
+            "D. Sunt independente"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Etapele acțiunii (momentele subiectului literar)",
+      "summary": "Etapele acțiunii sunt: expozitie (situația inițială), complicație (introducerea conflictului), progres (dezvoltarea), climax (punctul culminant), rezoluție (deznodământul). Fiecare etapă are scopul și contribuie la progresul narațiunii. În 'Oracolul', aceste etape pot fi disimulate sau restructurate, creând suspans și profunzime. Recunoașterea acestor etape ajută la înțelegerea arhitecturii textului și a intențiilor autorului.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care sunt etapele principale ale unei acțiuni?",
+          "options": [
+            "A. Doar început și sfârșit",
+            "B. Expozitie, complicație, progres, climax, rezoluție",
+            "C. Nu sunt etape",
+            "D. Doar 2 etape"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce se întâmplă în etapa climax?",
+          "options": [
+            "A. Se termină povestea",
+            "B. Punctul culminant - momentul de maxim interes",
+            "C. Se introduce conflictul",
+            "D. Se descriu locurile"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante aceste etape?",
+          "options": [
+            "A. Nu sunt importante",
+            "B. Ajută la înțelegerea arhitecturii și intențiilor autorului",
+            "C. Doar pentru examene",
+            "D. Pentru lungirea textului"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Personajele",
+      "summary": "Personajele în 'Oracolul' pot fi principale, secundare sau episodice. Fiecare personaj are rol în dezvoltarea naratiunii. Caracterizarea poate fi directă (autorul spune despre personaj) sau indirectă (prin acțiuni și dialoguri). Conflictul extern (personaj vs. extern) și conflictul intern (personaj vs. el însuși) creează complexitate. În textele lui Cărtărescu, personajele sunt adesea enigmatice și multidimensionale. Analiza personajelor necesită atenție la motivații, dorințe și schimbări în curs de poveste.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care sunt tipurile de personaje?",
+          "options": [
+            "A. Doar bune și rele",
+            "B. Principale, secundare, episodice",
+            "C. Doar cu nume",
+            "D. Doar din povești"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este caracterizare directă?",
+          "options": [
+            "A. Actiunile personajului",
+            "B. Autorul spune direct despre personaj",
+            "C. Descrierea mâncării",
+            "D. Dialogurile"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce creează complexitate în personaje?",
+          "options": [
+            "A. Doar aspectul fizic",
+            "B. Conflictul extern și intern",
+            "C. Doar vârsta",
+            "D. Doar aspectul social"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Semnificațiile textului",
+      "summary": "Semnificațiile din 'Oracolul' pot referi la inevitabilitate a destinului uman, lipsa controlului, rol al cunoașterii și consecințele ei. Textul poate fi o meditație asupra responsabilității personale în fața viitorului cunoscut sau necunoscut. Cărtărescu adesea explorează relația dintre realitate și imaginație, între rațional și irațional. Semnificațiile se descoperă prin analiza atentă a simbolurilor, repetițiilor, și contradicțiilor din text.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce poate referi 'Oracolul' la nivel simbolic?",
+          "options": [
+            "A. Doar o poveste de aventuri",
+            "B. Inevitabilitate a destinului și puterea cunoașterii",
+            "C. Doar divertisment",
+            "D. Nimic important"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce explorează Cărtărescu adesea?",
+          "options": [
+            "A. Doar acțiune",
+            "B. Relația dintre realitate și imaginație, rațional și irațional",
+            "C. Doar peisaje",
+            "D. Doar tehnologie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum se descoperă semnificațiile?",
+          "options": [
+            "A. Prin citire superficială",
+            "B. Prin analiza simbolurilor, repetițiilor și contradicțiilor",
+            "C. Sunt date în cărți",
+            "D. Nu se pot descoperi"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Noi pagini – alte idei",
+      "summary": "Această secțiune continuă cu alte fragmente sau texte care explorează teme similare în moduri diferite. Prin comparație, elevii dezvoltă capacitate de a recunoaște pattern-uri și variații în literatură. Diverse perspective asupra acelorași teme arată bogăția literaturii și multiplicitate interpretărilor. Aceasta incurajează gândire critică și apreciere pentru nuanțe și complexitate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este scopul secțiunii 'Noi pagini - alte idei'?",
+          "options": [
+            "A. Să plictisească",
+            "B. Să arate diverse perspective asupra acelorași teme",
+            "C. Să lungească cartea",
+            "D. Să confunde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce dezvoltă elevii prin comparație?",
+          "options": [
+            "A. Doar memorie",
+            "B. Capacitate de a recunoaște pattern-uri și variații",
+            "C. Doar viteza de citire",
+            "D. Nicio abilitate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce arată diverse perspective?",
+          "options": [
+            "A. Că toți scriitorii sunt la fel",
+            "B. Bogăția literaturii și multiplicitate interpretărilor",
+            "C. Că literatura nu are sens",
+            "D. Că doar o perspectivă este corectă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Valori ale culturii populare în spațiul românesc. Etnii și jocuri de copii",
+      "summary": "Cultura populară în spațiul românesc reflectă valorile comunităților și tradițiile transmise generații. Jocurile de copii sunt parte a culturii populare care formează identitate și valori. Diferitele etnii din România contribuie la o cultură complexă și multifacetată. Studierea acestor aspecte ajută elevii să înțeleagă rădăcinile propriei culturi și să aprecieze diversitatea. Această perspectivă globală asupra culturii dezvoltă sensibilitate culturală și respect.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce reflectă cultura populară?",
+          "options": [
+            "A. Doar divertisment",
+            "B. Valorile și tradițiile comunității",
+            "C. Doar mâncare",
+            "D. Doar muzică"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce rol au jocurile de copii?",
+          "options": [
+            "A. Doar plăcere",
+            "B. Formează identitate și valori",
+            "C. Doar exercițiu fizic",
+            "D. Nimic important"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce este important să studiem culturii diferite?",
+          "options": [
+            "A. Nu este important",
+            "B. Pentru a dezvolta sensibilitate culturală și respect",
+            "C. Doar pentru școală",
+            "D. Pentru a critica alte culturi"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Rezumatul oral",
+      "summary": "Rezumatul oral este prezentarea pe scurt și clară a conținutului unui text, folosind propriile cuvinte. Trebuie să: 1) Selectezi informații esențiale, 2) Elimini detalii minore, 3) Menții ordinea logică, 4) Exprimi concis și clar. Rezumatul oral necesită înțelegere profundă a textului și abilitate de a prioritiza informații. Este o abilitate importantă pentru comunicare și pentru studiu. Practica rezumării ajută la dezvoltarea gândirii sintetice și a comunicării eficace.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este rezumatul oral?",
+          "options": [
+            "A. Repetarea textului cuvânt cu cuvânt",
+            "B. Prezentarea pe scurt a conținutului cu propriile cuvinte",
+            "C. Lungimea textului",
+            "D. Doar o opinie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce trebuie să faci pentru rezumat?",
+          "options": [
+            "A. Doar să repeti",
+            "B. Selectezi esențial, elimini detalii, menții ordine, exprimi concis",
+            "C. Doar să critici",
+            "D. Să adaugi lucruri noi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce este important rezumatul?",
+          "options": [
+            "A. Nu este important",
+            "B. Pentru comunicare și studiu eficace",
+            "C. Doar pentru examene",
+            "D. Pentru a plictisi"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Verbul",
+      "summary": "Verbul este cuvântul care exprimă acțiune, stare sau proces. Verbele se clasifică în: 1) Transitive (cer complement direct), 2) Intranzitive (nu cer complement). Forme: infinitiv (a merge), participiu (mersul), gerundziu (mergând), supinul (de mers). Timpuri: prezent, trecut, viitor. Moduri: indicativ, conjunctiv, condițional, imperativ. Verbele sunt esențiale în construcția frazei și în exprimarea ideilor. Înțelegerea verbului ajută la analiza sintactică și la exprimarea precisă a gândurilor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă verbul?",
+          "options": [
+            "A. Doar obiecte",
+            "B. Acțiune, stare sau proces",
+            "C. Doar descrieri",
+            "D. Doar numere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt formele verbale?",
+          "options": [
+            "A. Doar infinitiv",
+            "B. Infinitiv, participiu, gerundziu, supinul",
+            "C. Doar participiu",
+            "D. Nicio formă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum se clasifică verbele?",
+          "options": [
+            "A. Doar mari și mici",
+            "B. Transitive (cu complement) și intranzitive (fără)",
+            "C. Doar dificile",
+            "D. Nu se clasifică"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Modul conjunctiv",
+      "summary": "Modul conjunctiv exprimă dorință, speranță, teamă, posibilitate. Se folosește frecvent în enunțuri de speranță: 'Sper că să reușesc'. Se conjugă cu 'să'. Diferit de indicativ care exprimă realitate, conjunctivul exprimă virtualitate. Este important în expresia subiectivă a gândurilor și dorințelor. Utilizarea corectă a conjunctivului face expresia mai bogată și mai nuanțată.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă modul conjunctiv?",
+          "options": [
+            "A. Realitate",
+            "B. Dorință, speranță, teamă, posibilitate",
+            "C. Doar comenzi",
+            "D. Doar afirmații"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum se conjugă conjunctivul?",
+          "options": [
+            "A. Cu 'a'",
+            "B. Cu 'să'",
+            "C. Cu 'din'",
+            "D. Nu se conjugă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este diferența cu indicativul?",
+          "options": [
+            "A. Nu există",
+            "B. Indicativ = realitate, conjunctiv = virtualitate",
+            "C. Sunt identice",
+            "D. Conjunctiv este ușor"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Modul condițional-optativ",
+      "summary": "Modul condițional-optativ exprimă condiția și posibilitatea. Se folosește pentru a exprima situații ipotetice: 'Aș merge dacă aș putea'. Exprimă, de asemenea, dorință (optativ): 'Aș vrea o zi liniștită'. Condiționalul simplu și compus sunt două forme. Este important în discurs pentru exprimarea subtilă a relațiilor cauzale și dorinței. Înțelegerea acestui mod ajută la exprimarea mai precisă a gândurilor și circumstanțelor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă modul condițional-optativ?",
+          "options": [
+            "A. Doar realitate",
+            "B. Condiție, posibilitate, dorință",
+            "C. Doar comenzi",
+            "D. Doar negații"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce exprimi cu 'Aș merge dacă aș putea'?",
+          "options": [
+            "A. Realitate",
+            "B. Condiție și posibilitate",
+            "C. Certitudine",
+            "D. Negație"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce intonaţie are dorința (optativul)?",
+          "options": [
+            "A. Neutră",
+            "B. Exprimă dorință pentru situații ipotetice",
+            "C. Doar negativă",
+            "D. Fără sens"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Posibilități combinatorii ale verbului. Predicatul nominal",
+      "summary": "Predicatul nominal este o combinație de verb de legătură (a fi, a părea, a deveni, a rămâne) cu un atribut predicativ. De exemplu: 'El este profesor'. 'Părea obosit'. Verbele de legătură nu exprimă acțiune, ci stare. Predicatul nominal poate exprima calitate, stare, transformare. Este diferit de predicatul verbal care exprimă acțiune. Înțelegerea predicatelor nominale și verbale ajută la analiza sintactică și la construcția frazelor corecte.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este predicatul nominal?",
+          "options": [
+            "A. O acțiune",
+            "B. Verb de legătură + atribut predicativ",
+            "C. Doar o stare",
+            "D. O descriere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt verbele de legătură?",
+          "options": [
+            "A. Merge, cântă, sare",
+            "B. A fi, a părea, a deveni, a rămâne",
+            "C. A mânca, a bea",
+            "D. A vorbi, a gândi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este diferența cu predicatul verbal?",
+          "options": [
+            "A. Nu există",
+            "B. Nominal = stare, verbal = acțiune",
+            "C. Sunt identice",
+            "D. Nominal este ușor"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Subiectul",
+      "summary": "Subiectul este cuvântul sau grupul de cuvinte care realizează acțiunea din predicat. De exemplu: 'Copilul cântă'. 'Copilul' este subiect. Subiectul se acordă cu predicatul în număr și persoană. Subiecte compuse: mai mult de un subiect. Subiect tăcut (eliptic) se întâmplă când subiectul se poate deduce din context. Analiza subiectului ajută la înțelegerea structurii frazei și a relațiilor gramaticale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este subiectul?",
+          "options": [
+            "A. Predicatul",
+            "B. Cuvântul care realizează acțiunea din predicat",
+            "C. Doar un cuvânt",
+            "D. O descriere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cu ce trebuie să se acorde subiectul?",
+          "options": [
+            "A. Cu obiectul",
+            "B. Cu predicatul în număr și persoană",
+            "C. Cu locul",
+            "D. Nu se acordă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce este subiect tăcut?",
+          "options": [
+            "A. Un subiect răcios",
+            "B. Subiect dedus din context",
+            "C. Un subiect secret",
+            "D. Nu există"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Complementul și circumstanțialul. Prepoziția",
+      "summary": "Complementul direct răspunde la 'ce?' (Ex: 'Cumpăr pâine'). Complementul indirect răspunde la 'cui/cui?'. Circumstanțialul exprimă circumstanțe: timp, loc, cauză, mod, scop, etc. (Ex: 'Merg repede'). Prepoziția este cuvântul care introduce acestea. Prepoziții comune: în, pe, sub, deasupra, pentru, cu, fără, etc. Înțelegerea acestor elemente ajută la analiza sintactică și la înțelegerea structurii propoziției.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este complementul direct?",
+          "options": [
+            "A. O circumstanță",
+            "B. Răspunde la 'ce?'",
+            "C. O prepoziție",
+            "D. Un adverb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce exprimă circumstanțialul?",
+          "options": [
+            "A. Doar loc",
+            "B. Timp, loc, cauză, mod, scop, etc.",
+            "C. Doar acțiune",
+            "D. Doar timp"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce sunt prepoziții?",
+          "options": [
+            "A. Verbe",
+            "B. Cuvinte care introduc complemente și circumstanțiale",
+            "C. Adjective",
+            "D. Adverbe"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Rezumatul scris",
+      "summary": "Rezumatul scris este o prezentare scurtă și sistematică a conținutului unui text. Trebuie să: 1) Păstrezi ideile principale, 2) Elimini detalii secundare, 3) Menții ordinea logică, 4) Redactezi concis în cuvinte proprii. Diferit de rezumatul oral care este vorbitor, rezumatul scris trebuie să fie mai formal și bine structurat. Este o abilitate importantă pentru studiu și pentru comunicare scrisă. Rezumatul bun demonstrează înțelegere profundă a textului și abilitate de sinteză.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce trebuie să faci în rezumatul scris?",
+          "options": [
+            "A. Repeta textul exact",
+            "B. Păstrezi ideile principale, elimini detalii, menții ordine, redactezi concis",
+            "C. Adaugi opinii personale",
+            "D. Critici textul"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este diferența cu rezumatul oral?",
+          "options": [
+            "A. Nu există",
+            "B. Scrisul este mai formal și bine structurat",
+            "C. Sunt identice",
+            "D. Oralul este mai lung"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce demonstrează un rezumat bun?",
+          "options": [
+            "A. Doar viteza",
+            "B. Înțelegere profundă și abilitate de sinteză",
+            "C. Doar memorie",
+            "D. Doar critică"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

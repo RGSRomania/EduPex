@@ -1,0 +1,726 @@
+{
+  "unit_number": "1",
+  "unit_name": "Călătorie în necunoscut",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul narativ literar în proză: Cum e lumea de Veronica D. Niculescu",
+      "summary": "\"Cum e lumea\" de Veronica D. Niculescu este o narațiune care explorează perspectivele și experiențele unui personaj în relație cu lumea. Textul prezintă o călătorie de descoperire personală, unde protagonistul confrontă prejudecățile și ideile preconcepute. Prin descrieri vvide și reflecții interne, autoarea creează o lume complexă plină de nuanțe. Textul ilustrează cum literatura poate transform perceptia noastră asupra realității și asupra altor oameni. Tema centrală este acceptarea diversității și înțelegerea că lumea este mai complexă decât pare la o privire superficială. Veronica D. Niculescu folosește limbaj poetic și imagini puternice pentru a transmite mesajul.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce explorează textul \"Cum e lumea\"?",
+          "options": [
+            "A. Doar aventuri",
+            "B. Perspectivele și experiențele unui personaj în relație cu lumea",
+            "C. Doar descrieri geografice",
+            "D. Doar dialogue"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este tema centrală?",
+          "options": [
+            "A. Frica",
+            "B. Acceptarea diversității și înțelegerea complexității",
+            "C. Ură",
+            "D. Singurătate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce stil folosește autoarea?",
+          "options": [
+            "A. Tehnic",
+            "B. Poetic cu imagini puternice",
+            "C. Conversațional",
+            "D. Științific"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Textul narativ literar. Legarea secvențelor narative",
+      "summary": "Legarea secvențelor narative se referă la modul în care sunt conectate și organiza diferitele scene și episoade ale unei povești. O narațiune bună necesită tranziții fluide între secvențe. Metodele includ: continuitate temporală (o scene urmează alta în timp), cauzalitate (o scena determina urmatoarea), teme recurente, și repetări de motife. Exemplu: într-o poveste, întâlnirea cu o persoană misterioasă (secvența 1) determina o serie de întâmplari (secvența 2), care conduc la o revelație (secvența 3). Legarea slabă poate face o poveste să pară fragmentară, în timp ce legarea bună creează coeziune. Aceasta este o abilitate importantă în scrierea narativă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce înseamnă legarea secvențelor narative?",
+          "options": [
+            "A. Despărțirea poveștii",
+            "B. Conectarea și organizarea diferitelor scene",
+            "C. Doar descriere",
+            "D. Doar dialoguri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt metodele de legare?",
+          "options": [
+            "A. Doar o metodă",
+            "B. Continuitate temporală, cauzalitate, teme recurente",
+            "C. Nicio metodă",
+            "D. Întâmplare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce creează legarea bună?",
+          "options": [
+            "A. Confuzie",
+            "B. Coeziune și fluiditate",
+            "C. Plictiseală",
+            "D. Fragmentare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Naratorul, personajele, autorul. Enumerația",
+      "summary": "Naratorul este vocea care spune povestea. Poate fi: personaj din poveste (narație în persoana I), observator extern (narație în persoana a III-a), sau omniscient (cunoaștere completă). Personajele sunt actorii din poveste. Autorul este cel care a scris textul (nu trebuie confundat cu naratorul). Enumerația este figură de stil care listează elemente consecutive pentru a crea ritm și impact. De exemplu: \"Auzea cântecele păsărilor, mirosea florile purtate de vânt, simțea căldura soarelui\". Aceasta amplifică descrierea și creează emoție. În text, combinația acestor elemente creeaza o experiență immersivă pentru cititor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este naratorul?",
+          "options": [
+            "A. Personajul principal",
+            "B. Vocea care spune povestea",
+            "C. Autorul",
+            "D. Cititorul"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este enumerația?",
+          "options": [
+            "A. Numărarea",
+            "B. Figură care listează elemente consecutive",
+            "C. Doar descriere",
+            "D. Doar adjective"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce confundari naratorul cu autorul?",
+          "options": [
+            "A. Nu sunt diferite",
+            "B. Au roluri diferite - autor = scrie, narrator = spune povestea",
+            "C. Sunt identici",
+            "D. Depinde de text"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Semnificațiile textului",
+      "summary": "Semnificațiile unui text pot opera la mai multe niveluri: literal (ce se spune), figurat (ce se implied), și simbolic (ce reprezintă). De exemplu, o poveste despre o călătorie poate literal spune o poveste de aventuri, dar figurat poate fi despre o călătorie interioară sau spiritual. Semnele și simbolurile din text (culori, obiecte, numere) pot purta semnificații adânci. Analiza semnificațiilor necesită atenție la detalii, repetări, și contextul cultural. Înțelegerea semnificațiilor profunde transformă experiența de citire. Aceasta dezvoltă gândire critică și apreciere pentru complexitatea literaturii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Câte niveluri de semnificație pot exista?",
+          "options": [
+            "A. Doar literal",
+            "B. Literal, figurat, simbolic",
+            "C. Doar unu",
+            "D. Infinit"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce necesită analiza semnificații?",
+          "options": [
+            "A. Citire rapidă",
+            "B. Atenție la detalii, repetări, context",
+            "C. Doar imaginație",
+            "D. Doar memoria"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum transformă semnificații lectură?",
+          "options": [
+            "A. Nu o transformă",
+            "B. Adâncesc experiența și dezvoltă gândire critică",
+            "C. O plictisesc",
+            "D. O fac imposibil"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Textul nonliterar, textul discontinuu. Anunțul",
+      "summary": "Textul nonliterar transmite informație factualii fără artă sau limbaj poetic. Exemplu: manual, articol de știință, anunț. Textul discontinuu prezintă informație în forme variate: tabele, grafice, liste, diagrame. Anunțul este un text nonliterar care comunică un mesaj specific la o audiență țintă. De exemplu: anunț de curs, anunț de muncă. Structura anunțului: titlu atrăgător, conținut clar și concis, informații de contact, call-to-action. Diferența cu textul literar: fără expresivitate artistică, accent pe claritate. Competența de citire a textelor discontinue și nonliterare este esențială în lumea modernă plinii de informație.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este textul nonliterar?",
+          "options": [
+            "A. O poveste",
+            "B. Text care transmite informație factualii",
+            "C. Un poem",
+            "D. O dramă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce sunt texte discontinue?",
+          "options": [
+            "A. Texte complete",
+            "B. Texte în forme variate: tabele, grafice, liste",
+            "C. Texte scurte",
+            "D. Texte lungi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este scopul anunțului?",
+          "options": [
+            "A. Să distreze",
+            "B. Să comunice mesaj specific la audiență țintă",
+            "C. Să confunde",
+            "D. Să întrețeze"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Noi pagini – alte idei. Amintiri din copilărie de Ion Creangă (fragment)",
+      "summary": "\"Amintiri din copilărie\" de Ion Creangă este o operă autobiografică care prezintă momentele memorabile din copilăria autorului. Textul combină nostalgia, umor, și observații sociale penetrante. Creangă descrie cu o culoare vie fapte cotidiene - jocuri de copii, relații familiare, interacțiuni cu ceilalți. Fragmentul oferă o perspectivă asupra vieții rurale românești din sec. XIX. Prin comparație cu textul lui Niculescu, observă diferențe stilistice și de perioadă, dar ambele exploreaza teme de descoperire personală. Aceasta dezvoltă abilități de analiză comparativă și apreciere pentru diverse perspective literare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce tip de operă este \"Amintiri din copilărie\"?",
+          "options": [
+            "A. Ficțiune",
+            "B. Autobiografică cu momente memorabile",
+            "C. Drama",
+            "D. Poem"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce descrie Creangă?",
+          "options": [
+            "A. Doar vreme",
+            "B. Fapte cotidiene cu culoare vie și observații sociale",
+            "C. Doar gânduri",
+            "D. Doar dialogue"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce dezvoltă compararea textelor?",
+          "options": [
+            "A. Nimic",
+            "B. Abilități de analiză și apreciere pentru perspective diverse",
+            "C. Doar memorare",
+            "D. Doar critică"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Contacte culturale",
+      "summary": "Contactele culturale se referă la interacțiunile între diferite culturi, care pot rezulta în schimb de idei, valori, și practici. În context literar, aceasta se manifestă prin aportul literaturii străine asupra literaturii române. De exemplu, romantismul European a influențat literatura română. Contactele culturale pot fi directe (intâlniri între persoane) sau indirecte (prin cărți, artă). Efectele pot fi pozitive (îmbogățire culturală) sau complexe (chestiuni de identitate, dominație). Studierea contactelor culturale ajută la înțelegerea influențelor literare și a dezvoltării culturale. Aceasta promovează deschidere și respect pentru alte culturi.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt contactele culturale?",
+          "options": [
+            "A. Doar întâlniri politice",
+            "B. Interacțiuni între culturi cu schimb de idei",
+            "C. Doar comerciu",
+            "D. Doar conflicte"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum se manifestă în literatură?",
+          "options": [
+            "A. Nu se manifestă",
+            "B. Prin aportul literaturii străine",
+            "C. Prin cenzură",
+            "D. Prin imobilitate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce efecte au contactele culturale?",
+          "options": [
+            "A. Doar negative",
+            "B. Pozitive și complexe - îmbogățire și chestiuni de identitate",
+            "C. Niciun efect",
+            "D. Doar comerciale"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Principii de interacțiune în comunicare",
+      "summary": "Principiile de interacțiune în comunicare includ: ascultare activă, respect pentru perspectiva altuia, claritate în exprimare, non-verbala congruență, feedback constructiv, și empatie. O comunicare eficace necesită ambii participanți să se angajeze pe bază reciprocă. De exemplu: ascultă ce spune celalalt (nu doar așteaptă rândul tău să vorbești), reconoaște validitatea gândirilor lor, exprim-ți ideile clar și concis. Comunicare slabă duce la malinteles și conflict. Aceste principii sunt relevante în contextul textelor și în discuțiile despre texte. Dezvoltarea acestor abilități îmbunătățește relațiile și colaborările.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt principiile de interacțiune?",
+          "options": [
+            "A. Doar reguli",
+            "B. Ascultare activă, respect, claritate, empatie",
+            "C. Doar vorbire",
+            "D. Doar tăcere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce necesită comunicare eficace?",
+          "options": [
+            "A. Doar vorbitor bun",
+            "B. Angajament reciproc al ambilor participanți",
+            "C. Doar ascultător",
+            "D. Nicio condiție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce duce comunicare slabă?",
+          "options": [
+            "A. La comunicare bună",
+            "B. La malinteles și conflict",
+            "C. La tăcere",
+            "D. La nimic"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Fraza. Norme de punctuație",
+      "summary": "Fraza este unitatea sintactică completa cu subiect și predicat. O frază bine construita are: claritate (sensul e evident), logică (ordinea cuvintelor e naturală), și corect (conform regulilor limbii). Norme de punctuație: punctul (.). marchează sfârșit propoziție, virgula (,) separă elementele, punct și virgulă (;) leagă propoziții conexe, punctul de exclamare (!) marchează emoție, semnul întrebării (?) marchează întrebare, ghilimele (\"\") indică citate sau titluri. Utilizare corectă a punctuației îmbunătățește claritatea și ușurință de citire. Erori de punctuație pot modifica sensul. De exemplu: \"Maria pleacă, nu vine.\" vs. \"Maria pleacă nu vine.\" (al doilea e prost construita).",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este fraza?",
+          "options": [
+            "A. Un cuvânt",
+            "B. Unitate sintactică cu subiect și predicat",
+            "C. O silabă",
+            "D. O literă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce marchează punctul?",
+          "options": [
+            "A. Emoție",
+            "B. Sfârșit propoziție",
+            "C. Întrebare",
+            "D. Unire"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce pot modifica erori de punctuație?",
+          "options": [
+            "A. Nimic",
+            "B. Sensul frazei",
+            "C. Doar pronunție",
+            "D. Doar gramatică"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Conjuncția",
+      "summary": "Conjuncția este cuvânt de legătură care unește cuvinte, sintagme, sau propoziții. Tipuri: coordonative (și, sau, dar, deci) și subordinative (dacă, pentru că, care, ca). Coordonative leagă elemente de aceeași valoare: \"Ion și Maria merg la cumpărături\" (și leagă 2 subiecte). Subordinative leagă propoziție principală cu dependentă: \"Dacă plouă, rămân acasă\" (dacă introduce condiție). Funcție: dau logică și coeziune textului. Utilizare corectă: alege conjuncția potrivită pentru relație exprimată. De exemplu, \"pentru că\" indică cauză, \"dacă\" indică condiție. Masteria folosirii conjuncțiilor îmbunătățește scrisul.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este conjuncția?",
+          "options": [
+            "A. Un verb",
+            "B. Cuvânt de legătură",
+            "C. Un substantiv",
+            "D. Un adverb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt tipuri de conjuncții?",
+          "options": [
+            "A. Doar unu",
+            "B. Coordonative și subordinative",
+            "C. Doar adverbe",
+            "D. Nu sunt tipuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce dau conjuncțiile textului?",
+          "options": [
+            "A. Lungime",
+            "B. Logică și coeziune",
+            "C. Emoție",
+            "D. Confuzie"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Derivarea",
+      "summary": "Derivarea este procesul de formare a cuvintelor noi din alte cuvinte prin adăugare de sufixe sau prefixe. De exemplu: \"mâncare\" derivă din \"mânca\" prin adăugare sufixului \"-are\". \"Rehabil\" derivă din \"abil\" prin adăugare prefixului \"re-\". Prefixe comune: re-, un-, pre-, sub-, anti-. Sufixe comune: -are (verb), -or (nom), -ment (adverb). Derivarea permite extinderea vocabularului și înțelegerea relațiilor între cuvinte. De exemplu: \"mânc-a\" (verb) -> \"mânca-re\" (substantiv) -> \"mânca-tor\" (adjectiv/substantiv). Aceasta e abilitate importante pentru analiza cuvintelor și pentru dezvoltarea vocabularului.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este derivarea?",
+          "options": [
+            "A. Pronunție",
+            "B. Formare cuvinte noi din alte cuvinte",
+            "C. Ortografie",
+            "D. Semantică"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce se adauga la rădăcină?",
+          "options": [
+            "A. Consoante",
+            "B. Sufixe și prefixe",
+            "C. Vocale",
+            "D. Silabe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce e importantă derivarea?",
+          "options": [
+            "A. Nu e importantă",
+            "B. Extinde vocabular și clarifica relații între cuvinte",
+            "C. Doar pentru joc",
+            "D. Doar complexitate"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Compunerea. Familia lexicală",
+      "summary": "Compunerea este formare de cuvinte noi prin unire de 2+ cuvinte complete. De exemplu: \"apă\" + \"mână\" = \"apă-mână\" (femeie care lucrează cu apă). \"Greu\" + \"tate\" = \"greu-tate\" (proprietatea de a fi greu). Diferența cu derivarea: compunerea unește cuvinte complete, derivarea adaugă sufixe/prefixe la rădăcini. Familie lexicală: grup de cuvinte cu aceeași rădăcină. De exemplu: \"mân\" (rădăcină) -> \"mână\", \"mânui\", \"manicură\", \"mânuitor\", etc. Înțelegerea compunerii și familiilor lexicale ajută la analiza cuvintelor și la expandarea vocabularului. Aceasta e fundamentală pentru bogăția limbii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este compunerea?",
+          "options": [
+            "A. Adăugare sufixe",
+            "B. Unire de 2+ cuvinte complete",
+            "C. Ortografie",
+            "D. Pronunție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este familie lexicală?",
+          "options": [
+            "A. Cuvinte cu sens opus",
+            "B. Grup cuvinte cu aceeași rădăcină",
+            "C. Cuvinte împrumutate",
+            "D. Cuvinte rare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Diferența compunere - derivare?",
+          "options": [
+            "A. Nu e diferență",
+            "B. Compunere = cuvinte complete, derivare = sufixe/prefixe",
+            "C. Sunt identice",
+            "D. Ambele adauga sufixe"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Pleonasmul",
+      "summary": "Pleonasmul este figură de stil care adaugă cuvinte redundante care nu aduc informație nouă. De exemplu: \"A zis și a spus\" (redundanță). \"Urcat în sus\" (sus e redundant, urcat deja implică direcție ascendentă). Pleonasmul se poate folosi în mod intenționat pentru stil sau pentru claritate în redactare orală. De exemplu: în vorbire, pleonasmul poate ajuta la claritate. În scris formal, de obicei se evită. Confuzia: pleonasmul nu e greșeală ÎNTOTDEAUNA - depinde de context și intenție. În literatura artistică, reduplarea cu efect stilistic nu e pleonasm. Analiza pleonasmului ajută la redactare mai concizie și mai clară.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este pleonasmul?",
+          "options": [
+            "A. O figură",
+            "B. Adăugare cuvinte redundante",
+            "C. O metaforă",
+            "D. Un simbol"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemplu de pleonasm?",
+          "options": [
+            "A. \"A merge departe\"",
+            "B. \"Urcat în sus\"",
+            "C. \"A zice ceva\"",
+            "D. \"A sta acolo\""
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Pleonasmul e întotdeauna greșeală?",
+          "options": [
+            "A. Da",
+            "B. Nu, depinde de context și intenție",
+            "C. E mereu corect",
+            "D. Nu contează"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Categoriile semantice (actualizare). Confuziile paronimice",
+      "summary": "Categoriile semantice sunt grupuri de cuvinte cu aceeași semnificație sau semnificații apropiate. De exemplu: culori (roșu, albastru), animale (pisică, câine). Paronimele sunt cuvinte cu pronunție similară dar semnificații diferite. De exemplu: \"efectiv\" (de fapt) vs. \"efectibil\" (care poate fi făcut). \"Imoral\" (lipsit de morală) vs. \"amoral\" (indiferent la morală). Confuzia paronimelor e o greșeală comună care poate schimba sensul. De exemplu: \"Este o situație efectibil\" (greșit, ar trebui \"efectiv\"). Analiza categoriilor semantice și a paronimelor ajută la utilizare corectă a limbajului și la evitarea confuziilor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt categoriile semantice?",
+          "options": [
+            "A. Grupuri de cuvinte",
+            "B. Grupuri cuvinte cu aceeași semnificație",
+            "C. Doar verbe",
+            "D. Doar adjective"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce sunt paronimele?",
+          "options": [
+            "A. Cuvinte identice",
+            "B. Cuvinte cu pronunție similară dar semnificații diferite",
+            "C. Cuvinte cu sens opus",
+            "D. Cuvinte compuse"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce pot cauza confuzii paronimice?",
+          "options": [
+            "A. Claritate",
+            "B. Schimbarea sensului și erori grave",
+            "C. Îmbunătățire stil",
+            "D. Nimic important"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Îmbinări libere de cuvinte și locuțiuni. Termeni științifici. Limbaj popular. Variație regională a limbii",
+      "summary": "Îmbinări libere: cuvinte care se combinează fără reguli stricte. De exemplu: \"masă albastră\" (putem modifica ordine: \"albastră masă\"). Locuțiuni: expresii cu sens figurat. De exemplu: \"a avea bună speranță\" (a fi optimist). Termeni științifici: cuvinte specific pentru domenii. De exemplu: \"fotosinteza\" (biologie), \"algoritm\" (informatică). Limbaj popular: vorbire zilnică cu elemente coloquiale. De exemplu: \"Merg la cumpărături\" vs. \"Mă duc să cumpăr ceva\". Variație regională: diferențe de vorbire după regiune. De exemplu: Moldova vs. Wallachia au pronunții ușor diferite. Înțelegerea acestor aspecte dezvoltă flexibilitate lingvistică și sensibilitate la registre.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt îmbinări libere?",
+          "options": [
+            "A. Expresii cu sens figurat",
+            "B. Cuvinte care se combinează fără reguli stricte",
+            "C. Doar verbe",
+            "D. Doar sintagme"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce sunt locuțiuni?",
+          "options": [
+            "A. Locuri de vorbire",
+            "B. Expresii cu sens figurat",
+            "C. Doar prepoziții",
+            "D. Doar conjuncții"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "numberNumber": 3,
+          "questionText": "De ce e importantă variația regională?",
+          "options": [
+            "A. Nu e importantă",
+            "B. Pentru sensibilitate lingvistică și cultural",
+            "C. Doar pentru joc",
+            "D. Doar pentru studiu"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "name": "Utilizarea corectă a accentului",
+      "summary": "Accentul (tonul) în limba română marchează silaba care se pronunță cu mai multă forță. Fiecare cuvânt are o singură silabă accentuata. De exemplu: \"TA-BLă\" (accentul pe prima silabă), \"a-CAR-tă\" (accentul pe a doua). Poziția accentului poate schimba sensul: \"inCoMODă\" (adjectiv) vs. \"INCOMod\" (verb). Accentul se marchează cu o linie deasupra vocalei: á, é, í, ó, ú. Reguli: în română, accentul nu e sempre pe aceeași poziție (depinde de cuvânt), dar în general cade pe silaba a doua sau a treia. Utilizare corectă îmbunătățește pronunție și claritate. Erori de accent pot cauza neînțelegere în vorbire.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce marchează accentul?",
+          "options": [
+            "A. Ortografia",
+            "B. Silaba care se pronunță cu mai multă forță",
+            "C. Sensul",
+            "D. Partea de vorbire"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Câte silabe accentuate pe cuvânt?",
+          "options": [
+            "A. Toate",
+            "B. O singură silabă",
+            "C. Două",
+            "D. Niciuna"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Poate poziția accentului schimba sensul?",
+          "options": [
+            "A. Nu",
+            "B. Da, de exemplu \"inCoMODă\" vs. \"INCOMod\"",
+            "C. Doar pentru unele cuvinte",
+            "D. Depinde de context"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "name": "Etapele scrierii. Organizarea unui text în funcție de situația de comunicare",
+      "summary": "Etapele scrierii: 1) Preplaninig (brainstorming, cercetare, organizare ideilor), 2) Redactare (scriere primei versiuni), 3) Revizuire (relectură, corecții de conținut), 4) Editare (corecții de gramatică, ortografie), 5) Publicare. Organizare text depinde de situație comunicării: Pentru o scrisoare de muncă (formal), pentru un text de media socială (informal), pentru o eseu (structurat). De exemplu, scrisoare de muncă necesită: salutare formală, corp bine structurat, încheiere profesională. Text media socială: conversațional, scurt, engaging. Eseu: introducere, dezvoltare, concluzie. Înțelegerea acestor diferențe e esențială pentru comunicare eficace în diverse contexte.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care sunt etapele scrierii?",
+          "options": [
+            "A. Doar redactare",
+            "B. Planning, redactare, revizuire, editare, publicare",
+            "C. Doar editare",
+            "D. Nu sunt etape"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "De ce depinde organizarea textului?",
+          "options": [
+            "A. De lungime",
+            "B. De situația de comunicare",
+            "C. De greutate",
+            "D. De culoare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce necesită scrisoare de muncă?",
+          "options": [
+            "A. Doar conținut",
+            "B. Formalitate, structură, profesionalitate",
+            "C. Doar glumă",
+            "D. Doar scurtime"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "name": "Stil: naturalețe, armonie, varietate, concizie, originalitate",
+      "summary": "Stilul bun în scris are caracteristici: Naturalețe (pare firesc, nu forțat), Armonie (fluiditate, ritm plăcut), Varietate (nu repetare monotonă), Concizie (nu cuvinte inutile), Originalitate (voce personală distinctă). Naturalețe: \"Mergeam la cumpărături\" nu \"Mă deplasam în scopul procurării de bunuri\". Armonie: fraze care se curg bine, nu pe sărituri. Varietate: amestecare lungimi de fraze, nu doar lungi sau scurte. Concizie: \"Am ajuns\" nu \"Am ajuns în sfârșit la locul de destinație\". Originalitate: expresii proprii, nu cliché-uri. Dezvoltarea acestor abilități transformă scrierea din monotonă în captivantă. Aceasta e artă și știință a scrierii bune.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Caracteristici stil bun?",
+          "options": [
+            "A. Doar lungime",
+            "B. Naturalețe, armonie, varietate, concizie, originalitate",
+            "C. Doar complexitate",
+            "D. Doar simplitate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce e naturalețe în stil?",
+          "options": [
+            "A. Limbaj forțat",
+            "B. Pare firesc, nu artificial",
+            "C. Doar complexitate",
+            "D. Doar slang"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce e importantă originalitate?",
+          "options": [
+            "A. Nu e importantă",
+            "B. Creează voce personală distinctă",
+            "C. Doar pentru joc",
+            "D. Doar pentru examen"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

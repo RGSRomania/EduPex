@@ -1,0 +1,240 @@
+{
+  "unit_number": "4",
+  "unit_name": "Popasuri cu tâlc",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul narativ literar în versuri: Uleul și găinile de Grigore Alexandrescu",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Acțiunea, timpul și spațiul",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Enumerația. Personajele",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Semnificațiile textului",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Noi pagini – alte idei",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Valori ale culturii populare în spațiul românesc: înțelepciunea proverbelor",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Dicția în interacțiunile verbale. Inteligența emoțională: exprimarea adecvată a emoțiilor",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Pronumele (actualizare)",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Posibilități combinatorii ale pronumelui",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Pronumele reflexiv",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Numeralul",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Inserarea unor secvențe descriptive într-o narațiune",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Textul explicativ",
+      "summary": "Text",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Q",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

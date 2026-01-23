@@ -1,0 +1,646 @@
+{
+  "unit_number": "3",
+  "unit_name": "Cum descoperim lumea?",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Lecția 1",
+      "summary": "Conținut pentru Unitatea 3, Lecția 1. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Lecția 2",
+      "summary": "Conținut pentru Unitatea 3, Lecția 2. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Lecția 3",
+      "summary": "Conținut pentru Unitatea 3, Lecția 3. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Lecția 4",
+      "summary": "Conținut pentru Unitatea 3, Lecția 4. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Lecția 5",
+      "summary": "Conținut pentru Unitatea 3, Lecția 5. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Lecția 6",
+      "summary": "Conținut pentru Unitatea 3, Lecția 6. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Lecția 7",
+      "summary": "Conținut pentru Unitatea 3, Lecția 7. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Lecția 8",
+      "summary": "Conținut pentru Unitatea 3, Lecția 8. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Lecția 9",
+      "summary": "Conținut pentru Unitatea 3, Lecția 9. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Lecția 10",
+      "summary": "Conținut pentru Unitatea 3, Lecția 10. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Lecția 11",
+      "summary": "Conținut pentru Unitatea 3, Lecția 11. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Lecția 12",
+      "summary": "Conținut pentru Unitatea 3, Lecția 12. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Lecția 13",
+      "summary": "Conținut pentru Unitatea 3, Lecția 13. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Lecția 14",
+      "summary": "Conținut pentru Unitatea 3, Lecția 14. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Lecția 15",
+      "summary": "Conținut pentru Unitatea 3, Lecția 15. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "name": "Lecția 16",
+      "summary": "Conținut pentru Unitatea 3, Lecția 16. Acesta e placeholder cu conținut generic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. Opțiune A",
+            "B. Opțiune B",
+            "C. Opțiune C",
+            "D. Opțiune D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    }
+  ]
+}

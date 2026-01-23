@@ -1,0 +1,206 @@
+{
+  "unit_number": "2",
+  "unit_name": "Calcul algebric în R",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Operații cu numere reale reprezentate prin litere",
+      "summary": "Operații cu litere: a + b, a - b, a × b, a ÷ b, a^n. Proprietăți: comutativitate, asociativitate. Termeni asemenea: aceiași variabile și exponenți. 3x + 2x = 5x. Reducere: adună coeficienți. Exemplu: 2x² + 3x - x² + x = x² + 4x. Ordin operații: parantiezi, puteri, ×/÷, +/-. Aplicații: simplificare expresii. Importanță: algebră fundamentală.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "3x + 2x = ?",
+          "options": [
+            "A. 5",
+            "B. 5x",
+            "C. 6x",
+            "D. x"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Termeni asemenea?",
+          "options": [
+            "A. Variabile diferite",
+            "B. Aceiași variabile și exponenți",
+            "C. Orice termeni",
+            "D. Doar numeri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "2x² + 3x - x² = ?",
+          "options": [
+            "A. x² + 3x",
+            "B. 4x²",
+            "C. 5x",
+            "D. -x²"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Formule de calcul prescurtat",
+      "summary": "(a + b)² = a² + 2ab + b². (a - b)² = a² - 2ab + b². (a + b)(a - b) = a² - b². Exemplu: (2x + 3)² = 4x² + 12x + 9. (x - 2)(x + 2) = x² - 4. Înțelegere: desenare geometric. Importanță: calculă eficient. Aplicații: descompuneri în factori.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "(a + b)² = ?",
+          "options": [
+            "A. a² + b²",
+            "B. a² + 2ab + b²",
+            "C. a² - b²",
+            "D. (a + b)"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "(x - 3)² = ?",
+          "options": [
+            "A. x² - 9",
+            "B. x² - 6x + 9",
+            "C. x² + 9",
+            "D. x - 9"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "(a + b)(a - b) = ?",
+          "options": [
+            "A. a² + b²",
+            "B. 2ab",
+            "C. a² - b²",
+            "D. a - b"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Descompuneri în factori",
+      "summary": "Descompunere: transformare în produs. Metode: factor comun, formule, grupare. Factor comun: 2x + 4 = 2(x + 2). Formule: x² - 4 = (x - 2)(x + 2). Grupare: x² + x + 2x + 2 = x(x+1) + 2(x+1) = (x+1)(x+2). Aplicații: rezolvare ecuații. Exemplu: x³ - 4x = x(x²-4) = x(x-2)(x+2). Importanță: algebra avansată.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "2x + 4 = ?",
+          "options": [
+            "A. 2 + x",
+            "B. 2(x + 2)",
+            "C. 4(x)",
+            "D. 6"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "x² - 9 = ?",
+          "options": [
+            "A. (x - 3)(x + 3)",
+            "B. (x - 3)²",
+            "C. x(x - 9)",
+            "D. 9"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "x² + 3x + 2 = ?",
+          "options": [
+            "A. (x + 1)(x + 2)",
+            "B. (x + 3)(x)",
+            "C. x² + 5",
+            "D. (x + 2)²"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Fracții algebrice",
+      "summary": "Fracție algebrică: raport polinoame. (2x+1)/(x-1). Simplificare: (x²-4)/(x-2) = (x-2)(x+2)/(x-2) = x+2 (x≠2). Adunare: același numitor. Numitori diferiți: LCM. Înmulțire: (a/b)×(c/d)=ac/bd. Împărțire: (a/b)÷(c/d)=(a/b)×(d/c). Domeniu: numitor≠0. Aplicații: ecuații raționale. Importanță: algebra complexă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "(x²-4)/(x-2) = ?",
+          "options": [
+            "A. x - 2",
+            "B. x + 2",
+            "C. x - 4",
+            "D. 2"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "(a/b)×(c/d) = ?",
+          "options": [
+            "A. (a+c)/(b+d)",
+            "B. ac/bd",
+            "C. (a-c)/(b-d)",
+            "D. (a/c)×(b/d)"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Domeniu fracție?",
+          "options": [
+            "A. Orice real",
+            "B. Numitor ≠ 0",
+            "C. Numitor = 0",
+            "D. Fără restricție"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Ecuația ax² + bx + c = 0",
+      "summary": "Ecuație pătratică: ax² + bx + c = 0. Formula: x = [-b ± √(b²-4ac)]/(2a). Discriminant: Δ = b²-4ac. Δ>0: două soluții. Δ=0: o soluție. Δ<0: nicio soluție. Exemplu: x²-5x+6=0. Δ=25-24=1. x=(5±1)/2 = 3 sau 2. Verificare: 3²-5(3)+6=0✓. Factorizare: a(x-x₁)(x-x₂). Aplicații: fizică, economie. Importanță: fundamentală.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Formula x = ?",
+          "options": [
+            "A. -b±√(b²-4ac)/(2a)",
+            "B. [-b±√(b²-4ac)]/(2a)",
+            "C. b/2a",
+            "D. (a+b+c)/0"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Δ = 0 înseamnă?",
+          "options": [
+            "A. Două soluții",
+            "B. O soluție",
+            "C. Nicio soluție",
+            "D. Infinit soluții"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "x²-5x+6=0 soluții?",
+          "options": [
+            "A. 2, 3",
+            "B. 1, 6",
+            "C. 0, 5",
+            "D. -2, -3"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

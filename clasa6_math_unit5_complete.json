@@ -1,0 +1,96 @@
+{
+  "unit_number": "5",
+  "unit_name": "Noțiuni geometrice fundamentale",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Unghiuri opuse la vârf. Unghiuri formate în jurul unui punct. Unghiuri complementare, unghiuri suplementare",
+      "summary": "Opuse vârf: egale. Jurul punct: 360°. Complementare: 90°. Suplementare: 180°.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Unghi 40°. Suplement?",
+          "options": [
+            "A. 50°",
+            "B. 140°",
+            "C. 40°",
+            "D. 90°"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Unghiuri adiacente. Bisectoarea unui unghi. Construcția bisectoarei unui unghi",
+      "summary": "Adiacente: învecinare. Bisectoare: divide în 2 egale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Bisectoare unghi 80°?",
+          "options": [
+            "A. 40°",
+            "B. 80°",
+            "C. 160°",
+            "D. 20°"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Drepte paralele. Axioma paralelelor. Criterii de paralelism. Aplicații practice",
+      "summary": "Paralele: nu se intersectează. Axioma: o singură paralelă prin punct extern.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt paralele?",
+          "options": [
+            "A. Perpendiculare",
+            "B. Nu se intersectează",
+            "C. Se întâlnesc",
+            "D. Coincid"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Drepte perpendiculare în plan. Oblice. Distanța de la un punct la o dreaptă. Mediatoarea unui segment",
+      "summary": "Perpendiculare: 90°. Mediatoare: perpendiculară prin mijloc.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Unghi perpendiculare?",
+          "options": [
+            "A. 45°",
+            "B. 60°",
+            "C. 90°",
+            "D. 180°"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Cercul",
+      "summary": "Cerc: puncte echidistante de centru. Lungime = 2πr. Arie = πr².",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cerc rază 5. Arie?",
+          "options": [
+            "A. 5",
+            "B. 10π",
+            "C. 25π",
+            "D. 5π"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    }
+  ]
+}

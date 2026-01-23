@@ -1,0 +1,326 @@
+{
+  "unit_number": "4",
+  "unit_name": "Patrulaterul",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Patrulaterul convex. Suma măsurilor unghiurilor unui patrulater convex",
+      "summary": "Patrulater: 4 vârfuri, 4 laturi, 4 unghiuri. Convex: toate unghiuri < 180°. Suma unghiuri: 360°. Exemplu: 90°+90°+90°+90°=360° (pătrat). Proprietăți: diagonale, perimetru, arie. Tipuri: paralelogram, dreptunghi, romb, pătrat, trapez. Teoremă: ∠A+∠B+∠C+∠D=360°. Verificare: descompune în triunghiuri (3 laturi × 180° × 4 / 4 = 360°). Aplicații: construcție, inginerie. Important pentru geometrie.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Suma unghiuri patrulater?",
+          "options": [
+            "A. 180°",
+            "B. 270°",
+            "C. 360°",
+            "D. 540°"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Patrulater convex e?",
+          "options": [
+            "A. Un unghi >180°",
+            "B. Toate unghiuri <180°",
+            "C. Două unghiuri >180°",
+            "D. Nicio condiție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Unghi pătrat?",
+          "options": [
+            "A. 45°",
+            "B. 60°",
+            "C. 90°",
+            "D. 120°"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Paralelogramul. Proprietăți",
+      "summary": "Paralelogram: laturile opuse paralele și egale. Proprietăți: 1) Laturile opuse egale, 2) Unghiurile opuse egale, 3) Unghiurile consecutive suplementare, 4) Diagonalele se înjumătățesc. Arie = bază × înălțime. Perimetru = 2(a+b). Exemplu: bază=5, înălțime=3 → A=15. Cazuri speciale: dreptunghi, romb, pătrat. Aplicații: construcție. Important pentru geometrie.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Proprietate paralelogram?",
+          "options": [
+            "A. Laturi egale",
+            "B. Laturile opuse egale",
+            "C. Toate unghiuri=90°",
+            "D. Diagonale perpendiculare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Arie paralelogram b=4, h=3?",
+          "options": [
+            "A. 7",
+            "B. 12",
+            "C. 3",
+            "D. 4"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Unghiuri consecutive?",
+          "options": [
+            "A. Egale",
+            "B. Suplementare (suma 180°)",
+            "C. Complementare",
+            "D. Opuse"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Aplicații ale paralelogramului în geometria triunghiului. Linia mijlocie în triunghi, centrul de greutate al unui triunghi",
+      "summary": "Linie mijlocie: conectează mijlocurile două laturi. Proprietate: paralelă cu a 3-a latură, jumătate lungimea ei. Centru greutate: intersecție mediane (din vârf la mijlocul latură opuse). Proprietate: împarte fiecare mediană în raport 2:1. Arie triunghi împărțit în 6 triunghiuri egale. Aplicații: construcție, mecanică. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Linie mijlocie triunghi?",
+          "options": [
+            "A. Bisector",
+            "B. Paralel cu latură, jumătate lungime",
+            "C. Median",
+            "D. Înălțime"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Centru greutate?",
+          "options": [
+            "A. Mijloc latură",
+            "B. Intersecție mediane",
+            "C. Centru cerc",
+            "D. Vârf"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Median împart în raport?",
+          "options": [
+            "A. 1:1",
+            "B. 1:2",
+            "C. 2:1",
+            "D. 3:1"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Dreptunghiul. Proprietăți",
+      "summary": "Dreptunghi: paralelogram cu toate unghiuri=90°. Proprietăți: 1) Laturile opuse egale, 2) Diagonale egale, 3) Diagonale se înjumătățesc, 4) Unghi 90°. Arie = lungime × lățime. Perimetru = 2(L+l). Diagonală = √(L²+l²). Exemplu: L=5, l=3 → A=15, d=√34≈5.83. Pătrat: caz special (L=l). Aplicații: arhitectură, inginerie. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Proprietate dreptunghi?",
+          "options": [
+            "A. Diagonale perpendiculare",
+            "B. Diagonale egale",
+            "C. Laturile egale",
+            "D. Unghiuri 60°"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Arie dreptunghi L=6, l=4?",
+          "options": [
+            "A. 10",
+            "B. 24",
+            "C. 20",
+            "D. 12"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Diagonal L=3, l=4?",
+          "options": [
+            "A. 5",
+            "B. 7",
+            "C. 12",
+            "D. 25"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Rombul. Proprietăți",
+      "summary": "Romb: paralelogram cu toate laturi egale. Proprietăți: 1) Laturi egale, 2) Unghiurile opuse egale, 3) Diagonale perpendiculare, 4) Diagonale se înjumătățesc. Arie = (d₁×d₂)/2 (diagonale). Perimetru = 4×latura. Exemplu: d₁=6, d₂=8 → A=24. Caz special: pătrat (unghiuri 90°). Aplicații: design, arhitectură. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Proprietate romb?",
+          "options": [
+            "A. Diagonale egale",
+            "B. Diagonale perpendiculare",
+            "C. Unghiuri 90°",
+            "D. Laturi diferite"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Arie romb d₁=4, d₂=6?",
+          "options": [
+            "A. 10",
+            "B. 24",
+            "C. 12",
+            "D. 2"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Pătrat e romb?",
+          "options": [
+            "A. Nu",
+            "B. Da",
+            "C. Poate",
+            "D. Niciodată"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Pătratul. Proprietăți",
+      "summary": "Pătrat: paralelogram cu toate laturi egale și unghiuri=90°. Proprietăți: 1) Laturi egale, 2) Diagonale egale și perpendiculare, 3) Diagonale bisectează unghiuri. Arie = latura². Diagonală = latura×√2. Perimetru = 4×latura. Exemplu: latura=5 → A=25, d=5√2≈7.07. Cazuri speciale: niciun (e cea mai simetrică figură 2D). Aplicații: arhitectură, design. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Arie pătrat latură=4?",
+          "options": [
+            "A. 16",
+            "B. 8",
+            "C. 4",
+            "D. 32"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Diagonală pătrat latură=1?",
+          "options": [
+            "A. 1",
+            "B. √2",
+            "C. 2",
+            "D. 2√2"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Proprietate pătrat?",
+          "options": [
+            "A. Diagonale paralele",
+            "B. Diagonale egale și perpendiculare",
+            "C. Diagonale diferite",
+            "D. Fără diagonale"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Trapezul: clasificare, proprietăți. Linia mijlocie în trapez",
+      "summary": "Trapez: patrulater cu o pereche laturi paralele (bazele). Tipuri: isoscel (laturile neparalele egale), dreptunghic (unghi 90°). Proprietăți: suma unghiuri=360°, unghiurile de pe aceeași latură neparalelă suplementare. Linie mijlocie: paralelă cu bazele, lungime = (B+b)/2 (media aritmetic). Arie = ((B+b)×h)/2. Exemplu: B=8, b=4, h=3 → A=18. Aplicații: inginerie, construcție. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Trapez e?",
+          "options": [
+            "A. Toate laturi paralele",
+            "B. O pereche laturi paralele",
+            "C. Nicio latură paralelă",
+            "D. Trei laturi paralele"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Linie mijlocie trapez B=6, b=4?",
+          "options": [
+            "A. 5",
+            "B. 2",
+            "C. 10",
+            "D. 24"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Arie trapez B=10, b=6, h=4?",
+          "options": [
+            "A. 32",
+            "B. 60",
+            "C. 40",
+            "D. 20"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Perimetre și arii",
+      "summary": "Perimetru: suma lungimi laturi. Arie: suprafață închisă. Formule: Paralelogram P=2(a+b), A=b×h; Dreptunghi P=2(L+l), A=L×l; Romb P=4a, A=(d₁×d₂)/2; Pătrat P=4a, A=a²; Trapez P=B+b+c+d, A=((B+b)×h)/2. Calcule: exemplu dreptunghi L=7, l=3 → P=20, A=21. Unități: cm², m². Aplicații: construcție, design. Important pentru măsurători.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Perimetru pătrat latură=5?",
+          "options": [
+            "A. 25",
+            "B. 20",
+            "C. 5",
+            "D. 10"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Arie dreptunghi L=8, l=5?",
+          "options": [
+            "A. 13",
+            "B. 40",
+            "C. 26",
+            "D. 3"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Arie trapez B=10, b=6, h=5?",
+          "options": [
+            "A. 40",
+            "B. 80",
+            "C. 60",
+            "D. 30"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "unit_number": "6",
+  "unit_name": "Asemănarea triunghiurilor",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Segmente proporționale. Teorema paralelelor echidistante",
+      "summary": "Segmente proporționale: a/b = c/d (raportul egal). Teore paralelele echidistante: dacă linii paralele taie laturile unghi în segmente egale pe o latură → segmente proporționale pe cealaltă latură. Exemplu: paralele distanță egală → raport egal. Aplicații: construcție, scar. Important pentru asemănare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "a/b=c/d e?",
+          "options": [
+            "A. Proporție",
+            "B. Segemnte proporțional",
+            "C. Raport egal",
+            "D. Toate"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Paralele echidistante?",
+          "options": [
+            "A. Intersectează",
+            "B. Crează segmente proporțional",
+            "C. Nu-si legate",
+            "D. Sunt paralele"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Aplicație proporțional?",
+          "options": [
+            "A. Doar teorie",
+            "B. Construcție, scară",
+            "C. Fără aplicație",
+            "D. Doar matematică"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Teorema lui Thales",
+      "summary": "Thales: dacă paralele taie laturile unghi → segmente proporționale. AB'/AB = AC'/AC. Exemplu: paralelă la BC în triungul ABC. Aplicații: măsurării indirecte, scar. Important pentru asemănare. Verificare: substituie valori.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Thales formula?",
+          "options": [
+            "A. AB/AC=BC/DE",
+            "B. AB'/AB=AC'/AC",
+            "C. A+B=C",
+            "D. d=√(a²+b²)"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Aplicație Thales?",
+          "options": [
+            "A. Doar unghi",
+            "B. Măsurări indirecte, scară",
+            "C. Perimetru",
+            "D. Volum"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Paralele la latură?",
+          "options": [
+            "A. Creează unghiuri egale",
+            "B. Creează segmente proporțional",
+            "C. Negă Thales",
+            "D. E grease"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Triunghiuri asemenea. Teorema fundamentală a asemănării",
+      "summary": "Asemănare: două triunghiuri cu unghiuri corespunzătoare egale și laturi corespunzătoare proporționale. Notație: △ABC ~ △DEF. Raport asemănare: k = AB/DE. Arii: raport arii = k². Teorema fundamentală: dacă dreapta paralelă la latură → triunghi asemenea. Aplicații: înălțimi, distanțe. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Triunghiuri asemenea?",
+          "options": [
+            "A. Doar unghiuri egale",
+            "B. Unghiuri egale și laturi proporțional",
+            "C. Doar laturi egale",
+            "D. Orientare egală"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Raport arii?",
+          "options": [
+            "A. k",
+            "B. k²",
+            "C. k³",
+            "D. 1/k"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Dreapta paralelă latură?",
+          "options": [
+            "A. Creează unghi drept",
+            "B. Creează triunghi asemenea",
+            "C. Negă asemănare",
+            "D. E perpendicular"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Criterii de asemănare a triunghiurilor. Aproximarea în practică a distanțelor folosind asemănarea",
+      "summary": "Criterii: 1) UUU (unghiuri), 2) LLL (laturi proporționale), 3) LUL (latură-unghi-latură proporționale). Aplicații practice: măsurare înălțimi (piramide, clădiri), distanțe (ape, munți). Metod: asemănare cu triunghi cunoscut, calcul proportion. Exemplu: umbră person vs. umbră obect. Important pentru măsuratori.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Criteriu UUU?",
+          "options": [
+            "A. Unghiuri egale",
+            "B. Unghi-unghiu-unghiu egal",
+            "C. Laturile egale",
+            "D. Proporții"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Măsurare înălțime?",
+          "options": [
+            "A. Direct",
+            "B. Asemănare cu triunghi cunoscut",
+            "C. Doar teorie",
+            "D. Imposibil"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Aplicație practică?",
+          "options": [
+            "A. Doar exercitii",
+            "B. Măsurare distanțe, înălțimi",
+            "C. Fără aplicație",
+            "D. Doar calculate"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unit_number": "3",
+  "unit_name": "Funcții",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Funcții. Funcții definite pe mulțimi finite",
+      "summary": "Funcție: f: X→Y, asociază fiecărui x din X un unic y din Y. Notație: f(x)=y. Domeniu: X. Codomeniu: Y. Imagine: valorile f(x). Funcție pe mulțimi finite: tabel sau diagram Venn. Exemplu: f={1→2, 2→4, 3→6}. Funcție injectivă: x₁≠x₂ ⇒ f(x₁)≠f(x₂). Surjectivă: imagine=codomeniu. Bijectivă: amândouă. Importanță: concept fundamental.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Funcție f: X→Y?",
+          "options": [
+            "A. Subset X",
+            "B. Asociază x cu unic y",
+            "C. Doar valori",
+            "D. Relație"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Domeniu?",
+          "options": [
+            "A. Y",
+            "B. X",
+            "C. Imagine",
+            "D. Codomeniu"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Injectivă?",
+          "options": [
+            "A. Toți x diferiti",
+            "B. x₁≠x₂⇒f(x₁)≠f(x₂)",
+            "C. Doar mulțimi",
+            "D. Fără relație"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Funcția de forma f(x) = ax + b",
+      "summary": "Funcție liniară: f(x)=ax+b cu a,b∈ℝ, a≠0. Grafic: dreaptă. Pantă: a. Ordonată origine: b. f(0)=b. Punct: (0,b). x=0 ⇒ y=b. y=0 ⇒ x=-b/a. Exemplu: f(x)=2x+3. Pantă=2 (crește). Ordonată=3. Punct (0,3). Punct (-3/2,0). Monotonie: a>0 crescătoare, a<0 descrescătoare. Importanță: modelă relații liniare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Funcție liniară forma?",
+          "options": [
+            "A. ax²+bx+c",
+            "B. ax+b",
+            "C. a/x+b",
+            "D. √(ax+b)"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "f(x)=2x+3 ordonată?",
+          "options": [
+            "A. 2",
+            "B. 3",
+            "C. -3/2",
+            "D. 0"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "a>0 funcție?",
+          "options": [
+            "A. Descrescătoare",
+            "B. Crescătoare",
+            "C. Constantă",
+            "D. Parabolă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Elemente de statistică",
+      "summary": "Indicatori tendință centrală: media, mediana, moda. Media: (x₁+x₂+...+xₙ)/n. Mediana: valoare mijloc ordonate. Moda: valoare cea mai frecventă. Exemplu: date 2,3,3,5,7. Media=(2+3+3+5+7)/5=4. Mediana=3. Moda=3. Aplicații: analiza date. Importanță: statistică descriptivă. Calcule practice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Media 2,4,6?",
+          "options": [
+            "A. 2",
+            "B. 4",
+            "C. 6",
+            "D. 3"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Mediana?",
+          "options": [
+            "A. Medie",
+            "B. Valoare mijloc",
+            "C. Frecvență",
+            "D. Total"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Moda?",
+          "options": [
+            "A. Medie",
+            "B. Mediana",
+            "C. Cea mai frecventă",
+            "D. Suma"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    }
+  ]
+}

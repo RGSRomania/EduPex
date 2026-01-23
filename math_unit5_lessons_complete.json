@@ -1,0 +1,366 @@
+{
+  "unit_number": "5",
+  "unit_name": "Fracții zecimale",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Fracții zecimale; scrierea fracțiilor ordinare...",
+      "summary": "Fracțiile zecimale sunt fracții cu numitorul o putere a lui 10 (10, 100, 1000, etc.). Se scriu folosind virgulă: 0,5 = 5/10, 0,25 = 25/100. Fiecare poziție după virgulă reprezentează o putere negativă a lui 10: prima poziție = zecimi (1/10), a doua = sutimi (1/100), a treia = miimi (1/1000). De exemplu, 3,25 = 3 + 2/10 + 5/100. Conversia fracțiilor ordinare în zecimale se face prin împărțire.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este o fracție zecimală?",
+          "options": [
+            "A. O fracție cu numitorul 10",
+            "B. O fracție cu numitorul o putere a lui 10",
+            "C. O fracție cu numitor orice",
+            "D. O fracție negativa"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Transformă 3/4 în fracție zecimală",
+          "options": [
+            "A. 0,25",
+            "B. 0,5",
+            "C. 0,75",
+            "D. 1,25"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce reprezintă cifra din a doua poziție după virgulă?",
+          "options": [
+            "A. Zecimi",
+            "B. Sutimi",
+            "C. Miimi",
+            "D. Zeci"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Aproximări; compararea, ordonarea și reprezentarea pe axa numerelor...",
+      "summary": "Aproximarea unei fracții zecimale se face rotunjind la o anumită poziție: rotunjire la zecimi (o poziție), la sutimi (două poziții), etc. De exemplu, 3,257 rotunjit la sutimi este 3,26. Compararea se face din stânga: mai întâi se compară părțile întregi, apoi zecimile, sutimile, etc. De exemplu, 3,2 < 3,25 < 3,3. Reprezentarea pe axa numerelor ajută la vizualizare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Rotunjește 2,34 la zecimi",
+          "options": [
+            "A. 2,3",
+            "B. 2,4",
+            "C. 2,34",
+            "D. 2,0"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Compară 2,5 și 2,50",
+          "options": [
+            "A. 2,5 > 2,50",
+            "B. 2,5 < 2,50",
+            "C. 2,5 = 2,50",
+            "D. Nu se pot compara"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Compară 1,234 și 1,324",
+          "options": [
+            "A. 1,234 > 1,324",
+            "B. 1,234 = 1,324",
+            "C. 1,234 < 1,324",
+            "D. Nu se pot compara"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Adunarea și scăderea fracțiilor zecimale cu un număr finit de zecimale nenule",
+      "summary": "Adunarea și scăderea fracțiilor zecimale se face alinând punctul zecimal: numerele se aliniază vertical, iar operația se efectuează normal. De exemplu, 2,5 + 1,23 = 3,73. Se poate gândi și ca adunare de fracții: 2,5 = 2 5/10, 1,23 = 1 23/100, deci 2,5 + 1,23 = 2,50 + 1,23 = 3,73. Scăderea se face similar.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Calculează 2,5 + 1,3",
+          "options": [
+            "A. 3,2",
+            "B. 3,8",
+            "C. 3,7",
+            "D. 4,1"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează 5,6 - 2,1",
+          "options": [
+            "A. 3,3",
+            "B. 3,4",
+            "C. 3,5",
+            "D. 7,7"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Calculează 3,25 + 1,75",
+          "options": [
+            "A. 4,50 = 4,5",
+            "B. 5,0",
+            "C. 5,00 = 5",
+            "D. 4,100"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule",
+      "summary": "Înmulțirea fracțiilor zecimale se face ca înmulțire de numere întregi, apoi se plasează virgulă la poziția corespunzătoare. Regula: numărul de zecimale din rezultat = suma numărului de zecimale din factori. De exemplu, 2,5 × 1,3: se calculează 25 × 13 = 325, și din moment ce avem 1 + 1 = 2 zecimale, rezultatul este 3,25.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Calculează 2,5 × 2",
+          "options": [
+            "A. 4,5",
+            "B. 5",
+            "C. 5,5",
+            "D. 4"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează 0,5 × 0,2",
+          "options": [
+            "A. 0,10 = 0,1",
+            "B. 0,25",
+            "C. 1,0",
+            "D. 0,02"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Câte zecimale are rezultatul lui 1,5 × 2,25?",
+          "options": [
+            "A. 1 zecimală",
+            "B. 2 zecimale",
+            "C. 3 zecimale",
+            "D. 4 zecimale"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Împărțirea a două numere naturale cu rezultat fracție zecimală...",
+      "summary": "Când se împarte un număr natural la altul și rezultatul nu este întreg, se obține o fracție zecimală. De exemplu, 5 ÷ 2 = 2,5. Pentru a calcula, se continuă împărțirea după virgulă: 5 ÷ 2 = 2 rest 1, 10 ÷ 2 = 5, deci 5 ÷ 2 = 2,5. Media aritmetică a numerelor se calculează ca suma lor împărțită la cantitate: (a + b) ÷ 2 = media.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Calculează 7 ÷ 2",
+          "options": [
+            "A. 3",
+            "B. 3,25",
+            "C. 3,5",
+            "D. 4"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează media aritmetică a numerelor 10 și 20",
+          "options": [
+            "A. 15",
+            "B. 20",
+            "C. 25",
+            "D. 10"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Calculează 9 ÷ 4",
+          "options": [
+            "A. 2,2",
+            "B. 2,25",
+            "C. 2,5",
+            "D. 3"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule...",
+      "summary": "Împărțirea fracțiilor zecimale se poate face prin transformarea împărțitorului în număr întreg (deplasând virgula și multiplicând ambele numere cu puteri ale lui 10), apoi efectuând împărțirea. De exemplu, 6,25 ÷ 2,5 = 62,5 ÷ 25 = 2,5. Regula: se deplasează virgula în ambele numere cu același număr de poziții, astfel încât împărțitorul să devină întreg.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Calculează 10 ÷ 2,5",
+          "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează 0,8 ÷ 0,4",
+          "options": [
+            "A. 1",
+            "B. 2",
+            "C. 0,5",
+            "D. 4"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Calculează 6 ÷ 0,5",
+          "options": [
+            "A. 3",
+            "B. 6",
+            "C. 12",
+            "D. 0,5"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Număr rațional pozitiv; ordinea efectuării operațiilor cu numere raționale pozitive",
+      "summary": "Numărul rațional pozitiv este orice număr care poate fi exprimat ca o fracție p/q unde p și q sunt numere naturale și q ≠ 0. Aceasta include fracții ordinare, fracții zecimale și numere întregi. Ordinea operațiilor cu numere raționale este aceeași ca și cu numere naturale: 1) Paranteze, 2) Exponenți, 3) Înmulțire și Împărțire, 4) Adunare și Scădere.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care dintre următoarele este un număr rațional?",
+          "options": [
+            "A. √2",
+            "B. π",
+            "C. 3/4",
+            "D. ∞"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează 2 + 3 × 0,5",
+          "options": [
+            "A. 2,5",
+            "B. 3,5",
+            "C. 1,5",
+            "D. 4"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Calculează (1 + 0,5) × 2",
+          "options": [
+            "A. 2",
+            "B. 2,5",
+            "C. 3",
+            "D. 3,5"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Metode aritmetice pentru rezolvarea problemelor cu fracții...",
+      "summary": "Metodele aritmetice (reducerea la unitate, comparația, figurativă, mersul invers, falsa ipoteză) se pot aplica și la probleme cu fracții și numere zecimale. De exemplu, metoda reducerii la unitate: dacă 5 kg de mere (fracționate) costă 10,5 lei, 1 kg costă 10,5 ÷ 5 = 2,1 lei. Metodele rămân aceleași, doar că lucrăm cu numere raționale în loc de numere naturale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Dacă 3 cărți costă 21,6 lei, cât costă 5 cărți?",
+          "options": [
+            "A. 28 lei",
+            "B. 30 lei",
+            "C. 36 lei",
+            "D. 40 lei"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care metodă folosim pentru a afla preț unitar?",
+          "options": [
+            "A. Metoda falsei ipoteze",
+            "B. Metoda reducerii la unitate",
+            "C. Metoda mersului invers",
+            "D. Metoda figurativă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Calculează 2/3 din 15,6",
+          "options": [
+            "A. 10",
+            "B. 10,2",
+            "C. 10,4",
+            "D. 11"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Probleme de organizare a datelor. Frecvență. Grafice cu linii. Media unui set de date statistice",
+      "summary": "Organizarea datelor presupune colectarea și aranjarea informației pentru a o putea analiza. Frecvența este numărul de ori pe care apare o valoare. Graficele cu linii sunt folosite pentru a arăta evoluția datelor în timp. Media unui set de date este suma tuturor valorilor împărțită la numărul de valori. De exemplu, media setului {2, 3, 4} = (2+3+4)/3 = 9/3 = 3. Acestea sunt baze ale statisticii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este frecvența în statistica?",
+          "options": [
+            "A. Valoarea cea mai mică",
+            "B. Valoarea cea mai mare",
+            "C. Numărul de ori pe care apare o valoare",
+            "D. Suma tuturor valorilor"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Calculează media setului {2, 4, 6, 8}",
+          "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 7"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Pentru ce sunt folosite graficele cu linii?",
+          "options": [
+            "A. Pentru a arăta doar numere întregi",
+            "B. Pentru a arăta evoluția datelor în timp",
+            "C. Pentru a compara fracții",
+            "D. Pentru a calcula media"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

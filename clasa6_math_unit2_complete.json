@@ -1,0 +1,366 @@
+{
+  "unit_number": "2",
+  "unit_name": "Rapoarte, proporții",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Rapoarte",
+      "summary": "Raportul a : b = a/b compară două mărimi. De exemplu, raportul dintre băieți și fete. Proprietăți: rapoartele egale se obțin amplificând/simplificând. Raportul kan:kb = a:b. Aplicații: scări pe hărți, procentaje. Interpretare: raportul 3:2 înseamnă că pentru fiecare 3 unități din prima mărime, sunt 2 din a doua. Raporturile sunt fundamentale pentru proporții și proporționalitate. Exemplu: dacă într-o clasă sunt 12 băieți și 8 fete, raportul este 12:8 = 3:2.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este raportul a:b?",
+          "options": [
+            "A. a + b",
+            "B. a/b",
+            "C. a × b",
+            "D. a - b"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este raportul 12:8 simplificat?",
+          "options": [
+            "A. 6:4",
+            "B. 3:2",
+            "C. 4:3",
+            "D. 1:2"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce înseamnă raportul 5:3?",
+          "options": [
+            "A. 5 > 3",
+            "B. Pentru 5 unități din A, 3 din B",
+            "C. 5/3 = 1",
+            "D. Sunt egale"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Proporții. Proprietatea fundamentală a proporțiilor. Determinarea unui termen necunoscut dintr-o proporție",
+      "summary": "Proporție: egalitate de două rapoarte a/b = c/d. Proprietatea fundamentală: a×d = b×c (produsul extremilor = produsul mezilor). Determinarea necunoscutei: x/4 = 6/8 ⇒ x×8 = 4×6 ⇒ x = 3. Verificare: 3/4 = 6/8 = 0,75. Aplicații practice: scară, viteză, densitate. Proporții directe și inverse. Seria de proporții egale: a/b = c/d = e/f. Proporțiile sunt instrumente puternice în matematică aplicată și științe.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este proporția?",
+          "options": [
+            "A. Un raport",
+            "B. Egalitate de două rapoarte",
+            "C. O operație",
+            "D. O inegalitate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este proprietatea fundamentală?",
+          "options": [
+            "A. a + d = b + c",
+            "B. a × d = b × c",
+            "C. a × c = b × d",
+            "D. a/d = b/c"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Rezolvă x/5 = 4/10",
+          "options": [
+            "A. x = 2",
+            "B. x = 4",
+            "C. x = 5",
+            "D. x = 10"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Proporții derivate",
+      "summary": "Din proporția a/b = c/d, putem obține alte proporții derivate: a/c = b/d (inversarea rapoartelor), (a+b)/b = (c+d)/d (adunare la numărător), (a-b)/b = (c-d)/d (scădere), (a+b)/(a-b) = (c+d)/(c-d) (combinații). Aceste transformări sunt utile pentru rezolvarea problemelor complexe. De exemplu, dacă 2/3 = 4/6, atunci și 2/4 = 3/6. Proporțiile derivate permit flexibilitate în abordare și sunt instrumentale în algebra clasică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Dacă a/b = c/d, ce alte proporții sunt adevărate?",
+          "options": [
+            "A. a/c = b/d",
+            "B. a/d = c/b",
+            "C. a = b",
+            "D. c/a = d/b"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce înseamnă (a+b)/b = (c+d)/d?",
+          "options": [
+            "A. Proporție derivată",
+            "B. Adunare la numărător",
+            "C. Ambele răspunsuri",
+            "D. Nicio relație"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Din 3/4 = 6/8, derivă 3/6 = ?",
+          "options": [
+            "A. 4/8",
+            "B. 8/4",
+            "C. 4/3",
+            "D. Imposibil"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Șir de rapoarte egale",
+      "summary": "Șir de rapoarte egale: a₁/b₁ = a₂/b₂ = ... = aₙ/bₙ = k (constanta rapoartelor). Proprietate: (a₁ + a₂ + ... + aₙ)/(b₁ + b₂ + ... + bₙ) = k. Exemplu: 2/3 = 4/6 = 6/9 = 2/3. Aplicații: împărțire în raport, probleme cu proporții. Dacă 2/3 = 4/6 = 6/9, atunci (2+4+6)/(3+6+9) = 12/18 = 2/3. Șirurile de rapoarte sunt importante în proporționalitate și în probleme practice de distribuție.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este constanta rapoartelor?",
+          "options": [
+            "A. Suma rapoartelor",
+            "B. Valoarea comună a/b",
+            "C. Produsul rapoartelor",
+            "D. Diferența"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Dacă a/b = c/d = e/f = k, atunci?",
+          "options": [
+            "A. (a+c+e)/(b+d+f) ≠ k",
+            "B. (a+c+e)/(b+d+f) = k",
+            "C. a + b = c + d",
+            "D. Nu e relație"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care e constanta pentru 3/2 = 6/4 = 9/6?",
+          "options": [
+            "A. 2",
+            "B. 3/2",
+            "C. 4",
+            "D. 1.5"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Mărimi direct proporționale",
+      "summary": "Mărimi direct proporționale: dacă una se multiplică cu k, cealaltă se multiplică cu k. Notație: y = kx (k = constanta proporționalității). Graficul este o linie dreaptă prin origine. Exemplu: distanță = viteză × timp. Dacă mergem dublu mai repede, distanța parcursă în timp fix se dublează. Aplicații: scară, viteză constantă, preț. Proporționalitatea directă este unul din cele mai importante concepte în matematică aplicată. Raportul y/x rămâne constant.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt mărimi direct proporționale?",
+          "options": [
+            "A. Mereu egale",
+            "B. y = kx, raportul constant",
+            "C. Mereu crescătoare",
+            "D. Opuse"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Dacă y = 2x și x se dublează, ce se întâmplă cu y?",
+          "options": [
+            "A. Se dublează",
+            "B. Se înjumătățește",
+            "C. Rămâne aceeași",
+            "D. Se ridică la pătrat"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este graficul proporționalității directe?",
+          "options": [
+            "A. Parabolă",
+            "B. Linie dreaptă prin origine",
+            "C. Cerc",
+            "D. Hiperbolă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Mărimi invers proporționale",
+      "summary": "Mărimi invers proporționale: dacă una se multiplică cu k, cealaltă se împarte la k. Notație: y = k/x sau xy = k. Graficul este o hiperbolă. Exemplu: timp = distanță/viteză; viteza dublată = timp înjumătățit. Produsul xy rămâne constant. Aplicații: lucru și timp, presiune și volum. Diferență cu proporționalitate directă: aici graficul nu trece prin origine și nu e liniar. Proporționalitatea inversă este esențială pentru înțelegerea relațiilor inverse în fizică și economie.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt mărimi invers proporționale?",
+          "options": [
+            "A. y = kx",
+            "B. y = k/x, produsul constant",
+            "C. Mereu negative",
+            "D. Opuse"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Dacă xy = 6 și x se dublează, ce se întâmplă cu y?",
+          "options": [
+            "A. Se dublează",
+            "B. Se înjumătățește",
+            "C. Rămâne aceeași",
+            "D. Se ridică la pătrat"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este graficul proporționalității inverse?",
+          "options": [
+            "A. Linie dreaptă",
+            "B. Parabolă",
+            "C. Hiperbolă",
+            "D. Cerc"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Regula de trei simplă",
+      "summary": "Regula de trei simplă: dacă a mărimi corespund b unități din a doua mărime, câte unități din a doua mărime corespund c unități din prima? Soluție: x = (b × c)/a. Pentru proporționalitate directă și inversă. Exemplu direct: dacă 3 kg costă 6 lei, 5 kg costă (5 × 6)/3 = 10 lei. Exemplu invers: dacă la viteză 60 km/h durează 2 ore, la viteză 40 km/h durează (60 × 2)/40 = 3 ore. Regula de trei este instrument practic și intuitiv pentru rezolvarea problemelor zilnice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Dacă 2 kg costă 8 lei, cât costă 5 kg?",
+          "options": [
+            "A. 16 lei",
+            "B. 20 lei",
+            "C. 10 lei",
+            "D. 24 lei"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Dacă 4 muncitori termină în 6 zile, 3 muncitori termină în?",
+          "options": [
+            "A. 4 zile",
+            "B. 8 zile",
+            "C. 6 zile",
+            "D. 9 zile"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce determină tipul: directă sau inversă?",
+          "options": [
+            "A. Numerele",
+            "B. Relația dintre mărimi",
+            "C. Ordinea",
+            "D. Semnele"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Elemente de organizare a datelor. Reprezentarea datelor prin grafice în contextul proporționalității. Reprezentarea datelor cu ajutorul unor softuri matematice",
+      "summary": "Organizarea datelor: tabele, liste, frecvență. Reprezentări grafice: diagrame cu bare, histograme, grafice liniare, diagrame circulare. În context proporționalitate: grafice care arată relații directe/inverse. Software: GeoGebra, Excel, Python matplotlib. Graficele liniare pentru proporționalitate directă, hiperbolice pentru inversă. Alegerea reprezentării depinde de tip de date și scop. Competențe digitale sunt importante în matematică modernă. Interpretarea graficelor ajută la înțelegerea datelor și a relațiilor dintre mărimi.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce tip de grafic pentru proporționalitate directă?",
+          "options": [
+            "A. Linie dreaptă prin origine",
+            "B. Hiperbolă",
+            "C. Parabolă",
+            "D. Cerc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt reprezentări date?",
+          "options": [
+            "A. Doar tabele",
+            "B. Tabele, grafice, diagrame",
+            "C. Doar numere",
+            "D. Doar cuvinte"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce folosim software?",
+          "options": [
+            "A. Pentru divertisment",
+            "B. Pentru construire și analiză grafice",
+            "C. Sunt obligatorii",
+            "D. Nu sunt utile"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Probabilități",
+      "summary": "Probabilitate = șanse ca un eveniment să se întâmple. P(E) = (cazuri favorabile)/(cazuri totale). P(E) ∈ [0, 1]. P(E) = 0 = eveniment imposibil. P(E) = 1 = eveniment sigur. Exemple: P(cap la monedă) = 1/2, P(6 la zar) = 1/6. Evenimente: sigure, imposibile, aleatorii. Reguli: P(E) + P(¬E) = 1 (complementar). Aplicații: statistică, decizii, jocuri. Probabilitatea introduceți incertitudinea în matematică de manieră riguroasă. Este fundamentală pentru statistică și aplicații practice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este probabilitatea?",
+          "options": [
+            "A. Certitudine",
+            "B. Șanse ca eveniment să se întâmple",
+            "C. Imposibilitate",
+            "D. Raritate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care e P(cap la monedă)?",
+          "options": [
+            "A. 0",
+            "B. 1/2",
+            "C. 1",
+            "D. Imposibil"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Dacă P(E) = 0.3, cât e P(¬E)?",
+          "options": [
+            "A. 0.3",
+            "B. 0.7",
+            "C. 1.3",
+            "D. 0"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

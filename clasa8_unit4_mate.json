@@ -1,0 +1,566 @@
+{
+  "unit_number": "4",
+  "unit_name": "Elemente ale geometriei în spațiu",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Geometrie spațiu - Lecția 1",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 1. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Geometrie spațiu - Lecția 2",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 2. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Geometrie spațiu - Lecția 3",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 3. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Geometrie spațiu - Lecția 4",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 4. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Geometrie spațiu - Lecția 5",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 5. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Geometrie spațiu - Lecția 6",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 6. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Geometrie spațiu - Lecția 7",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 7. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Geometrie spațiu - Lecția 8",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 8. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Geometrie spațiu - Lecția 9",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 9. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Geometrie spațiu - Lecția 10",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 10. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Geometrie spațiu - Lecția 11",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 11. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Geometrie spațiu - Lecția 12",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 12. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Geometrie spațiu - Lecția 13",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 13. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Geometrie spațiu - Lecția 14",
+      "summary": "Conținut geometrie în spațiu. Unitatea 4, Lecția 14. Puncte, drepte, plane, corpuri geometrice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    }
+  ]
+}

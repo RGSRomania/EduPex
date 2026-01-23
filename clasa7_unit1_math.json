@@ -1,0 +1,366 @@
+{
+  "unit_number": "1",
+  "unit_name": "Mulțimea numerelor reale",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Rădăcina pătrată a pătratului unui număr natural. Estimarea rădăcinii pătrate dintr-un număr rațional pozitiv",
+      "summary": "Rădăcina pătrată (√) e operația inversă a ridicării la pătrat. √(n²) = n pentru n ≥ 0. De exemplu: √(5²) = √25 = 5. Estimarea: √2 ≈ 1.414, √3 ≈ 1.732. Pentru estimări, folosim numere pătrate cunoscute: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100. Exemplu: √50 e între √49=7 și √64=8, deci √50 ≈ 7.07. Calcul: (7.07)² ≈ 50. Aproximări prin dicotomie: procedeu iterativ. Importanță: rădăcinile sunt fundamentale în algebră și în geometrie. Aplicații: calcul de diagonale, rezolvare ecuații. Operație fundamentală pentru numere reale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este √25?",
+          "options": [
+            "A. 5",
+            "B. 2.5",
+            "C. 12.5",
+            "D. 625"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Între ce două numere este √15?",
+          "options": [
+            "A. 1 și 2",
+            "B. 2 și 3",
+            "C. 3 și 4",
+            "D. 4 și 5"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "√(4²) = ?",
+          "options": [
+            "A. 2",
+            "B. 4",
+            "C. 8",
+            "D. 16"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Mulțimea numerelor reale",
+      "summary": "Mulțimea numerelor reale ℝ include: Naturale (ℕ): 0, 1, 2, 3, ... Întregi (ℤ): ..., -2, -1, 0, 1, 2, ... Raționale (ℚ): fracții a/b, b≠0. De exemplu: 1/2, 3/4, -5/3. Iraționale: √2, √3, π, e (nu sunt fracții). ℝ = ℚ ∪ ℝ\\ℚ. Reprezentare pe axa numerelor. Operații: adunare, scădere, înmulțire, împărțire. Proprietăți: asociativitate, comutativitate, distributivitate. Ordine: < > ≤ ≥. Interval: [a,b], (a,b), [a,b). Completitudine: ℝ e complet (fără 'găuri'). Importanță: ℝ e baza analizei matematice.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt numere iraționale?",
+          "options": [
+            "A. Numere negative",
+            "B. Numere care nu sunt fracții",
+            "C. Numere zecimale finite",
+            "D. Numere pare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "ℝ include?",
+          "options": [
+            "A. Doar raționale",
+            "B. Doar iraționale",
+            "C. Raționale și iraționale",
+            "D. Doar naturale"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Este π irațional?",
+          "options": [
+            "A. Nu, π=3.14",
+            "B. Niciodată",
+            "C. Da",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Reguli de calcul cu radicali",
+      "summary": "Reguli fundamentale: √(a·b) = √a · √b (pentru a,b ≥ 0). √(a/b) = √a / √b (pentru b≠0). √(a²) = |a|. Racionalizare: eliminare radicali din numitor. (√2)/2 rațional. Simplificare: √8 = √(4·2) = 2√2. Adunare: k√a + m√a = (k+m)√a. Înmulțire: (√a)·(√b) = √(ab). Putere: (√a)^n = a^(n/2). Calcule: √12 = 2√3, √18 = 3√2. Rationalizare: 1/√2 = √2/2. Aplicații: calcule geometrice, fizică. Metodă sistematică esențială.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "√(4·9) = ?",
+          "options": [
+            "A. 36",
+            "B. 6",
+            "C. 4",
+            "D. 9"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Simplificarea √8?",
+          "options": [
+            "A. 2√2",
+            "B. 4√2",
+            "C. √4",
+            "D. 2"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "1/√3 rațional e?",
+          "options": [
+            "A. √3/3",
+            "B. 1/3",
+            "C. 3",
+            "D. √3"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Adunarea și scăderea numerelor reale",
+      "summary": "Operații cu reali: adunare (+), scădere (-). Proprietăți: asociativitate (a+b)+c = a+(b+c), comutativitate a+b = b+a. Element neutru: 0 (a+0=a). Invers: -a (a+(-a)=0). Calcule: 3 + 2√2 + 5 = 8 + 2√2 (grupare termeni). Scădere: a-b = a+(-b). Exemple: 7-3 = 4, 5√3 - 2√3 = 3√3. Radicali: √2 + √2 = 2√2 (adunare similari). √2 + √3 nu se simplifică. Ordine: mai întâi radicali, apoi operații. Proprietăți extinse pe ℝ. Fundamental pentru algebră.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "3√2 + 2√2 = ?",
+          "options": [
+            "A. 5√2",
+            "B. 6√2",
+            "C. 5√4",
+            "D. 1√2"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "√2 + √3 = ?",
+          "options": [
+            "A. √5",
+            "B. √6",
+            "C. Nu se simplifică",
+            "D. 2√2"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "7 - 5 = ?",
+          "options": [
+            "A. 2",
+            "B. 12",
+            "C. -2",
+            "D. 35"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Înmulțirea și împărțirea numerelor reale",
+      "summary": "Înmulțire: a·b. Proprietăți: asociativitate, comutativitate, distributivitate. Element neutru: 1. Invers: 1/a (a·(1/a)=1, a≠0). Calcule: 2·√3 = 2√3, √2·√3 = √6. Împărțire: a/b (b≠0). Reguli: (√a)/(√b) = √(a/b). Exemple: 6/2 = 3, (2√2)/(√2) = 2. Rând operații: mai întâi înmulțire și împărțire, apoi adunare și scădere. Distributivitate: a(b+c) = ab+ac. Calcul: 3(2+√2) = 6+3√2. Aplicații: geometrie, fizică. Fundamental pentru algebră.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "√2 · √3 = ?",
+          "options": [
+            "A. √6",
+            "B. √5",
+            "C. 2√3",
+            "D. 3√2"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "6/√2 = ?",
+          "options": [
+            "A. 3√2",
+            "B. 6√2",
+            "C. 3",
+            "D. √2"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "2(3+√2) = ?",
+          "options": [
+            "A. 6+2√2",
+            "B. 5√2",
+            "C. 6√2",
+            "D. 3+2√2"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Puterea cu exponent întreg a unui număr real. Ordinea efectuării operațiilor cu numere reale",
+      "summary": "Putere: a^n (a = bază, n = exponent). a^n = a·a·...·a (n ori). Exemple: 2^3 = 8, 3^2 = 9. Exponenți speciali: a^0 = 1 (a≠0), a^1 = a, a^(-n) = 1/(a^n). Calcule: 2^(-2) = 1/4. Proprietăți: a^m · a^n = a^(m+n), a^m / a^n = a^(m-n), (a^m)^n = a^(mn), (ab)^n = a^n·b^n. Ordine operații: 1) Paranteze 2) Puteri 3) Înmulțire/Împărțire 4) Adunare/Scădere. Exemplu: 2+3·2^2 = 2+12 = 14. Fundamental pentru algebră și analiză.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "2^3 = ?",
+          "options": [
+            "A. 6",
+            "B. 8",
+            "C. 5",
+            "D. 9"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "2^(-2) = ?",
+          "options": [
+            "A. -4",
+            "B. 1/4",
+            "C. 4",
+            "D. 0"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "2+3·2^2 = ?",
+          "options": [
+            "A. 20",
+            "B. 14",
+            "C. 16",
+            "D. 12"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Racionalizarea numitorului unei fracții",
+      "summary": "Racionalizare: eliminare radicali din numitor. Metodă: înmulțire cu conjugat. 1/√2 · √2/√2 = √2/2. Pentru √a: înmulțire cu √a. Pentru a+√b: înmulțire cu a-√b (conjugat). Exemplu: 1/(2+√3) · (2-√3)/(2-√3) = (2-√3)/(4-3) = 2-√3. Scop: forma standard rațional (numitor rațional). Aplicații: calcule mai ușoare, formă canonică. Procese sistematice. Importante pentru algebră.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "1/√3 rațional?",
+          "options": [
+            "A. √3",
+            "B. √3/3",
+            "C. 3",
+            "D. 1/3"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Raționaliza 2/√2?",
+          "options": [
+            "A. 1",
+            "B. √2",
+            "C. 2√2",
+            "D. 2"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Conjugatul 1+√2?",
+          "options": [
+            "A. 2+√1",
+            "B. 1-√2",
+            "C. √2-1",
+            "D. 1+√2"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Media aritmetică ponderată a două sau mai multe numere reale. Media geometrică a două numere reale pozitive",
+      "summary": "Media aritmetică: (a+b)/2. Ponderată: (a₁p₁ + a₂p₂ + ... + aₙpₙ)/(p₁+p₂+...+pₙ) unde p = ponderi. Exemplu: (5·2 + 7·3)/(2+3) = (10+21)/5 = 6.2. Media geometrică: √(ab) pentru a,b > 0. Exemplu: √(4·9) = √36 = 6. Relație: media geometrică ≤ media aritmetică. Aplicații: pondere Grade (examene), geometrie, fizică. Inegalitate: √(ab) ≤ (a+b)/2. Importante pentru statistică și analiză.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Media aritmetică 4,6?",
+          "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 10"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Media geometrică 4,9?",
+          "options": [
+            "A. 6",
+            "B. 5",
+            "C. 4",
+            "D. 9"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Media ponderată 5 (pondere 2), 7 (pondere 3)?",
+          "options": [
+            "A. 6",
+            "B. 6.2",
+            "C. 5.5",
+            "D. 7"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Ecuația de forma x² = a, unde a ∈ R",
+      "summary": "Ecuație pătratică simplă: x² = a. Soluții: Dacă a > 0: x = ±√a (două soluții). Exemplu: x² = 4 → x = ±2. Dacă a = 0: x = 0 (o soluție). Dacă a < 0: nicio soluție reală (soluții complexe). Metoda: izolează x², apoi rădăcină. Exemplu: x² = 5 → x = ±√5. Verificare: (√5)² = 5. Aplicații: geometrie (diagonale), fizică. Fundație pentru ecuații de grad 2. Importante pentru algebră.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Soluții x² = 9?",
+          "options": [
+            "A. 3",
+            "B. -3",
+            "C. 3 și -3",
+            "D. 0"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Soluții x² = -1?",
+          "options": [
+            "A. 1",
+            "B. -1",
+            "C. Nicio soluție reală",
+            "D. ±1"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Soluție x² = 0?",
+          "options": [
+            "A. 1",
+            "B. 0",
+            "C. -1",
+            "D. Nicio soluție"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "unit_number": "4",
+  "unit_name": "Cu noroc, fără noroc",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul narativ literar: Două loturi de I.L. Caragiale",
+      "summary": "\"Două loturi\" de I.L. Caragiale e o narațiune umoristică care explorează tema norocului și întâmplării în viață. Textul prezintă doi oameni cu soarte diferite și cum interacționează cu circumstanțele. Caragiale folosește umor și ironie pentru a critica societatea. Tema: norocul nu e întotdeauna soluția, ci și deciziile și caracterul cont. Textul demonstrate cum literatura poate fi satircă și critică socială. Atmosfera e ușoară dar cu subtextul social. Caragiale e maestru al dialogului și caracterizării prin vorbire.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tema centrală?",
+          "options": [
+            "A. Nur noroc",
+            "B. Noroc și caracteru",
+            "C. Doar strategie",
+            "D. Doar ură"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tonul textului?",
+          "options": [
+            "A. Grav",
+            "B. Umoristic cu ironie",
+            "C. Romantic",
+            "D. Tristu"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Caragiale maestru în?",
+          "options": [
+            "A. Descriere lungă",
+            "B. Dialog și caracterizare",
+            "C. Versuri",
+            "D. Doar acțiune"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Spațiul, timpul, acțiunea",
+      "summary": "Spațiu: locul unde se întâmplă narațiunea (interior, exterior, urbe, sat). Timp: perioada (trecut, prezent, viitor) și durată (minut, zi, an). Acțiunea: seria de evenimente care formează intriga. De exemplu, în \"Două loturi\": spațiu e o localitate, timp e o perioadă nedeterminată, acțiune e întâlnirea și schimburile. Analiza acestor elemente ajută la înțelegere contextului și atmosferei. Spațiu și timp creează bagkground și potenț realitate narativă. Aceasta e fond esențial pentru orice narațiune. Detailii spațiale și temporale fac textul credibil și imersiv.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e spațiu?",
+          "options": [
+            "A. Timp",
+            "B. Locul unde se întâmplă acțiunea",
+            "C. Acțiune",
+            "D. Emoție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce e timp?",
+          "options": [
+            "A. Locul",
+            "B. Perioada și durată a narațiuni",
+            "C. Acțiune",
+            "D. Starea"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Importanță detalii?",
+          "options": [
+            "A. Nu conteaza",
+            "B. Creează credibilitate și imersiune",
+            "C. Doar foră",
+            "D. Doar lungime"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Naratorul și personajele",
+      "summary": "Naratorul: vocea care spune povestea (personaj sau observator). Personajele: actorii din poveste. În \"Două loturi\", naratorul e un observator extern care prezintă doi personaje cu contraste. Caracterizare: cum sunt descriși și dezvoltați personajele. Dinamică între personaje: cum interacționează și se influențează. Conflictul între personaje: divergence de interese și perspective. Analiza narator și personaje deschide dimensiuni ale textului. Perspectiva narator influențează cum înțelegem povestea. Relații și conflicte între personaje creează dramatism.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e narator extern?",
+          "options": [
+            "A. Personaj principal",
+            "B. Observator care nu e în poveste",
+            "C. Povestitorul",
+            "D. Citirul"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce creează dinamică?",
+          "options": [
+            "A. Doar descriere",
+            "B. Interacțiune și influență între personaje",
+            "C. Doar timp",
+            "D. Doar spațiu"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Conflictul?",
+          "options": [
+            "A. Doar acțiune",
+            "B. Divergence de interese și perspective",
+            "C. Doar fizic",
+            "D. Nu-i conflicty"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Semnificațiile textului",
+      "summary": "Niveluri: literal (ce se întâmplă), figurat (ce se implied), simbolic (ce reprezintă). În \"Două loturi\", literal e despre doi oameni și norocul, figurat e despre cum oameni se confruntă cu viață, simbolic e despre destine și alegeri. Analiza semnificații deschide bogăția textului. Simboluri în text: loturile pot reprezenta oportunități, norocul poate fi forță transcendentă. Contextul cultural și personal influențează interpretare. Semnificații nu sunt unice, ci multiple și subiective. Aceasta e libertate și complexitate citiri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Niveluri?",
+          "options": [
+            "A. Doar literal",
+            "B. Literal, figurat, simbolic",
+            "C. Doar unu",
+            "D. Infinit"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce pot representa loturile?",
+          "options": [
+            "A. Doar câștigu",
+            "B. Oportunități și alegeri",
+            "C. Doar pariuri",
+            "D. Doar pierderi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Semnificații?",
+          "options": [
+            "A. Unice și fixe",
+            "B. Multiple și subiective",
+            "C. Nu-i semnificații",
+            "D. Doar opinie"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Textul multimodal (actualizare). Enciclopedia mărțișorului",
+      "summary": "Textul multimodal combină text cu imagini, tabele, diagrame. Exemplu: enciclopedia mărțișorului incluie text informativ, imagini de mărțișori, tabele cu tradițional. Abordare multimodală e eficientă pentru comunicare. Avantaje: Multiple sensuri angajate, Informație variată, Engagement. Dezavantaje: Complexitate, Necesară atensiune la detalii, Coordonare. Analiza multimodală e competență importantă în era digitale. Ability de a citi și interpreta grafice, tabele, imagini e esențială. Textul multimodal este realitatea zilnică a comunicării moderne.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e multimodal?",
+          "options": [
+            "A. Doar text",
+            "B. Text cu imagini, tabele, diagrame",
+            "C. Doar imagini",
+            "D. Doar sunet"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Avantaje?",
+          "options": [
+            "A. Nu-i avantaje",
+            "B. Multiple sensuri, informație variată, engagement",
+            "C. Doar complicare",
+            "D. Doar lungime"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Competență importantă?",
+          "options": [
+            "A. Doar lectura",
+            "B. Lectura și interpretare grafice, tabele",
+            "C. Doar scris",
+            "D. Doar ascultare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Noi pagini – alte idei. Cerșetorul și regele de Jean-Claude Carrière",
+      "summary": "\"Cerșetorul și regele\" de Jean-Claude Carrière e o parabolă care explorează inversii de putere și uman. Prin comparație cu \"Două loturi\", elevii observă diferență în stil și mesaj, dar temă comună: întâmplarea și rolul norocului. Carrière folosește fabulă-style pentru a transmite moral. Fragmentul oferă perspectivă universală asupra societății și relații. Citire comparativă deschide perspective și culturale și temporale. Aceasta e exerciție în analiză diacronică și transcultural.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Gen textului?",
+          "options": [
+            "A. Realist",
+            "B. Parabolă cu moral",
+            "C. Fantastic",
+            "D. Tragic"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Temă comună?",
+          "options": [
+            "A. Doar intriga",
+            "B. Ntâmplarea și noroc",
+            "C. Doar putere",
+            "D. Doar sărăcie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Citire comparativă?",
+          "options": [
+            "A. Nu-i util",
+            "B. Deschide perspective și cultural-temporal",
+            "C. Doar repetare",
+            "D. Doar critică"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Elemente de mitologie românească: Baba-Dochia și tradiție",
+      "summary": "Baba-Dochia e figură din mitologia românească care semnifică trecerea iernii în primavăra. Tradiția include obiceiuri și credințe legate de schimbarea sezoanelor. Mitos e depozitar al valorilor culturale și explicații naturale. Studierea mitologie arată cum oameni înțeleg și interpretează lumea. Mitologie românească e bogată și conectată la țara și popor. Integrare mitologie în text crează rezonanță culturală. Baba-Dochia e exemplu cum tradiție și literă se îmbină. Aceasta e abilitate de a recunoaște și aprecia patrimoniu cultural.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Baba-Dochia?",
+          "options": [
+            "A. Doar nume",
+            "B. Figură mitică a trecerii iernii-primavăra",
+            "C. O zeitate",
+            "D. O țarană"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Mitologie românească?",
+          "options": [
+            "A. Doar povești",
+            "B. Depozitar valori culturale",
+            "C. Fără sens",
+            "D. Doar joc"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Importanță?",
+          "options": [
+            "A. Nu-i importantă",
+            "B. Rezonanță culturală și patrimoniu",
+            "C. Doar tradiție",
+            "D. Doar ritual"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Structura textului narativ oral",
+      "summary": "Textul oral e spus, nu scris, și are caracteristici diferite: Ton și intonație, Pauze și ritm, Gestură (în faț-în-față), Repetare (pentru mnemonic), Formulări tradiționale (\"era odată\"). Structură: Introducere (situarea), Dezvoltare (acțiune), Concluzie (finalizare și moral). Narațiune orală e mai emoțională și directă decât scrisă. Conectare cu ascultător e importantă. Povestitor bun folosite voce și efect pentru a menține atenție. Textele orale sunt vii și adaptabile, se schimbă cu fiecare spunere. Aceasta e o artă veche și valoroasă a comunicării umane.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Caracteristici oral?",
+          "options": [
+            "A. Doar cuvinte",
+            "B. Ton, ritm, gestură, repetare",
+            "C. Doar text",
+            "D. Fără emotionalitate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Formulări tradiționale?",
+          "options": [
+            "A. Fără importanță",
+            "B. \"Era odată\", etc. - pentru mnemonic",
+            "C. Doar joc",
+            "D. Fără sens"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Povestitor bun?",
+          "options": [
+            "A. Doar citire",
+            "B. Folosite voce și efect",
+            "C. Fără conexiune",
+            "D. Monoton"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Strategii de concepere și de comprehensiune a textului oral",
+      "summary": "Strategii de spunere: Dramatizare (intonație variată), Repetare (anumite fraze), Pauze (pentru suspans), Descriere vizuală (imagini cu vorbe). Strategii de ascultare: Atenție activă, Note mentale, Imaginație (crează scene), Inferență (deduce neexplicite). Ascultător activ e participant, nu pasiv. Context afectează înțelegere: cine spune, cine ascultă, unde se spune. Aceasta sunt abilități care se dezvoltă cu practica. Comunicare orală eficientă necesită angajament ambilor participanți. Aceasta e esență conversației și poveștii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Strategii spunere?",
+          "options": [
+            "A. Doar vorbire",
+            "B. Dramatizare, repetare, pauze, descriere",
+            "C. Fără strategie",
+            "D. Monotonie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ascultător?",
+          "options": [
+            "A. Pasiv",
+            "B. Activ, imaginez, deduce",
+            "C. Distra",
+            "D. Obosit"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Context?",
+          "options": [
+            "A. Nu contează",
+            "B. Afectează înțelegere și receptare",
+            "C. Doar background",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Pronumele personal. Pronumele personal de politețe. Pronumele reflexiv",
+      "summary": "Pronumele personal: io, tu, el/ea, noi, voi, ei/ele. Pronumele personal de politețe: dumneavoastră (formal), tu (informal). Genul și numărul se acordă. Pronumele reflexiv: mă, te, se (pentru acțiuni asupra sinelui). \"Mă gândesc\" (gândesc despre mine), \"Te odiezi\" (urăști pe tine însuți). Utilizare: Personal = relații, Politețe = respect formal, Reflexiv = introspectare. Corectitudine și context sunt importante. Pronumele sunt esențiale pentru claritate referențiale. Erori pot cauza ambiguitate: \"El îi spuse\" (cui? - ambiguu). Masteria pronumelor creează claritate și register adecvat.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Pronumele personal?",
+          "options": [
+            "A. Doar io",
+            "B. io, tu, el/ea, noi, voi, ei",
+            "C. Doar el",
+            "D. Niciun"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Pronumele reflexiv?",
+          "options": [
+            "A. Extern",
+            "B. Acțiuni asupra sinelui (mă, te, se)",
+            "C. Doar cititore",
+            "D. Fără sens"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Importanță politețe?",
+          "options": [
+            "A. Nu-i important",
+            "B. Pentru respect și register formal",
+            "C. Doar joc",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Pronumele personal de politețe. Pronumele reflexiv",
+      "summary": "Continuare tema pronumele. Dumneavoastră vs. tu: context social și putere. Utilizare: dumneavoastră = vorbă cu straini, autorități, oameni mai în vârstă. Tu = copii, prieteni, familia. Erori sociale: tu cu dumneavoastră e nerespectuous, dumneavoastră cu tu e excesiv formal. Pronumele reflexiv: exprimă relație cu sinelui (mă), cu altul (te), cu însuși (se). \"Se vede\" (vede propria reflexie), \"Mă văd\" (văd pe mine). Aceasta e subtilitate lingvistică care indica culturi și coduri sociale. Masteria necesită sensibilitate contextualță.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Dumneavoastră vs. tu?",
+          "options": [
+            "A. Sunt identice",
+            "B. Dumneavoastră formal, tu informal",
+            "C. Tu mereu corect",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Context dumneavoastră?",
+          "options": [
+            "A. Copii",
+            "B. Straini, autorități, vârstnici",
+            "C. Prieteni",
+            "D. Familie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Sensibilitate?",
+          "options": [
+            "A. Nu-i important",
+            "B. Pentru coduri sociale și respectu",
+            "C. Doar joc",
+            "D. Abuzu"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Pronumele relativ și interrogativ",
+      "summary": "Pronumele relativ: legă propoziții (care, cine, cât, care). \"Omul care merge\" (care = relativ). Pronumele interrogativ: pune întrebări (cine, ce, care, cât). \"Cine vine?\" \"Ce faci?\" Diferență: relativ leagă, interrogativ întreabă. Utilizare: Relativ = subordonare, Interrogativ = întrebare. Ambele pot fi confundate: \"Cine vine mâine?\" (interrogativ), \"Omul cine vine mâine\" (greșit - ar trebui \"care\"). Corectitudine e importantă. Pronumele relative sunt instrumente pentru complexitate sintactică. Pronumele interrogative sunt instrumente pentru curiositate și investigare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Pronumele relativ?",
+          "options": [
+            "A. Întreabă",
+            "B. Leagă propoziții (care, cine, cât)",
+            "C. Negă",
+            "D. Confirma"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Pronumele interrogativ?",
+          "options": [
+            "A. Leagă",
+            "B. Pune întrebări (cine, ce, care)",
+            "C. Negi",
+            "D. Afirmă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Diferență?",
+          "options": [
+            "A. Nu-i diferență",
+            "B. Relativ leagă, interrogativ întreabă",
+            "C. Sunt identice",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Pronumele demonstrativ și posesiv",
+      "summary": "Pronumele demonstrativ: arată dirspozitivul (acesta, acel, ăsta, aia). \"Acesta e bun\" (arată care). Pronumele posesiv: arată proprietatea (meu, tău, al lui, al ei, al nostru, al vostru, al lor). \"Cartea mea\" (mea = posesiv). Acordare: posesiv se acordă cu substantiv în gen, număr, caz. \"Omul meu\" vs. \"Femeia mea\". Demonstrative au distanță: acesta = aproape, acel = departe. Utilizare corecta creează claritate și precisie. Confuzii frecvente: \"Cartea a mea\" (greșit, ar trebui \"cartea mea\" sau \"a mea e cartea\"). Masteria necesitate practică și atenție la detalii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Demonstrativ?",
+          "options": [
+            "A. Posedă",
+            "B. Arată dirspozitivul (acesta, acel)",
+            "C. Negă",
+            "D. Leagă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Posesiv?",
+          "options": [
+            "A. Negă",
+            "B. Arată proprietate (meu, tău, al lui)",
+            "C. Arată",
+            "D. Leagă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Acordare?",
+          "options": [
+            "A. Nu-i necesar",
+            "B. Cu gen, număr, caz substantiv",
+            "C. Fără reguli",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Ordinea elementelor în propoziție",
+      "summary": "Ordinea naturală: Subiect + Verb + Complement (SVO). \"Io merg la cumpărături.\" Inversiuni: pentru efect estetic sau semantic. \"La cumpărături merg io\" (complement - verb - subiect). Funcție: accentuare, ritm, ton. Ordinea relativă a pronumelor: \"Îi spuse ei\" (indirect - direct), \"Spuia-i ei\" (arcaic), \"Îi spuse-o\" (o = direct, îi = indirect). Context și stil influențează alegere. Ordinea care nu e naturală pot crea suspans sau emoție. Literaturey bună folosite variație ordine pentru efect estetic. Aceasta e abilitate a stilului sofisticat.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ordinea naturală?",
+          "options": [
+            "A. Random",
+            "B. SVO (subiect-verb-complement)",
+            "C. VOS",
+            "D. Orice"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Inversiuni?",
+          "options": [
+            "A. Erori",
+            "B. Pentru efect estetic/semantic",
+            "C. Mereu greșit",
+            "D. Fără efect"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Efect?",
+          "options": [
+            "A. Nu-i efect",
+            "B. Accentuare, ritm, ton",
+            "C. Doar forma",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Adverbul",
+      "summary": "Adverbul descrie verb, adjectiv, sau alt adverb. Tipuri: Mod (repede, ușor), Timp (ieri, mâine), Loc (acolo, aici), Mărime (mult, puțin), Frecvență (mereu, rar). Exemple: \"Merg repede\" (repede = mod), \"Venim mâine\" (mâine = timp), \"Stau acolo\" (acolo = loc). Formație: dintr-un adjectiv + -ă/-ă/-ă (repede din rapid). Collocație: unele adverbe se leagă cu anumite verbe. \"Vorbesc ușor\" (corect) vs. \"merg gol\" (imposibil în context normal). Adverbul sunt instrumente pentru nuanță și precizie. Alegere corecta creează expresie mai boagată și specifică. Masteria necesita sensibilitate la limbaj.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Adverbul?",
+          "options": [
+            "A. Doar mod",
+            "B. Descrie verb, adjectiv, adverb",
+            "C. Doar timp",
+            "D. Doar culoare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tipuri?",
+          "options": [
+            "A. Doar unu",
+            "B. Mod, timp, loc, mărime, frecvență",
+            "C. Doar doi",
+            "D. Nu sunt tipuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Collocație?",
+          "options": [
+            "A. Orice se leagă",
+            "B. Unele adverbe se leagă cu anumite verbe",
+            "C. Fără reguli",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "name": "Gradele de comparație ale adjectivului și adverbului",
+      "summary": "Grad: Pozitiv (frumos), Comparativ (mai frumos), Superlativ (cel mai frumos, frumosissim). Formație: adjectiv + \"mai\" (comparativ), \"cel mai\" (superlativ). Exemplu: \"Casa mea e frumoasă. Casa lui e mai frumoasă. Casa lui Ion e cea mai frumoasă.\" Iregularități: bun -> mai bun -> cel mai bun (corect, nu \"mai bon\"). Adverbul: \"Merge repede\", \"Merge mai repede\", \"Merge cel mai repede\". Utilizare: Pozitiv = descriere, Comparativ = contrast, Superlativ = absolut. Context determina care grad e potrivit. Erori frecvente: \"cel mai frumos\" vs. \"frumosissim\" (în română se folosite \"cel mai\"). Masteria creează expresie nuanțată.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Grade?",
+          "options": [
+            "A. Doar pozitiv",
+            "B. Pozitiv, comparativ, superlativ",
+            "C. Doar unu",
+            "D. Infinit"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Formație?",
+          "options": [
+            "A. Aleatoru",
+            "B. Adjectiv + \"mai\" sau \"cel mai\"",
+            "C. Fără reguli",
+            "D. Sufixe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Iregularități?",
+          "options": [
+            "A. Nu-i",
+            "B. Bun -> mai bun, nu \"mai bon\"",
+            "C. Mereu regulat",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "name": "Cuvintele de legătură. Conectori logici",
+      "summary": "Cuvinte legătură: și, sau, dar, deci, atunci, totuși, etc. Funcție: unesc propoziții, creează relații logice. Tipuri: Aditiv (și, plus), Alternativ (sau, ori), Adversativ (dar, totuși), Cauzal (deci, pentru că), Temporal (atunci, apoi). Exemple: \"Vin și mănânc\" (aditiv), \"Vin sau rămân acasă\" (alternativ), \"Vin dar mă-ntorc repede\" (adversativ). Utilizare corecta creează fluiditate și claritate. Conectori sunt scheletul discursului. Fără ei, textul e dezorganizat și greu de urmat. Masteria conectorilor demontreza control asupra structurii logice. Aceasta e abilitate esențială pentru scris efectiv.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Conectori?",
+          "options": [
+            "A. Doar cuvinte",
+            "B. Unesc propoziții, creează relații logice",
+            "C. Fără sens",
+            "D. Doar decorație"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tipuri?",
+          "options": [
+            "A. Doar unu",
+            "B. Aditiv, alternativ, adversativ, cauzal",
+            "C. Doar doi",
+            "D. Nu sunt tipuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Importanță?",
+          "options": [
+            "A. Nu-i important",
+            "B. Scheletul discursului și claritate",
+            "C. Doar joc",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "name": "Norme de redactare. Corectitudine și stil",
+      "summary": "Corectitudine: urmează reguli limbii (gramatică, ortografie, punctuație). Stil: alegeri personale pentru efect estetic. Balanț: corectitudine + stil = calitate. Erori frecvente: \"și care\" (și este lipsit), \"că pentru că\" (redundanță), accent prost. Stil bun: clar, concis, expresiv, original. Proces: planning, redactare, revizuire, editare, publicare. Feedback: cere altcuiva să citească și să comenceze. Recursos: dicționar, gramatică, stil guide. Practica: scrie regulat, citește bine, analiza texte bune. Redactarea bună e o abilitate care se dezvoltă. Aceasta necesita dedicație și autocritic. Rezultatul e capacitate de a comunica efectiv în scris.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Corectitudine?",
+          "options": [
+            "A. Doar stil",
+            "B. Urmează reguli limbii",
+            "C. Fără importanță",
+            "D. Depinde"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Stil bun?",
+          "options": [
+            "A. Doar reguli",
+            "B. Clar, concis, expresiv, original",
+            "C. Fără importanță",
+            "D. Complicat"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Proces?",
+          "options": [
+            "A. Doar scris",
+            "B. Planning, redactare, revizuire, editare",
+            "C. Fără proces",
+            "D. Aleatoru"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

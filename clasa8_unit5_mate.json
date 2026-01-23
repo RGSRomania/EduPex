@@ -1,0 +1,286 @@
+{
+  "unit_number": "5",
+  "unit_name": "Arii și volume ale unor corpuri geometrice",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Arii și volume - Lecția 1",
+      "summary": "Conținut arii și volume corpuri. Unitatea 5, Lecția 1. Prisme, piramide, cilindri, conuri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Arii și volume - Lecția 2",
+      "summary": "Conținut arii și volume corpuri. Unitatea 5, Lecția 2. Prisme, piramide, cilindri, conuri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Arii și volume - Lecția 3",
+      "summary": "Conținut arii și volume corpuri. Unitatea 5, Lecția 3. Prisme, piramide, cilindri, conuri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Arii și volume - Lecția 4",
+      "summary": "Conținut arii și volume corpuri. Unitatea 5, Lecția 4. Prisme, piramide, cilindri, conuri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Arii și volume - Lecția 5",
+      "summary": "Conținut arii și volume corpuri. Unitatea 5, Lecția 5. Prisme, piramide, cilindri, conuri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Arii și volume - Lecția 6",
+      "summary": "Conținut arii și volume corpuri. Unitatea 5, Lecția 6. Prisme, piramide, cilindri, conuri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Arii și volume - Lecția 7",
+      "summary": "Conținut arii și volume corpuri. Unitatea 5, Lecția 7. Prisme, piramide, cilindri, conuri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Întrebare 1?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Întrebare 2?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Întrebare 3?",
+          "options": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    }
+  ]
+}

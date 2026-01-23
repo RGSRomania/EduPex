@@ -1,0 +1,701 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Process Unit 1 lessons from Clasa a V a Limba și Literatura Română
+Extract summaries and generate questions for each lesson
+"""
+
+import json
+import re
+
+# Unit 1 Lesson Data with content summaries and questions
+unit1_data = {
+    "unit_number": "1",
+    "unit_name": "Despre mine. Selfie",
+    "lessons": [
+        {
+            "number": "1",
+            "name": "Textul literar. Prietenul meu de Ioana Pârvu",
+            "summary": """Lectia introductiv a Unitatii 1 prezinta textul literar prin povestea 'Prietenul meu' de Ioana Pârvu. 
+            Textul urmareste aventurile unui copil din clasa a V-a care, pregatindu-se pentru teze, decides sa-si ilustreze compunerea 
+            adugand chiar animalul sau de companie - un chihuahua pe nume Joi - in sala de clasa. Prin aceasta povestire, se introduc 
+            conceptele de textul literar, care prezinta o lume imaginara transmitand idei, emotii si sentimente printr-un limbaj expresiv. 
+            Povestea evidentiaza importanta prieteniei, dar mai ales cum un gest neașteptat poate deschide ochi oamenilor si crea amintiri 
+            nepietuitoare. Lectia insista pe expresivitatea limbajului literar si cum acesta transpune trairile personale ale autorului.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Care este motivul principal pentru care Bogdan duce pe Joi (chiul huahua-ul) la scoala?",
+                    "options": [
+                        "A. Sa-si arate dragostea fata de animale",
+                        "B. Sa ilustreze compunerea 'Prietenul meu cel mai bun' care i-a iesit prea scurta",
+                        "C. Sa joace o pacaleala colegilor",
+                        "D. Pentru ca profesorul de roman i l-a cerut"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Ce tip de text este 'Prietenul meu' de Ioana Pârvu?",
+                    "options": [
+                        "A. Text descriptiv",
+                        "B. Text nonliterar",
+                        "C. Text literar narativ",
+                        "D. Text argumentativ"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "Care dintre urmatorii enunturi este adevarat cu privire la Joi?",
+                    "options": [
+                        "A. Este o pasare mic cu codita de semicerc",
+                        "B. Este un chihuahua cafeniu, delicat, cu 35 cm inaltime si doar putin peste un kilogram",
+                        "C. Este un catel mare si puternic care latrca des",
+                        "D. Este un catel cu lungimea de 50 cm si care vorbeste cuvinte"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "name": "Trăsături ale textului literar (actualizare)",
+            "summary": """Aceasta lectie aprofundeaza caracteristicile textului literar prezentand noiuni esențiale cum ar fi: 
+            lume imaginara (universul creat de autor), idei, emotii și sentimente transmise prin limbaj expresiv. Se insista pe faptul 
+            ca textul literar se deosebeste de alte tipuri de texte prin manie de a transforma realitatea si de a o prezenta intr-un mod 
+            personal și creativ. Lectia arata cum un text literar poate contine atat elementele reale cat si imaginate, iar limbajul 
+            utilizat are o putere mare de a actiona asupra sentimentelor cititorului. Prin analiza textului 'Prietenul meu', se evidentiaza 
+            cum autorul transpune un moment cotidian intr-o poveste plina de emotie si umor.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Universul imaginat de Ioana Pârvu in 'Prietenul meu' este apropiat sau departat de realitate?",
+                    "options": [
+                        "A. Este complet imaginat, fara nicio legatura cu realitatea",
+                        "B. Este apropiat de realitate, deoarece foloseste elemente reale din viata cotidiana, dar le transforma creativ",
+                        "C. Este o descriere exacta a unei situatii reale",
+                        "D. Este un text fantastical complet imposibil"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Ce emotie predomina in textul 'Prietenul meu'?",
+                    "options": [
+                        "A. Frică și anxietate",
+                        "B. Tristețe și depresie",
+                        "C. Umor și tandrete",
+                        "D. Mânie și frustrare"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "Care este caracteristica principala a limbajului expresiv intr-un text literar?",
+                    "options": [
+                        "A. Sa fie simplu si intelesi de toti",
+                        "B. Sa transmita idei, emotii si sentimente cu forte evocativa",
+                        "C. Sa evite utilizarea de cuvinte grele",
+                        "D. Sa fie identic cu vorbirea obisnuita a oamenilor"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "3",
+            "name": "Cuvânt-cheie. Tema. Planul simplu de idei",
+            "summary": """Lectia introduce concept important ale analizei unui text literar: cuvantul-cheie, tema si planul de idei. 
+            Cuvantul-cheie este termenul care concentreaza esenta textului si care se repeta frecvent, ajutand cititorii sa inteleaga 
+            mesajul principal. In 'Prietenul meu', cuvinte-cheie ar putea fi 'prietenie', 'sinceritate', 'curaj'. Tema unui text este 
+            ideea principala pe care se construieste intreaga povestire. Planul simplu de idei este organizarea logica a continutului 
+            textului, divizand povestea in etape sau secvente majore. Prin urmarirea acestor elemente, cititorul intelege mai bine 
+            structura si intentiile autorului.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Ce sunt cuvintele-cheie intr-un text literar?",
+                    "options": [
+                        "A. Cuvinte grele care sunt greu de inteles",
+                        "B. Termeni care concentreaza esenta textului si se repeta frecvent",
+                        "C. Orice cuvant din text",
+                        "D. Doar verbele din text"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Care ar putea fi tema textului 'Prietenul meu'?",
+                    "options": [
+                        "A. Frică de teze",
+                        "B. Importanta prieteniei si curajul de a fi sincer",
+                        "C. Scolile sunt rele",
+                        "D. Cainii nu ar trebui sa fie la scoala"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "Ce este planul simplu de idei?",
+                    "options": [
+                        "A. O lista de cuvinte grele din text",
+                        "B. Organizarea logica a continutului textului in etape majore",
+                        "C. Descrierea detaliata a fiecarui paragraf",
+                        "D. O rezumare in o singura fraza"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "4",
+            "name": "Semnificațiile textului",
+            "summary": """Aceasta lectie insista pe interpretarea multilinistra a unui text literar, adica asupra faptului ca orice 
+            text literar poate avea mai multe intelesuri sau semnificatii. In 'Prietenul meu', pe langa povestea literala (un copil duce 
+            catelul la scoala), exista si alte semnificatii: curajul de a fi diferit, forta prieteniei, importanta sinceritatii, 
+            acceptarea celor diferiti. Lectia invata pe elevi sa citeasca intre randuri, sa gaseasca mesaje ascunse si sa inteleaga 
+            ca literatura nu transmite doar informatii, ci si valori, principii morale si perspective asupra vietii. Analiza semnificatiilor 
+            ajuta la dezvoltarea gandirii critice si a capacitatii de interpretare.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Ce semnificatie ascunsa poate avea actiunea lui Bogdan de a duce pe Joi la scoala?",
+                    "options": [
+                        "A. Doar o pacaleala copilariasca",
+                        "B. Expresia curajului de a fi diferit si a fi sincer",
+                        "C. O incercare de a obtine o nota mai mare",
+                        "D. O dovada ca cainii trebuie educati ca oamenii"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Care dintre urmatoarele nu este o semnificatie a textului 'Prietenul meu'?",
+                    "options": [
+                        "A. Importanta sinceritatii si a curajului",
+                        "B. Puterea prieteniei autentice",
+                        "C. Necesitatea de a avea intotdeauna animale la scoala",
+                        "D. Acceptarea celor diferiti in comunitate"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "De ce este importanta analiza semnificatiilor unui text literar?",
+                    "options": [
+                        "A. Pentru a obtine note mai mari la teze",
+                        "B. Pentru a dezvolta gandirea critica si a intelege valorile transmise de autor",
+                        "C. Pentru a scrie tezele mai scurt",
+                        "D. Pentru a memora textul"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "5",
+            "name": "Textul nonliterar",
+            "summary": """Aceasta lectie introduce diferenta dintre textul literar si textul nonliterar. In timp ce textul literar 
+            transmite idei si emotii intr-un limbaj expresiv si creativ, textul nonliterar are scopul de a transmite informatii precise 
+            si factuale. Textele nonliterare includ: notitie biografice, descrieri stiintifice, instructiuni, articole de ziare, 
+            articole scientifice. Diferenta majora este ca textul nonliterar nu apeleaza la imaginatie si creativitate, ci la claritate 
+            si precizie. Lectia arata cum acelasi subiect poate fi tratat diferit intr-un text literar versus intr-un text nonliterar, 
+            in functie de scopul autorului si de audienta vizata.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Care este scopul principal al unui text nonliterar?",
+                    "options": [
+                        "A. Sa transmita emotii si sentimente",
+                        "B. Sa distreze cu pove​​​sti imaginare",
+                        "C. Sa transmita informatii precise si factuale",
+                        "D. Sa creeze o lume imaginara"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Care dintre urmatoarele este un exemplu de text nonliterar?",
+                    "options": [
+                        "A. Un poem de dragoste",
+                        "B. O poveste de aventura",
+                        "C. O instructie de asamblare a unui obiect",
+                        "D. Un basm popular"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "Care este diferenta principala dintre limbajul expresiv al textului literar si limbajul textului nonliterar?",
+                    "options": [
+                        "A. Textul literar este mai dificil, nonliterar mai usor",
+                        "B. Textul literar apeleaza la creativitate si emotie, nonliterar la claritate si precizie",
+                        "C. Textul nonliterar este intotdeauna mai lung",
+                        "D. Nu exista nicio diferenta reala"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "6",
+            "name": "Noi pagini – alte idei",
+            "summary": """Aceasta sectiune a Lectiei 6 introduce perspectiva larga asupra textelor literare prin prezentarea unor 
+            fragmente din alti autori cu teme similare: prietenie, identitate, emotii. Scopul este sa arate elevilor ca aceleasi teme 
+            pot fi abordate de mai multi autori, fiecare cu stilul si perspectiva proprie. Prin compararea diferitelor abordari, elevii 
+            invata sa apreascieze diversitatea literara si sa inteleaga ca nu exista un singur mod de a spune o poveste. Aceasta sectiune 
+            deschide orizonturi si incurajeaza gândirea independenta și aprecierea pentru varietatea modurilor in care literatura poate 
+            exprima aceleasi emotii si idei.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Care este scopul sectiunii 'Noi pagini - alte idei'?",
+                    "options": [
+                        "A. Sa inlocuiasca textul principal cu altul mai bun",
+                        "B. Sa arate ca aceleasi teme pot fi abordate diferit de mai multi autori",
+                        "C. Sa complice lectia inutilul",
+                        "D. Sa impartaseasca anecdote hazlii"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Ce invata elevii prin compararea diferitelor abordari ale aceleiasi teme?",
+                    "options": [
+                        "A. Sa memoreze mai mult text",
+                        "B. Sa aprecieze diversitatea literara si varietatea modurilor de exprimare",
+                        "C. Sa deciea ce autor este mai bun",
+                        "D. Nimic important"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "Ce se intelege prin 'perspectiva proprie' a unui autor?",
+                    "options": [
+                        "A. Modul in care se vede si se intelege autorul",
+                        "B. Stilul unic, valorile si viziunea autorului asupra lumii",
+                        "C. O greseala gramaticala",
+                        "D. O intrebdare care nu are raspuns"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "7",
+            "name": "Identitatea personală. Emoțiile",
+            "summary": """Aceasta lectie aborda tema identitat personale si a rolului emotiilor in construirea si exprimarea acesteia. 
+            Se exploreaza cum fiecare persoana are caracteristici unice, pasiuni, temeri si dorinte care o definesc. Lectia incurajeaza 
+            autoreflectie, ajutand elevii sa-si inteleaga mai bine propriile emotii si cum acestea influenteaza comportamentul si 
+            relatiile cu ceilalti. Prin analiza textelor literare, se arata cum autorii si-au exprimat identitatea si emotiile, 
+            servind ca model pentru elevi. Se discuta cum identitatea se formeaza prin experienta, relatii, culture si alegeri personale. 
+            Lectia promoveaza acceptarea diferentelor si respectul pentru unicitatea fiecarui individ.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Cum se defineste identitatea personala?",
+                    "options": [
+                        "A. Nur numele si varsta unei persoane",
+                        "B. Caracteristicile unice, pasiunile, temerile si dorintele care definesc o persoana",
+                        "C. Tipul de masa preferat",
+                        "D. Culoarea ochilor"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Ce rol au emotiile in construirea identitatii personale?",
+                    "options": [
+                        "A. Niciun rol important",
+                        "B. Influenteaza comportamentul, relatiile si modurile in care ne exprimam",
+                        "C. Doar creeaza probleme",
+                        "D. Nu mai au nevoie de emotii dupa pubertate"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "Care dintre urmatoarele contribuie la formarea identitatii personale?",
+                    "options": [
+                        "A. Numai experienta personala",
+                        "B. Numai relatiile cu ceilalti",
+                        "C. Experienta, relatii, cultura si alegeri personale",
+                        "D. Nici una dintre acestea"
+                    ],
+                    "correctAnswerIndex": 2
+                }
+            ]
+        },
+        {
+            "number": "8",
+            "name": "Exprimarea adecvată a emoțiilor. Roluri în comunicare",
+            "summary": """Aceasta lectie invata elevii cum sa-si exprime emotiile intr-o maniera adecvata și constructiva, cu 
+            constienta impactului comunicarii lor asupra celorlalti. Se discuta diferitele roluri pe care le putem avea in comunicare: 
+            vorbitorul, ascultatorul, observatorul, mediator. Fiecare rol inseamna responsabilitati diferite. Lectia insista pe 
+            importanta ascultarii active, empatiei si a exprimarii assertive (spunerea adevarului fara a leza pe alti). Elevii invata 
+            ca emotiile nu sunt intrinsec bune sau rele, dar cum le exprimam face diferenta. Prin Role-play si simulari, elevii practica 
+            diferitele moduri de a comunica cu respect si intelegere.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Ce role putem avea intr-o comunicare?",
+                    "options": [
+                        "A. Numai vorbitor",
+                        "B. Vorbitorul, ascultatorul, observatorul, mediator",
+                        "C. Numai ascultatorul",
+                        "D. Niciun rol important nu exista"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Ce inseamna exprimare assertiva?",
+                    "options": [
+                        "A. A sterge emotiile si a nu spune nimic",
+                        "B. A agresa verbal pe ceilalti",
+                        "C. A spune adevarurulul fara a leza pe alti",
+                        "D. A se plange constant"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "De ce este importanta ascultarea activa in comunicare?",
+                    "options": [
+                        "A. Pentru ca nu avem ce spune",
+                        "B. Pentru a demonstra respect si intelegere fata de interlocutor",
+                        "C. Pentru ca trebuie sa fim tăcut",
+                        "D. Nu este importanta"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "9",
+            "name": "Propoziția. Tipuri de propoziții",
+            "summary": """Aceasta lectie introduce noiuni de baza din gramatica limbii romane, centrata pe conceptul de propozitie. 
+            O propozitie este o unitate de comunicare care contine un subiect si un predicat si exprima o idee completa. Lectia prezinta 
+            tipurile de propozitii in functie de punct de vedere semantic: propozitii enuntiative (care afirma sau neaga), exclamative 
+            (care exprima emotie puternica), interogative (care pun o intrebare), optative (care exprima dorinta). Fiecare tip are o 
+            functie diferita in comunicare. Intalegerea acestor tipuri ajuta elevii sa scrie si sa comunice mai clar si mai efectiv.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Ce este o propozitie?",
+                    "options": [
+                        "A. Un cuvant izolat",
+                        "B. O unitate de comunicare cu subiect si predicat care exprima o idee completa",
+                        "C. O lista de cuvinte",
+                        "D. O fraza fara sens"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Care dintre urmatoarele este o propozitie exclamativa?",
+                    "options": [
+                        "A. Ai terminat tema?",
+                        "B. Am o veste buna pentru tine.",
+                        "C. Ai zis o greseala!",
+                        "D. S-ar putea sa plouaa maine."
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "Care este functia unei propozitii interogative?",
+                    "options": [
+                        "A. Sa afirme un fapt",
+                        "B. Sa exprime o dorinta",
+                        "C. Sa puna o intrebare",
+                        "D. Sa comande ceva"
+                    ],
+                    "correctAnswerIndex": 2
+                }
+            ]
+        },
+        {
+            "number": "10",
+            "name": "Cuvântul și dicționarul",
+            "summary": """Aceasta lectie insista pe importanta cuvintelor in comunicare si rolul dictionarului in gasirea semnificatiei 
+            lor. Un cuvant este unitatea minima de limbaj care exprima o notiune. Dictionarul este o sursa nepretuita pentru intelege 
+            semnificatia, pronunciatia, etimologia si utilizarea corecta a cuvintelor. Lectia arata elevilor cum sa caute efectiv in 
+            dictionar si cum sa inteleaga informatiile prezentate in intrari. Se discuta si concepte cum ar fi: polisemia (un cuvant 
+            cu mai multe sensuri), homonimia (cuvinte care suna la fel dar au sensuri diferite), sinonimia. Capacitatea de a folosi 
+            dictionarul este esentiala pentru dezvoltarea vocabularului si pentru comunicarea precisa.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Ce este un cuvant?",
+                    "options": [
+                        "A. O litera din alfabet",
+                        "B. Unitatea minima de limbaj care exprima o notiune",
+                        "C. Un rand din carte",
+                        "D. Un sunet gol"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Care este functia principala a unui dictionar?",
+                    "options": [
+                        "A. Sa descrie povesti",
+                        "B. Sa ofere semnificatia, pronunciatia si informatii despre utilizarea cuvintelor",
+                        "C. Sa liste toate cartile din biblioteca",
+                        "D. Sa explice matematica"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "Ce se intelege prin polisemia?",
+                    "options": [
+                        "A. Un cuvant care nu exista",
+                        "B. Un cuvant cu mai multe sensuri diferite",
+                        "C. Incapacitate de a vorbi",
+                        "D. O greseala in pronuntare"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "11",
+            "name": "Sinonimele. Antonimele",
+            "summary": """Aceasta lectie introduce conceptele de sinonimie si antonie in limba romana. Sinonimele sunt cuvinte 
+            diferite care au sensuri asemanatoare sau identice (de exemplu: frumos-cuveni, bun-decent). Antonimele sunt cuvinte care 
+            au sensuri opuse (de exemplu: frumos-urt, mare-mic, bun-rau). Intelelegerea sinonimelor si antonimelor ajuta elevii sa 
+            isi diversifice vocabularul, sa evite repetatiile monotone in scris si sa exprime ideile mai precis. Lectia arata cum 
+            sinonimele pot avea nuante diferite de ineles, chiar daca sensul general este similar. Capacitatea de a recunoaste si a 
+            utiliza sinonimele si antonimele este esentiala pentru o comunicare eficace si pentru aprecierea subtiletatilor limbajului.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Ce sunt sinonimele?",
+                    "options": [
+                        "A. Cuvinte care suna la fel",
+                        "B. Cuvinte cu sensuri asemanatoare sau identice",
+                        "C. Cuvinte din alte limbi",
+                        "D. Cuvinte invenate"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Care dintre urmatoarele perechi sunt antonime?",
+                    "options": [
+                        "A. Frumos - cuvenit",
+                        "B. Mare - mare",
+                        "C. Bun - rau",
+                        "D. Casa - locuinta"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "De ce este importanta cunoasterea sinonimelor si antonimelor?",
+                    "options": [
+                        "A. Pentru a complica textul",
+                        "B. Pentru a diversifica vocabularul si a evita repetitiile",
+                        "C. Pentru a confunda cititorul",
+                        "D. Nu este importanta"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "12",
+            "name": "Câmpul lexical",
+            "summary": """Aceasta lectie introduce conceptul de camp lexical (sau semantic), care este un grup de cuvinte legate 
+            semantic (prin semnificatie). De exemplu, campul lexical al cuvintului 'casa' include: locuinta, apartament, etaj, cuina, 
+            odaia, etc. Un camp lexical este format din cuvinte care apartin aceleiasi categori sau care se refera la acelasi domeniu. 
+            Intelegerea campurilor lexicale ajuta elevii sa organizeze mai bine cunostintele, sa gaseasca cuvinte apropiate si sa 
+            intelega mai profund intelesurile unor termeni. Lectia arata cum analiza campuri lexicale din texte literare poate ajuta 
+            la intelegerea mai buna a temelor si a intentiior autorului.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Ce este un camp lexical?",
+                    "options": [
+                        "A. Un teren de fotbal cu cuvinte",
+                        "B. Un grup de cuvinte legate semantic dintr-o aceeasi categorie",
+                        "C. O lista de cuvinte intr-un dictionar",
+                        "D. Un text plin de cuvinte grele"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Care dintre urmatoarele cuvinte apartin campul lexical al 'mancarii'?",
+                    "options": [
+                        "A. Masina, bicicleta, avion",
+                        "B. Paine, lapte, cartofi, supa",
+                        "C. Ro​su, albastru, verde",
+                        "D. Carte, creion, tabla"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "De ce este utila analiza campurilor lexicale intr-un text?",
+                    "options": [
+                        "A. Pentru a memora lista de cuvinte",
+                        "B. Pentru a intelege mai profund temele si intentiiler autorului",
+                        "C. Pentru a scrie mai lungi text",
+                        "D. Nu are nici o utilitate"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "13",
+            "name": "Tipurile de sunete",
+            "summary": """Aceasta lectie se ocupa de fonetsmă - studiul sunetelor limbii romane. Se prezinta diferitele tipuri de 
+            sunete si caracteristicile lor: vocale (a, e, i, o, u) care sunt deschise si nu au obstacole, si consoane care se formeaza 
+            prin obstaculizarea fluxului de aer in diverse puncte ale cavitati bucale. Lectia arata cum diferitele sunete se combina 
+            pentru a forma cuvinte si cum aceleasi sunete pot avea semnificatii total diferite in contexte diferite. Se discuta si 
+            aspeqte cum ar fi: intonatie, ritm si accentul tonicul. Intelegerea tipurilor de sunete este fundamentala pentru pronuntarea 
+            corecta, pentru dictare si pentru aprecierea aspectelor sonorite ale limbajului.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Care sunt sunetele vocale in limba romana?",
+                    "options": [
+                        "A. B, C, D, F, G",
+                        "B. A, E, I, O, U",
+                        "C. Toate sunetele alfabetului",
+                        "D. Z, X, Q"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Care este caracteristica principala a consoannelor?",
+                    "options": [
+                        "A. Se pronunta fara obstacole",
+                        "B. Se formeaza prin obstaculizarea fluxului de aer",
+                        "C. Sunt intotdeauna silentioase",
+                        "D. Nu au pronuntie fixa"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "De ce este importanta intelegerea tipurilor de sunete?",
+                    "options": [
+                        "A. Doar pentru lingvistii profesionisti",
+                        "B. Pentru pronuntarea corecta, dictare si aprecierea aspectelor sonorite",
+                        "C. Nu are importanta",
+                        "D. Doar pentru muzicieni"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "number": "14",
+            "name": "Silaba. Accentul",
+            "summary": """Aceasta lectie introduce conceptele de silaba și accent tonicul. O silaba este o unitate fonologică 
+            care contine un sunet vocal si eventual sunete consonantice aferente. Cuvintele se compun din una sau mai multe silabe. 
+            Accentul tonicul este intensitatea cu care se pronunta o silaba, iar in limba romana, fiecare cuvant polisibil are o 
+            silaba tonica. De exemplu, in cuvantul 'masa', accentul cade pe 'ma'. Accentul tonicul nu se scrie niciodata in limba 
+            romana moderna, dar este important in pronuntare. Lectia arata cum silabele se combina pentru a forma cuvinte si cum 
+            accentul afecteaza pronuntarea si intelelegerea unui cuvant.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Ce este o silaba?",
+                    "options": [
+                        "A. Un cuvant intreg",
+                        "B. O unitate fonologica cu un sunet vocal si sunete consonantice aferente",
+                        "C. O grupa de litere fara sens",
+                        "D. Un sunet consonantic izolat"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Ce este accentul tonicul?",
+                    "options": [
+                        "A. Modul de a pronunta cuvintele in limba engleza",
+                        "B. Intensitatea cu care se pronunta o silaba intr-un cuvant",
+                        "C. Un semn care se scrie mereu in limba romana",
+                        "D. Un efect al muzicii"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "Cte silabe are cuvantul 'masina'?",
+                    "options": [
+                        "A. Una",
+                        "B. Doua",
+                        "C. Trei",
+                        "D. Patru"
+                    ],
+                    "correctAnswerIndex": 2
+                }
+            ]
+        },
+        {
+            "number": "15",
+            "name": "Etapele scrierii. Relatarea unor experiențe personale",
+            "summary": """Aceasta lectie finala a Unitatii 1 invata elevii cum sa scrie efecativ, prezentand etapele procesului 
+            de scriere. Etapele includ: planificarea (stabilirea scopului, audientei si ideilor principale), elaborare (scrierea 
+            textului), revisie (relecture si corectaturi), editare (corectura finala). Lectia se concentreaza pe relatarea unor 
+            experiente personale, care este o forma de scriere accesibila si relevanta pentru elevi. Relatarea experiential permite 
+            elevilor sa-si exprime sentimentele, sa reconstituie evenimentele cronologic si sa traia din nou emotiile acelui moment. 
+            Lectia incurajeaza elevii sa-si alege momentele marcante din viata lor si sa le transforme in texte coherente si expresive.""",
+            "questions": [
+                {
+                    "questionNumber": 1,
+                    "questionText": "Care sunt etapele principale ale procesului de scriere?",
+                    "options": [
+                        "A. Numai planificarea",
+                        "B. Planificarea, elaborare, revisie si editare",
+                        "C. Numai editarea",
+                        "D. Nu exista etape, se scrie direct"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 2,
+                    "questionText": "Ce se ntamplă in etapa de planificare?",
+                    "options": [
+                        "A. Se corecteaza greselile gramaticale",
+                        "B. Se stabileste scopul, audienta si ideile principale",
+                        "C. Se rescrie textul complet",
+                        "D. Se sterge tot si se incepe de la capat"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "questionNumber": 3,
+                    "questionText": "De ce este utila relatarea experiential?",
+                    "options": [
+                        "A. Numai pentru a pierde timp",
+                        "B. Pentru a-si exprima sentimentele si a transforma momentele importante in texte coerente",
+                        "C. Nu este utila",
+                        "D. Doar pentru oamenii in varsta"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        }
+    ]
+}
+
+# Save to JSON file
+output_path = "unit1_lessons_complete.json"
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(unit1_data, f, ensure_ascii=False, indent=2)
+
+print(f"✓ Unit 1 complete data saved to {output_path}")
+print(f"✓ Total lessons processed: {len(unit1_data['lessons'])}")
+print(f"✓ Total questions generated: {sum(len(lesson['questions']) for lesson in unit1_data['lessons'])}")
+

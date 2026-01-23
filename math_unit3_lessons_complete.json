@@ -1,0 +1,126 @@
+{
+  "unit_number": "3",
+  "unit_name": "Divizibilitatea",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Divizibilitatea numerelor naturale",
+      "summary": "Divizibilitatea este relația dintre două numere naturale unde unul se divide exact de altul. Un număr a se divide cu \n            numărul b dacă există un număr c așa încât a = b × c. Se spune că a este divizibil cu b, sau b divide a, notat b|a. De exemplu, 12 \n            se divide cu 3 deoarece 12 = 3 × 4. Proprietăți importante: orice număr se divide cu 1 și cu el însuși; 0 se divide cu orice număr; \n            dacă a se divide cu b și b se divide cu c, atunci a se divide cu c (tranzitivitate); dacă a se divide cu b și a se divide cu c, \n            atunci a se divide cu (b + c). Divisibilitatea este fundamentală pentru teoria numerelor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce înseamnă că a se divide cu b?",
+          "options": [
+            "A. a este mai mic decât b",
+            "B. Există c așa încât a = b × c",
+            "C. a este mai mare decât b",
+            "D. a și b sunt egale"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Se divide 24 cu 6?",
+          "options": [
+            "A. Nu, pentru că 24 nu este mai mic decât 6",
+            "B. Da, pentru că 24 = 6 × 4",
+            "C. Nu, pentru că nu sunt egale",
+            "D. Nu se poate determina"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cu ce se divide orice număr natural?",
+          "options": [
+            "A. Doar cu el însuși",
+            "B. Cu 1 și cu el însuși",
+            "C. Doar cu 0",
+            "D. Cu toate numerele"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Criterii de divizibilitate",
+      "summary": "Criteriile de divizibilitate sunt reguli care permit determinarea rapidă dacă un număr se divide cu altul, fără a efectua \n            împărțirea. Criterii importante: 1) Divisibilitate cu 2: ultimul digit este par (0, 2, 4, 6, 8). 2) Divisibilitate cu 3: suma cifrelor \n            este divizibilă cu 3. 3) Divisibilitate cu 5: ultimul digit este 0 sau 5. 4) Divisibilitate cu 10: ultimul digit este 0. 5) Divisibilitate \n            cu 4: ultimele două cifre formează un număr divizibil cu 4. 6) Divisibilitate cu 9: suma cifrelor este divizibilă cu 9. Aceste criterii \n            economisesc timp și sunt esențiale în teoria numerelor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cum se determină dacă un număr se divide cu 2?",
+          "options": [
+            "A. Prin efectuarea împărțirii",
+            "B. Dacă ultimul digit este par",
+            "C. Dacă suma cifrelor este pară",
+            "D. Dacă are 2 cifre"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Se divide 315 cu 3?",
+          "options": [
+            "A. Nu",
+            "B. Da, deoarece 3 + 1 + 5 = 9, care se divide cu 3",
+            "C. Doar dacă se divide și cu 5",
+            "D. Nu se poate determina"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este criteriul de divizibilitate cu 5?",
+          "options": [
+            "A. Suma cifrelor trebuie să fie 5",
+            "B. Ultimul digit trebuie să fie 0 sau 5",
+            "C. Numărul trebuie să fie mai mare decât 5",
+            "D. Trebuie să împărțim la 5"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Numere prime. Numere compuse",
+      "summary": "Numerele prime sunt numerele naturale mai mari decât 1 care au exact doi divizori: 1 și el însuși. De exemplu, 2, 3, 5, 7, \n            11, 13 sunt prime. Numerele compuse sunt numerele naturale mai mari decât 1 care au mai mult de doi divizori. De exemplu, 4, 6, 8, 9, 10 \n            sunt compuse. Numărul 1 nu este nici prim, nici compus, prin definiție. Două numere sunt coprime (relativ prime) dacă cmmdc-ul lor este \n            1. Importanța numerelor prime: orice număr compus poate fi descompus unic în produs de numere prime (teorema fundamentală a aritmeticii). \n            Numerele prime sunt ''blocuri de construcție'' ale tuturor numerelor naturale.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este un număr prim?",
+          "options": [
+            "A. Un număr care se divide cu orice număr",
+            "B. Un număr care are exact doi divizori: 1 și el însuși",
+            "C. Un număr care este par",
+            "D. Un număr care este mai mic decât 10"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Este 7 un număr prim?",
+          "options": [
+            "A. Nu, pentru că este impar",
+            "B. Da, deoarece are doar divizorii 1 și 7",
+            "C. Nu, pentru că este mai mic decât 10",
+            "D. Nu se poate determina"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care dintre următoarele este număr compus?",
+          "options": [
+            "A. 2",
+            "B. 3",
+            "C. 5",
+            "D. 6"
+          ],
+          "correctAnswerIndex": 3
+        }
+      ]
+    }
+  ]
+}

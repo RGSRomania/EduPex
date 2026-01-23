@@ -1,0 +1,686 @@
+{
+  "unit_number": "2",
+  "unit_name": "De-a ce mă joc",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul narativ literar. Vizită... de I.L. Caragiale",
+      "summary": "Aceasta lectie prezinta textul narativ literar prin fragmente din \"Vizită...\" de Ioan Luca Caragiale, \n            un scriitor romanesc de seama care a marcat literatura prin creaturi memorabile si situatii comice. Textul urmareste o vizita \n            intr-un mediu bourghez, revelandu-se prin detalii de comportament caracteristicele personajelor. Lectia invata elevii sa \n            recunoasca elementele narative: personajele cu caracteristicile lor distincte, actiunea cu conflictul ei, decorul care \n            creeaza atmosfera. Prin analiza acestui text, se evidentiaza cum un scriitor poate transmite o intreaga imagine despre o \n            epoca si o clasa sociala prin intermediul unui moment cotidian transformat in arta literara.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cine este autorul textului 'Vizită...'?",
+          "options": [
+            "A. Mihai Eminescu",
+            "B. Ioan Luca Caragiale",
+            "C. George Coșbuc",
+            "D. Octavian Goga"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt elementele principale ale textului narativ?",
+          "options": [
+            "A. Doar descrieri si versuri",
+            "B. Personajele, actiunea si decorul",
+            "C. Doar dialoguri lungi",
+            "D. Doar introspectiune psihologica"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce se poate deduce din studiul unui text narativ al epocii?",
+          "options": [
+            "A. Doar povesti de ficțiune fără valoare",
+            "B. Imaginea unei epoci, a unei clase sociale și a valorilor unei timpuri",
+            "C. Nimic util pentru înțelegerea realității",
+            "D. Doar informații despre viața autorului"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Timp, spațiu și acțiune",
+      "summary": "Aceasta lectie aprofundeaza trei componente esențiale ale unui text narativ: timpul, spatiul si actiunea. \n            Timpul poate fi cronologic (care urmeaza ordinea evenimentelor) sau psihologic (cum percepe personajul trecerea timpului). \n            Spatiul include nu doar locurile fizice, ci si atmosfera si semnificatia acestora. Actiunea este succesiunea \n            evenimentelor care avansează povestea si se dezvolta prin conflict. Lectia arata cum aceste trei elemente sunt \n            interconectate: actiunea se desfasoara intr-un spatiu anume si in anumite conditii temporale, iar personajele sunt \n            marcate de aceste circumstante. Intelegerea acestor elemente ajuta la o lectura mai profunda a textelor narative.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este diferența dintre timpului cronologic și cel psihologic?",
+          "options": [
+            "A. Nu există nicio diferență",
+            "B. Timpului cronologic urmează ordinea evenimentelor, psihologic cum o percepe personajul",
+            "C. Timpului cronologic este imaginar",
+            "D. Timpului psihologic nu are importanță în literatură"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce rol are spațiul în textul narativ?",
+          "options": [
+            "A. Niciun rol important",
+            "B. Doar decorare a povestii",
+            "C. Creează atmosferă și poate avea semnificație simbolică",
+            "D. Doar pentru a putea descrie detalii inutile"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum se développent actiunea în textul narativ?",
+          "options": [
+            "A. Prin descrieri lungi și statice",
+            "B. Prin succesiunea evenimentelor și prin conflictele care apar",
+            "C. Doar prin monologuri personajelor",
+            "D. Nu se dezvoltă, rămâne static"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Planul dezvoltat de idei",
+      "summary": "Planul dezvoltat de idei este o tehnica de analiză care merge dincolo de planul simplu. Daca planul simplu \n            impartaseste textul in etape principale (inceput, mijloc, sfarsit), planul dezvoltat examineaza structura mai detaliat, \n            identificand toate secventele majore si minore, evenimentele cheie si progresul conflictului. Aceasta tehnica ajuta cititorii \n            sa inteleaga arhitectura textului, cum se construieste tensiunea, cum se introduc personajele si cum se rezolva conflictul. \n            Planul dezvoltat de idei faciliteaza o intelegere mai profunda a mesajului autorului si a tehnicalului de narare utilizate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este diferența dintre planul simplu și planul dezvoltat de idei?",
+          "options": [
+            "A. Planul simplu are 3 etape, planul dezvoltat nu are etape",
+            "B. Planul simplu este bun, planul dezvoltat este rău",
+            "C. Planul simplu impartaseste în etape principale, planul dezvoltat examineaza structura detaliat",
+            "D. Nu există nicio diferență"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce ajută identificarea unui plan dezvoltat de idei?",
+          "options": [
+            "A. Doar sa pierd timp",
+            "B. Sa înțeleg cum se construiește tensiunea și progresul conflictului",
+            "C. Sa ignor mesajul autorului",
+            "D. Sa pun în somn durante lectura"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce elemente examineaza planul dezvoltat?",
+          "options": [
+            "A. Doar vorbele grele din text",
+            "B. Secventele majore și minore, evenimentele cheie și evoluția conflictului",
+            "C. Doar descrierile meteo",
+            "D. Doar numele personajelor"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Personajele",
+      "summary": "Personajele sunt entitatile vii ale unui text narativ, ele impart experientele, au conflicte si se dezvolta \n            pe parcursul povestii. Un personaj poate fi rond (complex, cu multe dimensiuni, care se schimba) sau plat (simplu, \n            previsibil). Personajul principal este protagonistul, iar antagonistul se opune acestuia. Lectia invata elevii sa analizeze \n            motivatiile personajelor, comportamentul lor, cum se interactioneaza unii cu altii si cum se dezvolta in timp. Prin \n            intelegerea personajelor, cititorul poate accesa semnificatii mai profunde ale textului si poate dobandi empatie pentru \n            dorintele si temeile acestora.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este diferența dintre un personaj rond și unul plat?",
+          "options": [
+            "A. Nu există nicio diferență",
+            "B. Personajul rond este complex și se schimbă, personajul plat este simplu și previsibil",
+            "C. Personajul plat este mai important decât cel rond",
+            "D. Sunt doar termeni matematici"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cine este protagonistul unei povestii?",
+          "options": [
+            "A. Personajul cel mai rău",
+            "B. Personajul principal, heroul poveștii",
+            "C. Oricine apare în poveste",
+            "D. Autorul poveștii"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce este important să înțelegem motivațiile personajelor?",
+          "options": [
+            "A. Nu este important",
+            "B. Pentru a accesa semnificații mai profunde și a dobândi empatie",
+            "C. Doar pentru a criticaliza comportamentul lor",
+            "D. Pentru a putea schimba finalul poveștii"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Semnificații ale textului",
+      "summary": "Asemenea Unit 1, semnificatiile textului narativ sunt multiple si se pot deschide la mai interpretari. Un text \n            narativ nu transmite doar o poveste, ci si lecii, critici ale societatii, reflecții asupra naturii umane. Lectia invata \n            elevii sa caute mesajele ascunse, sa inteleaga ce vrea autorul sa comunice dincolo de actiune. Prin analiza simbolurilor, \n            a repetitiilor, a dialogului si a comportamentelor personajelor, se pot descoperi niveluri mai profunde de ineles. \n            Semnificatiile pot fi referite la moralitate, la critică sociala, la psihologie umana sau la conditia existentiala.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt semnificațiile unui text narativ?",
+          "options": [
+            "A. Doar cuvintele pe care le citim",
+            "B. Mesajele și sensurile transmise dincolo de acțiune",
+            "C. Erori în text",
+            "D. Descrierile lungi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum putem descoperi semnificațiile ascunse ale unui text?",
+          "options": [
+            "A. Citind mai repede",
+            "B. Prin analiza simbolurilor, repetițiilor, dialogului și comportamentelor",
+            "C. Ignorând detaliile",
+            "D. Spunând ce credem fără dovezi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care dintre următoarele pot fi semnificații ale unui text?",
+          "options": [
+            "A. Doar descrierile naturii",
+            "B. Critică socială, reflexii asupra naturii umane, moralitate",
+            "C. Doar numere și date",
+            "D. Doar versuri frumoase"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Noi pagini – alte idei",
+      "summary": "Aceasta sectiune a Unit 2 continua traditia introdusa in Unit 1: prezinta alte fragmente sau texte narative \n            cu teme similare sau diferite, aratand cum aceleasi idei sau situatii pot fi abordate diferit de alti autori. Prin \n            compararea acestor texte, elevii invata sa aprecieze diversitatea perspectivelor si stilurilor literare. Se pot observa \n            diferite moduri de a construi conflictul, de a prezenta personajele si de a rezolva actiunea. Aceasta deschide orizonturi \n            si incurajeaza gandirea independenta si critica.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este scopul secțiunii 'Noi pagini - alte idei' în Unit 2?",
+          "options": [
+            "A. Sa plictisească elevii",
+            "B. Sa arate cum aceleași teme pot fi abordate diferit de alți autori",
+            "C. Sa înlocuiască textul principal",
+            "D. Sa lungim lectia fără sens"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce invață elevii prin compararea textelor narative diferite?",
+          "options": [
+            "A. Să memoreze mai mult",
+            "B. Diversitatea perspectivelor și stilurilor literare",
+            "C. Că o poveste este o poveste",
+            "D. Nimic util"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care dintre următoarele pot varia între texte narative diferite?",
+          "options": [
+            "A. Doar lungimea textului",
+            "B. Modul de construire a conflictului, prezentarea personajelor, rezolvarea acțiunii",
+            "C. Nu variază nimic",
+            "D. Doar numele autorilor"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Diversitate culturală: jocuri de ieri și de azi",
+      "summary": "Aceasta lectie abordeaza tema jocurilor din perspectiva culturala si istorica. Jocurile sunt activități \n            universale care exista in toate culturile, dar formele lor variaza de-a lungul timpului si intre grupurile culturale. \n            Lectia invata elevii sa intelege ca jocurile nu sunt doar divertisment, ci si expresii ale valorilor culturale, ale \n            conditiilor economice si ale evolututiei societatii. Se compara jocurile traditionale cu cele moderne, revelandu-se cum \n            tehnologia si schimbarile sociale au transformat modul in care oamenii se joaca. Aceasta tema conecteaza literatura cu \n            alte domenii si cu experienta cotidiana a elevilor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este semnificația jocurilor în perspectiva culturală?",
+          "options": [
+            "A. Sunt doar risipă de timp",
+            "B. Sunt expresii ale valorilor culturale și ale evoluției unei societăți",
+            "C. Nu au nicio importanță",
+            "D. Sunt doar pentru copii"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum s-au schimbat jocurile de-a lungul timpului?",
+          "options": [
+            "A. Nu s-au schimbat",
+            "B. Ele variază cu condițiile economice, tehnologia și schimbările sociale",
+            "C. Doar în culoare",
+            "D. Sunt aceleași din noapte-n zori"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce ne pot învață jocurile despre o cultură?",
+          "options": [
+            "A. Nimic important",
+            "B. Valorile, prioritățile și stadiul de dezvoltare al unei societăți",
+            "C. Doar cum să ne distrăm",
+            "D. Matematică"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Schimburi de replici în dialog",
+      "summary": "Dialogul este un element important al textului narativ care arata cum comunica personajele. Lectia invata \n            elevii sa analizeaza replicile dialogului: ce arata ele despre personaje, cum avansează actiunea, cum se revela conflictul. \n            Un dialog reusit nu este simplu o conversatie obisnuita, ci este selectiv, revelator si plin de inteles. Elevii invata \n            sa identifice informatii implicite in dialog, tonul vocii personajelor, relatiile lor si motivatiile lor. Dialogul poate \n            fi folosit pentru a caracteriza personajele, pentru a crea tensiune si pentru a avansa intriga.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este rolul dialogului în textul narativ?",
+          "options": [
+            "A. Doar să lungească textul",
+            "B. Să arate cum comunică personajele și să avanseze acțiunea",
+            "C. Niciun rol",
+            "D. Doar să descrie pe cineva vorbind"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce informații pot fi descoperite prin analiza dialogului?",
+          "options": [
+            "A. Doar vreo zăpada ieri",
+            "B. Caracteristicile personajelor, relațiile lor, motivațiile și tensiunile",
+            "C. Nu se poate afla nimic",
+            "D. Doar ce mânâncă personajele"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce face un dialog reusit?",
+          "options": [
+            "A. Doar să fie lung",
+            "B. Să fie selectiv, revelator și plin de sens subtil",
+            "C. Să fie repetitiv",
+            "D. Să fie neinteligibil"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Reguli de acces la cuvânt",
+      "summary": "Aceasta lectie abordeaza regulile conversatiei si ale comunicarii orale. In orice situatie sociala, exista \n            reguli implicite sau explicite despre cum se cuvine sa vorbesti. Aceste reguli includ: a asculta cand altcineva vorbeste, \n            a nu-l intrerupe, a respecta randul fiecaruia sa vorbeasca, a fi atent la tonul vocii si la limbajul nonverbal. Regurile \n            de acces la cuvant variaza intre culturi si intre contexturi (familia, scoala, munca). Lectia invata elevii sa fie constienti \n            de aceste reguli si sa le aplice in propriile conversatii, dezvoltand competente de comunicare pozitiva.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care sunt regulile de bază ale accesului la cuvânt?",
+          "options": [
+            "A. Vorbesc oricând vreau",
+            "B. Ascult, nu întrerup, respect rândul, sunt atent la ton",
+            "C. Nu exista reguli",
+            "D. Doar cei mari au voie să vorbească"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum variază regulile de acces la cuvânt?",
+          "options": [
+            "A. Nu variază",
+            "B. Variază între culturi și contexturi (familie, școală, muncă)",
+            "C. Sunt identice peste tot",
+            "D. Doar în ziua de marți"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante regulile de acces la cuvânt?",
+          "options": [
+            "A. Nu sunt importante",
+            "B. Pentru a dezvolta comunicare pozitivă și respect mutual",
+            "C. Doar pentru a complica viața",
+            "D. Pentru a ne plictisi"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Verbul. Predicatul verbal",
+      "summary": "Aceasta lectie introduce o noua componenta gramaticala: verbul si predicatul verbal. Verbul este cuvantul \n            care exprima actiunea sau starea. Predicatul verbal este constituit din verb si de complement direct sau indirect care \n            completeaza sensul verbului. De exemplu, \"a citi\" este un verb, iar \"a citi o carte\" este predicatul verbal. Verbele pot \n            fi tranzitive (necesita complement direct) sau intranzitive (nu necesita complement direct). Lectia invata elevii cum sa \n            identifice verbele si predicatele verbale in texte si cum sa le utilizeze corect in propriile scrieri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este verbul?",
+          "options": [
+            "A. Un cuvant care descrie un obiect",
+            "B. Cuvantul care exprima actiune sau stare",
+            "C. Un cuvant care descrie culoare",
+            "D. Un cuvant din alta limba"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este diferența dintre verbul 'a citi' și predicatul verbal 'a citi o carte'?",
+          "options": [
+            "A. Nu există nicio diferență",
+            "B. Verbul este doar verbul, predicatul include verbul și complementul",
+            "C. Sunt aceleași lucruri",
+            "D. Predicatul nu conține verbul"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este diferența dintre verbul tranzitiv și cel intranzitiv?",
+          "options": [
+            "A. Nu există diferență",
+            "B. Tranzitivul necesită complement direct, intranzitivul nu",
+            "C. Intranzitivul este mai greu",
+            "D. Nu pot fi diferențiate"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Modul indicativ. Prezentul",
+      "summary": "Verbele romane au diferite moduri si timpuri. Modul indicativ exprima realitatea, fapte obiective. Prezentul \n            este timpul verbului care exprima actiuni care se intampla in prezent, acum, sau actiuni obisneite. De exemplu, \"eu citesc\" \n            este prezentul indicativ al verbului \"a citi\". Conjugarea in prezent difera pentru fiecare persoana (eu, tu, el/ea, noi, voi, \n            ei/ele). Lectia invata elevii cum sa conjugueze corect verbele in prezentul indicativ si cum sa le utilizeze in propozitiile \n            lor. Intelelegerea timpurilor verbale este esentiala pentru o comunicare clara si pentru scrierea corecta.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă modul indicativ?",
+          "options": [
+            "A. Dorințe și speranțe",
+            "B. Realitatea și faptele obiective",
+            "C. Comenzi și ordine",
+            "D. Întrebări"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce acțiuni exprima prezentul?",
+          "options": [
+            "A. Acțiuni care s-au întâmplat ieri",
+            "B. Acțiuni care se întâmplă acum sau acțiuni obișnuite",
+            "C. Acțiuni care vor veni",
+            "D. Acțiuni imaginare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum variază conjugarea verbului în prezent?",
+          "options": [
+            "A. Nu variază",
+            "B. Variază pentru fiecare persoană (eu, tu, el/ea, noi, voi, ei/ele)",
+            "C. Variază doar pentru băieți",
+            "D) Este aceeași pentru toți"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Imperfectul",
+      "summary": "Imperfectul este un timp verbal care exprima actiuni trecute care erau in curs de desfasurare sau care se repetau \n            regulat in trecut. De exemplu, \"eu citeam\" este imperfectul verbului \"a citi\", care sugereaza o actiune repetata sau continua \n            in trecut. Imperfectul se deosebeste de perfectul compus (actiune incheita) prin faptul ca pune accentul pe durata sau repetitie. \n            Lectia invata elevii sa distinga intre imperfect si alte timpuri trecute, si sa le utilizeze corect in propriile narari. \n            Intelelegerea imperfectului este importanta pentru a putea descrie peisajele si atmosferele din trecut.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă imperfectul?",
+          "options": [
+            "A. Acțiuni care se vor întâmpla",
+            "B. Acțiuni trecute care durau sau se repetau",
+            "C. Acțiuni care nu au loc",
+            "D. Acțiuni imaginate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este diferența dintre imperfect și perfectul compus?",
+          "options": [
+            "A. Nu există diferență",
+            "B. Imperfectul pune accent pe durată, perfectul pe final",
+            "C. Sunt aceleași",
+            "D. Imperfectul este o invenție recentă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "La ce este util imperfectul în naratiune?",
+          "options": [
+            "A. La nimic",
+            "B. La descrierea peisajelor și atmosferelor din trecut",
+            "C. Doar la scrierea versurilor",
+            "D. La calculul matematic"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Verbul auxiliar a avea. Participiul. Perfectul compus",
+      "summary": "Aceasta lectie introduce verbul auxiliar \"a avea\" si utilizarea sa in constructia timpurilor compuse. Participiul \n            este forma verbului care se utilizeaza cu auxiliarul pentru a forma timpuri compuse. De exemplu, \"am citit\" este perfectul \n            compus, format din auxiliarul \"am\" (prezent de la \"a avea\") si participiul \"citit\". Perfectul compus exprima actiuni trecute \n            complete, incheiate. Lectia invata elevii cum sa formeze corect perfectul compus si cum sa il utilizeze in texte. Intelelegerea \n            participiilor si a timpurilor compuse este esentiala pentru o comunicare clara si pentru scrierea corecta.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este participiul?",
+          "options": [
+            "A. Un adverb",
+            "B. Forma verbului utilizată cu auxiliar pentru a forma timpuri compuse",
+            "C. Un substantiv",
+            "D. Un adjectiv"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Din ce se formează perfectul compus?",
+          "options": [
+            "A. Din prezent și imperfect",
+            "B. Din auxiliar 'am' și participiu",
+            "C. Din două verbe",
+            "D. Din adverbe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce acțiuni exprima perfectul compus?",
+          "options": [
+            "A. Acțiuni care vor veni",
+            "B. Acțiuni trecute complete și încheiate",
+            "C. Acțiuni care durează",
+            "D. Acțiuni viitoare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Perfectul simplu și mai-mult-ca-perfectul",
+      "summary": "Perfectul simplu si mai-mult-ca-perfectul sunt timpuri verbale folosite pentru a exprima actiuni trecute cu \n            diferite grade de anterioritate. Perfectul simplu exprima o actiune trecuta incheita (de exemplu, \"am citit o carte ieri\"). \n            Mai-mult-ca-perfectul exprima o actiune care s-a intamplat inainte de alta actiune in trecut (de exemplu, \"dupa ce am citit \n            cartea, am inteles povestea\"). Aceste timpuri sunt mai frecvente in literatura decat in vorbirea cotidiana. Lectia invata \n            elevii cum sa le identifice in texte si cum sa le utilizeze in propriile narari.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă perfectul simplu?",
+          "options": [
+            "A. Acțiuni care se repetă",
+            "B. O acțiune trecută încheiată și completă",
+            "C. Acțiuni viitoare",
+            "D. Stări permanente"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este diferența dintre perfectul simplu și mai-mult-ca-perfectul?",
+          "options": [
+            "A. Nu există diferență",
+            "B. Perfectul exprima o actiune, mai-mult-ca-perfectul o actiune mai anterioară",
+            "C. Sunt aceleași",
+            "D. Doar în vorbirea contemporană"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "În ce tip de text sunt acestea timpuri mai frecvente?",
+          "options": [
+            "A. În conversațiile cotidiene",
+            "B. În literatura și în naratiuni",
+            "C. Nu sunt folosite",
+            "D. Doar în publicitate"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Viitorul. Verbele auxiliare a vrea și a fi",
+      "summary": "Viitorul este un timp verbal care exprima actiuni care vor avea loc in viitor. Exista doua forme de viitor: viitorul \n            simplu (voi citi) si viitorul apropiat (voi sa citesc). Verbele auxiliare \"a vrea\" si \"a fi\" sunt folosite pentru a forma aceste \n            timpuri. De exemplu, \"voi citi\" se formeaza din \"voi\" (viitorul de \"a fi\") si infinitivul \"citi\". \"Voi sa citesc\" se formeaza din \n            \"voi\" (de la \"a vrea\") si \"sa citesc\". Lectia invata elevii cum sa conjugueze corect viitorul si cum sa il utilizeze in proprii \n            texte. Intelegerea timpurilor viitoare este esentiala pentru a exprima planuri, sperantele si intentia.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă viitorul?",
+          "options": [
+            "A. Acțiuni care au fost",
+            "B. Acțiuni care vor avea loc în viitor",
+            "C. Acțiuni care nu se vor întâmpla",
+            "D. Acțiuni imaginare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Câte forme de viitor există?",
+          "options": [
+            "A. O singură formă",
+            "B. Două forme: viitorul simplu și viitorul apropiat",
+            "C. Trei forme",
+            "D. Nu există viitor"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care sunt verbele auxiliare utilizate pentru viitor?",
+          "options": [
+            "A. a avea și a fi",
+            "B. a vrea și a fi",
+            "C. a merge și a veni",
+            "D. a putea și a trebuie"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "name": "Modul imperativ",
+      "summary": "Modul imperativ exprima comenzi, cereri, ordine. De exemplu, \"citeste cartea!\" este imperativul verbului \"a citi\". \n            Imperativul se formeaza diferit pentru diferitele persoane (tu, noi, voi). Acesta se foloseste atunci cand vrem ca cineva sa faca \n            ceva. Imperativul poate fi polite (cu \"va rog\") sau direct. Lectia invata elevii cum sa formeze imperativul si cum sa il utilizeze \n            corect. Intelelegerea modului imperativ este importanta pentru o comunicare clara si pentru a putea exprima dorinte si necesitati.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă modul imperativ?",
+          "options": [
+            "A. Realități și fapte",
+            "B. Comenzi, cereri, ordine",
+            "C. Dorințe și speranțe",
+            "D. Întrebări"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum se formează imperativul?",
+          "options": [
+            "A. Aceeași formă pentru toți",
+            "B. Diferit pentru tu, noi, voi",
+            "C. Nu se poate forma",
+            "D. Doar din verbe neregulate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum poate fi imperativul?",
+          "options": [
+            "A. Numai direct",
+            "B. Direct sau polite (cu 'vă rog')",
+            "C. Nu poate fi utilizat",
+            "D. Doar în scrieri literare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "name": "Textul narativ fictional",
+      "summary": "Aceasta lectie finala a Unit 2 sintetizeaza cunostintele despre textul narativ si introduces idea de ficțiune. \n            Textul narativ fictional este creat de imaginația autorului, nu este o descriere a unor fapte reale. Ficțiunea permite autorului \n            sa explore o multitudine de posibilitati, sa creeaze lumi alternative si sa transmita mesaje prin intermediul personajelor si \n            situatiilor imaginate. Lecția invata elevii cum sa aprecieze puterea ficțiunii si cum sa o utilizeze in propriile creații. \n            Se discuta diferența dintre fiction si realitate, si cum ficțiunea poate transmite adevaruri mai profunde despre experiența umană.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este textul narativ fictional?",
+          "options": [
+            "A. O descriere exactă a unor fapte reale",
+            "B. O creație a imaginației autorului care nu se bază pe realitate",
+            "C. O slă istorică",
+            "D. Un manual de știință"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce permite ficțiunea autorului?",
+          "options": [
+            "A. Doar să copieze realitatea",
+            "B. Să exploreze posibilități, să creeaze lumi alternative și să transmită mesaje",
+            "C. Nimic util",
+            "D. Doar să mint"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum poate ficțiunea transmite adevăruri profunde?",
+          "options": [
+            "A. Nu poate",
+            "B. Prin creații imaginare care explorez experiența umană",
+            "C. Doar prin fapte reale",
+            "D. Nu are scop"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

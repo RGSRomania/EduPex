@@ -1,0 +1,186 @@
+{
+  "unit_number": "3",
+  "unit_name": "Mulțimea numerelor întregi",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Mulțimea numerelor întregi. Opusul unui număr întreg. Reprezentarea pe axa numerelor. Modulul unui număr întreg. Compararea și ordonarea numerelor întregi",
+      "summary": "ℤ include naturale și negative. Opusul lui a este -a. |3| = 3, |-3| = 3.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Opusul lui -5?",
+          "options": [
+            "A. 5",
+            "B. -5",
+            "C. 0",
+            "D. 1/5"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Adunarea numerelor întregi. Proprietăți",
+      "summary": "Adunare: semn, moduli. 3+2=5, -3-2=-5.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "3 + (-5)?",
+          "options": [
+            "A. 8",
+            "B. -2",
+            "C. 2",
+            "D. -8"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Scăderea numerelor întregi",
+      "summary": "Scădere: a - b = a + (-b). 5 - 3 = 2.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "2 - 5?",
+          "options": [
+            "A. 3",
+            "B. -3",
+            "C. 7",
+            "D. 2.5"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Înmulțirea numerelor întregi. Proprietăți",
+      "summary": "Înmulțire: semne, module. 3×2=6, (-3)×2=-6.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "3 × (-2)?",
+          "options": [
+            "A. 6",
+            "B. -6",
+            "C. 1",
+            "D. 5"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Împărțirea numerelor întregi",
+      "summary": "Împărțire: a ÷ b, semne ca înmulțire. 6 ÷ 2 = 3.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "(-6) ÷ 2?",
+          "options": [
+            "A. 3",
+            "B. -3",
+            "C. 2",
+            "D. -2"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Puterea cu exponent număr natural a unui număr întreg nenul. Reguli de calcul cu puteri",
+      "summary": "aⁿ = a × a × ... × a. 2³ = 8. (-2)³ = -8.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "2⁴?",
+          "options": [
+            "A. 8",
+            "B. 16",
+            "C. 6",
+            "D. 4"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Ordinea efectuării operațiilor și folosirea parantezelor",
+      "summary": "Ordine: paranteze, exponenți, ×/÷, +/-. 2+3×4 = 14.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "2 + 3 × 2?",
+          "options": [
+            "A. 10",
+            "B. 8",
+            "C. 7",
+            "D. 5"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Ecuații în mulțimea numerelor întregi",
+      "summary": "Ecuație: 2x + 3 = 7. Rezolvare: x = 2.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "x + 3 = 7?",
+          "options": [
+            "A. x=3",
+            "B. x=4",
+            "C. x=10",
+            "D. x=2"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Inecuații în mulțimea numerelor întregi",
+      "summary": "Inecuație: 2x + 1 > 5. Rezolvare: x > 2.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "x + 2 > 5?",
+          "options": [
+            "A. x>3",
+            "B. x<3",
+            "C. x=3",
+            "D. x≤3"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Probleme care se rezolvă cu ajutorul ecuațiilor/inecuațiilor în contextul numerelor întregi",
+      "summary": "Strategie: identifică x, scrie ecuație, rezolvă, verifică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Suma 2 întregi = 10, dif = 2. Care sunt?",
+          "options": [
+            "A. 4,6",
+            "B. 3,7",
+            "C. 5,5",
+            "D. 2,8"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

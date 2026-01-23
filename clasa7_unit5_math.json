@@ -1,0 +1,206 @@
+{
+  "unit_number": "5",
+  "unit_name": "Cercul",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Cercul. Coarde și arce în cerc. Proprietăți",
+      "summary": "Cerc: locul geometric puncte echidistante de centru O, rază r. Coardă: segment unește două puncte pe cerc. Diametru: coardă prin centru, lungime 2r. Arc: porțiune cerc între două puncte. Unghi central: vârf în centru. Proprietăți: 1) Coarde egale ↔ arce egale, 2) Coardă perpendiculară diametru bisectează coardă, 3) Arce egale ↔ coarde egale. Lungime arc = (unghi/360°)×2πr. Exemplu: r=5, unghi=90° → arc=2.5π. Aplicații: inginerie, astronomie. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce e cerc?",
+          "options": [
+            "A. Pătrat curbat",
+            "B. Locul geometric puncte echidistante de centru",
+            "C. Triunghiu rotit",
+            "D. O linie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Diametru e?",
+          "options": [
+            "A. Rază",
+            "B. Coardă obișnuită",
+            "C. Coardă prin centru, lungime 2r",
+            "D. Arc"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Lungime arc r=10, unghi=180°?",
+          "options": [
+            "A. 10π",
+            "B. 20π",
+            "C. 5π",
+            "D. π"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Unghi înscris în cerc",
+      "summary": "Unghi înscris: vârf pe cerc, laturi sunt coarde. Măsură: jumătate arc subîntins. Teoremă: unghi înscris = (1/2)×unghi central (aceiași arc). Exemplu: arc=120° → unghi înscris=60°. Unghi în semicerc: arc=180° → unghi=90°. Unghiuri înscrise aceiași arc: egale. Aplicații: geometrie, trigonometrie. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Unghi înscris măsură?",
+          "options": [
+            "A. Arc subîntins",
+            "B. Jumătate arc subîntins",
+            "C. Dublu arc",
+            "D. Nu depinde de arc"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Arc=100°, unghi înscris?",
+          "options": [
+            "A. 100°",
+            "B. 50°",
+            "C. 200°",
+            "D. 25°"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Unghi semicerc?",
+          "options": [
+            "A. 45°",
+            "B. 60°",
+            "C. 90°",
+            "D. 180°"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Tangente la cerc",
+      "summary": "Tangentă: dreaptă care atinge cercul într-un singur punct (punct de tangență). Proprietăți: 1) Tangentă ⊥ rază la punct tangenț, 2) Dintr-un punct extern: două tangente egale, 3) Distanța centru la tangentă = rază r. Construcție: unghi drept. Exemple: wheel, cărări. Lungime tangentă dintr-un punct extern: √(d²-r²) unde d=distanță punctu-centru. Aplicații: mecanică, inginerie. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tangentă propriètate?",
+          "options": [
+            "A. Paralel rază",
+            "B. Perpendiculară rază la tangenț",
+            "C. Paralel diameter",
+            "D. Inglijă cerc"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tangente dintr-un punct extern?",
+          "options": [
+            "A. Unu",
+            "B. Doi",
+            "C. Infinit",
+            "D. Niciunul"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Distanță centru-tangentă?",
+          "options": [
+            "A. Variabilă",
+            "B. Rază r",
+            "C. Diametru",
+            "D. Depinde de tangentă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Poligoane regulate înscrise într-un cerc",
+      "summary": "Poligon regulat: toate laturi egale și unghiuri egale. Înscris în cerc: vârfuri pe cerc. Exemplu: hexagon regulat (6 laturi egale, unghiuri 120°). Rază cerc = rază poligon. Latura: formula depinde de n (nr. laturi). Unghi central între vârfuri: 360°/n. Arie: n×(1/2)×r²×sin(360°/n). Aplicații: arhitectură, design, natură. Important.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Unghi central hexagon regulat?",
+          "options": [
+            "A. 30°",
+            "B. 60°",
+            "C. 90°",
+            "D. 120°"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Poligon regulat e?",
+          "options": [
+            "A. Laturi diferite",
+            "B. Laturi și unghiuri egale",
+            "C. Laturi egale, unghiuri diferite",
+            "D. Nicio proprietate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Pătrat regulat înscris, vârfuri unghiu?",
+          "options": [
+            "A. 60°",
+            "B. 90°",
+            "C. 120°",
+            "D. 180°"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Lungimea cercului și aria discului",
+      "summary": "Lungime cerc: L = 2πr = πd. Arie disc: A = πr². Formule: π ≈ 3.14159. Exemplu: r=5 → L≈31.4, A≈78.5. Unități: m, cm, m², cm². Relații: 2r=d, L/d=π (constant). Calcule: exemple cu valori reale. Aplicații: inginerie, fizică. Important pentru măsurători.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Lungime cerc r=10?",
+          "options": [
+            "A. 10π",
+            "B. 20π",
+            "C. 100π",
+            "D. 5π"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Arie disc r=3?",
+          "options": [
+            "A. 3π",
+            "B. 6π",
+            "C. 9π",
+            "D. 12π"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "π aproximativ?",
+          "options": [
+            "A. 2",
+            "B. 3",
+            "C. 3.14",
+            "D. 5"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    }
+  ]
+}

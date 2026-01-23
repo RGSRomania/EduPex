@@ -1,0 +1,646 @@
+{
+  "unit_number": "3",
+  "unit_name": "Dincolo de ferestre",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul descriptiv literar în versuri: Iarna de Vasile Alecsandri",
+      "summary": "Textul 'Iarna' de Vasile Alecsandri este o descriere lirică a sezonului rece, plină de imagini poetice și sentimentale. Alecsandri folosește versul pentru a transporta cititorul în peisajele de iarnă pline de melancholie și frumusețe. Descrierea în versuri permite un grad mai mare de libertate artistică și o ritm special care amplifica emoțiile. Iarna în poesia lui Alecsandri nu este doar o stare meteo, ci o metaforă pentru anumite stări emoționale sau spirituale. Textul demonstrează puterea limbajului poetic de a transmite nu doar imagini, ci și sentimente profunde.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cine este autorul lui 'Iarna'?",
+          "options": [
+            "A. Mircea Cărtărescu",
+            "B. Vasile Alecsandri",
+            "C. Ioan Slavici",
+            "D. Simona Popescu"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce folosește Alecsandri pentru descriere?",
+          "options": [
+            "A. Doar proza",
+            "B. Versul cu imagini poetice și ritm special",
+            "C. Doar cuvinte simple",
+            "D. Doar numere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce reprezintă iarna în poem?",
+          "options": [
+            "A. Doar o stare meteo",
+            "B. O metaforă pentru stări emoționale și spirituale",
+            "C. Doar frig",
+            "D. Doar zăpadă"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Descrierea în versuri",
+      "summary": "Descrierea în versuri combină elementele descrierii (detalii senzoriale, atmosferă) cu structura ritmică a versului. Versurile pot fi metrice (cu ritm regulat) sau libere (fără ritm fix). Figurele de stil - metafore, simile, personificări - sunt esențiale în descrierea lirică. Rima și aliterația adaugă sonoritate și memorabilitate. Descrierea în versuri este mai subiectivă decât în proză, exprimând sentimentele poetului. Este o formă de expresie mai bogată și mai complexă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce combină descrierea în versuri?",
+          "options": [
+            "A. Doar imagini",
+            "B. Descriere + structură ritmică a versului",
+            "C. Doar acțiune",
+            "D. Doar dialogue"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt tipurile de versuri?",
+          "options": [
+            "A. Doar lungi",
+            "B. Metrice (ritm regulat) și libere (fără ritm)",
+            "C. Doar scurte",
+            "D. Doar în proză"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce adaugă rima și aliterația?",
+          "options": [
+            "A. Doar lungime",
+            "B. Sonoritate și memorabilitate",
+            "C. Doar confuzie",
+            "D. Nimic important"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Epitetul. Versificația",
+      "summary": "Epitetul este adjectiv cu valoare expresivă care subliniază o calitate a numelui. De exemplu: 'vântul rece' - epitetul 'rece' subliniază răceala vântului. Epiteții sunt frecvenți în pozie și în descriere. Versificația se referă la măsura și structura versului - metru (accent regulat), ritm, rima, rimele interne. Versurile pot fi: octostilab (8 silabe), decasilab (10 silabe), etc. Înțelegerea versificației ajută la analiza și aprecierea poeției.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este epitetul?",
+          "options": [
+            "A. Un verb",
+            "B. Adjectiv cu valoare expresivă care subliniază o calitate",
+            "C. O prepoziție",
+            "D. Un adverb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este versificația?",
+          "options": [
+            "A. Scrierea fără ritm",
+            "B. Măsura și structura versului - metru, ritm, rima",
+            "C. Doar contarea cuvintelor",
+            "D. Nu există"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce tipuri de versuri există?",
+          "options": [
+            "A. Doar lungi",
+            "B. Octostilab (8), decasilab (10), etc.",
+            "C. Doar scurte",
+            "D. Doar identice"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Semnificațiile textului",
+      "summary": "În 'Iarna' de Alecsandri, semnificațiile se referă la way în care sezonul rece devine simbol pentru melancolie, retragere, reflecție, ușor și moarte spirituală. Iarna este adesea folosită în literatură ca metaforă pentru vârstă avansată, pierdere, și final. În contextul cultural românesc, iarna are și conotații cu trecerea, transformare și regenerare. Descifrarea acestor niveluri de semnificație necesită atenție la alegerea cuvintelor, imaginile recurente, și tonul general al poemului.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce simbolizează iarna în text?",
+          "options": [
+            "A. Doar frig",
+            "B. Melancolie, retragere, reflecție, transformare",
+            "C. Doar vreme",
+            "D. Doar zăpadă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce metafore se folosesc frecvent cu iarna?",
+          "options": [
+            "A. Doar stare meteo",
+            "B. Vârstă avansată, pierdere, final",
+            "C. Doar vreme bună",
+            "D. Doar plăcere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum se descifrează semnificații?",
+          "options": [
+            "A. Citire rapidă",
+            "B. Atenție la cuvinte, imagini recurente, ton",
+            "C. Doar ghicit",
+            "D. Nu se pot descoperi"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Textul nonliterar: Buletin meteorologic",
+      "summary": "Buletinul meteorologic este text nonliterar care prezintă informații factuale despre condiții meteo. Nu folosește figuri de stil sau limbaj poetic. Scopul este informarea clară și precisă. Se folosesc termeni tehnici specifici: temperatură, umiditate, presiune, etc. Formatul este adesea standardizat cu rubrici și date numerice. Citirea buletinului necesită înțelegere a terminologiei și a simbolurilor meteorologice. Aceasta contrastează cu descrierea poetică a iernii de Alecsandri.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este buletinul meteorologic?",
+          "options": [
+            "A. O poveste",
+            "B. Text nonliterar cu informații factuale despre vreme",
+            "C. O descriere poetică",
+            "D. O opinie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum se prezintă informația?",
+          "options": [
+            "A. Cu imagini poetice",
+            "B. Clar și precis cu termeni tehnici și date numerice",
+            "C. Cu dialoguri",
+            "D. Cu emoticons"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care este scopul buletinului?",
+          "options": [
+            "A. Emoție",
+            "B. Informare clară și precisă",
+            "C. Distracție",
+            "D. Critică"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Noi pagini – alte idei",
+      "summary": "Secțiunea continuă cu alte texte și fragmente care explorează tema sezonului și percepției naturii din diverse perspective. Diversitatea abordărilor demonstrează cum diferiți autori și culturi înțeleg și descriu natura. De la descrieri lirice la texte informative, de la pozie la proză, totuși tema iernii și schimbării sezonului apare recurent în literatura universală. Aceasta reflectă importanța constantă a naturii și a ciclurilor ei în experiența omenească.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce demonstrează secțiunea 'Noi pagini'?",
+          "options": [
+            "A. O singură perspectivă",
+            "B. Diverse perspective asupra aceleiași teme",
+            "C. Că iarna nu e importantă",
+            "D. Că toți scriu la fel"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce forme găsim în această secțiune?",
+          "options": [
+            "A. Doar versuri",
+            "B. Lirice, informative, proză - diverse forme",
+            "C. Doar proză",
+            "D. Doar articole"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce reflectă tema iernii recurent?",
+          "options": [
+            "A. Doar vreme",
+            "B. Importanța naturii și a ciclurilor în experiența omenească",
+            "C. Doar frig",
+            "D. Nimic important"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Bradul în cultura populară românească",
+      "summary": "Bradul este simbol al iernii și sărbătorilor din cultura românească. Are semnificație religioasă și seculară. În tradițiile pagan și creștine, bradul reprezintă persistență, veșnicitate și regenerare. În cultura populară românească, bradului îi sunt asociate obiceiuri și superstiții. Obiceiuri precum decorarea bradului, colindele în jurul acestuia, sunt transmise din generație în generație. Studiul acestor aspecte culturale ajută elevii să înțeleagă rădăcinile tradițiilor lor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce simbolizează bradul?",
+          "options": [
+            "A. Doar frig",
+            "B. Iarna, sărbători, persistență, veșnicitate",
+            "C. Doar verdeață",
+            "D. Doar frumusețe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce semnificații are bradul?",
+          "options": [
+            "A. Doar estetică",
+            "B. Religioasă, seculară, traditionala",
+            "C. Doar decorativă",
+            "D. Nimic"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce obiceiuri sunt legate de brad?",
+          "options": [
+            "A. Niciun obicei",
+            "B. Decorare, colinde, tradiționale",
+            "C. Doar mâncare",
+            "D. Doar jocuri"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Strategii de ascultare activă. Atitudini comunicative",
+      "summary": "Ascultarea activă înseamnă a se concentra complet pe cuvintele și mesajul unei alte persoane. Strategii includ: atenție completă, contact vizual, confirmarea prin semne nonverbale, evitarea întreruperilor, parafrazarea. Atitudini comunicative corecte demonstrează respect și deschidere. Ascultarea activă este esențială în comunicare eficace și în construirea relațiilor. Este mai ușor să vorbești decât să asculți cu adevărat, dar ascultarea este mai valoroasă. Dezvoltarea acestei abilități ajută în toate aspectele vieții.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce înseamnă ascultarea activă?",
+          "options": [
+            "A. Să stai în tăcere",
+            "B. A se concentra complet pe mesajul altei persoane",
+            "C. Doar să aud",
+            "D. A-mi face propriile planuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt strategiile ascultării active?",
+          "options": [
+            "A. Doar atenție",
+            "B. Atenție, contact vizual, confirmări, fără întreruperi, parafrazare",
+            "C. Doar silențiu",
+            "D. Doar ascultare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce este importantă ascultarea activă?",
+          "options": [
+            "A. Nu este importantă",
+            "B. Esențială pentru comunicare eficace și relații",
+            "C. Doar pentru politețe",
+            "D. Pentru a plictisi"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Substantivul",
+      "summary": "Substantivul este cuvântul care denumește: persoane, animale, lucruri, noțiuni abstracte. De exemplu: 'copil', 'pisică', 'masă', 'durere'. Categorii: propriu (nespus, istoric) - 'Nicolae', 'București'; comun - 'copil', 'masă'. Substantivele au gen (masculin, feminin, neutru), număr (singular, plural), caz (nominativ, acuzativ, genitiv, dativ, vocativ, locativ). Substantivele sunt bază pentru construcția frazei și esențiale pentru comunicare. Înțelegerea proprietăților substantivelor ajută la analiza gramaticală și la exprimarea precisă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este substantivul?",
+          "options": [
+            "A. O acțiune",
+            "B. Cuvânt care denumește persoane, animale, lucruri, noțiuni",
+            "C. O descriere",
+            "D. Un adverb"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt categoriile de substantive?",
+          "options": [
+            "A. Doar comun",
+            "B. Propriu și comun",
+            "C. Doar propriu",
+            "D. Nu sunt categorii"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce proprietăți au substantivele?",
+          "options": [
+            "A. Doar lungime",
+            "B. Gen, număr, caz",
+            "C. Doar culoare",
+            "D. Nicio proprietate"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Cazul nominativ",
+      "summary": "Cazul nominativ este cazul subiectului și al predicatului nominal. Răspunde la 'cine?' și 'ce?'. De exemplu: 'Copilul cântă' - 'copilul' este în nominativ. Se folosește pentru a exprima cine sau ce realizează acțiunea. În limba română, formele substantivelor, articolelor și adjectivelor se schimbă în funcție de caz. Cazul nominativ este cel mai frecvent în propoziții simple. Înțelegerea cazurilor ajută la construirea frazelor corecte.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce cazul este nominativul?",
+          "options": [
+            "A. Cazul complementului",
+            "B. Cazul subiectului și predicatului nominal",
+            "C. Cazul obiectului",
+            "D. Cazul pentru posesie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "La ce răspunde nominativul?",
+          "options": [
+            "A. 'Cui?'",
+            "B. 'Cine?' și 'Ce?'",
+            "C. 'Cum?'",
+            "D. 'Unde?'"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum se schimbă substantivele?",
+          "options": [
+            "A. Nu se schimbă",
+            "B. În funcție de caz",
+            "C. Doar în lungime",
+            "D. Numai în pronunție"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Cazul acuzativ. Complementul direct. Complementul prepozițional",
+      "summary": "Cazul acuzativ este cazul complementului direct. Răspunde la 'ce?' sau 'pe cine?'. De exemplu: 'Mâncăm mere' - 'mere' este în acuzativ. Complementul prepozițional este introdus de o prepoziție. De exemplu: 'Merge în parc' - 'parc' este în caz de complement prepozițional. Acuzativul se folosește frecvent pentru a exprima obiectul direct al acțiunii. Differența cazurilor permite exprimarea relațiilor gramaticale între cuvinte.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce cazul este acuzativul?",
+          "options": [
+            "A. Cazul subiectului",
+            "B. Cazul complementului direct",
+            "C. Cazul pentru timp",
+            "D. Cazul pentru loc"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este complementul prepozițional?",
+          "options": [
+            "A. Complement fără prepoziție",
+            "B. Complement introdus de prepoziție",
+            "C. Un caz special",
+            "D. O stare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante cazurile?",
+          "options": [
+            "A. Nu sunt importante",
+            "B. Permit exprimarea relațiilor gramaticale",
+            "C. Doar pentru complexitate",
+            "D. Doar pentru examene"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Cazul acuzativ. Circumstanțialele. Atributul",
+      "summary": "Continuând cu cazul acuzativ, se pot exprima și circumstanțiale (de mod, timp, loc). Atributul este cuvântul care detaliază numele, adăugând informații. De exemplu: 'masa roșie' - 'roșie' este atribut. Atributul se acordă în gen și număr cu substantivul. Circumstanțialele pot fi exprimate în acuzativ cu prepoziție. De exemplu: 'Merg pe stradă' - 'stradă' este circumstanțial de loc. Analiza acestor relații gramaticale complexifică înțelegerea structurii limbii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce sunt circumstanțialele?",
+          "options": [
+            "A. Complement direct",
+            "B. Exprimă mod, timp, loc",
+            "C. Doar stări",
+            "D. Atribute"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este atributul?",
+          "options": [
+            "A. Subiect",
+            "B. Cuvânt care detaliază numen",
+            "C. Predicat",
+            "D. Complement"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Se acordă atributul cu substantivul?",
+          "options": [
+            "A. Nu se acordă",
+            "B. Se acordă în gen și număr",
+            "C. Doar în gen",
+            "D. Doar în număr"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Cazul dativ. Complementul indirect",
+      "summary": "Cazul dativ este cazul complementului indirect. Răspunde la 'cui?', 'de ce?', 'pentru ce?'. De exemplu: 'Dau flori mamei' - 'mamei' este în dativ. Se folosește pentru a exprima cui se adresează acțiunea sau cărui beneficiar. Datival se folosește și cu anumite verbe. De exemplu: 'Îi place muzica' - 'lui' (dat. de la 'el') este dativ. Înțelegerea complementului indirect ajută la exprimarea relațiilor mai subtile.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce cazul este dativul?",
+          "options": [
+            "A. Cazul complementului direct",
+            "B. Cazul complementului indirect",
+            "C. Cazul pentru loc",
+            "D. Cazul pentru timp"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "La ce răspunde dativul?",
+          "options": [
+            "A. 'Ce?'",
+            "B. 'Cui?', 'De ce?', 'Pentru ce?'",
+            "C. 'Cine?'",
+            "D. 'Unde?'"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cu ce verbe se folosește dativul?",
+          "options": [
+            "A. Niciun verb special",
+            "B. Anumite verbe necesită complement indirect",
+            "C. Doar cu verbe de mișcare",
+            "D. Nu se folosește"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Cazul genitiv. Articolul genitival. Posibilități combinatorii ale substantivului",
+      "summary": "Cazul genitiv exprimă posesie, originea, apartenență. Răspunde la 'al cui?', 'de unde?'. De exemplu: 'Casa tatălui' - 'tatălui' este în genitiv. Articolul genitival în limba română este 'lui' pentru masculin/neutru și 'ei' pentru feminin. Posibilitățile combinatorii ale substantivului includ: substantiv + adjectiv, substantiv + prepoziție + substantiv, substantiv + în genitiv. Aceste combinații permit exprimarea mai nuanțată a ideilor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă cazul genitiv?",
+          "options": [
+            "A. Acțiune",
+            "B. Posesie, origine, apartenență",
+            "C. Calitate",
+            "D. Locație"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este articolul genitival?",
+          "options": [
+            "A. 'A'",
+            "B. 'Lui' și 'Ei'",
+            "C. 'De'",
+            "D. 'Un'"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce combinații sunt posibile?",
+          "options": [
+            "A. Doar substantiv",
+            "B. Substantiv + adjectiv, prepoziție, genitiv",
+            "C. Doar adjectiv",
+            "D. Nicio combinație"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Cazul vocativ",
+      "summary": "Cazul vocativ se folosește pentru a-și adresa cuvântul unei persoane sau unui obiect personificat. De exemplu: 'Copile!' sau 'Doamne!'. Forma vocativului adesea diferă de forma nominativului. De exemplu: 'copil' (nom.) vs. 'copile' (voc.). Vocativul se separează prin virgulă. De exemplu: 'Ion, vino aici!'. Se folosește rar în limba română modernă, mai frecvent în literatura clasică și în registrul formal. Înțelegerea vocativului este importantă pentru analiza stilistică și pentru utilizarea corectă a limbii.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este vocativul?",
+          "options": [
+            "A. Caz pentru complement",
+            "B. Caz pentru a-și adresa cuvântul",
+            "C. Caz pentru posesie",
+            "D. Caz pentru loc"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum se diferențiază vocativul?",
+          "options": [
+            "A. Nu se diferențiază",
+            "B. Forma spesso diferă de nominativ",
+            "C. E întotdeauna aceeași",
+            "D. Nu se schimbă niciodată"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum se separă vocativul?",
+          "options": [
+            "A. Fără semne",
+            "B. Prin virgulă",
+            "C. Prin punct",
+            "D. Prin exclamație"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "name": "Descrierea unui peisaj",
+      "summary": "Descrierea unui peisaj necesită atenție la detalii vizuale, atmosferă, și impresii emoționale. O descriere bună a unui peisaj include: 1) Imagine generală a scenei, 2) Detalii senzoriale (culori, sunete, mirosuri), 3) Atmosferă și mood, 4) Reacția personajului la peisaj. Peisajul nu este doar fundal, ci poate exprima și stări emoționale. De exemplu, un peisaj de iarnă poate transmite melancolie. Descrierea unui peisaj demonstrează abilitatea de a observa, de a selecta detalii relevante, și de a le exprima artistic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce include descrierea unui peisaj?",
+          "options": [
+            "A. Doar locuri",
+            "B. Imagine generală, detalii senzoriale, atmosferă, reacție",
+            "C. Doar dimensiuni",
+            "D. Doar numere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care sunt detaliile senzoriale?",
+          "options": [
+            "A. Doar culori",
+            "B. Culori, sunete, mirosuri, alte senzații",
+            "C. Doar sunete",
+            "D. Doar mișcări"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce poate exprima peisajul?",
+          "options": [
+            "A. Doar locații",
+            "B. Stări emoționale și atmosferă",
+            "C. Doar timp",
+            "D. Doar acțiuni"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

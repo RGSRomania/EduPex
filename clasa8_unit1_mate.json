@@ -1,0 +1,126 @@
+{
+  "unit_number": "1",
+  "unit_name": "Intervale de numere reale. Inecuații în R",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Mulțimi definite printr-o proprietate comună a elementelor lor",
+      "summary": "Mulțimi definite prin proprietate: {x ∈ R | P(x)}, unde P(x) e o condiție. Exemplu: {x ∈ R | x > 0} = numerele pozitive. {x ∈ R | x² = 4} = {-2, 2}. Notație: condiție între paranteze curbe. Interpretare: x satisface proprietate P. Tehnici: test cu valori, rezolvare ecuații/inecuații. Exemplu complex: {x ∈ R | x² - 5x + 6 = 0} = {2, 3}. Aplicații: definiție intervale, soluții ecuații. Importanță: claritate matematică. Analiza sistematică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Notație mulțime proprietate?",
+          "options": [
+            "A. (x)P",
+            "B. {x ∈ R | P(x)}",
+            "C. [x P]",
+            "D. x-P"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "{x ∈ R | x > 0} e?",
+          "options": [
+            "A. Negativi",
+            "B. Pozitivi",
+            "C. Zero",
+            "D. Nici unu"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "x² = 4 soluții?",
+          "options": [
+            "A. 2",
+            "B. -2",
+            "C. {-2, 2}",
+            "D. 4"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Intervale numerice și reprezentarea lor pe axa numerelor; intersecția și reuniunea intervalelor",
+      "summary": "Interval: mulțime numere între două valori. Tipuri: [a,b] (închis), (a,b) (deschis), [a,b) (mixt). [a,b] = {x ∈ R | a ≤ x ≤ b}. (a,b) = {x ∈ R | a < x < b}. Reprezentare axa: linie între a și b, puncte pline/goale. Intersecție: [1,5] ∩ [3,7] = [3,5]. Reuniune: [1,3] ∪ [5,7] = [1,3] ∪ [5,7]. Notație: ∪ (reuniune), ∩ (intersecție). Calcule: exemple diverse. Aplicații: soluții inecuații. Importanță: reprezentare vizuală și algebrică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "[a,b] e interval?",
+          "options": [
+            "A. Deschis",
+            "B. Închis",
+            "C. Mixt",
+            "D. Gol"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "[1,5] ∩ [3,7] = ?",
+          "options": [
+            "A. [1,7]",
+            "B. [3,5]",
+            "C. [1,3]",
+            "D. ∅"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Punct plin pe axă?",
+          "options": [
+            "A. Deschis",
+            "B. Închis",
+            "C. Exclud",
+            "D. Nici unu"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Inecuații de forma ax + b ≥ 0 (≤, >, <), a, b ∈ R",
+      "summary": "Inecuație liniară: ax + b ≥ 0. Rezolvare: izolează x. ax ≥ -b. Dacă a > 0: x ≥ -b/a. Dacă a < 0: x ≤ -b/a (inversează). Exemplu: 2x + 3 ≥ 0 → 2x ≥ -3 → x ≥ -3/2. Verificare: x = 0 → 3 ≥ 0 ✓. Soluție: interval [-3/2, ∞). Inecuații stricte: < sau >. Inecuații nestricte: ≤ sau ≥. Sistemă inecuații: intersecție soluții. Aplicații: inegaliți în practică. Importanță: algebră fundamentală.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "2x + 3 ≥ 0 soluție?",
+          "options": [
+            "A. x ≥ 3/2",
+            "B. x ≥ -3/2",
+            "C. x ≤ -3/2",
+            "D. x < 0"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "-x + 5 > 0?",
+          "options": [
+            "A. x > 5",
+            "B. x < 5",
+            "C. x > -5",
+            "D. x = 5"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Inversare la?",
+          "options": [
+            "A. Adunare",
+            "B. Înmulțire cu negativ",
+            "C. Scădere",
+            "D. Împărțire pozitiv"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

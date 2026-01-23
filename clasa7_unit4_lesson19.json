@@ -1,0 +1,38 @@
+{
+  "summary": "Structuri textuale combina diferite tipuri de secvente: narativa (relatează evenimente), explicativă (explica concepte), descriptivă (creeaza imagini), dialogată (schimb de vorbe). Integrarea acestor parti create texte complexe și interesante. De exemplu, o poveste poate incepe cu o secventa descriptiva (peisajul), continua cu narativa (evenimentele), include explicativ (clarificari), și dialogata (conversatii). Mastering integrarea creeaza fluiditate și coeziune. Textul bun nu e monoton, ci variaza stilul pentru a pastra atentia cititorului. Aceasta e abilitate esentiala pentru scrierea de calitate. Analiza structurilor textuale ajuta la intelegerea modului in care autorii construiesc mesajele lor.",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "Ce sunt structuri textuale?",
+      "options": [
+        "A. Doar povesti",
+        "B. Combinare diferite tipuri de secvente",
+        "C. Doar descriere",
+        "D. Doar dialoguri"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "Tipuri de secvente?",
+      "options": [
+        "A. Doar narativa",
+        "B. Narativa, explicativa, descriptiva, dialogata",
+        "C. Doar descriptiva",
+        "D. Nu sunt tipuri"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "De ce integrare buna?",
+      "options": [
+        "A. Nu-i important",
+        "B. Creaza fluiditate si coeziune",
+        "C. Doar complicare",
+        "D. Doar formalism"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ]
+}

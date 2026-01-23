@@ -1,0 +1,326 @@
+{
+  "unit_number": "6",
+  "unit_name": "Din carte spre departe",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul narativ nonliterar. Jurnalul călătoriei",
+      "summary": "Jurnalul călatorie este un text narativ nonliterar care documentează o călătorie reală, cu observații despre locuri, întâmplări și emoții. Spre deosebire de literatura fictivă, jurnalul se bazează pe fapte și experiență directă. Dar jurnalul nu este doar o listă de fapte - este o perspectivă personală asupra experienței. Lectia invata elevii cum să citeasca și să scrie jurnale de călătorie, și cum acestea sunt documente valoroase ale experienței umane.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este un jurnal de călătorie?",
+          "options": [
+            "A. O ficțiune pură",
+            "B. O documentare a unei călătorii reale cu observații și emoții",
+            "C. Un ghid turistic",
+            "D. O hartă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Care este diferența dintre un jurnal și o ficțiune?",
+          "options": [
+            "A. Nu există diferență",
+            "B. Jurnalul se bazează pe fapte și experiență directă",
+            "C. Ficciunea nu are valoare",
+            "D. Sunt identice"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt valoroase jurnalele de călătorie?",
+          "options": [
+            "A. Nu sunt valoroase",
+            "B. Sunt documente ale experienței umane și perspectivei personale",
+            "C. Doar pentru citire plăcută",
+            "D. Pentru a face reclame"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Trăsături ale textului narativ nonliterar",
+      "summary": "Textul narativ nonliterar se deosebeste de cel literar prin accent pe fapte și pe claritate. Nu apeleaza la figuri de stil complexe, ci la descrieri directe și informații factuale. Obiectivitatea este importantă, deși perspectiva personală a autorului este și ea prezentă. Textele narative nonliterare includ: jurnale de călătorie, mărturii, rapoarte de explorare. Lectia invata elevii cum să scrie și să citeasca aceste texte cu discernământ.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este focusul textului narativ nonliterar?",
+          "options": [
+            "A. Doar pe emoții și figuri de stil",
+            "B. Pe fapte, claritate și informații factuale",
+            "C. Doar pe ficțiune",
+            "D. Doar pe divertisment"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce rol joacă perspectiva personală în textul nonliterar?",
+          "options": [
+            "A. Nu joacă niciun rol",
+            "B. Este prezentă alături de obiectivitate",
+            "C. Trebuie complet evitată",
+            "D. Este singurul lucru important"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Care sunt exemplele de texte narative nonliterare?",
+          "options": [
+            "A. Doar jurnale de călătorie",
+            "B. Jurnale, mărturii, rapoarte de explorare",
+            "C. Doar ficțiune",
+            "D. Doar versuri"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Semnificații ale textului",
+      "summary": "Un jurnal de călătorie nu transmite doar informații geografice. Reflectă cum o persoană percepe lumea, care sunt valorile sale, cum se schimbă perspectiva sa pe măsură ce călătorește. O călătorie poate fi o metaforă pentru transformare personală și descoperire de sine. Lectia invata elevii cum să citeasca între rânduri și cum să deducă semnificații mai profunde din jurnalele de călătorie.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce transmite un jurnal de călătorie dincolo de fapte?",
+          "options": [
+            "A. Nimic",
+            "B. Perspectiva personală, valorile și transformarea pe măsură ce călătorești",
+            "C. Doar meteo",
+            "D. Doar prețuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce poate reprezenta o călătorie?",
+          "options": [
+            "A. Doar o deplasare fizică",
+            "B. O metaforă pentru transformare personală și descoperire",
+            "C. Doar o vacanță",
+            "D. Doar divertisment"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum se schimbă perspectiva în timp ce călătorești?",
+          "options": [
+            "A. Nu se schimbă",
+            "B. Se schimbă pe măsură ce întâlnești noi oameni, locuri și idei",
+            "C. Se schimbă doar pentru turiști",
+            "D. Nu ar trebui să se schimbe"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Noi pagini – alte idei",
+      "summary": "Aceasta secțiune prezintă alte jurnale de călătorie, alte perspectiv, alte moduri de a experimenta și a înregistra o călătorie. De la journalurile exploratorilor antici la blogurile de călătorie moderne, modurile de a comunica o călătorie s-au evoluat. Dar esența rămâne - a partaja o perspectivă personală asupra descoperirilor. Lectia incurajeza elevii să-și imagineze propriile călătorii și cum ar dori să le documenteze.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce arată prezentarea mai multor jurnale de călătorie?",
+          "options": [
+            "A. Că toate sunt identice",
+            "B. Diversitatea perspectivelor și modurilor de a experimenta o călătorie",
+            "C. Că călătoriile nu sunt importante",
+            "D. Că nu trebuie să documenteze călătoriile"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum s-a evoluat documentarea călătoriilor?",
+          "options": [
+            "A. Nu s-a schimbat",
+            "B. De la jurnale tradiționale la bloguri și alte medii moderne",
+            "C. Doar au dispărut",
+            "D. Au devenit mai rele"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce esență rămâne în toate formele de documentare?",
+          "options": [
+            "A. Nicio esență",
+            "B. A partaja o perspectivă personală asupra descoperirilor",
+            "C. Doar a critica",
+            "D. Doar a aduna informații"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Carte românească de învățătură: de la prima carte tipărită la cărțile de azi",
+      "summary": "Cărțile de învățătură sunt cărți care au scopul de a transmite cunoaștere și de a educa. De la primele cărți tipărite în limba română la manualele moderne, s-a schimbat formatul, stylul, iar conținuturile s-au adaptat. Dar scopul rămâne - a face cunoașterea accesibilă și utilă. Lectia invata elevii să aprecieze moștenirea literaturii românești și cum cărțile continuă să evolueze.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Care este scopul unei cărți de învățătură?",
+          "options": [
+            "A. Doar divertisment",
+            "B. A transmite cunoaștere și a educa",
+            "C. A critica societatea",
+            "D. A vinde cât mai mult"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Cum s-a schimbat cartea de învățătură în timp?",
+          "options": [
+            "A. Nu s-a schimbat",
+            "B. Formatul, stilul și conținuturile s-au adaptat",
+            "C. A devenit mai rea",
+            "D. A dispărut"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce rămâne constant în cărțile de învățătură?",
+          "options": [
+            "A. Nicio constantă",
+            "B. Scopul de a face cunoașterea accesibilă și utilă",
+            "C. Formatul exact",
+            "D. Doar limba"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Identitate națională",
+      "summary": "Literatura românească, inclusiv cărțile de învățătură, are un rol important în construirea și menținerea identității naționale. Prin citirea unor cărți care vorbesc despre valorile, istoria și cultura țării, oamenii dezvoltă o conexiune cu comunitatea lor. Identitatea națională nu este ceva fix, ci se evoluează și se reinterpretează de fiecare generație. Lectia invata elevii cum literatura contribuie la formarea identității personale și colective.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce rol are literatura în identitatea națională?",
+          "options": [
+            "A. Niciun rol",
+            "B. Contribuie la formarea conexiunilor cu comunitatea și la transmiterea valorilor",
+            "C. Doar entertain",
+            "D. Doar critică"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce tipuri de cărți contribuie la identitate?",
+          "options": [
+            "A. Doar cărți de aventuri",
+            "B. Cărți care vorbesc despre valori, istorie și cultură",
+            "C. Doar cărți străine",
+            "D. Niciun tip"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Cum evoluează identitatea națională?",
+          "options": [
+            "A. Nu evoluează",
+            "B. Se reinterpretează de fiecare generație",
+            "C. Rămâne mereu aceeași",
+            "D. Dispare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Acte de limbaj: a explica, a recomanda, a afirma",
+      "summary": "A explica este a clarifica un concept sau o situație pentru ca cineva să înțeleagă. A recomanda este a sugera ceva pe care o considerăm bun. A afirma este a exprima cu certitudine. Aceste acte de limbaj sunt importante în comunicarea despre cărți și despre călătorii. Când recomandez o carte, fac mai mult decât să spun că mi-a plăcut - transmit de ce o consider valoroasă. Lectia invata elevii cum să utilizeze aceste acte eficient și cu responsabilitate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce este a explica?",
+          "options": [
+            "A. A vorbesc rapid",
+            "B. A clarific un concept pentru ca cineva să înțeleagă",
+            "C. A ascund informații",
+            "D. A mint"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce faci când recomandezi o carte?",
+          "options": [
+            "A. Doar spun că mi-a plăcut",
+            "B. Transmit de ce o consider valoroasă",
+            "C. Mint despre carte",
+            "D. O critici"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce sunt importante aceste acte de limbaj?",
+          "options": [
+            "A. Nu sunt importante",
+            "B. Pentru comunicare clară și responsabilă",
+            "C. Doar pentru școlă",
+            "D. Pentru a confunda"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Tipare textuale de structurare a ideilor. Cererea",
+      "summary": "Ideile pot fi structurate în diverse moduri - cronologic, cauzal, ierarhic, comparativ. Cererea este o structură textulă în care solicităm ceva. De exemplu, o cerere de informație, o cerere de permisiune, o cerere de ajutor. Înțelegerea acestor tipare ajută elevii să citeasca și să scrie mai eficient. Lectia invata elevii cum să recunoasca și să utilizeze diferitele tipare de structurare a ideilor.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cum pot fi structurate ideile intr-un text?",
+          "options": [
+            "A. Doar cronologic",
+            "B. Cronologic, cauzal, ierarhic, comparativ",
+            "C. Nicio modalitate",
+            "D. Doar aleatoriu"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce este o cerere în context textual?",
+          "options": [
+            "A. Doar o dorință personală",
+            "B. O structură textualin care solicităm ceva",
+            "C. O critică",
+            "D. O plângere"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "De ce este util să înțelegem aceste tipare?",
+          "options": [
+            "A. Nu este util",
+            "B. Pentru a citi și a scrie mai eficient",
+            "C. Doar pentru jocuri de cuvinte",
+            "D. Pentru a complica textele"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}

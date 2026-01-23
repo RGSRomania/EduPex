@@ -1,0 +1,846 @@
+{
+  "unit_number": "1",
+  "unit_name": "Unde găsim frumusețea?",
+  "lessons": [
+    {
+      "number": "1",
+      "name": "Textul liric. Versificația. Frumusețea naturii: O, rămâi... de Mihai Eminescu",
+      "summary": "Textul liric: exprimă sentimente și emoții personale. Eminescu explorează frumusețea naturii și trecerea timpului. Versificația: versul (rând de poezie), strofa (grupă versuri), ritmul și rima. 'O, rămâi...' e plin de nostalgie și melancolie. Natura e oglindă a emoțiilor. Limbajul poetic folosește imagini și simboluri. Tema: frumusețea efemeră și durerea pierderii. Importanță: Eminescu e poet național, iar lirica e bază literaturii. Analiza versificației ajută la înțelegerea efectului emoțional.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce exprimă textul liric?",
+          "options": [
+            "A. Fapte istorice",
+            "B. Sentimente și emoții",
+            "C. Doar descriere",
+            "D. Jocuri cuvinte"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Tema poemului Eminescu?",
+          "options": [
+            "A. Bucurie",
+            "B. Frumusețe și melancolie",
+            "C. Ură",
+            "D. Ironie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Ce e versul?",
+          "options": [
+            "A. Proza",
+            "B. Rând de poezie",
+            "C. Dialog",
+            "D. Monolog"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Limbajul figurat. Aliterația",
+      "summary": "Limbaj figurat: comparație, metaforă, personificare. Transforma realitatea în imagini. Aliterația: repetarea aceluiași sunet inițial. Exemplu: 'iar iarba-și șoapte-n șaptari' (Eminescu). Efecte: ritm, armonie, expresivitate. Personificare: atribuire calități umane naturii. Exemplu: 'părul vântului'. Comparație: 'dulce ca miere'. Metaforă: 'sufletul e ocean'. Limbajul figurat este instrument poetic pentru a transmite emoții. Aliterația creează musicalitate și memorabilitate. Analiza necesită atenție la cuvinte și efecte sonore.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Limbaj figurat include?",
+          "options": [
+            "A. Doar comparație",
+            "B. Metaforă, personificare, comparație",
+            "C. Doar descriere",
+            "D. Doar adjective"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Ce e aliterație?",
+          "options": [
+            "A. Rimit",
+            "B. Repetare sunet inițial",
+            "C. Versuri",
+            "D. Strofe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Exemplu personificare?",
+          "options": [
+            "A. Casa roșie",
+            "B. Părul vântului",
+            "C. Omul cade",
+            "D. Cine e acolo"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "Semnificațiile textului",
+      "summary": "Niveluri: literal (textul spune), figurat (ce implied), simbolic (ce reprezintă). În Eminescu: literal e descrierea naturii, figurat e trecerea timpului și tinerețea pierdută, simbolic e ciclul vieții. Analiza semnificații necesită context: biografie, epocă, influențe. Eminescu scrie sub Romantism, care valoriza emoția și natura. Semnificații nu sunt fixe, depinde de cititor. Interpretare multiple sunt valide. Analiza aprofundată ajută la apreciere a operei. Semnificații se schimbă cu timp și experiență cititorului.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Nivel literal?",
+          "options": [
+            "A. Ce zice textul",
+            "B. Ce implică",
+            "C. Doar cuvinte",
+            "D. Doar verbe"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Nivel simbolic?",
+          "options": [
+            "A. Pronunție",
+            "B. Ce reprezintă arhetipuri",
+            "C. Doar imagini",
+            "D. Numai ritmul"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Semnificații sunt?",
+          "options": [
+            "A. Unice",
+            "B. Multiple și schimbătoare",
+            "C. Fixe",
+            "D. Doar subiective"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Textul liric. Frumusețea umană: Izvorul nopții de Lucian Blaga",
+      "summary": "Blaga: poet interbellic cu temă asupra frumuseții umane și spirituale. 'Izvorul nopții' exploreaza misterul uman și aprofundarea conștiinței. Stilul e abstract și filosofic. Frumusețea umană transcende fizicul, e spirituală. Comparație cu Eminescu: amândoi explorează frumusețea, dar Blaga e mai abstract. Blaga influențat de simbolism și modernism. Tema: cunoaștere și mister. Importanță: Blaga e philosopher-poet. Analiza necesită intelect și sensibilitate la nuanțe.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tema Blaga?",
+          "options": [
+            "A. Aventură",
+            "B. Frumusețe spirituală",
+            "C. Acțiune",
+            "D. Iubire romantică"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Stil Blaga?",
+          "options": [
+            "A. Realist",
+            "B. Abstract și filosofic",
+            "C. Ușor",
+            "D. Conversațional"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Diferență Eminescu-Blaga?",
+          "options": [
+            "A. Nici una",
+            "B. Eminescu e emoțional, Blaga e abstract",
+            "C. Sunt identici",
+            "D. Blaga e mai simplu"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "name": "Figurile de stil. Hiperbola",
+      "summary": "Figuri de stil: expresii care transformă sensul literal. Hiperbola: exagerare pentru efect. Exemplu: 'Zbiورesc de foame' (în loc de 'sunt foarte flămând'). Alte figuri: metaforă (transport sens), metonimie (substitui cuvinte), ironie (opusul sensului). Simbolul: cuvânt care reprezintă alt concept. Intertextualitate: referință la alte opere. Hiperbola creează comicitate sau dramatism. Utilizare: literatură, publicitate, discurs cotidian. Analiza figurilor de stil necesită atenție la context și efect dorit.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Hiperbola e?",
+          "options": [
+            "A. Curbă",
+            "B. Exagerare pentru efect",
+            "C. Comparat",
+            "D. Invers"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemplu hiperbola?",
+          "options": [
+            "A. Casa mare",
+            "B. Zbiورesc de foame",
+            "C. Merg acasă",
+            "D. El cântă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Efect hiperbola?",
+          "options": [
+            "A. Liniar",
+            "B. Exact",
+            "C. Dramatism sau comicitate",
+            "D. Neutru"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "name": "Semnificațiile textului",
+      "summary": "Analiza semnificații necesită înțelegerea contextului și intențiilor autorului. Blaga transmite că frumusețea e dincolo de aparență. Semnificații pot fi personal și colective. Lectura activă: pune întrebări, fă conexiuni, aplică la viață. Interpretări multiple sunt valide dacă se bazează pe text. Analiza critic: evaluează argumente și dovezi. Semnificații evoluează cu lectură repetate. Importanță: literatura ajută la înțelegerea condiției umane.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ce transmite Blaga?",
+          "options": [
+            "A. Că cântă frumos",
+            "B. Frumusețe e spirituală",
+            "C. Noapte e neagră",
+            "D. Izvor curge"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Interpretări sunt?",
+          "options": [
+            "A. Unice",
+            "B. Fixe",
+            "C. Multiple dacă bazate pe text",
+            "D. Doar subiective"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Lectura activă înseamnă?",
+          "options": [
+            "A. Citi rapid",
+            "B. Pune întrebări și fă conexiuni",
+            "C. Citi silent",
+            "D. Citi fără gândire"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "name": "Textul liric. Frumusețea artei: Lecția de citire de Nichita Stănescu",
+      "summary": "Stănescu: poet contemporary cu temă asupra artei și comunicării. 'Lecția de citire' explorează legătura între text și cititor. Frumusețea artei e în act comunicării. Stănescu juguete cu limbajul și formă. Modernă: rupere de tradiție, experimentare. Tema: semnificație și puterea lecturii. Comparație cu alții: dezvoltă linia frumuseții. Importanță: arta e dialog între creator și receptor. Analiza: necesită deschidere la experimentare formală.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Tema Stănescu?",
+          "options": [
+            "A. Actiune",
+            "B. Frumusețea artei și comunicării",
+            "C. Doar ritmul",
+            "D. Tehnologie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Caracteristic Stănescu?",
+          "options": [
+            "A. Tradițional",
+            "B. Experimentare cu limbajul",
+            "C. Proza",
+            "D. Simplitate"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Frumusețea artei după Stănescu?",
+          "options": [
+            "A. E în obiect",
+            "B. E în dialog creator-receptor",
+            "C. E în forma",
+            "D. E întâmplătoare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "name": "Semnificațiile textului",
+      "summary": "Semnificații multiple: lectura e act creativ, cuvintele au viață prin citire, comunicarea e esență. Textul e viu doar în citire. Lectură activă transformă cititorul. Semnificații personale și colective. Intertextualitate: Stănescu dialoghează cu tradiție. Analiza aprofundată necesită cercetare și reflexie. Semnificații se dezvăluie cu timp. Importanță: apreciere a complexității.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Cand textul e viu?",
+          "options": [
+            "A. Când e scris",
+            "B. Când e citit activ",
+            "C. Când e imprimat",
+            "D. Niciodată"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Rol cititor?",
+          "options": [
+            "A. Pasiv",
+            "B. Creativ și activ",
+            "C. Critic",
+            "D. Neutru"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Intertextualitate?",
+          "options": [
+            "A. Doar cuvinte",
+            "B. Referință la alte opere",
+            "C. Samo ton",
+            "D. Fără legătură"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "name": "Compararea textelor sub aspectul conținutului și al structurii",
+      "summary": "Comparare: Eminescu (emoțional, nostalgic), Blaga (abstract, filosofic), Stănescu (experimentare, modern). Conținut: teme comune (frumusețe), abordări diferite. Structură: versificație, strofe, ritmul, rima. Eminescu: traditional, Blaga: simbolism, Stănescu: avant-garde. Analiza comparativă: identifica asemănări și diferențe. Importanță: înțelegere evoluție literaturii. Contexte sociale și culturale influențează. Comparație dezvoltă gândire critic.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Comparație include?",
+          "options": [
+            "A. Doar conținut",
+            "B. Conținut și structură",
+            "C. Doar ritmul",
+            "D. Doar autori"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Eminescu vs. Blaga?",
+          "options": [
+            "A. Identici",
+            "B. Eminescu emoțional, Blaga abstract",
+            "C. Nu sunt comparabili",
+            "D. Blaga e mai vechi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Analiza comparativă ajută la?",
+          "options": [
+            "A. Memorare",
+            "B. Înțelegere evoluție",
+            "C. Critică",
+            "D. Memorabilitate"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "name": "Noi pagini – alte idei: O pasăre înaltă de Dan Coman",
+      "summary": "Coman: scriitor contemporan cu perspectivă nouă. 'O pasăre înaltă' e metaforă pentru aspirație și libertate. Diferență de anterior: modernă, contemporană, accessibility. Temă: voință și transcendență. Stil: direct, inteligibil. Comparație: dezvoltă continuitate și schimbare. Intertextualitate: ecou de Eminescu și Blaga. Importanță: literatură e vive și evoluează. Analiza: conexiune cu prezent.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Pasăre în Coman?",
+          "options": [
+            "A. Pasăre reală",
+            "B. Metaforă aspirație",
+            "C. Doar pom",
+            "D. Decorație"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Stil Coman?",
+          "options": [
+            "A. Tradițional",
+            "B. Direct și modern",
+            "C. Obscur",
+            "D. Vechi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Intertextualitate cu?",
+          "options": [
+            "A. Doar Eminescu",
+            "B. Eminescu și Blaga",
+            "C. Nici unu",
+            "D. Doar Coman"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "name": "Valori culturale românești în lume",
+      "summary": "Valorile românești: ospitalitate, mândrie, conexiune cu natură, spiritualitate. Eminescu, Blaga, Stănescu sunt reprezentanți. Export cultural: literatura promove cultura. Importante pentru identitate. Influență globală: traduceri, studiu în străinătate. Patrimoniu UNESCO. Responsabilitate: conservare și inovare. Educație culturală: aprecierea propriei culture. Legătură cu prezent: actualitate valorilor. Analiza: cum valorile se reflectă în text și societate.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Valori românești includ?",
+          "options": [
+            "A. Doar ospitalitate",
+            "B. Ospitalitate, mândrie, spiritualitate",
+            "C. Doar industrializare",
+            "D. Doar tehnologie"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Eminescu promoveaza?",
+          "options": [
+            "A. Tehnologie",
+            "B. Valori culturale românești",
+            "C. Doar inovare",
+            "D. Rejecție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Patrimoniu cultural e?",
+          "options": [
+            "A. Depășit",
+            "B. Esențial pentru identitate",
+            "C. Doar muzee",
+            "D. Fără valoare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "name": "Strategii de ascultare activă",
+      "summary": "Ascultare activă: atenție, empatie, feedback, non-verbal. În context literatura: asculți perspectiva autorului, empatie cu personaje, verifică înțelegere. Pași: 1) Concentrează-te 2) Imaginează 3) Pun întrebări 4) Reflectează. Obstacole: distracții, prejudecăți, oboseală. Beneficii: mai bună înțelegere, relații mai bune, apreciere. Aplicații: citire, discuții, prezentații. Abilitate esențială pentru viață. Practică regulată. Importanță: comunicare eficientă.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Ascultare activă include?",
+          "options": [
+            "A. Doar auzire",
+            "B. Atenție, empatie, feedback",
+            "C. Doar tăcut",
+            "D. Fără gândire"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Prim pas?",
+          "options": [
+            "A. Vorbește",
+            "B. Concentrează-te",
+            "C. Dorm",
+            "D. Distrage"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Obstacole includ?",
+          "options": [
+            "A. Nici unu",
+            "B. Distracții, prejudecăți, oboseală",
+            "C. Doar zgomot",
+            "D. Doar cuvinte"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "name": "Categorii semantice (actualizare)",
+      "summary": "Categorii semantice: grupuri cuvinte cu semnificații similare. Exemplu: culori (roșu, albastru), frumusețe (frumos, grozav, splendid). Actualizare: în context cu texte, cuvinte cu valență emoțională. Sinonime și antonime. Câmpuri semantice: relații între cuvinte. Analiza: cum autori folosesc vocabular pentru efect. Eminescu alege cuvinte care evocă melancolie. Blaga: cuvinte abstracte. Stănescu: juguete. Vocabular reflectă viziune autorului. Importanță: control limbaj.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Categorie semantică?",
+          "options": [
+            "A. Cuvânt",
+            "B. Grup cuvinte semnificații similare",
+            "C. Verb",
+            "D. Substantiv"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemplu categorie?",
+          "options": [
+            "A. Casa",
+            "B. Culori (roșu, albastru)",
+            "C. Minge",
+            "D. Cată"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Câmp semantic?",
+          "options": [
+            "A. Loc fizic",
+            "B. Relații între cuvinte",
+            "C. Doar sintagme",
+            "D. Fără legătură"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "name": "Derivarea. Compunerea (actualizare)",
+      "summary": "Derivare: formare cuvinte cu sufixe/prefixe. Exemplu: 'frumos' -> 'frumusețe', 'nefrumos'. Compunere: unire cuvinte. Exemplu: 'apă' + 'mân' = 'apămân'. Familia lexicală: cuvinte cu rădăcină comună. Exemplu: 'luz' -> 'luminos', 'luminare', 'lumina'. Analiza în texte: cum autori creează cuvinte noi. Eminescu creează derivări pentru ritm. Importanță: înțelegere structură cuvintelor. Flexibilitate lingvistică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Derivare include?",
+          "options": [
+            "A. Unire cuvinte",
+            "B. Sufixe/prefixe",
+            "C. Doar pronunție",
+            "D. Doar verbe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemplu compunere?",
+          "options": [
+            "A. Frumoasa",
+            "B. Apămân",
+            "C. Nefrumos",
+            "D. Frumusețe"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Familie lexicală?",
+          "options": [
+            "A. Cuvinte nerelaționate",
+            "B. Cuvinte cu rădăcină comună",
+            "C. Doar adjective",
+            "D. Fără relație"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "name": "Conversiunea. Familia de cuvinte",
+      "summary": "Conversiune: schimbare parte de vorbire fără schimbare formă. Exemplu: 'cântă' (verb) -> 'cântul' (substantiv). 'Frumos' (adjectiv) -> 'frumos' (adverb). Familie de cuvinte: cuvinte cu rădăcină comună. Exemplu: 'cântă', 'cântare', 'cântăreț', 'cântec', 'cântare'. Relații semantice: cum sensul se transformă. Analiza în texte: poetii folosesc conversiune pentru efect. Eminescu transformă parti vorbire pentru ritm. Importanță: creativitate lingvistică. Vocabular bogat.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Conversiune?",
+          "options": [
+            "A. Schimbare formă",
+            "B. Schimbare parte vorbire",
+            "C. Fără schimbare",
+            "D. Doar pronunție"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemplu conversiune?",
+          "options": [
+            "A. Frumoasa",
+            "B. 'cântă'->'cântul'",
+            "C. Frumusețe",
+            "D. Cântare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Familie cuvinte?",
+          "options": [
+            "A. Cuvinte diferite",
+            "B. Cuvinte rădăcină comună",
+            "C. Cuvinte lungi",
+            "D. Cuvinte vechi"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "name": "Împrumuturile",
+      "summary": "Împrumuturi: cuvinte din alte limbi. Exemplu: 'matineu' din franceză, 'computer' din engleză. Cauze: contact cultural, comercial, tehnologic. Adaptare: pronunție și morfologie românească. Cuvinte ionice: mancar, căruță. Importante: reflectă contact culturale. Analiza în texte: autori moderni folosesc mai multe. Eminescu: puține. Coman: mai multe. Limba e vie și evoluează. Valență: pozitivă (inovație) sau negativă (pierdere identitate). Balanț: păstrare și schimbare.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Împrumuturi sunt?",
+          "options": [
+            "A. Cuvinte locale",
+            "B. Cuvinte din alte limbi",
+            "C. Doar verbe",
+            "D. Doar substantive"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Exemplu împrumut?",
+          "options": [
+            "A. Casă",
+            "B. Computer",
+            "C. Frumos",
+            "D. Cântă"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Valență?",
+          "options": [
+            "A. Lungime",
+            "B. Pronunție",
+            "C. Pozitiv sau negativ",
+            "D. Doar engleză"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "name": "Registrele limbii",
+      "summary": "Registre: varianți limbaj după context. Formal (scrisori oficiale), informal (prieteni), coloquial (zilnic), vulgar. Eminescu: registru elevated. Blaga: registru complex. Stănescu: registru experimen. Alegere registru: depinde de audienție și scop. Analiza: cum autori adaptează limbaj. Competență: să folosești registru potrivit. În texte literare: registru variază pentru efect. Caractere diferite vorbesc diferit. Importanță: comunicare eficientă și respectul.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Registre includ?",
+          "options": [
+            "A. Doar formal",
+            "B. Formal, informal, coloquial",
+            "C. Doar cuvinte",
+            "D. Doar substantive"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Eminescu utilizează?",
+          "options": [
+            "A. Registru vulgar",
+            "B. Registru elevated",
+            "C. Registru coloquial",
+            "D. Registru tehnic"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Alegere registru depinde?",
+          "options": [
+            "A. De vreme",
+            "B. De audienție și scop",
+            "C. De limbă",
+            "D. De lungime"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "name": "Fonetica",
+      "summary": "Fonetica: studiu sunetelor limbii. Fonem: cea mai mică unitate sunet. Distincție cu ortografie. Pronunție: cum vorbim. Accentul: tonul pe silabă. Ritm și intonație: melodia vorbirii. Analiza în texte: cum sunetul contribuie la efect. Aliterație, asonanță: repetare sunete. Eminescu: atent la sunete. Blaga: ritmul e complex. Stănescu: joacă cu sunete. Importanță: în poezie, sunetul e esențial. Lectura cu glas ajută. Importanță: apreciere dimensiune sonoră.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Fonetica studiu?",
+          "options": [
+            "A. Scriere",
+            "B. Sunetele limbii",
+            "C. Doar vocale",
+            "D. Doar consoante"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Fonem?",
+          "options": [
+            "A. Cuvânt",
+            "B. Cea mai mică unitate sunet",
+            "C. Propoziție",
+            "D. Strofa"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Aliterație e?",
+          "options": [
+            "A. Ritmul",
+            "B. Repetare sunet inițial",
+            "C. Rima",
+            "D. Vers"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "19",
+      "name": "Organizarea coerentă a textului. Anafora",
+      "summary": "Coerență: logică și fluiditate textului. Idei conectate, progresive. Coeziune: cuvinte de legătură (și, dar, deci). Anafora: repetarea aceleași cuvinte la început strofe/fraze. Exemplu: 'Când...', 'Când...'. Efect: enfază, ritm, unitate. Eminescu folosește anafora. Stănescu: inovare. Analiza: cum coerență și anafora creează efect. Proiect: construire text coerent cu anafora. Importanță: clariă și impact. Scris coerent e abilitate esențială.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Coerență este?",
+          "options": [
+            "A. Lungime",
+            "B. Logică și fluiditate",
+            "C. Doar ritmul",
+            "D. Doar versuri"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Anafora?",
+          "options": [
+            "A. Rima",
+            "B. Repetare sunet",
+            "C. Repetare cuvinte la început",
+            "D. Vers"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Efect anafora?",
+          "options": [
+            "A. Confuzie",
+            "B. Enfază și ritm",
+            "C. Ennui",
+            "D. Neutru"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "20",
+      "name": "Etapele scrierii. Integrarea feedbackului",
+      "summary": "Etape: 1) Planificare 2) Redactare 3) Revizuire 4) Editare 5) Publicare. Planificare: claritate idei, scop, audienție. Redactare: scrie liber fără judecată. Revizuire: verifică logică și claritate. Editare: ortografie, gramatică, stil. Feedback: cerere altcuiva. Integrare: analizează și aplică. Importanță: feedback e esențial. Gândire critic. Scris e proces, nu doar produs. Practică regulată. Exemple din autori. Aplicație practică: revizuiți texte.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Etape scriere includ?",
+          "options": [
+            "A. Doar redactare",
+            "B. Planificare, redactare, revizuire, editare",
+            "C. Doar editare",
+            "D. Doar ideații"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Feedback este?",
+          "options": [
+            "A. Opțional",
+            "B. Esențial",
+            "C. Negativ mereu",
+            "D. Fără valoare"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Revizuire înseamnă?",
+          "options": [
+            "A. Recopiere",
+            "B. Verificare logică și claritate",
+            "C. Schimbare lungime",
+            "D. Fără schimbare"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": "21",
+      "name": "Rolul elementelor grafice în prezentarea unui text",
+      "summary": "Elemente grafice: titlu, subtitlu, paragrafe, bold, italic, imagini, diagrame. Rol: organizare, evidențiare, claritate. Tipografie: font, mărime, culoare. Design: estetică și funcție. Eminescu: cărți frumoase. Coman: design modern. Analiza: cum elemente grafice influențează lectură. Exemple din cărți cunoscute. Proiect: design pagină cu elemente grafice. Importanță: prezentare profesională. Impactul vizual. Accesibilitate. Multimedia: text și imagine. Intenție didactică și estetică.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Elemente grafice includ?",
+          "options": [
+            "A. Doar text",
+            "B. Titlu, paragrafe, imagini",
+            "C. Doar imagini",
+            "D. Doar culori"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Rol elemente grafice?",
+          "options": [
+            "A. Decorație",
+            "B. Organizare și claritate",
+            "C. Fără scop",
+            "D. Doar estetică"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Impactul vizual?",
+          "options": [
+            "A. Nu contează",
+            "B. Influențează lectură",
+            "C. Doar formă",
+            "D. Fără importanță"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}
